@@ -1,0 +1,89 @@
+{
+  "source": "poorlydrawnlines",
+  "name": "Poorly Drawn Lines",
+  "url": "https://poorlydrawnlines.com",
+  "attribution": "Poorly Drawn Lines by Reza Farazmand",
+  "fetchedAt": "2026-03-01T03:00:05.763Z",
+  "comics": [
+    {
+      "slug": "care-about-stuff",
+      "title": "Care About Stuff",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/02/Care-About-Stuff.png",
+      "alt": "",
+      "date": "2026-02-24",
+      "link": "https://poorlydrawnlines.com/comic/care-about-stuff/"
+    },
+    {
+      "slug": "a-good-friend",
+      "title": "A Good Friend",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/02/a-good-friend.png",
+      "alt": "",
+      "date": "2026-02-20",
+      "link": "https://poorlydrawnlines.com/comic/a-good-friend/"
+    },
+    {
+      "slug": "bird-of-the-year",
+      "title": "Bird of the Year",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/02/bird-of-the-year.png",
+      "alt": "",
+      "date": "2026-02-18",
+      "link": "https://poorlydrawnlines.com/comic/bird-of-the-year/"
+    },
+    {
+      "slug": "your-job",
+      "title": "Your Job",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/02/your-job.png",
+      "alt": "",
+      "date": "2026-02-12",
+      "link": "https://poorlydrawnlines.com/comic/your-job/"
+    },
+    {
+      "slug": "tell-you-something",
+      "title": "Tell You Something",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/02/tell-you-something.png",
+      "alt": "",
+      "date": "2026-02-06",
+      "link": "https://poorlydrawnlines.com/comic/tell-you-something/"
+    },
+    {
+      "slug": "a-new-bird",
+      "title": "A New Bird",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/01/a-new-bird.png",
+      "alt": "",
+      "date": "2026-01-30",
+      "link": "https://poorlydrawnlines.com/comic/a-new-bird/"
+    },
+    {
+      "slug": "as-an-adult",
+      "title": "As an Adult",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/01/as-an-adult.png",
+      "alt": "",
+      "date": "2026-01-28",
+      "link": "https://poorlydrawnlines.com/comic/as-an-adult/"
+    },
+    {
+      "slug": "inspire-people",
+      "title": "Inspire People",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/01/inspire-people.png",
+      "alt": "",
+      "date": "2026-01-21",
+      "link": "https://poorlydrawnlines.com/comic/inspire-people/"
+    },
+    {
+      "slug": "come-closer",
+      "title": "Come Closer",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/01/come-closer.png",
+      "alt": "",
+      "date": "2026-01-08",
+      "link": "https://poorlydrawnlines.com/comic/come-closer/"
+    },
+    {
+      "slug": "the-other-cat",
+      "title": "The Other Cat",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2025/12/who-is-there.png",
+      "alt": "",
+      "date": "2025-12-17",
+      "link": "https://poorlydrawnlines.com/comic/the-other-cat/"
+    }
+  ]
+}

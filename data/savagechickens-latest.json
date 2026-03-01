@@ -1,0 +1,89 @@
+{
+  "source": "savagechickens",
+  "name": "Savage Chickens",
+  "url": "https://www.savagechickens.com",
+  "attribution": "Savage Chickens by Doug Savage",
+  "fetchedAt": "2026-03-01T03:00:09.337Z",
+  "comics": [
+    {
+      "slug": "legend",
+      "title": "Legend",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenlegend.jpg",
+      "alt": "Legend",
+      "date": "2026-02-27",
+      "link": "https://www.savagechickens.com/2026/02/legend.html"
+    },
+    {
+      "slug": "patience-3",
+      "title": "Patience",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpatience-1.jpg",
+      "alt": "Patience",
+      "date": "2026-02-26",
+      "link": "https://www.savagechickens.com/2026/02/patience-3.html"
+    },
+    {
+      "slug": "tree-talk",
+      "title": "Tree Talk",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentreetalk.jpg",
+      "alt": "Tree Talk",
+      "date": "2026-02-25",
+      "link": "https://www.savagechickens.com/2026/02/tree-talk.html"
+    },
+    {
+      "slug": "the-limit",
+      "title": "The Limit",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenlimit.jpg",
+      "alt": "The Limit",
+      "date": "2026-02-24",
+      "link": "https://www.savagechickens.com/2026/02/the-limit.html"
+    },
+    {
+      "slug": "i-love-monday",
+      "title": "I Love Monday",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenilovemonday.jpg",
+      "alt": "I Love Monday",
+      "date": "2026-02-23",
+      "link": "https://www.savagechickens.com/2026/02/i-love-monday.html"
+    },
+    {
+      "slug": "batman-priorities",
+      "title": "Batman Priorities",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenbatmanpriorities.jpg",
+      "alt": "Batman Priorities",
+      "date": "2026-02-20",
+      "link": "https://www.savagechickens.com/2026/02/batman-priorities.html"
+    },
+    {
+      "slug": "barbecue",
+      "title": "Barbecue",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenbarbecue.jpg",
+      "alt": "Barbecue",
+      "date": "2026-02-19",
+      "link": "https://www.savagechickens.com/2026/02/barbecue.html"
+    },
+    {
+      "slug": "burger-heron",
+      "title": "Burger Heron",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenburgerheron.jpg",
+      "alt": "Burger Heron",
+      "date": "2026-02-18",
+      "link": "https://www.savagechickens.com/2026/02/burger-heron.html"
+    },
+    {
+      "slug": "cat-zen-tip-13",
+      "title": "Cat Zen Tip 13",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickencatzentip13.jpg",
+      "alt": "Cat Zen Tip 13",
+      "date": "2026-02-17",
+      "link": "https://www.savagechickens.com/2026/02/cat-zen-tip-13.html"
+    },
+    {
+      "slug": "keep-on-blobbin",
+      "title": "Keep On Blobbin’",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenkeeponblobbin.jpg",
+      "alt": "Keep On Blobbin'",
+      "date": "2026-02-16",
+      "link": "https://www.savagechickens.com/2026/02/keep-on-blobbin.html"
+    }
+  ]
+}

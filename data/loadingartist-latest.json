@@ -1,0 +1,89 @@
+{
+  "source": "loadingartist",
+  "name": "Loading Artist",
+  "url": "https://loadingartist.com",
+  "attribution": "Loading Artist by Gregor Czaykowski",
+  "fetchedAt": "2026-03-01T03:00:11.724Z",
+  "comics": [
+    {
+      "slug": "downtime",
+      "title": "Downtime",
+      "img": "https://loadingartist.com/comic/downtime/downtime_hu4845692154273462716.jpg",
+      "alt": "4-panel Loading Artist comic.\nPanel 1: Red Guy and Hat Guy sit across from each other at a café table. Red Guy asks, “So, what do you like to do?”\nPanel 2: Hat Guy blinks, confused. “‘Do’...?”\nPanel 3: Red Guy leans in, smiling brightly. “Yeah, you know, like, for fun!”\nPanel 4: Close-up of Hat Guy staring blankly, overwhelmed. “‘Fun’???”",
+      "date": "2025-07-14",
+      "link": "https://loadingartist.com/comic/downtime/"
+    },
+    {
+      "slug": "constellation-prize",
+      "title": "Constellation Prize",
+      "img": "https://loadingartist.com/comic/constellation-prize/constellation-prize_hu12006621924823266102.jpg",
+      "alt": "2-panel Loading Artist comic. 1: A reviewer hands a shocked chef a sheet filled with 1-star ratings. 2: A strip of the page is torn off and displayed in the restaurant window sideways, making the row of 1-star ratings appear as a proud 5-star review.",
+      "date": "2025-06-24",
+      "link": "https://loadingartist.com/comic/constellation-prize/"
+    },
+    {
+      "slug": "bookworm",
+      "title": "Bookworm",
+      "img": "https://loadingartist.com/comic/bookworm/bookworm_hu12614927284386738911.jpg",
+      "alt": "4-panel Loading Artist comic. 1: A man screams “EW! BOOK WORMS!!” while shaking worms out of a book. 2: He stomps furiously off frame. 3: Close-up of the floor where a sad worm sits beside broken glasses. 4: The worm looks up and asks “but why”",
+      "date": "2025-06-09",
+      "link": "https://loadingartist.com/comic/bookworm/"
+    },
+    {
+      "slug": "inconsolable",
+      "title": "Inconsolable",
+      "img": "https://loadingartist.com/comic/inconsolable/inconsolable_hu1614669104703346570.jpg",
+      "alt": "4-panel Loading Artist comic. 1: A game controller asks Hat Guy, ",
+      "date": "2025-05-26",
+      "link": "https://loadingartist.com/comic/inconsolable/"
+    },
+    {
+      "slug": "over-the-top",
+      "title": "Over the Top",
+      "img": "https://loadingartist.com/comic/over-the-top/over-the-top_hu5756942709506016220.jpg",
+      "alt": "4-panel Loading Artist comic. 1: Hat Guy leans on a very tall cat tree that extends out of frame. “I went a little overboard, I know...” 2: Friend points upward, asking, “Does your cat ever climb to the top?” 3: Hat Guy looks up through binoculars. 4: He lowers them, beaming: “He’s reached Base Camp 2!”",
+      "date": "2025-05-13",
+      "link": "https://loadingartist.com/comic/over-the-top/"
+    },
+    {
+      "slug": "open-dialog",
+      "title": "Open Dialog",
+      "img": "https://loadingartist.com/comic/open-dialog/open-dialog_hu8688587109625552721.jpg",
+      "alt": "4-panel Loading Artist comic. 1: A shy, personified error pop-up says, “Whenever I encounter a problem… I just stop responding.” 2: A human hugs it, saying, “Hey… don’t worry. It’s okay.” 3: The pop-up softly asks, “It… is?” - its OK button visible. 4: With a quiet POP, the window vanishes. The human is left kneeling, hands on the floor.",
+      "date": "2025-04-27",
+      "link": "https://loadingartist.com/comic/open-dialog/"
+    },
+    {
+      "slug": "over-the-line",
+      "title": "Over the Line",
+      "img": "https://loadingartist.com/comic/over-the-line/over-the-line_hu7518114609440265334.jpg",
+      "alt": "6-panel Loading Artist comic. 1: A sad man sighs while fishing off a pier. A fish watches from the water. 2: The fish feels sympathy: “Aww, he looks so sad…” 3: It swims the hook over to a friend, suggesting, “Maybe we could give him something?” 4: The friend snaps, “Are you nuts? HE’S TRYING TO EAT US!” 5: The friend swims off, grumbling, “You’re such an idiot…” 6: The man happily reels in a fish — it’s the angry one, hook stuck in its tail.",
+      "date": "2025-04-13",
+      "link": "https://loadingartist.com/comic/over-the-line/"
+    },
+    {
+      "slug": "put-on-a-happy-face",
+      "title": "Put on a Happy Face",
+      "img": "https://loadingartist.com/comic/put-on-a-happy-face/put-on-a-happy-face_hu2126590001316357814.jpg",
+      "alt": "5-panel Loading Artist comic. Panel 1: A man stands beside a birthday cake, smiling and saying, “Thanks for coming to my birthday party!” Panel 2: He looks sheepish and adds, “I was beginning to worry nobody would show up…” Panel 3: His point of view shows the cake in the foreground and a cheerful group of “guests” smiling behind it. Panel 4: Same view, but one of the smiling faces begins to float upward—it's a balloon. Panel 5: The man panics and runs after the escaping balloon as it's revealed that all his “guests” are just balloons with drawn-on faces.",
+      "date": "2025-03-31",
+      "link": "https://loadingartist.com/comic/put-on-a-happy-face/"
+    },
+    {
+      "slug": "star-crossed-lovers",
+      "title": "Star-crossed Lovers",
+      "img": "https://loadingartist.com/comic/star-crossed-lovers/star-crossed-lovers_hu6180874702258621929.jpg",
+      "alt": "6 panel Loading Artist comic. 1: Red guy and Pink girl lying on a grassy hill at night. Red points up at the sky ",
+      "date": "2025-03-17",
+      "link": "https://loadingartist.com/comic/star-crossed-lovers/"
+    },
+    {
+      "slug": "beach-bummed",
+      "title": "Beach Bummed",
+      "img": "https://loadingartist.com/comic/beach-bummed/beach-bummed_hu13189404519930143224.jpg",
+      "alt": "6 panel Loading Artist comic. 1: Two guys walking along shore (Green guy and Red guy), Green is holding bucket of shells and shows off 1 particular shell to Red ",
+      "date": "2025-02-28",
+      "link": "https://loadingartist.com/comic/beach-bummed/"
+    }
+  ]
+}

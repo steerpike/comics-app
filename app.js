@@ -69,10 +69,54 @@
       hasArchive: false,
       hasNumbers: false,
       color: '#000'
+    },
+    poorlydrawnlines: {
+      id: 'poorlydrawnlines',
+      name: 'Poorly Drawn Lines',
+      description: 'Absurdist animals and existential musings by Reza Farazmand',
+      tags: ['absurd', 'animals', 'existential', 'surreal'],
+      dataFile: 'data/poorlydrawnlines-latest.json',
+      archiveFile: null,
+      hasArchive: false,
+      hasNumbers: false,
+      color: '#000'
+    },
+    savagechickens: {
+      id: 'savagechickens',
+      name: 'Savage Chickens',
+      description: 'Office humour and absurdist gags on sticky notes by Doug Savage',
+      tags: ['office', 'absurd', 'animals', 'gag'],
+      dataFile: 'data/savagechickens-latest.json',
+      archiveFile: null,
+      hasArchive: false,
+      hasNumbers: false,
+      color: '#000'
+    },
+    buttersafe: {
+      id: 'buttersafe',
+      name: 'Buttersafe',
+      description: 'Surreal and absurdist gag strips by Culang and Castro',
+      tags: ['surreal', 'absurd', 'dark', 'gag'],
+      dataFile: 'data/buttersafe-latest.json',
+      archiveFile: null,
+      hasArchive: false,
+      hasNumbers: false,
+      color: '#000'
+    },
+    loadingartist: {
+      id: 'loadingartist',
+      name: 'Loading Artist',
+      description: 'Relatable comics about gaming, internet culture, and life by Gregor Czaykowski',
+      tags: ['gaming', 'relatable', 'internet', 'hidden-details'],
+      dataFile: 'data/loadingartist-latest.json',
+      archiveFile: null,
+      hasArchive: false,
+      hasNumbers: false,
+      color: '#000'
     }
   };
 
-  var SOURCE_ORDER = ['xkcd', 'dinosaur', 'smbc', 'wondermark', 'nedroid'];
+  var SOURCE_ORDER = ['xkcd', 'dinosaur', 'smbc', 'wondermark', 'nedroid', 'poorlydrawnlines', 'savagechickens', 'buttersafe', 'loadingartist'];
 
   var ARCHIVE_PAGE_SIZE = 20;
 
@@ -81,27 +125,47 @@
     xkcd: [
       { source: 'smbc', reason: 'Also explores science and philosophy through humour' },
       { source: 'dinosaur', reason: 'Philosophical discussions with a playful twist' },
-      { source: 'wondermark', reason: 'Clever wordplay and unexpected punchlines' }
+      { source: 'loadingartist', reason: 'Relatable internet culture with hidden details to find' }
     ],
     dinosaur: [
       { source: 'xkcd', reason: 'Science and philosophy with a nerdy edge' },
-      { source: 'smbc', reason: 'Deep philosophical questions played for laughs' },
+      { source: 'savagechickens', reason: 'Animal characters with philosophical wit' },
       { source: 'nedroid', reason: 'Absurd character-driven humour' }
     ],
     smbc: [
       { source: 'xkcd', reason: 'Science and math jokes with hidden depth' },
-      { source: 'dinosaur', reason: 'Philosophical rambling by enthusiastic characters' },
+      { source: 'buttersafe', reason: 'Surreal gag strips with dark twists' },
       { source: 'wondermark', reason: 'Dry wit and unexpected absurdist twists' }
     ],
     wondermark: [
-      { source: 'nedroid', reason: 'Absurd humour with loveable characters' },
-      { source: 'dinosaur', reason: 'Absurdist philosophical comedy' },
-      { source: 'smbc', reason: 'Clever setups with surprising punchlines' }
+      { source: 'poorlydrawnlines', reason: 'Absurdist humour with a surreal edge' },
+      { source: 'buttersafe', reason: 'Short surreal strips with unexpected punchlines' },
+      { source: 'nedroid', reason: 'Absurd humour with loveable characters' }
     ],
     nedroid: [
+      { source: 'poorlydrawnlines', reason: 'Absurd animals and existential silliness' },
       { source: 'wondermark', reason: 'Surreal and absurd, with great dry wit' },
-      { source: 'dinosaur', reason: 'Silly philosophical adventures' },
-      { source: 'xkcd', reason: 'Clever and surprising with hidden jokes' }
+      { source: 'dinosaur', reason: 'Silly philosophical adventures' }
+    ],
+    poorlydrawnlines: [
+      { source: 'nedroid', reason: 'Similarly absurd and wholesome with quirky characters' },
+      { source: 'wondermark', reason: 'Absurdist humour with clever setups' },
+      { source: 'buttersafe', reason: 'Short surreal strips with unexpected twists' }
+    ],
+    savagechickens: [
+      { source: 'dinosaur', reason: 'Animal characters philosophising about life' },
+      { source: 'smbc', reason: 'Quick wit and clever punchlines about science and life' },
+      { source: 'buttersafe', reason: 'Simple art style with absurd gag humour' }
+    ],
+    buttersafe: [
+      { source: 'smbc', reason: 'Clever setups with surprising, sometimes dark punchlines' },
+      { source: 'wondermark', reason: 'Absurdist gags with a surreal edge' },
+      { source: 'savagechickens', reason: 'Simple gag strips with quirky humour' }
+    ],
+    loadingartist: [
+      { source: 'xkcd', reason: 'Clever comics with hidden details to discover' },
+      { source: 'poorlydrawnlines', reason: 'Relatable situations with an absurdist twist' },
+      { source: 'smbc', reason: 'Smart humour with bonus content to find' }
     ]
   };
 

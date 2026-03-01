@@ -1,11 +1,15 @@
 {
-  "fetchedAt": "2026-03-01T02:47:04.631Z",
+  "fetchedAt": "2026-03-01T03:00:11.725Z",
   "sources": {
     "xkcd": "ok",
     "dinosaur": "ok",
     "smbc": "ok",
     "wondermark": "ok",
-    "nedroid": "ok"
+    "nedroid": "ok",
+    "poorlydrawnlines": "ok",
+    "savagechickens": "ok",
+    "buttersafe": "ok",
+    "loadingartist": "ok"
   },
   "nextFetch": "Automatic via GitHub Actions (twice daily)"
 }

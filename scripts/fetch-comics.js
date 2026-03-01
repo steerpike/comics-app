@@ -576,6 +576,254 @@ async function fetchNedroid() {
 }
 
 // ---------------------------------------------------------------------------
+// Poorly Drawn Lines
+// ---------------------------------------------------------------------------
+
+async function fetchPoorlyDrawnLines() {
+  console.log('Fetching Poorly Drawn Lines...');
+
+  var rss = await new Promise(function (resolve, reject) {
+    httpGet('https://poorlydrawnlines.com/feed/', function (err, body) {
+      if (err) return reject(err);
+      resolve(body);
+    });
+  });
+
+  var items = extractBetween(rss, '<item>', '</item>');
+  var comics = [];
+
+  items.forEach(function (item) {
+    var title = stripCDATA(extractFirst(item, '<title>', '</title>'));
+    var link = extractFirst(item, '<link>', '</link>').trim();
+    var pubDate = extractFirst(item, '<pubDate>', '</pubDate>').trim();
+
+    // Only include items categorised as Comic
+    var categories = extractBetween(item, '<category><![CDATA[', ']]></category>');
+    var isComic = false;
+    categories.forEach(function (cat) {
+      if (cat.toLowerCase() === 'comic') isComic = true;
+    });
+    if (!isComic) return;
+
+    // Image is in <content:encoded> as a WordPress figure/img
+    var content = stripCDATA(extractFirst(item, '<content:encoded>', '</content:encoded>'));
+    var imgMatch = content.match(/src="([^"]*\.png)[^"]*"/i) || content.match(/src="([^"]*\.jpg)[^"]*"/i);
+    var img = imgMatch ? decodeEntities(imgMatch[1]) : '';
+
+    // Extract slug from link for ID purposes
+    var slugMatch = link.match(/\/comic\/([^/]+)\/?$/);
+    var slug = slugMatch ? slugMatch[1] : '';
+
+    if (img) {
+      comics.push({
+        slug: slug,
+        title: decodeEntities(title),
+        img: img,
+        alt: '',
+        date: pubDate ? new Date(pubDate).toISOString().split('T')[0] : '',
+        link: link
+      });
+    }
+  });
+
+  writeJSON('poorlydrawnlines-latest.json', {
+    source: 'poorlydrawnlines',
+    name: 'Poorly Drawn Lines',
+    url: 'https://poorlydrawnlines.com',
+    attribution: 'Poorly Drawn Lines by Reza Farazmand',
+    fetchedAt: new Date().toISOString(),
+    comics: comics.slice(0, BATCH_SIZE)
+  });
+
+  console.log('  Fetched ' + comics.length + ' Poorly Drawn Lines comics from RSS');
+}
+
+// ---------------------------------------------------------------------------
+// Savage Chickens
+// ---------------------------------------------------------------------------
+
+async function fetchSavageChickens() {
+  console.log('Fetching Savage Chickens...');
+
+  var rss = await new Promise(function (resolve, reject) {
+    httpGet('https://www.savagechickens.com/feed', function (err, body) {
+      if (err) return reject(err);
+      resolve(body);
+    });
+  });
+
+  var items = extractBetween(rss, '<item>', '</item>');
+  var comics = [];
+
+  items.forEach(function (item) {
+    var title = stripCDATA(extractFirst(item, '<title>', '</title>'));
+    var link = extractFirst(item, '<link>', '</link>').trim();
+    var pubDate = extractFirst(item, '<pubDate>', '</pubDate>').trim();
+
+    // Image is in <content:encoded> inside a <p><img> tag
+    var content = stripCDATA(extractFirst(item, '<content:encoded>', '</content:encoded>'));
+    var imgMatch = content.match(/src="([^"]*\.jpg)"/i) || content.match(/src="([^"]*\.png)"/i);
+    var img = imgMatch ? decodeEntities(imgMatch[1]) : '';
+
+    // Extract alt text from img tag
+    var altMatch = content.match(/alt="([^"]*)"/i);
+    var alt = altMatch ? decodeEntities(altMatch[1]) : '';
+
+    // Extract slug from link for ID purposes
+    var slugMatch = link.match(/\.com\/\d{4}\/\d{2}\/([^/.]+)/);
+    var slug = slugMatch ? slugMatch[1] : '';
+
+    if (img) {
+      comics.push({
+        slug: slug,
+        title: decodeEntities(title),
+        img: img,
+        alt: alt,
+        date: pubDate ? new Date(pubDate).toISOString().split('T')[0] : '',
+        link: link
+      });
+    }
+  });
+
+  writeJSON('savagechickens-latest.json', {
+    source: 'savagechickens',
+    name: 'Savage Chickens',
+    url: 'https://www.savagechickens.com',
+    attribution: 'Savage Chickens by Doug Savage',
+    fetchedAt: new Date().toISOString(),
+    comics: comics.slice(0, BATCH_SIZE)
+  });
+
+  console.log('  Fetched ' + comics.length + ' Savage Chickens comics from RSS');
+}
+
+// ---------------------------------------------------------------------------
+// Buttersafe
+// ---------------------------------------------------------------------------
+
+async function fetchButtersafe() {
+  console.log('Fetching Buttersafe...');
+
+  var rss = await new Promise(function (resolve, reject) {
+    httpGet('https://www.buttersafe.com/feed/', function (err, body) {
+      if (err) return reject(err);
+      resolve(body);
+    });
+  });
+
+  var items = extractBetween(rss, '<item>', '</item>');
+  var comics = [];
+
+  items.forEach(function (item) {
+    var title = stripCDATA(extractFirst(item, '<title>', '</title>'));
+    var link = extractFirst(item, '<link>', '</link>').trim();
+    var pubDate = extractFirst(item, '<pubDate>', '</pubDate>').trim();
+
+    // Image is in <description> as an <img> tag with RSS-specific image URL
+    var description = stripCDATA(extractFirst(item, '<description>', '</description>'));
+    var imgMatch = description.match(/src="([^"]*)"/i);
+    var img = imgMatch ? decodeEntities(imgMatch[1]) : '';
+
+    // Extract alt/title text from img tag
+    var titleMatch = description.match(/title="([^"]*)"/i);
+    var alt = titleMatch ? decodeEntities(titleMatch[1]) : '';
+
+    // Extract slug from link for ID purposes
+    var slugMatch = link.match(/\/(\d{4}\/\d{2}\/\d{2}\/[^/]+)/);
+    var slug = slugMatch ? slugMatch[1].replace(/\//g, '-') : '';
+
+    if (img) {
+      comics.push({
+        slug: slug,
+        title: decodeEntities(title),
+        img: img,
+        alt: alt,
+        date: pubDate ? new Date(pubDate).toISOString().split('T')[0] : '',
+        link: link
+      });
+    }
+  });
+
+  writeJSON('buttersafe-latest.json', {
+    source: 'buttersafe',
+    name: 'Buttersafe',
+    url: 'https://www.buttersafe.com',
+    attribution: 'Buttersafe by Alex Culang and Raynato Castro',
+    fetchedAt: new Date().toISOString(),
+    comics: comics.slice(0, BATCH_SIZE)
+  });
+
+  console.log('  Fetched ' + comics.length + ' Buttersafe comics from RSS');
+}
+
+// ---------------------------------------------------------------------------
+// Loading Artist
+// ---------------------------------------------------------------------------
+
+async function fetchLoadingArtist() {
+  console.log('Fetching Loading Artist...');
+
+  var rss = await new Promise(function (resolve, reject) {
+    httpGet('https://loadingartist.com/index.xml', function (err, body) {
+      if (err) return reject(err);
+      resolve(body);
+    });
+  });
+
+  var items = extractBetween(rss, '<item>', '</item>');
+  var comics = [];
+
+  items.forEach(function (item) {
+    var title = extractFirst(item, '<title>', '</title>');
+    var link = extractFirst(item, '<link>', '</link>').trim();
+    var pubDate = extractFirst(item, '<pubDate>', '</pubDate>').trim();
+
+    // Only include items categorised as comic (skip news posts)
+    var category = extractFirst(item, '<category>', '</category>').trim();
+    if (category !== 'comic') return;
+
+    // Image is in <content:encoded> inside a <picture> element
+    // Prefer the JPG fallback <img> src for Kindle compatibility
+    var content = extractFirst(item, '<content:encoded>', '</content:encoded>');
+    content = decodeEntities(content);
+
+    // Get the main <img> src (JPG fallback, 550w size)
+    var imgMatch = content.match(/<img\s[^>]*src="([^"]*\.jpg)"/i);
+    var img = imgMatch ? imgMatch[1] : '';
+
+    // Get alt text (Loading Artist has excellent descriptive alt text)
+    var altMatch = content.match(/<img\s[^>]*alt="([^"]*)"/i);
+    var alt = altMatch ? altMatch[1] : '';
+
+    // Extract slug from link
+    var slugMatch = link.match(/\/comic\/([^/]+)\/?$/);
+    var slug = slugMatch ? slugMatch[1] : '';
+
+    if (img) {
+      comics.push({
+        slug: slug,
+        title: title,
+        img: img,
+        alt: alt,
+        date: pubDate ? new Date(pubDate).toISOString().split('T')[0] : '',
+        link: link
+      });
+    }
+  });
+
+  writeJSON('loadingartist-latest.json', {
+    source: 'loadingartist',
+    name: 'Loading Artist',
+    url: 'https://loadingartist.com',
+    attribution: 'Loading Artist by Gregor Czaykowski',
+    fetchedAt: new Date().toISOString(),
+    comics: comics.slice(0, BATCH_SIZE)
+  });
+
+  console.log('  Fetched ' + comics.length + ' Loading Artist comics from RSS');
+}
+
+// ---------------------------------------------------------------------------
 // Meta
 // ---------------------------------------------------------------------------
 
@@ -652,6 +900,38 @@ async function main() {
   } catch (err) {
     console.error('Error fetching Nedroid: ' + err.message);
     results.nedroid = 'error: ' + err.message;
+  }
+
+  try {
+    await fetchPoorlyDrawnLines();
+    results.poorlydrawnlines = 'ok';
+  } catch (err) {
+    console.error('Error fetching Poorly Drawn Lines: ' + err.message);
+    results.poorlydrawnlines = 'error: ' + err.message;
+  }
+
+  try {
+    await fetchSavageChickens();
+    results.savagechickens = 'ok';
+  } catch (err) {
+    console.error('Error fetching Savage Chickens: ' + err.message);
+    results.savagechickens = 'error: ' + err.message;
+  }
+
+  try {
+    await fetchButtersafe();
+    results.buttersafe = 'ok';
+  } catch (err) {
+    console.error('Error fetching Buttersafe: ' + err.message);
+    results.buttersafe = 'error: ' + err.message;
+  }
+
+  try {
+    await fetchLoadingArtist();
+    results.loadingartist = 'ok';
+  } catch (err) {
+    console.error('Error fetching Loading Artist: ' + err.message);
+    results.loadingartist = 'error: ' + err.message;
   }
 
   writeMeta(results);
