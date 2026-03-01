@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-01T06:52:13.118Z",
+  "fetchedAt": "2026-03-01T18:38:19.182Z",
   "comics": [
+    {
+      "slug": "friend-2",
+      "title": "Friend",
+      "img": "https://www.smbc-comics.com/comics/1772223575-20260301copy.png",
+      "alt": "Clearly R2D2 is the real catch, so going for 3PO proves you're loyal to the cause.",
+      "date": "2026-03-01",
+      "link": "https://www.smbc-comics.com/comic/friend-2"
+    },
     {
       "slug": "fund",
       "title": "Fund",
@@ -156,14 +164,6 @@
       "alt": "In the real life version, you just get extremely emotional ads for Fritos.",
       "date": "2026-02-10",
       "link": "https://www.smbc-comics.com/comic/full-dive"
-    },
-    {
-      "slug": "up-3",
-      "title": "Up",
-      "img": "https://www.smbc-comics.com/comics/1770346084-20260209.png",
-      "alt": "Bet you none of these newfangled Ai art generators will do you an upskirt Pope.",
-      "date": "2026-02-09",
-      "link": "https://www.smbc-comics.com/comic/up-3"
     }
   ]
 }
