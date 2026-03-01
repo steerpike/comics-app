@@ -8,15 +8,21 @@ on:
     branches: [main]
   workflow_dispatch: # Allow manual trigger
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write
   pages: write
   id-token: write
 
+# Prevent concurrent runs from conflicting
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  fetch-and-deploy:
+  fetch-data:
     runs-on: ubuntu-latest
+    # Only fetch data on schedule or manual trigger, not on every push
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,6 +34,7 @@ jobs:
 
       - name: Fetch comic data
         run: node scripts/fetch-comics.js
+        timeout-minutes: 5
 
       - name: Check for changes
         id: changes
@@ -49,8 +56,10 @@ jobs:
           git push
 
   deploy:
-    needs: fetch-and-deploy
     runs-on: ubuntu-latest
+    # Deploy on push OR after fetch-data completes (if it ran)
+    if: always() && (github.event_name == 'push' || needs.fetch-data.result == 'success' || needs.fetch-data.result == 'skipped')
+    needs: fetch-data
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -58,18 +67,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: main  # Get the latest commit (including any data updates)
+          ref: main
 
       - name: Pull latest changes
-        run: git pull origin main
+        run: git pull origin main || true
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
+      - name: Assemble site directory
+        run: |
+          mkdir -p _site/data
+          cp index.html style.css app.js _site/
+          cp data/*.json _site/data/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: '_site'
 
       - name: Deploy to GitHub Pages
         id: deployment

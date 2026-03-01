@@ -35,10 +35,11 @@ function httpGet(url, callback) {
     headers: {
       'User-Agent': USER_AGENT,
       'Accept': 'application/json, application/xml, text/xml, */*'
-    }
+    },
+    timeout: 15000 // 15 second connection timeout
   };
 
-  mod.get(url, options, function (res) {
+  var req = mod.get(url, options, function (res) {
     // Follow redirects
     if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
       return httpGet(res.headers.location, callback);
@@ -54,7 +55,14 @@ function httpGet(url, callback) {
       callback(null, Buffer.concat(chunks).toString('utf8'));
     });
     res.on('error', callback);
-  }).on('error', callback);
+  });
+
+  req.on('timeout', function () {
+    req.destroy();
+    callback(new Error('Request timed out after 15s for ' + url));
+  });
+
+  req.on('error', callback);
 }
 
 function fetchJSON(url, callback) {
