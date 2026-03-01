@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>Comics Browser</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <div id="header">
+    <span id="header-back" class="header-btn" style="display:none;">&#9664;</span>
+    <span id="header-title">Comics</span>
+    <span id="header-fav" class="header-btn">&#9734;</span>
+  </div>
+
+  <!-- Main content area - screens are swapped in/out here -->
+  <div id="app"></div>
+
+  <!-- Bottom navigation -->
+  <div id="nav">
+    <span class="nav-btn" data-route="home">Home</span>
+    <span class="nav-btn" data-route="random">Random</span>
+    <span class="nav-btn" data-route="discover">Discover</span>
+    <span class="nav-btn" data-route="favourites">Favs</span>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

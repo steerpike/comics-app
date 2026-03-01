@@ -1,0 +1,15 @@
+{
+  "name": "comics-app",
+  "version": "1.0.0",
+  "description": "A Kindle-optimized webcomic browser for browsing xkcd, Dinosaur Comics, SMBC, Wondermark, and Nedroid",
+  "private": true,
+  "scripts": {
+    "fetch": "node scripts/fetch-comics.js",
+    "fetch:full": "FULL_ARCHIVE=true node scripts/fetch-comics.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steerpike/comics-app.git"
+  },
+  "license": "MIT"
+}

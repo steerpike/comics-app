@@ -1,0 +1,57 @@
+{
+  "source": "wondermark",
+  "name": "Wondermark",
+  "url": "https://wondermark.com",
+  "attribution": "Wondermark by David Malki!",
+  "fetchedAt": "2026-03-01T01:25:59.745Z",
+  "comics": [
+    {
+      "num": 1582,
+      "title": "#1582; Limit Your Scream Time",
+      "img": "https://wondermark.com/wp-content/uploads/2026/02/2026-02-12-1582phone_1600px.png",
+      "alt": "",
+      "date": "2026-02-12",
+      "link": "https://wondermark.com/c/1582/"
+    },
+    {
+      "num": 1581,
+      "title": "#1581; The Longest, Most Fruitless Search",
+      "img": "https://wondermark.com/wp-content/uploads/2026/01/2026-01-23-1581flyer-scaled.png",
+      "alt": "",
+      "date": "2026-01-24",
+      "link": "https://wondermark.com/c/1581/"
+    },
+    {
+      "num": 1580,
+      "title": "#1580; What’s Undone is Undead",
+      "img": "https://wondermark.com/wp-content/uploads/2026/01/2026-01-14-1580abandon_1600px.png",
+      "alt": "",
+      "date": "2026-01-14",
+      "link": "https://wondermark.com/c/1580/"
+    },
+    {
+      "num": 0,
+      "title": "Bolted! Game – Designer Diary",
+      "img": "https://wondermark.com/wp-content/uploads/2025/12/bolted_ks_gamebox-1024x589.jpg",
+      "alt": "",
+      "date": "2025-12-19",
+      "link": "https://wondermark.com/bolted-designer-diary/"
+    },
+    {
+      "num": 0,
+      "title": "Tiff & Eve Crossover Comic",
+      "img": "https://wondermark.com/wp-content/uploads/2025/12/special_TiffEve_1300px.png",
+      "alt": "",
+      "date": "2025-12-18",
+      "link": "https://wondermark.com/c/tiffeve/"
+    },
+    {
+      "num": 1578,
+      "title": "#1578; In which Trees are a Lot",
+      "img": "https://wondermark.com/wp-content/uploads/2025/12/2025-12-16-1578trees_1600px.png",
+      "alt": "",
+      "date": "2025-12-17",
+      "link": "https://wondermark.com/c/1578/"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "source": "dinosaur",
+  "total": 10,
+  "highestNum": 4440,
+  "fetchedAt": "2026-03-01T01:25:56.700Z",
+  "comics": [
+    {
+      "num": 4431,
+      "title": "a helpful guide for what i can only ASSUME is a non-negligible percentage of the beings reading this",
+      "img": "http://www.qwantz.com/comics/comic2-5129.png",
+      "alt": "no refunds, only death: and then, only eventually!!  also: death but only eventually IS the best case scenario for you now",
+      "date": "2026-02-04",
+      "link": "http://www.qwantz.com/index.php?comic=4431"
+    },
+    {
+      "num": 4432,
+      "title": "billions and billions of dudes.  possibly too many??  clearly more investigation into the dudes is needed",
+      "img": "http://www.qwantz.com/comics/comic2-5130.png",
+      "alt": "a library?  ew.  isn't that where they keep all the second-hand, pre-owned, previously-enjoyed ideas?",
+      "date": "2026-02-06",
+      "link": "http://www.qwantz.com/index.php?comic=4432"
+    },
+    {
+      "num": 4433,
+      "title": "friendpix",
+      "img": "http://www.qwantz.com/comics/comic2-5131.png",
+      "alt": "keep a large framed painting of one (1) friend in my house.  but if you add more than one then it becomes this Whole Thing",
+      "date": "2026-02-09",
+      "link": "http://www.qwantz.com/index.php?comic=4433"
+    },
+    {
+      "num": 4434,
+      "title": "i looked up \"how to treat a UTI\" and now will see ads about it for at least a month.  i do this... for YOU",
+      "img": "http://www.qwantz.com/comics/comic2-5132.png",
+      "alt": "AND I JUST HAVE TO LIVE WITH THAT",
+      "date": "2026-02-11",
+      "link": "http://www.qwantz.com/index.php?comic=4434"
+    },
+    {
+      "num": 4435,
+      "title": "bacteria comix",
+      "img": "http://www.qwantz.com/comics/comic2-5133.png",
+      "alt": "sorry for saying ",
+      "date": "2026-02-13",
+      "link": "http://www.qwantz.com/index.php?comic=4435"
+    },
+    {
+      "num": 4436,
+      "title": "you're not the boss of me!  oh, wait, you are?  nevermind, my bad, my bad",
+      "img": "http://www.qwantz.com/comics/comic2-5134.png",
+      "alt": "also whose idea was to put a ",
+      "date": "2026-02-16",
+      "link": "http://www.qwantz.com/index.php?comic=4436"
+    },
+    {
+      "num": 4437,
+      "title": "what does this have to do with holographic type, you ask?  and to that i say, \"thanks for asking, i was wondering that too actually, good question\"",
+      "img": "http://www.qwantz.com/comics/comic2-5135.png",
+      "alt": "they said we were all suffering from gigantism to various degrees, all out of scale with each other.  UNBELIEVABLE.",
+      "date": "2026-02-18",
+      "link": "http://www.qwantz.com/index.php?comic=4437"
+    },
+    {
+      "num": 4438,
+      "title": "even gay love can end.  even the absolutely most gayest of loves can end :(",
+      "img": "http://www.qwantz.com/comics/comic2-5136.png",
+      "alt": "he's the most divorced man in history but he's happily married, he's got a trade he can ply anywhere in the world, and he's got $200,000 in he's looking to spend.  he's... JOHNNY DIVORCED",
+      "date": "2026-02-20",
+      "link": "http://www.qwantz.com/index.php?comic=4438"
+    },
+    {
+      "num": 4439,
+      "title": "count your blessings that your blessings don't break the universe",
+      "img": "http://www.qwantz.com/comics/comic2-5137.png",
+      "alt": "next: t-rex gets a wooden nose that grows when he lies, and, you guessed it, uses it an an infinite source of free wood and therefore steam power",
+      "date": "2026-02-25",
+      "link": "http://www.qwantz.com/index.php?comic=4439"
+    },
+    {
+      "num": 4440,
+      "title": "okay MAYBE the graphic design could use some work but on the other hand... maybe not??",
+      "img": "http://www.qwantz.com/comics/comic2-5138.png",
+      "alt": "all these cards have dinosaurs on them because THAT'S WHAT SELLS, EVERYONE WANTS A DINOSAUR CARD, GET OUTTA HERE WITH THESE STOCK PHOTOS OF, LIKE, FLOWERS OR WHATEVER",
+      "date": "2026-02-27",
+      "link": "http://www.qwantz.com/index.php?comic=4440"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "source": "nedroid",
+  "name": "Nedroid",
+  "url": "https://nedroid.com",
+  "attribution": "Nedroid by Anthony Clark",
+  "fetchedAt": "2026-03-01T01:26:00.249Z",
+  "comics": [
+    {
+      "num": 724,
+      "title": "Behind",
+      "img": "http://nedroid.com/comics/2023-08-07-beartatocomics-behind.png",
+      "alt": "",
+      "date": "2023-08-07",
+      "link": "http://nedroid.com?724"
+    },
+    {
+      "num": 723,
+      "title": "Wet Seat",
+      "img": "http://nedroid.com/comics/2023-07-31-beartatocomics-wetseat .png",
+      "alt": "",
+      "date": "2023-07-31",
+      "link": "http://nedroid.com?723"
+    },
+    {
+      "num": 707,
+      "title": "Mystery Bike",
+      "img": "http://nedroid.com/comics/2023-07-27-beartatocomics-mysterybike.png",
+      "alt": "",
+      "date": "2023-07-27",
+      "link": "http://nedroid.com?707"
+    },
+    {
+      "num": 706,
+      "title": "Movie Snacks",
+      "img": "http://nedroid.com/comics/2023-07-27-beartatocomics-moviesnacks.png",
+      "alt": "",
+      "date": "2023-07-11",
+      "link": "http://nedroid.com?706"
+    },
+    {
+      "num": 705,
+      "title": "Banner Year",
+      "img": "http://nedroid.com/comics/2023-07-28-beartato-bannerplane.png",
+      "alt": "",
+      "date": "2023-04-03",
+      "link": "http://nedroid.com?705"
+    },
+    {
+      "num": 704,
+      "title": "Anglophiles",
+      "img": "http://nedroid.com/comics/2023-07-28-beartatocomics-london.png",
+      "alt": "",
+      "date": "2023-02-23",
+      "link": "http://nedroid.com?704"
+    },
+    {
+      "num": 703,
+      "title": "Old Town Road",
+      "img": "http://nedroid.com/comics/2023-07-28-beartato-oldtownroad.png",
+      "alt": "",
+      "date": "2023-01-30",
+      "link": "http://nedroid.com?703"
+    },
+    {
+      "num": 702,
+      "title": "Reindeer Games",
+      "img": "http://nedroid.com/comics/2023-07-28-beartatocomics-donder.png",
+      "alt": "",
+      "date": "2022-12-23",
+      "link": "http://nedroid.com?702"
+    },
+    {
+      "num": 701,
+      "title": "Trivia Night",
+      "img": "http://nedroid.com/comics/2023-07-28-beartatocomics-trivianight.png",
+      "alt": "",
+      "date": "2022-08-24",
+      "link": "http://nedroid.com?701"
+    },
+    {
+      "num": 700,
+      "title": "Don't Talk to Me",
+      "img": "http://nedroid.com/comics/2023-07-28-beartatocomics-donttalktome.png",
+      "alt": "",
+      "date": "2022-07-05",
+      "link": "http://nedroid.com?700"
+    }
+  ]
+}

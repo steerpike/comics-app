@@ -1,0 +1,169 @@
+{
+  "source": "smbc",
+  "name": "SMBC",
+  "url": "https://www.smbc-comics.com",
+  "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
+  "fetchedAt": "2026-03-01T01:25:57.563Z",
+  "comics": [
+    {
+      "slug": "fund",
+      "title": "Fund",
+      "img": "https://www.smbc-comics.com/comics/1772154450-20260228.png",
+      "alt": "I wonder if you could trick people into paying more in taxes by calling it traditional crowdfunding?",
+      "date": "2026-02-28",
+      "link": "https://www.smbc-comics.com/comic/fund"
+    },
+    {
+      "slug": "pulley",
+      "title": "Pulley",
+      "img": "https://www.smbc-comics.com/comics/1772154403-20260227-copy.png",
+      "alt": "You should've seen the look on your face when you thought you'd gotten your mom killed!",
+      "date": "2026-02-27",
+      "link": "https://www.smbc-comics.com/comic/pulley"
+    },
+    {
+      "slug": "artist",
+      "title": "Artist",
+      "img": "https://www.smbc-comics.com/comics/1771879428-20260226.png",
+      "alt": "SMBC is just propaganda for longterm relationships.",
+      "date": "2026-02-26",
+      "link": "https://www.smbc-comics.com/comic/artist"
+    },
+    {
+      "slug": "cow",
+      "title": "Cow",
+      "img": "https://www.smbc-comics.com/comics/1771879352-20260225.png",
+      "alt": "This is when she calls the cops.",
+      "date": "2026-02-25",
+      "link": "https://www.smbc-comics.com/comic/cow"
+    },
+    {
+      "slug": "out-3",
+      "title": "Out",
+      "img": "https://www.smbc-comics.com/comics/1771879305-20260224.png",
+      "alt": "This is a top ten Calgacus joke.",
+      "date": "2026-02-24",
+      "link": "https://www.smbc-comics.com/comic/out-3"
+    },
+    {
+      "slug": "never-2",
+      "title": "Never",
+      "img": "https://www.smbc-comics.com/comics/1771630698-20260223.png",
+      "alt": "This is what I think about every argument that involves humans agreeing to not doing something with AI.",
+      "date": "2026-02-23",
+      "link": "https://www.smbc-comics.com/comic/never-2"
+    },
+    {
+      "slug": "ant",
+      "title": "Ant",
+      "img": "https://www.smbc-comics.com/comics/1771630658-20260222.png",
+      "alt": "And they both interpreted their success or failure as deserved rather than a consequence of macroeconomic forces and chance. The end.",
+      "date": "2026-02-22",
+      "link": "https://www.smbc-comics.com/comic/ant"
+    },
+    {
+      "slug": "nantucket",
+      "title": "Nantucket",
+      "img": "https://www.smbc-comics.com/comics/1771630604-20260221.png",
+      "alt": "The Man from Madras, whose balls were of brass, is in fact a meditation on the need to find synthesis between humanity and technology in modern life.",
+      "date": "2026-02-21",
+      "link": "https://www.smbc-comics.com/comic/nantucket"
+    },
+    {
+      "slug": "prime-2",
+      "title": "Prime",
+      "img": "https://www.smbc-comics.com/comics/1772154344-20260220.png",
+      "alt": "Unrelated, but according to Maynard 2019 there's an infinite number of primes that don't require the letter W.",
+      "date": "2026-02-20",
+      "link": "https://www.smbc-comics.com/comic/prime-2"
+    },
+    {
+      "slug": "battle",
+      "title": "Battle",
+      "img": "https://www.smbc-comics.com/comics/1771278258-20260219.png",
+      "alt": "Still don't know why they kept asking their ghostly duplicates whether they liked that over and over.",
+      "date": "2026-02-19",
+      "link": "https://www.smbc-comics.com/comic/battle"
+    },
+    {
+      "slug": "fluid",
+      "title": "Fluid",
+      "img": "https://www.smbc-comics.com/comics/1771278220-20260218.png",
+      "alt": "I believe there are sexy people who are doctors, but there are no sexy doctors.",
+      "date": "2026-02-18",
+      "link": "https://www.smbc-comics.com/comic/fluid"
+    },
+    {
+      "slug": "opportunity",
+      "title": "Opportunity",
+      "img": "https://www.smbc-comics.com/comics/1771278178-20260217.png",
+      "alt": "Later he stops paying attention to you and you only learn through the news that the algorithm changed.",
+      "date": "2026-02-17",
+      "link": "https://www.smbc-comics.com/comic/opportunity"
+    },
+    {
+      "slug": "quest-4",
+      "title": "Quest",
+      "img": "https://www.smbc-comics.com/comics/1771211150-20260216.png",
+      "alt": "You can actually do a lot of low-risk leveling up of the relationship just by using a bot to have your character run around stabbing rats all day.",
+      "date": "2026-02-16",
+      "link": "https://www.smbc-comics.com/comic/quest-4"
+    },
+    {
+      "slug": "warrantless",
+      "title": "Warrantless",
+      "img": "https://www.smbc-comics.com/comics/1771016552-20260215.png",
+      "alt": "The bound and gagged stripper also gets weird after the first amendment goes away.",
+      "date": "2026-02-15",
+      "link": "https://www.smbc-comics.com/comic/warrantless"
+    },
+    {
+      "slug": "moral",
+      "title": "Moral",
+      "img": "https://www.smbc-comics.com/comics/1771024286-20260214.png",
+      "alt": "Why are Adam Sandler movies not perceived as moral cataclysms?",
+      "date": "2026-02-14",
+      "link": "https://www.smbc-comics.com/comic/moral"
+    },
+    {
+      "slug": "scripture",
+      "title": "Scripture",
+      "img": "https://www.smbc-comics.com/comics/1770926895-20260213.png",
+      "alt": "Humans are good at zoos since we're already adapted to captivity.",
+      "date": "2026-02-13",
+      "link": "https://www.smbc-comics.com/comic/scripture"
+    },
+    {
+      "slug": "wife-2",
+      "title": "Wife",
+      "img": "https://www.smbc-comics.com/comics/1771278741-20260212.png",
+      "alt": "The worst part is the movie goes on for weeks but never finishes.",
+      "date": "2026-02-12",
+      "link": "https://www.smbc-comics.com/comic/wife-2"
+    },
+    {
+      "slug": "grimm",
+      "title": "Grimm",
+      "img": "https://www.smbc-comics.com/comics/1770666390-20260211.png",
+      "alt": "I knew Grimm's fables were pretty dark, but some of them seem to have been written purposefully as a time capsule to frighten the future.",
+      "date": "2026-02-11",
+      "link": "https://www.smbc-comics.com/comic/grimm"
+    },
+    {
+      "slug": "full-dive",
+      "title": "Full Dive",
+      "img": "https://www.smbc-comics.com/comics/1770666297-20260210.png",
+      "alt": "In the real life version, you just get extremely emotional ads for Fritos.",
+      "date": "2026-02-10",
+      "link": "https://www.smbc-comics.com/comic/full-dive"
+    },
+    {
+      "slug": "up-3",
+      "title": "Up",
+      "img": "https://www.smbc-comics.com/comics/1770346084-20260209.png",
+      "alt": "Bet you none of these newfangled Ai art generators will do you an upskirt Pope.",
+      "date": "2026-02-09",
+      "link": "https://www.smbc-comics.com/comic/up-3"
+    }
+  ]
+}

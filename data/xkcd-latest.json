@@ -1,0 +1,149 @@
+{
+  "source": "xkcd",
+  "url": "https://xkcd.com",
+  "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
+  "latestNum": 3213,
+  "fetchedAt": "2026-03-01T01:25:55.910Z",
+  "comics": [
+    {
+      "num": 3213,
+      "title": "Dental Formulas",
+      "img": "https://imgs.xkcd.com/comics/dental_formulas.png",
+      "alt": "I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.",
+      "date": "2026-02-27"
+    },
+    {
+      "num": 3212,
+      "title": "Little Red Dots",
+      "img": "https://imgs.xkcd.com/comics/little_red_dots.png",
+      "alt": "After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.",
+      "date": "2026-02-25"
+    },
+    {
+      "num": 3211,
+      "title": "Amperage",
+      "img": "https://imgs.xkcd.com/comics/amperage.png",
+      "alt": "Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?",
+      "date": "2026-02-23"
+    },
+    {
+      "num": 3210,
+      "title": "Eliminating the Impossible",
+      "img": "https://imgs.xkcd.com/comics/eliminating_the_impossible.png",
+      "alt": "'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.",
+      "date": "2026-02-20"
+    },
+    {
+      "num": 3209,
+      "title": "Plums",
+      "img": "https://imgs.xkcd.com/comics/plums.png",
+      "alt": "My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost.",
+      "date": "2026-02-18"
+    },
+    {
+      "num": 3208,
+      "title": "SNEWS",
+      "img": "https://imgs.xkcd.com/comics/snews.png",
+      "alt": "People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible.",
+      "date": "2026-02-16"
+    },
+    {
+      "num": 3207,
+      "title": "Bad Map Projection: Zero Declination",
+      "img": "https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png",
+      "alt": "'The zero line in WMM2025 passes through a lot of population centers; I wonder what year the largest share of the population lived in a zone of less than 5° of declination,' he thought, derailing all other tasks for the rest of the day.",
+      "date": "2026-02-13"
+    },
+    {
+      "num": 3206,
+      "title": "Installation",
+      "img": "https://imgs.xkcd.com/comics/installation.png",
+      "alt": "Do YOU remember the skylight being this big?",
+      "date": "2026-02-11"
+    },
+    {
+      "num": 3205,
+      "title": "Carbon Dating",
+      "img": "https://imgs.xkcd.com/comics/carbon_dating.png",
+      "alt": "This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.",
+      "date": "2026-02-09"
+    },
+    {
+      "num": 3204,
+      "title": "Dinosaurs And Non-Dinosaurs",
+      "img": "https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png",
+      "alt": "Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.",
+      "date": "2026-02-06"
+    },
+    {
+      "num": 3203,
+      "title": "Binary Star",
+      "img": "https://imgs.xkcd.com/comics/binary_star.png",
+      "alt": "The discovery of a fully typographical star system comes with a big asterisk.",
+      "date": "2026-02-04"
+    },
+    {
+      "num": 3202,
+      "title": "Groundhog Day Meaning",
+      "img": "https://imgs.xkcd.com/comics/groundhog_day_meaning.png",
+      "alt": "Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.",
+      "date": "2026-02-02"
+    },
+    {
+      "num": 3201,
+      "title": "Proof Without Content",
+      "img": "https://imgs.xkcd.com/comics/proof_without_content.png",
+      "alt": "There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.",
+      "date": "2026-01-30"
+    },
+    {
+      "num": 3200,
+      "title": "Chemical Formula",
+      "img": "https://imgs.xkcd.com/comics/chemical_formula.png",
+      "alt": "Some of the atoms in the molecule are very weakly bound.",
+      "date": "2026-01-28"
+    },
+    {
+      "num": 3199,
+      "title": "Early Arthropods",
+      "img": "https://imgs.xkcd.com/comics/early_arthropods.png",
+      "alt": "'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects",
+      "date": "2026-01-26"
+    },
+    {
+      "num": 3198,
+      "title": "Double-Pronged Extension Cord",
+      "img": "https://imgs.xkcd.com/comics/double_pronged_extension_cord.png",
+      "alt": "'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'",
+      "date": "2026-01-23"
+    },
+    {
+      "num": 3197,
+      "title": "Cost Savings",
+      "img": "https://imgs.xkcd.com/comics/cost_savings.png",
+      "alt": "Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.",
+      "date": "2026-01-21"
+    },
+    {
+      "num": 3196,
+      "title": "Aurora Coolness",
+      "img": "https://imgs.xkcd.com/comics/aurora_coolness.png",
+      "alt": "I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all.",
+      "date": "2026-01-19"
+    },
+    {
+      "num": 3195,
+      "title": "International Station",
+      "img": "https://imgs.xkcd.com/comics/international_station.png",
+      "alt": "Welcome to the International Space Station Exclamation Point!",
+      "date": "2026-01-16"
+    },
+    {
+      "num": 3194,
+      "title": "16-Part Epoxy",
+      "img": "https://imgs.xkcd.com/comics/16_part_epoxy.png",
+      "alt": "Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors.",
+      "date": "2026-01-14"
+    }
+  ]
+}
