@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-02T07:02:48.885Z",
+  "fetchedAt": "2026-03-02T18:54:29.053Z",
   "comics": [
+    {
+      "slug": "athenian",
+      "title": "Athenian",
+      "img": "https://www.smbc-comics.com/comics/1772223623-20260302.png",
+      "alt": "On the last Socrates joke, like a dozen people told me I should've called his nutritional supplements Himlock, and it just kills me that I didn't.",
+      "date": "2026-03-02",
+      "link": "https://www.smbc-comics.com/comic/athenian"
+    },
     {
       "slug": "friend-2",
       "title": "Friend",
@@ -156,14 +164,6 @@
       "alt": "I knew Grimm's fables were pretty dark, but some of them seem to have been written purposefully as a time capsule to frighten the future.",
       "date": "2026-02-11",
       "link": "https://www.smbc-comics.com/comic/grimm"
-    },
-    {
-      "slug": "full-dive",
-      "title": "Full Dive",
-      "img": "https://www.smbc-comics.com/comics/1770666297-20260210.png",
-      "alt": "In the real life version, you just get extremely emotional ads for Fritos.",
-      "date": "2026-02-10",
-      "link": "https://www.smbc-comics.com/comic/full-dive"
     }
   ]
 }

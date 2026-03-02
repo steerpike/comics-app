@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-02T07:02:50.795Z",
+  "fetchedAt": "2026-03-02T18:54:30.905Z",
   "comics": [
+    {
+      "slug": "hope-eventually",
+      "title": "Hope Eventually",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenhopeeventually.jpg",
+      "alt": "Hope Eventually",
+      "date": "2026-03-02",
+      "link": "https://www.savagechickens.com/2026/03/hope-eventually.html"
+    },
     {
       "slug": "legend",
       "title": "Legend",
@@ -76,14 +84,6 @@
       "alt": "Cat Zen Tip 13",
       "date": "2026-02-17",
       "link": "https://www.savagechickens.com/2026/02/cat-zen-tip-13.html"
-    },
-    {
-      "slug": "keep-on-blobbin",
-      "title": "Keep On Blobbin’",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenkeeponblobbin.jpg",
-      "alt": "Keep On Blobbin'",
-      "date": "2026-02-16",
-      "link": "https://www.savagechickens.com/2026/02/keep-on-blobbin.html"
     }
   ]
 }

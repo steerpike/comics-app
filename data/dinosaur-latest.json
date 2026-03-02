@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-02T07:02:48.602Z",
+  "fetchedAt": "2026-03-02T18:54:26.775Z",
   "comics": [
+    {
+      "num": 4441,
+      "title": "we're all in this together, and by \"this\" i mean \"being forced to devour other life if we wish to maintain our own\"",
+      "img": "http://www.qwantz.com/comics/comic2-5139.png",
+      "alt": "that's a big oopsie-doopsie on my part, and i apologize",
+      "date": "2026-03-02",
+      "link": "http://www.qwantz.com/index.php?comic=4441"
+    },
     {
       "num": 4440,
       "title": "okay MAYBE the graphic design could use some work but on the other hand... maybe not??",
@@ -76,14 +84,6 @@
       "alt": "a library?  ew.  isn't that where they keep all the second-hand, pre-owned, previously-enjoyed ideas?",
       "date": "2026-02-06",
       "link": "http://www.qwantz.com/index.php?comic=4432"
-    },
-    {
-      "num": 4431,
-      "title": "a helpful guide for what i can only ASSUME is a non-negligible percentage of the beings reading this",
-      "img": "http://www.qwantz.com/comics/comic2-5129.png",
-      "alt": "no refunds, only death: and then, only eventually!!  also: death but only eventually IS the best case scenario for you now",
-      "date": "2026-02-04",
-      "link": "http://www.qwantz.com/index.php?comic=4431"
     }
   ]
 }

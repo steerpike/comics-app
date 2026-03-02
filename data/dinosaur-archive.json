@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 10,
-  "highestNum": 4440,
-  "fetchedAt": "2026-03-01T01:25:56.700Z",
+  "total": 11,
+  "highestNum": 4441,
+  "fetchedAt": "2026-03-02T18:54:26.775Z",
   "comics": [
     {
       "num": 4431,
@@ -83,6 +83,14 @@
       "alt": "all these cards have dinosaurs on them because THAT'S WHAT SELLS, EVERYONE WANTS A DINOSAUR CARD, GET OUTTA HERE WITH THESE STOCK PHOTOS OF, LIKE, FLOWERS OR WHATEVER",
       "date": "2026-02-27",
       "link": "http://www.qwantz.com/index.php?comic=4440"
+    },
+    {
+      "num": 4441,
+      "title": "we're all in this together, and by \"this\" i mean \"being forced to devour other life if we wish to maintain our own\"",
+      "img": "http://www.qwantz.com/comics/comic2-5139.png",
+      "alt": "that's a big oopsie-doopsie on my part, and i apologize",
+      "date": "2026-03-02",
+      "link": "http://www.qwantz.com/index.php?comic=4441"
     }
   ]
 }
