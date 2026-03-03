@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3212,
-  "latestNum": 3213,
-  "fetchedAt": "2026-03-01T02:35:00.632Z",
+  "total": 3213,
+  "latestNum": 3214,
+  "fetchedAt": "2026-03-03T06:56:50.969Z",
   "comics": [
     {
       "num": 1,
@@ -22487,6 +22487,13 @@
       "img": "https://imgs.xkcd.com/comics/dental_formulas.png",
       "alt": "I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.",
       "date": "2026-02-27"
+    },
+    {
+      "num": 3214,
+      "title": "Electric Vehicles",
+      "img": "https://imgs.xkcd.com/comics/electric_vehicles.png",
+      "alt": "Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.",
+      "date": "2026-03-02"
     }
   ]
 }

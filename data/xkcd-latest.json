@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3213,
-  "fetchedAt": "2026-03-02T18:54:26.336Z",
+  "latestNum": 3214,
+  "fetchedAt": "2026-03-03T06:56:50.959Z",
   "comics": [
+    {
+      "num": 3214,
+      "title": "Electric Vehicles",
+      "img": "https://imgs.xkcd.com/comics/electric_vehicles.png",
+      "alt": "Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.",
+      "date": "2026-03-02"
+    },
     {
       "num": 3213,
       "title": "Dental Formulas",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/international_station.png",
       "alt": "Welcome to the International Space Station Exclamation Point!",
       "date": "2026-01-16"
-    },
-    {
-      "num": 3194,
-      "title": "16-Part Epoxy",
-      "img": "https://imgs.xkcd.com/comics/16_part_epoxy.png",
-      "alt": "Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors.",
-      "date": "2026-01-14"
     }
   ]
 }
