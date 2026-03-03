@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-03T06:56:51.612Z",
+  "fetchedAt": "2026-03-03T18:56:22.741Z",
   "comics": [
+    {
+      "slug": "good-cop",
+      "title": "Good Cop",
+      "img": "https://www.smbc-comics.com/comics/1772481120-20260303.png",
+      "alt": "The other option is good cop, cop pretending to be a fish on the floor that keeps flopping around but won't die.",
+      "date": "2026-03-03",
+      "link": "https://www.smbc-comics.com/comic/good-cop"
+    },
     {
       "slug": "athenian",
       "title": "Athenian",
@@ -156,14 +164,6 @@
       "alt": "The worst part is the movie goes on for weeks but never finishes.",
       "date": "2026-02-12",
       "link": "https://www.smbc-comics.com/comic/wife-2"
-    },
-    {
-      "slug": "grimm",
-      "title": "Grimm",
-      "img": "https://www.smbc-comics.com/comics/1770666390-20260211.png",
-      "alt": "I knew Grimm's fables were pretty dark, but some of them seem to have been written purposefully as a time capsule to frighten the future.",
-      "date": "2026-02-11",
-      "link": "https://www.smbc-comics.com/comic/grimm"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-03T06:56:53.941Z",
+  "fetchedAt": "2026-03-03T18:56:24.598Z",
   "comics": [
+    {
+      "slug": "dog-therapy-2",
+      "title": "Dog Therapy",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickendogtherapy-1.jpg",
+      "alt": "Dog Therapy",
+      "date": "2026-03-03",
+      "link": "https://www.savagechickens.com/2026/03/dog-therapy-2.html"
+    },
     {
       "slug": "hope-eventually",
       "title": "Hope Eventually",
@@ -76,14 +84,6 @@
       "alt": "Burger Heron",
       "date": "2026-02-18",
       "link": "https://www.savagechickens.com/2026/02/burger-heron.html"
-    },
-    {
-      "slug": "cat-zen-tip-13",
-      "title": "Cat Zen Tip 13",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickencatzentip13.jpg",
-      "alt": "Cat Zen Tip 13",
-      "date": "2026-02-17",
-      "link": "https://www.savagechickens.com/2026/02/cat-zen-tip-13.html"
     }
   ]
 }
