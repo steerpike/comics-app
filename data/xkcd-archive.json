@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3213,
-  "latestNum": 3214,
-  "fetchedAt": "2026-03-03T06:56:50.969Z",
+  "total": 3214,
+  "latestNum": 3215,
+  "fetchedAt": "2026-03-04T18:56:01.470Z",
   "comics": [
     {
       "num": 1,
@@ -22494,6 +22494,13 @@
       "img": "https://imgs.xkcd.com/comics/electric_vehicles.png",
       "alt": "Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.",
       "date": "2026-03-02"
+    },
+    {
+      "num": 3215,
+      "title": "Solar Warning",
+      "img": "https://imgs.xkcd.com/comics/solar_warning.png",
+      "alt": "This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.",
+      "date": "2026-03-04"
     }
   ]
 }

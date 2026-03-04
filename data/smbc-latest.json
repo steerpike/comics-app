@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-04T06:53:21.395Z",
+  "fetchedAt": "2026-03-04T18:56:02.321Z",
   "comics": [
+    {
+      "slug": "serve",
+      "title": "Serve",
+      "img": "https://www.smbc-comics.com/comics/1772481186-20260304.png",
+      "alt": "I need to do an upbeat comic week one of these days. They all end with hooray.",
+      "date": "2026-03-04",
+      "link": "https://www.smbc-comics.com/comic/serve"
+    },
     {
       "slug": "good-cop",
       "title": "Good Cop",
@@ -156,14 +164,6 @@
       "alt": "Humans are good at zoos since we're already adapted to captivity.",
       "date": "2026-02-13",
       "link": "https://www.smbc-comics.com/comic/scripture"
-    },
-    {
-      "slug": "wife-2",
-      "title": "Wife",
-      "img": "https://www.smbc-comics.com/comics/1771278741-20260212.png",
-      "alt": "The worst part is the movie goes on for weeks but never finishes.",
-      "date": "2026-02-12",
-      "link": "https://www.smbc-comics.com/comic/wife-2"
     }
   ]
 }

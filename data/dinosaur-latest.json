@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-04T06:53:21.125Z",
+  "fetchedAt": "2026-03-04T18:56:01.902Z",
   "comics": [
+    {
+      "num": 4442,
+      "title": "universe where aphorisms suddenly become literally true comics",
+      "img": "http://www.qwantz.com/comics/comic2-5140.png",
+      "alt": "but i LOVE universes where aphorisms suddenly become literally true comics!!",
+      "date": "2026-03-04",
+      "link": "http://www.qwantz.com/index.php?comic=4442"
+    },
     {
       "num": 4441,
       "title": "we're all in this together, and by \"this\" i mean \"being forced to devour other life if we wish to maintain our own\"",
@@ -76,14 +84,6 @@
       "alt": "keep a large framed painting of one (1) friend in my house.  but if you add more than one then it becomes this Whole Thing",
       "date": "2026-02-09",
       "link": "http://www.qwantz.com/index.php?comic=4433"
-    },
-    {
-      "num": 4432,
-      "title": "billions and billions of dudes.  possibly too many??  clearly more investigation into the dudes is needed",
-      "img": "http://www.qwantz.com/comics/comic2-5130.png",
-      "alt": "a library?  ew.  isn't that where they keep all the second-hand, pre-owned, previously-enjoyed ideas?",
-      "date": "2026-02-06",
-      "link": "http://www.qwantz.com/index.php?comic=4432"
     }
   ]
 }

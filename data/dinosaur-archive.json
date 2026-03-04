@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 11,
-  "highestNum": 4441,
-  "fetchedAt": "2026-03-02T18:54:26.775Z",
+  "total": 12,
+  "highestNum": 4442,
+  "fetchedAt": "2026-03-04T18:56:01.903Z",
   "comics": [
     {
       "num": 4431,
@@ -91,6 +91,14 @@
       "alt": "that's a big oopsie-doopsie on my part, and i apologize",
       "date": "2026-03-02",
       "link": "http://www.qwantz.com/index.php?comic=4441"
+    },
+    {
+      "num": 4442,
+      "title": "universe where aphorisms suddenly become literally true comics",
+      "img": "http://www.qwantz.com/comics/comic2-5140.png",
+      "alt": "but i LOVE universes where aphorisms suddenly become literally true comics!!",
+      "date": "2026-03-04",
+      "link": "http://www.qwantz.com/index.php?comic=4442"
     }
   ]
 }
