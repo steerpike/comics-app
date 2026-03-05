@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-05T06:57:17.897Z",
+  "fetchedAt": "2026-03-05T19:18:43.503Z",
   "comics": [
+    {
+      "slug": "long-day",
+      "title": "Long Day",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenlongday.jpg",
+      "alt": "Long Day",
+      "date": "2026-03-05",
+      "link": "https://www.savagechickens.com/2026/03/long-day.html"
+    },
     {
       "slug": "a-i-regrets",
       "title": "A.I. Regrets",
@@ -76,14 +84,6 @@
       "alt": "Batman Priorities",
       "date": "2026-02-20",
       "link": "https://www.savagechickens.com/2026/02/batman-priorities.html"
-    },
-    {
-      "slug": "barbecue",
-      "title": "Barbecue",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenbarbecue.jpg",
-      "alt": "Barbecue",
-      "date": "2026-02-19",
-      "link": "https://www.savagechickens.com/2026/02/barbecue.html"
     }
   ]
 }

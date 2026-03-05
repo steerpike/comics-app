@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-05T06:57:15.851Z",
+  "fetchedAt": "2026-03-05T19:18:42.084Z",
   "comics": [
+    {
+      "slug": "wow-3",
+      "title": "Wow",
+      "img": "https://www.smbc-comics.com/comics/1772735783-20260305 (1).png",
+      "alt": "Still better than the time I got divorced via a pop-up book.",
+      "date": "2026-03-05",
+      "link": "https://www.smbc-comics.com/comic/wow-3"
+    },
     {
       "slug": "serve",
       "title": "Serve",
@@ -156,14 +164,6 @@
       "alt": "Why are Adam Sandler movies not perceived as moral cataclysms?",
       "date": "2026-02-14",
       "link": "https://www.smbc-comics.com/comic/moral"
-    },
-    {
-      "slug": "scripture",
-      "title": "Scripture",
-      "img": "https://www.smbc-comics.com/comics/1770926895-20260213.png",
-      "alt": "Humans are good at zoos since we're already adapted to captivity.",
-      "date": "2026-02-13",
-      "link": "https://www.smbc-comics.com/comic/scripture"
     }
   ]
 }
