@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3215,
-  "fetchedAt": "2026-03-06T06:54:59.023Z",
+  "latestNum": 3216,
+  "fetchedAt": "2026-03-06T18:52:18.479Z",
   "comics": [
+    {
+      "num": 3216,
+      "title": "Bazookasaurus",
+      "img": "https://imgs.xkcd.com/comics/bazookasaurus.png",
+      "alt": "In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.",
+      "date": "2026-03-06"
+    },
     {
       "num": 3215,
       "title": "Solar Warning",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/cost_savings.png",
       "alt": "Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.",
       "date": "2026-01-21"
-    },
-    {
-      "num": 3196,
-      "title": "Aurora Coolness",
-      "img": "https://imgs.xkcd.com/comics/aurora_coolness.png",
-      "alt": "I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all.",
-      "date": "2026-01-19"
     }
   ]
 }

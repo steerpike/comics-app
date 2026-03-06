@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-06T06:54:59.380Z",
+  "fetchedAt": "2026-03-06T18:52:18.640Z",
   "comics": [
+    {
+      "num": 4443,
+      "title": "you can't spell \"glass\" without \"ass\", but this means absolutely nothing and i do regret pointing it out",
+      "img": "http://www.qwantz.com/comics/comic2-5141.png",
+      "alt": "none of his friends mention how hard it'll be for him to get them on his face, but that's because they're all happy to help him whenever he wants.  OH SNAP, WHOLESOME MOMENTS IN DINOSAUR COMICS!!",
+      "date": "2026-03-06",
+      "link": "http://www.qwantz.com/index.php?comic=4443"
+    },
     {
       "num": 4442,
       "title": "universe where aphorisms suddenly become literally true comics",
@@ -76,14 +84,6 @@
       "alt": "AND I JUST HAVE TO LIVE WITH THAT",
       "date": "2026-02-11",
       "link": "http://www.qwantz.com/index.php?comic=4434"
-    },
-    {
-      "num": 4433,
-      "title": "friendpix",
-      "img": "http://www.qwantz.com/comics/comic2-5131.png",
-      "alt": "keep a large framed painting of one (1) friend in my house.  but if you add more than one then it becomes this Whole Thing",
-      "date": "2026-02-09",
-      "link": "http://www.qwantz.com/index.php?comic=4433"
     }
   ]
 }

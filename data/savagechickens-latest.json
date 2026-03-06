@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-06T06:55:01.379Z",
+  "fetchedAt": "2026-03-06T18:52:21.633Z",
   "comics": [
+    {
+      "slug": "hot-dog-the-return",
+      "title": "Hot Dog: The Return",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenhotdogthereturn.jpg",
+      "alt": "Hot Dog: The Return",
+      "date": "2026-03-06",
+      "link": "https://www.savagechickens.com/2026/03/hot-dog-the-return.html"
+    },
     {
       "slug": "long-day",
       "title": "Long Day",
@@ -76,14 +84,6 @@
       "alt": "I Love Monday",
       "date": "2026-02-23",
       "link": "https://www.savagechickens.com/2026/02/i-love-monday.html"
-    },
-    {
-      "slug": "batman-priorities",
-      "title": "Batman Priorities",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenbatmanpriorities.jpg",
-      "alt": "Batman Priorities",
-      "date": "2026-02-20",
-      "link": "https://www.savagechickens.com/2026/02/batman-priorities.html"
     }
   ]
 }

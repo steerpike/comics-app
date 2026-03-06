@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3214,
-  "latestNum": 3215,
-  "fetchedAt": "2026-03-04T18:56:01.470Z",
+  "total": 3215,
+  "latestNum": 3216,
+  "fetchedAt": "2026-03-06T18:52:18.489Z",
   "comics": [
     {
       "num": 1,
@@ -22501,6 +22501,13 @@
       "img": "https://imgs.xkcd.com/comics/solar_warning.png",
       "alt": "This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.",
       "date": "2026-03-04"
+    },
+    {
+      "num": 3216,
+      "title": "Bazookasaurus",
+      "img": "https://imgs.xkcd.com/comics/bazookasaurus.png",
+      "alt": "In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.",
+      "date": "2026-03-06"
     }
   ]
 }

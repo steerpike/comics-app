@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-06T06:54:59.613Z",
+  "fetchedAt": "2026-03-06T18:52:18.889Z",
   "comics": [
+    {
+      "slug": "curses",
+      "title": "Curses",
+      "img": "https://www.smbc-comics.com/comics/1772766658-20260306.png",
+      "alt": "Batman would've just reached for his utility belt.",
+      "date": "2026-03-06",
+      "link": "https://www.smbc-comics.com/comic/curses"
+    },
     {
       "slug": "wow-3",
       "title": "Wow",
@@ -156,14 +164,6 @@
       "alt": "The bound and gagged stripper also gets weird after the first amendment goes away.",
       "date": "2026-02-15",
       "link": "https://www.smbc-comics.com/comic/warrantless"
-    },
-    {
-      "slug": "moral",
-      "title": "Moral",
-      "img": "https://www.smbc-comics.com/comics/1771024286-20260214.png",
-      "alt": "Why are Adam Sandler movies not perceived as moral cataclysms?",
-      "date": "2026-02-14",
-      "link": "https://www.smbc-comics.com/comic/moral"
     }
   ]
 }
