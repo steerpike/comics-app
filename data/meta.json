@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-07T18:38:36.081Z",
+  "fetchedAt": "2026-03-08T06:49:23.055Z",
   "sources": {
     "xkcd": "ok",
     "dinosaur": "ok",
@@ -7,7 +7,7 @@
     "wondermark": "ok",
     "nedroid": "ok",
     "poorlydrawnlines": "ok",
-    "savagechickens": "error: Request timed out after 15s for https://www.savagechickens.com/feed",
+    "savagechickens": "ok",
     "buttersafe": "ok",
     "loadingartist": "ok"
   },
