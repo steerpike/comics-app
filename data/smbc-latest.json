@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-08T06:49:20.592Z",
+  "fetchedAt": "2026-03-08T18:38:40.879Z",
   "comics": [
+    {
+      "slug": "hooray",
+      "title": "Hooray",
+      "img": "https://www.smbc-comics.com/comics/1772766819-20260308.png",
+      "alt": "I need to do a collection of just comics containing the word Hooray.",
+      "date": "2026-03-08",
+      "link": "https://www.smbc-comics.com/comic/hooray"
+    },
     {
       "slug": "pumpkin",
       "title": "Pumpkin",
@@ -156,14 +164,6 @@
       "alt": "Later he stops paying attention to you and you only learn through the news that the algorithm changed.",
       "date": "2026-02-17",
       "link": "https://www.smbc-comics.com/comic/opportunity"
-    },
-    {
-      "slug": "quest-4",
-      "title": "Quest",
-      "img": "https://www.smbc-comics.com/comics/1771211150-20260216.png",
-      "alt": "You can actually do a lot of low-risk leveling up of the relationship just by using a bot to have your character run around stabbing rats all day.",
-      "date": "2026-02-16",
-      "link": "https://www.smbc-comics.com/comic/quest-4"
     }
   ]
 }
