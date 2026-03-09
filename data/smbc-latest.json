@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-09T07:06:17.861Z",
+  "fetchedAt": "2026-03-09T18:57:32.487Z",
   "comics": [
+    {
+      "slug": "invisible",
+      "title": "Invisible",
+      "img": "https://www.smbc-comics.com/comics/1773007628-20260309.png",
+      "alt": "The baby also goes to jail and has the cutest little orange jumpsuit.",
+      "date": "2026-03-09",
+      "link": "https://www.smbc-comics.com/comic/invisible"
+    },
     {
       "slug": "hooray",
       "title": "Hooray",
@@ -156,14 +164,6 @@
       "alt": "I believe there are sexy people who are doctors, but there are no sexy doctors.",
       "date": "2026-02-18",
       "link": "https://www.smbc-comics.com/comic/fluid"
-    },
-    {
-      "slug": "opportunity",
-      "title": "Opportunity",
-      "img": "https://www.smbc-comics.com/comics/1771278178-20260217.png",
-      "alt": "Later he stops paying attention to you and you only learn through the news that the algorithm changed.",
-      "date": "2026-02-17",
-      "link": "https://www.smbc-comics.com/comic/opportunity"
     }
   ]
 }

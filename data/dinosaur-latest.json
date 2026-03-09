@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-09T07:06:17.283Z",
+  "fetchedAt": "2026-03-09T18:57:32.210Z",
   "comics": [
+    {
+      "num": 4444,
+      "title": "you only get one choice of archive text though and here it is, no refunds will be entertained!!",
+      "img": "http://www.qwantz.com/comics/comic2-5142.png",
+      "alt": "the universal narrative conclude-o-matic is misnamed: it IS obviously universal, but as it requires you to choose options it is not fully ",
+      "date": "2026-03-09",
+      "link": "http://www.qwantz.com/index.php?comic=4444"
+    },
     {
       "num": 4443,
       "title": "you can't spell \"glass\" without \"ass\", but this means absolutely nothing and i do regret pointing it out",
@@ -76,14 +84,6 @@
       "alt": "sorry for saying ",
       "date": "2026-02-13",
       "link": "http://www.qwantz.com/index.php?comic=4435"
-    },
-    {
-      "num": 4434,
-      "title": "i looked up \"how to treat a UTI\" and now will see ads about it for at least a month.  i do this... for YOU",
-      "img": "http://www.qwantz.com/comics/comic2-5132.png",
-      "alt": "AND I JUST HAVE TO LIVE WITH THAT",
-      "date": "2026-02-11",
-      "link": "http://www.qwantz.com/index.php?comic=4434"
     }
   ]
 }

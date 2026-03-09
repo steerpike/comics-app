@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 13,
-  "highestNum": 4443,
-  "fetchedAt": "2026-03-06T18:52:18.640Z",
+  "total": 14,
+  "highestNum": 4444,
+  "fetchedAt": "2026-03-09T18:57:32.211Z",
   "comics": [
     {
       "num": 4431,
@@ -107,6 +107,14 @@
       "alt": "none of his friends mention how hard it'll be for him to get them on his face, but that's because they're all happy to help him whenever he wants.  OH SNAP, WHOLESOME MOMENTS IN DINOSAUR COMICS!!",
       "date": "2026-03-06",
       "link": "http://www.qwantz.com/index.php?comic=4443"
+    },
+    {
+      "num": 4444,
+      "title": "you only get one choice of archive text though and here it is, no refunds will be entertained!!",
+      "img": "http://www.qwantz.com/comics/comic2-5142.png",
+      "alt": "the universal narrative conclude-o-matic is misnamed: it IS obviously universal, but as it requires you to choose options it is not fully ",
+      "date": "2026-03-09",
+      "link": "http://www.qwantz.com/index.php?comic=4444"
     }
   ]
 }
