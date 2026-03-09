@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-08T18:38:42.703Z",
+  "fetchedAt": "2026-03-09T07:06:19.580Z",
   "comics": [
+    {
+      "slug": "godzilla-haiku",
+      "title": "Godzilla Haiku",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickengodzillahaiku.jpg",
+      "alt": "Godzilla Haiku",
+      "date": "2026-03-09",
+      "link": "https://www.savagechickens.com/2026/03/godzilla-haiku.html"
+    },
     {
       "slug": "hot-dog-the-return",
       "title": "Hot Dog: The Return",
@@ -76,14 +84,6 @@
       "alt": "The Limit",
       "date": "2026-02-24",
       "link": "https://www.savagechickens.com/2026/02/the-limit.html"
-    },
-    {
-      "slug": "i-love-monday",
-      "title": "I Love Monday",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenilovemonday.jpg",
-      "alt": "I Love Monday",
-      "date": "2026-02-23",
-      "link": "https://www.savagechickens.com/2026/02/i-love-monday.html"
     }
   ]
 }
