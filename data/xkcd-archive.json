@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3215,
-  "latestNum": 3216,
-  "fetchedAt": "2026-03-06T18:52:18.489Z",
+  "total": 3216,
+  "latestNum": 3217,
+  "fetchedAt": "2026-03-10T18:54:59.950Z",
   "comics": [
     {
       "num": 1,
@@ -22508,6 +22508,13 @@
       "img": "https://imgs.xkcd.com/comics/bazookasaurus.png",
       "alt": "In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.",
       "date": "2026-03-06"
+    },
+    {
+      "num": 3217,
+      "title": "Home Remedies",
+      "img": "https://imgs.xkcd.com/comics/home_remedies.png",
+      "alt": "As always, you are permitted to call one person for guidance, but that person must be a grandparent.",
+      "date": "2026-03-09"
     }
   ]
 }

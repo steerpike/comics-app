@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-10T06:55:17.769Z",
+  "fetchedAt": "2026-03-10T18:55:00.621Z",
   "comics": [
+    {
+      "slug": "learn-2",
+      "title": "Learn",
+      "img": "https://www.smbc-comics.com/comics/1773007680-20260310.png",
+      "alt": "The alternative was artisanal soap biiiiiitch.",
+      "date": "2026-03-10",
+      "link": "https://www.smbc-comics.com/comic/learn-2"
+    },
     {
       "slug": "invisible",
       "title": "Invisible",
@@ -156,14 +164,6 @@
       "alt": "Still don't know why they kept asking their ghostly duplicates whether they liked that over and over.",
       "date": "2026-02-19",
       "link": "https://www.smbc-comics.com/comic/battle"
-    },
-    {
-      "slug": "fluid",
-      "title": "Fluid",
-      "img": "https://www.smbc-comics.com/comics/1771278220-20260218.png",
-      "alt": "I believe there are sexy people who are doctors, but there are no sexy doctors.",
-      "date": "2026-02-18",
-      "link": "https://www.smbc-comics.com/comic/fluid"
     }
   ]
 }

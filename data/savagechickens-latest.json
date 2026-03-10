@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-10T06:55:19.535Z",
+  "fetchedAt": "2026-03-10T18:55:02.653Z",
   "comics": [
+    {
+      "slug": "immersive",
+      "title": "Immersive",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenimmersive.jpg",
+      "alt": "Immersive",
+      "date": "2026-03-10",
+      "link": "https://www.savagechickens.com/2026/03/immersive.html"
+    },
     {
       "slug": "godzilla-haiku",
       "title": "Godzilla Haiku",
@@ -76,14 +84,6 @@
       "alt": "Tree Talk",
       "date": "2026-02-25",
       "link": "https://www.savagechickens.com/2026/02/tree-talk.html"
-    },
-    {
-      "slug": "the-limit",
-      "title": "The Limit",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenlimit.jpg",
-      "alt": "The Limit",
-      "date": "2026-02-24",
-      "link": "https://www.savagechickens.com/2026/02/the-limit.html"
     }
   ]
 }
