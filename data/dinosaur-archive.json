@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 14,
-  "highestNum": 4444,
-  "fetchedAt": "2026-03-09T18:57:32.211Z",
+  "total": 15,
+  "highestNum": 4445,
+  "fetchedAt": "2026-03-11T18:57:16.625Z",
   "comics": [
     {
       "num": 4431,
@@ -115,6 +115,14 @@
       "alt": "the universal narrative conclude-o-matic is misnamed: it IS obviously universal, but as it requires you to choose options it is not fully ",
       "date": "2026-03-09",
       "link": "http://www.qwantz.com/index.php?comic=4444"
+    },
+    {
+      "num": 4445,
+      "title": "writing: some downsides??  AND YES I KNOW I'M USING WRITING TO SAY \"WRITING: SOME DOWNSIDES??\"",
+      "img": "http://www.qwantz.com/comics/comic2-5143.png",
+      "alt": "stop saying ",
+      "date": "2026-03-11",
+      "link": "http://www.qwantz.com/index.php?comic=4445"
     }
   ]
 }

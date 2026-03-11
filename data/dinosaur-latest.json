@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-11T06:58:20.156Z",
+  "fetchedAt": "2026-03-11T18:57:16.624Z",
   "comics": [
+    {
+      "num": 4445,
+      "title": "writing: some downsides??  AND YES I KNOW I'M USING WRITING TO SAY \"WRITING: SOME DOWNSIDES??\"",
+      "img": "http://www.qwantz.com/comics/comic2-5143.png",
+      "alt": "stop saying ",
+      "date": "2026-03-11",
+      "link": "http://www.qwantz.com/index.php?comic=4445"
+    },
     {
       "num": 4444,
       "title": "you only get one choice of archive text though and here it is, no refunds will be entertained!!",
@@ -76,14 +84,6 @@
       "alt": "also whose idea was to put a ",
       "date": "2026-02-16",
       "link": "http://www.qwantz.com/index.php?comic=4436"
-    },
-    {
-      "num": 4435,
-      "title": "bacteria comix",
-      "img": "http://www.qwantz.com/comics/comic2-5133.png",
-      "alt": "sorry for saying ",
-      "date": "2026-02-13",
-      "link": "http://www.qwantz.com/index.php?comic=4435"
     }
   ]
 }
