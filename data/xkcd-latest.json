@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3217,
-  "fetchedAt": "2026-03-11T18:57:16.105Z",
+  "latestNum": 3218,
+  "fetchedAt": "2026-03-12T07:00:15.432Z",
   "comics": [
+    {
+      "num": 3218,
+      "title": "Subduction Retrieval",
+      "img": "https://imgs.xkcd.com/comics/subduction_retrieval.png",
+      "alt": "Aww, the oceanic crust and the continental crust are getting married!",
+      "date": "2026-03-11"
+    },
     {
       "num": 3217,
       "title": "Home Remedies",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/early_arthropods.png",
       "alt": "'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects",
       "date": "2026-01-26"
-    },
-    {
-      "num": 3198,
-      "title": "Double-Pronged Extension Cord",
-      "img": "https://imgs.xkcd.com/comics/double_pronged_extension_cord.png",
-      "alt": "'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'",
-      "date": "2026-01-23"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3216,
-  "latestNum": 3217,
-  "fetchedAt": "2026-03-10T18:54:59.950Z",
+  "total": 3217,
+  "latestNum": 3218,
+  "fetchedAt": "2026-03-12T07:00:15.442Z",
   "comics": [
     {
       "num": 1,
@@ -22515,6 +22515,13 @@
       "img": "https://imgs.xkcd.com/comics/home_remedies.png",
       "alt": "As always, you are permitted to call one person for guidance, but that person must be a grandparent.",
       "date": "2026-03-09"
+    },
+    {
+      "num": 3218,
+      "title": "Subduction Retrieval",
+      "img": "https://imgs.xkcd.com/comics/subduction_retrieval.png",
+      "alt": "Aww, the oceanic crust and the continental crust are getting married!",
+      "date": "2026-03-11"
     }
   ]
 }

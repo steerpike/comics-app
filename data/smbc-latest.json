@@ -3,7 +3,7 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-11T18:57:17.016Z",
+  "fetchedAt": "2026-03-12T07:00:15.842Z",
   "comics": [
     {
       "slug": "holy-2",
@@ -40,7 +40,7 @@
     {
       "slug": "pumpkin",
       "title": "Pumpkin",
-      "img": "https://www.smbc-comics.com/comics/1772766766-20260307Copy.png",
+      "img": "https://www.smbc-comics.com/comics/1773264910-20260307.png",
       "alt": "Actually there's probably a medieval German version that makes this one look pleasant.",
       "date": "2026-03-07",
       "link": "https://www.smbc-comics.com/comic/pumpkin"
