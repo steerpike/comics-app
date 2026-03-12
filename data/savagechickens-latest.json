@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-12T07:00:20.110Z",
+  "fetchedAt": "2026-03-12T18:58:30.523Z",
   "comics": [
+    {
+      "slug": "sashimi",
+      "title": "Sashimi",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickensashimi.jpg",
+      "alt": "Sashimi",
+      "date": "2026-03-12",
+      "link": "https://www.savagechickens.com/2026/03/sashimi.html"
+    },
     {
       "slug": "nice-cave",
       "title": "Nice Cave",
@@ -76,14 +84,6 @@
       "alt": "Legend",
       "date": "2026-02-27",
       "link": "https://www.savagechickens.com/2026/02/legend.html"
-    },
-    {
-      "slug": "patience-3",
-      "title": "Patience",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpatience-1.jpg",
-      "alt": "Patience",
-      "date": "2026-02-26",
-      "link": "https://www.savagechickens.com/2026/02/patience-3.html"
     }
   ]
 }

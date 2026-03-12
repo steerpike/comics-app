@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-12T07:00:15.842Z",
+  "fetchedAt": "2026-03-12T18:58:28.776Z",
   "comics": [
+    {
+      "slug": "sci-fi",
+      "title": "Sci fi",
+      "img": "https://www.smbc-comics.com/comics/1773265059-20260312.png",
+      "alt": "If Ai destroys the world because we wrote stories about it, we will at least have the funniest possible apocalypse.",
+      "date": "2026-03-12",
+      "link": "https://www.smbc-comics.com/comic/sci-fi"
+    },
     {
       "slug": "holy-2",
       "title": "Holy",
@@ -156,14 +164,6 @@
       "alt": "The Man from Madras, whose balls were of brass, is in fact a meditation on the need to find synthesis between humanity and technology in modern life.",
       "date": "2026-02-21",
       "link": "https://www.smbc-comics.com/comic/nantucket"
-    },
-    {
-      "slug": "prime-2",
-      "title": "Prime",
-      "img": "https://www.smbc-comics.com/comics/1772154344-20260220.png",
-      "alt": "Unrelated, but according to Maynard 2019 there's an infinite number of primes that don't require the letter W.",
-      "date": "2026-02-20",
-      "link": "https://www.smbc-comics.com/comic/prime-2"
     }
   ]
 }
