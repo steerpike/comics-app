@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-03-13T06:58:45.540Z",
+  "fetchedAt": "2026-03-13T18:47:31.617Z",
   "comics": [
+    {
+      "slug": "becoming-cool",
+      "title": "Becoming Cool",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/03/becoming-cool.png",
+      "alt": "",
+      "date": "2026-03-13",
+      "link": "https://poorlydrawnlines.com/comic/becoming-cool/"
+    },
     {
       "slug": "care-about-stuff",
       "title": "Care About Stuff",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-01-08",
       "link": "https://poorlydrawnlines.com/comic/come-closer/"
-    },
-    {
-      "slug": "the-other-cat",
-      "title": "The Other Cat",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2025/12/who-is-there.png",
-      "alt": "",
-      "date": "2025-12-17",
-      "link": "https://poorlydrawnlines.com/comic/the-other-cat/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 15,
-  "highestNum": 4445,
-  "fetchedAt": "2026-03-11T18:57:16.625Z",
+  "total": 16,
+  "highestNum": 4446,
+  "fetchedAt": "2026-03-13T18:47:29.755Z",
   "comics": [
     {
       "num": 4431,
@@ -123,6 +123,14 @@
       "alt": "stop saying ",
       "date": "2026-03-11",
       "link": "http://www.qwantz.com/index.php?comic=4445"
+    },
+    {
+      "num": 4446,
+      "title": "no, it's hairy AND gary, not \"hairy gary\".  look: gary only has the normal amount of hair",
+      "img": "http://www.qwantz.com/comics/comic2-5144.png",
+      "alt": "Later on they travelled back in time to undo this, in what in retrospect was a MUCH more interesting and even MORE canonical adventure!!",
+      "date": "2026-03-13",
+      "link": "http://www.qwantz.com/index.php?comic=4446"
     }
   ]
 }

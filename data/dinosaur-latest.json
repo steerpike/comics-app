@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-13T06:58:40.620Z",
+  "fetchedAt": "2026-03-13T18:47:29.754Z",
   "comics": [
+    {
+      "num": 4446,
+      "title": "no, it's hairy AND gary, not \"hairy gary\".  look: gary only has the normal amount of hair",
+      "img": "http://www.qwantz.com/comics/comic2-5144.png",
+      "alt": "Later on they travelled back in time to undo this, in what in retrospect was a MUCH more interesting and even MORE canonical adventure!!",
+      "date": "2026-03-13",
+      "link": "http://www.qwantz.com/index.php?comic=4446"
+    },
     {
       "num": 4445,
       "title": "writing: some downsides??  AND YES I KNOW I'M USING WRITING TO SAY \"WRITING: SOME DOWNSIDES??\"",
@@ -76,14 +84,6 @@
       "alt": "they said we were all suffering from gigantism to various degrees, all out of scale with each other.  UNBELIEVABLE.",
       "date": "2026-02-18",
       "link": "http://www.qwantz.com/index.php?comic=4437"
-    },
-    {
-      "num": 4436,
-      "title": "you're not the boss of me!  oh, wait, you are?  nevermind, my bad, my bad",
-      "img": "http://www.qwantz.com/comics/comic2-5134.png",
-      "alt": "also whose idea was to put a ",
-      "date": "2026-02-16",
-      "link": "http://www.qwantz.com/index.php?comic=4436"
     }
   ]
 }

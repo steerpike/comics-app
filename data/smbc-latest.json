@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-13T06:58:40.907Z",
+  "fetchedAt": "2026-03-13T18:47:30.074Z",
   "comics": [
+    {
+      "slug": "hmm",
+      "title": "Hmm",
+      "img": "https://www.smbc-comics.com/comics/1773265105-20260313 - Copy.png",
+      "alt": "Confusingly, many of them grow up to dislike Batman.",
+      "date": "2026-03-13",
+      "link": "https://www.smbc-comics.com/comic/hmm"
+    },
     {
       "slug": "sci-fi",
       "title": "Sci fi",
@@ -156,14 +164,6 @@
       "alt": "And they both interpreted their success or failure as deserved rather than a consequence of macroeconomic forces and chance. The end.",
       "date": "2026-02-22",
       "link": "https://www.smbc-comics.com/comic/ant"
-    },
-    {
-      "slug": "nantucket",
-      "title": "Nantucket",
-      "img": "https://www.smbc-comics.com/comics/1771630604-20260221.png",
-      "alt": "The Man from Madras, whose balls were of brass, is in fact a meditation on the need to find synthesis between humanity and technology in modern life.",
-      "date": "2026-02-21",
-      "link": "https://www.smbc-comics.com/comic/nantucket"
     }
   ]
 }
