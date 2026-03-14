@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-14T06:52:52.745Z",
+  "fetchedAt": "2026-03-14T18:42:41.077Z",
   "comics": [
+    {
+      "slug": "rated",
+      "title": "Rated",
+      "img": "https://www.smbc-comics.com/comics/1773265146-20260314.png",
+      "alt": "You must have a bigger humiliation fetish than me!",
+      "date": "2026-03-14",
+      "link": "https://www.smbc-comics.com/comic/rated"
+    },
     {
       "slug": "hmm",
       "title": "Hmm",
@@ -156,14 +164,6 @@
       "alt": "This is what I think about every argument that involves humans agreeing to not doing something with AI.",
       "date": "2026-02-23",
       "link": "https://www.smbc-comics.com/comic/never-2"
-    },
-    {
-      "slug": "ant",
-      "title": "Ant",
-      "img": "https://www.smbc-comics.com/comics/1771630658-20260222.png",
-      "alt": "And they both interpreted their success or failure as deserved rather than a consequence of macroeconomic forces and chance. The end.",
-      "date": "2026-02-22",
-      "link": "https://www.smbc-comics.com/comic/ant"
     }
   ]
 }
