@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3218,
-  "fetchedAt": "2026-03-13T18:47:29.386Z",
+  "latestNum": 3219,
+  "fetchedAt": "2026-03-14T06:52:52.065Z",
   "comics": [
+    {
+      "num": 3219,
+      "title": "Planets and Bright Stars",
+      "img": "https://imgs.xkcd.com/comics/planets_and_bright_stars.png",
+      "alt": "An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.",
+      "date": "2026-03-13"
+    },
     {
       "num": 3218,
       "title": "Subduction Retrieval",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/chemical_formula.png",
       "alt": "Some of the atoms in the molecule are very weakly bound.",
       "date": "2026-01-28"
-    },
-    {
-      "num": 3199,
-      "title": "Early Arthropods",
-      "img": "https://imgs.xkcd.com/comics/early_arthropods.png",
-      "alt": "'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects",
-      "date": "2026-01-26"
     }
   ]
 }
