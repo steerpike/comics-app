@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-16T07:22:39.021Z",
+  "fetchedAt": "2026-03-16T19:06:40.374Z",
   "comics": [
+    {
+      "num": 4447,
+      "title": "BATMAN FACTS featuring A TALKING DINOSAUR who you should TRUST",
+      "img": "http://www.qwantz.com/comics/comic2-5145.png",
+      "alt": "",
+      "date": "2026-03-16",
+      "link": "http://www.qwantz.com/index.php?comic=4447"
+    },
     {
       "num": 4446,
       "title": "no, it's hairy AND gary, not \"hairy gary\".  look: gary only has the normal amount of hair",
@@ -76,14 +84,6 @@
       "alt": "he's the most divorced man in history but he's happily married, he's got a trade he can ply anywhere in the world, and he's got $200,000 in he's looking to spend.  he's... JOHNNY DIVORCED",
       "date": "2026-02-20",
       "link": "http://www.qwantz.com/index.php?comic=4438"
-    },
-    {
-      "num": 4437,
-      "title": "what does this have to do with holographic type, you ask?  and to that i say, \"thanks for asking, i was wondering that too actually, good question\"",
-      "img": "http://www.qwantz.com/comics/comic2-5135.png",
-      "alt": "they said we were all suffering from gigantism to various degrees, all out of scale with each other.  UNBELIEVABLE.",
-      "date": "2026-02-18",
-      "link": "http://www.qwantz.com/index.php?comic=4437"
     }
   ]
 }

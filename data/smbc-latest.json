@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-16T07:22:39.280Z",
+  "fetchedAt": "2026-03-16T19:06:40.787Z",
   "comics": [
+    {
+      "slug": "under",
+      "title": "Under",
+      "img": "https://www.smbc-comics.com/comics/1773626130-20260316.png",
+      "alt": "This is the best votey panel I will ever do.",
+      "date": "2026-03-16",
+      "link": "https://www.smbc-comics.com/comic/under"
+    },
     {
       "slug": "machine",
       "title": "Machine",
@@ -156,14 +164,6 @@
       "alt": "This is when she calls the cops.",
       "date": "2026-02-25",
       "link": "https://www.smbc-comics.com/comic/cow"
-    },
-    {
-      "slug": "out-3",
-      "title": "Out",
-      "img": "https://www.smbc-comics.com/comics/1771879305-20260224.png",
-      "alt": "This is a top ten Calgacus joke.",
-      "date": "2026-02-24",
-      "link": "https://www.smbc-comics.com/comic/out-3"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 16,
-  "highestNum": 4446,
-  "fetchedAt": "2026-03-13T18:47:29.755Z",
+  "total": 17,
+  "highestNum": 4447,
+  "fetchedAt": "2026-03-16T19:06:40.375Z",
   "comics": [
     {
       "num": 4431,
@@ -131,6 +131,14 @@
       "alt": "Later on they travelled back in time to undo this, in what in retrospect was a MUCH more interesting and even MORE canonical adventure!!",
       "date": "2026-03-13",
       "link": "http://www.qwantz.com/index.php?comic=4446"
+    },
+    {
+      "num": 4447,
+      "title": "BATMAN FACTS featuring A TALKING DINOSAUR who you should TRUST",
+      "img": "http://www.qwantz.com/comics/comic2-5145.png",
+      "alt": "",
+      "date": "2026-03-16",
+      "link": "http://www.qwantz.com/index.php?comic=4447"
     }
   ]
 }
