@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3219,
-  "fetchedAt": "2026-03-16T19:06:38.990Z",
+  "latestNum": 3220,
+  "fetchedAt": "2026-03-17T07:08:41.346Z",
   "comics": [
+    {
+      "num": 3220,
+      "title": "Rotational Gravity",
+      "img": "https://imgs.xkcd.com/comics/rotational_gravity.png",
+      "alt": "I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.",
+      "date": "2026-03-16"
+    },
     {
       "num": 3219,
       "title": "Planets and Bright Stars",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/proof_without_content.png",
       "alt": "There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.",
       "date": "2026-01-30"
-    },
-    {
-      "num": 3200,
-      "title": "Chemical Formula",
-      "img": "https://imgs.xkcd.com/comics/chemical_formula.png",
-      "alt": "Some of the atoms in the molecule are very weakly bound.",
-      "date": "2026-01-28"
     }
   ]
 }
