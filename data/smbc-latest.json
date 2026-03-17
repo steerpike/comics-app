@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-17T07:08:43.922Z",
+  "fetchedAt": "2026-03-17T19:05:54.937Z",
   "comics": [
+    {
+      "slug": "philosophy-5",
+      "title": "Philosophy",
+      "img": "https://www.smbc-comics.com/comics/1773639229-20260317.png",
+      "alt": "Actually all the apocalypses are good for philosophers, but this one is best for language analysis.",
+      "date": "2026-03-17",
+      "link": "https://www.smbc-comics.com/comic/philosophy-5"
+    },
     {
       "slug": "under",
       "title": "Under",
@@ -156,14 +164,6 @@
       "alt": "SMBC is just propaganda for longterm relationships.",
       "date": "2026-02-26",
       "link": "https://www.smbc-comics.com/comic/artist"
-    },
-    {
-      "slug": "cow",
-      "title": "Cow",
-      "img": "https://www.smbc-comics.com/comics/1771879352-20260225.png",
-      "alt": "This is when she calls the cops.",
-      "date": "2026-02-25",
-      "link": "https://www.smbc-comics.com/comic/cow"
     }
   ]
 }
