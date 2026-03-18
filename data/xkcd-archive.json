@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3219,
-  "latestNum": 3220,
-  "fetchedAt": "2026-03-17T07:08:41.358Z",
+  "total": 3220,
+  "latestNum": 3221,
+  "fetchedAt": "2026-03-18T19:05:07.358Z",
   "comics": [
     {
       "num": 1,
@@ -22536,6 +22536,13 @@
       "img": "https://imgs.xkcd.com/comics/rotational_gravity.png",
       "alt": "I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.",
       "date": "2026-03-16"
+    },
+    {
+      "num": 3221,
+      "title": "Landscape Features",
+      "img": "https://imgs.xkcd.com/comics/landscape_features.png",
+      "alt": "'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question",
+      "date": "2026-03-18"
     }
   ]
 }

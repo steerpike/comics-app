@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3220,
-  "fetchedAt": "2026-03-18T07:05:42.169Z",
+  "latestNum": 3221,
+  "fetchedAt": "2026-03-18T19:05:07.348Z",
   "comics": [
+    {
+      "num": 3221,
+      "title": "Landscape Features",
+      "img": "https://imgs.xkcd.com/comics/landscape_features.png",
+      "alt": "'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question",
+      "date": "2026-03-18"
+    },
     {
       "num": 3220,
       "title": "Rotational Gravity",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/groundhog_day_meaning.png",
       "alt": "Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.",
       "date": "2026-02-02"
-    },
-    {
-      "num": 3201,
-      "title": "Proof Without Content",
-      "img": "https://imgs.xkcd.com/comics/proof_without_content.png",
-      "alt": "There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.",
-      "date": "2026-01-30"
     }
   ]
 }

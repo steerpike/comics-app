@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-18T07:05:42.958Z",
+  "fetchedAt": "2026-03-18T19:05:08.009Z",
   "comics": [
+    {
+      "slug": "where-4",
+      "title": "Where",
+      "img": "https://www.smbc-comics.com/comics/1773690047-20260318.png",
+      "alt": "All of this is window dressing to justify panel 3.",
+      "date": "2026-03-18",
+      "link": "https://www.smbc-comics.com/comic/where-4"
+    },
     {
       "slug": "philosophy-5",
       "title": "Philosophy",
@@ -156,14 +164,6 @@
       "alt": "You should've seen the look on your face when you thought you'd gotten your mom killed!",
       "date": "2026-02-27",
       "link": "https://www.smbc-comics.com/comic/pulley"
-    },
-    {
-      "slug": "artist",
-      "title": "Artist",
-      "img": "https://www.smbc-comics.com/comics/1771879428-20260226.png",
-      "alt": "SMBC is just propaganda for longterm relationships.",
-      "date": "2026-02-26",
-      "link": "https://www.smbc-comics.com/comic/artist"
     }
   ]
 }
