@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-17T19:05:57.216Z",
+  "fetchedAt": "2026-03-18T07:05:44.774Z",
   "comics": [
+    {
+      "slug": "cyborg-therapy",
+      "title": "Cyborg Therapy",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickencyborgtherapy.jpg",
+      "alt": "Cyborg Therapy",
+      "date": "2026-03-18",
+      "link": "https://www.savagechickens.com/2026/03/cyborg-therapy.html"
+    },
     {
       "slug": "the-legend-of-st-patrick",
       "title": "The Legend of St. Patrick",
@@ -76,14 +84,6 @@
       "alt": "Long Day",
       "date": "2026-03-05",
       "link": "https://www.savagechickens.com/2026/03/long-day.html"
-    },
-    {
-      "slug": "a-i-regrets",
-      "title": "A.I. Regrets",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenairegrets.jpg",
-      "alt": "A.I. Regrets",
-      "date": "2026-03-04",
-      "link": "https://www.savagechickens.com/2026/03/a-i-regrets.html"
     }
   ]
 }
