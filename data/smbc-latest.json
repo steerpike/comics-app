@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-19T07:02:33.083Z",
+  "fetchedAt": "2026-03-19T19:02:54.788Z",
   "comics": [
+    {
+      "slug": "love-9",
+      "title": "Love",
+      "img": "https://www.smbc-comics.com/comics/1773693346-20260319.png",
+      "alt": "Fortunately the comic cuts off at the waist.",
+      "date": "2026-03-19",
+      "link": "https://www.smbc-comics.com/comic/love-9"
+    },
     {
       "slug": "where-4",
       "title": "Where",
@@ -156,14 +164,6 @@
       "alt": "I wonder if you could trick people into paying more in taxes by calling it traditional crowdfunding?",
       "date": "2026-02-28",
       "link": "https://www.smbc-comics.com/comic/fund"
-    },
-    {
-      "slug": "pulley",
-      "title": "Pulley",
-      "img": "https://www.smbc-comics.com/comics/1772154403-20260227-copy.png",
-      "alt": "You should've seen the look on your face when you thought you'd gotten your mom killed!",
-      "date": "2026-02-27",
-      "link": "https://www.smbc-comics.com/comic/pulley"
     }
   ]
 }
