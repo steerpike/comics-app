@@ -3,7 +3,7 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-19T19:02:54.788Z",
+  "fetchedAt": "2026-03-20T07:00:20.081Z",
   "comics": [
     {
       "slug": "love-9",
@@ -56,7 +56,7 @@
     {
       "slug": "hmm",
       "title": "Hmm",
-      "img": "https://www.smbc-comics.com/comics/1773265105-20260313 - Copy.png",
+      "img": "https://www.smbc-comics.com/comics/1773962356-20260313.png",
       "alt": "Confusingly, many of them grow up to dislike Batman.",
       "date": "2026-03-13",
       "link": "https://www.smbc-comics.com/comic/hmm"
