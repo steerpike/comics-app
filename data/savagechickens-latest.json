@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-20T07:00:21.614Z",
+  "fetchedAt": "2026-03-20T18:54:52.488Z",
   "comics": [
+    {
+      "slug": "usually-a-good-combo",
+      "title": "Usually A Good Combo",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenusuallyagoodcombo.jpg",
+      "alt": "Usually A Good Combo",
+      "date": "2026-03-20",
+      "link": "https://www.savagechickens.com/2026/03/usually-a-good-combo.html"
+    },
     {
       "slug": "up-next-4",
       "title": "Up Next!",
@@ -76,14 +84,6 @@
       "alt": "Godzilla Haiku",
       "date": "2026-03-09",
       "link": "https://www.savagechickens.com/2026/03/godzilla-haiku.html"
-    },
-    {
-      "slug": "hot-dog-the-return",
-      "title": "Hot Dog: The Return",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenhotdogthereturn.jpg",
-      "alt": "Hot Dog: The Return",
-      "date": "2026-03-06",
-      "link": "https://www.savagechickens.com/2026/03/hot-dog-the-return.html"
     }
   ]
 }

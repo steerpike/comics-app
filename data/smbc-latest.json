@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-20T07:00:20.081Z",
+  "fetchedAt": "2026-03-20T18:54:51.048Z",
   "comics": [
+    {
+      "slug": "waiting",
+      "title": "Waiting",
+      "img": "https://www.smbc-comics.com/comics/1773693395-20260320.png",
+      "alt": "I hereby release this to Hollywood.",
+      "date": "2026-03-20",
+      "link": "https://www.smbc-comics.com/comic/waiting"
+    },
     {
       "slug": "love-9",
       "title": "Love",
@@ -156,14 +164,6 @@
       "alt": "Clearly R2D2 is the real catch, so going for 3PO proves you're loyal to the cause.",
       "date": "2026-03-01",
       "link": "https://www.smbc-comics.com/comic/friend-2"
-    },
-    {
-      "slug": "fund",
-      "title": "Fund",
-      "img": "https://www.smbc-comics.com/comics/1772154450-20260228.png",
-      "alt": "I wonder if you could trick people into paying more in taxes by calling it traditional crowdfunding?",
-      "date": "2026-02-28",
-      "link": "https://www.smbc-comics.com/comic/fund"
     }
   ]
 }

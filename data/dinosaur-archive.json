@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 18,
-  "highestNum": 4448,
-  "fetchedAt": "2026-03-18T19:05:07.691Z",
+  "total": 19,
+  "highestNum": 4449,
+  "fetchedAt": "2026-03-20T18:54:50.797Z",
   "comics": [
     {
       "num": 4431,
@@ -147,6 +147,14 @@
       "alt": "i'm great at flirting with my friends!  but i'm afraid that flirting with YOUR friends simply wouldn't interest me at all",
       "date": "2026-03-18",
       "link": "http://www.qwantz.com/index.php?comic=4448"
+    },
+    {
+      "num": 4449,
+      "title": "okay i admit: i was thinking of the \"&butiwouldratherbereading=thelastdinosaurcomicever\" url secret code when writing this one",
+      "img": "http://www.qwantz.com/comics/comic2-5147.png",
+      "alt": "We can't even say for sure that the meaning of life isn't to get smushed by an asteroid.  i'm gonna go lie down, and then i'm gonna write one HELL of a got dang treatise",
+      "date": "2026-03-20",
+      "link": "http://www.qwantz.com/index.php?comic=4449"
     }
   ]
 }

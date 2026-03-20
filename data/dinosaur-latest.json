@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-20T07:00:19.827Z",
+  "fetchedAt": "2026-03-20T18:54:50.796Z",
   "comics": [
+    {
+      "num": 4449,
+      "title": "okay i admit: i was thinking of the \"&butiwouldratherbereading=thelastdinosaurcomicever\" url secret code when writing this one",
+      "img": "http://www.qwantz.com/comics/comic2-5147.png",
+      "alt": "We can't even say for sure that the meaning of life isn't to get smushed by an asteroid.  i'm gonna go lie down, and then i'm gonna write one HELL of a got dang treatise",
+      "date": "2026-03-20",
+      "link": "http://www.qwantz.com/index.php?comic=4449"
+    },
     {
       "num": 4448,
       "title": "and thus concludes the trilogy of Three Guys Who Were Great At Different Things, Starring Sherlock Holmes, Batman, And T-Rex, But Not Together, They're On Three Separate And Unrelated Adventures",
@@ -76,14 +84,6 @@
       "alt": "all these cards have dinosaurs on them because THAT'S WHAT SELLS, EVERYONE WANTS A DINOSAUR CARD, GET OUTTA HERE WITH THESE STOCK PHOTOS OF, LIKE, FLOWERS OR WHATEVER",
       "date": "2026-02-27",
       "link": "http://www.qwantz.com/index.php?comic=4440"
-    },
-    {
-      "num": 4439,
-      "title": "count your blessings that your blessings don't break the universe",
-      "img": "http://www.qwantz.com/comics/comic2-5137.png",
-      "alt": "next: t-rex gets a wooden nose that grows when he lies, and, you guessed it, uses it an an infinite source of free wood and therefore steam power",
-      "date": "2026-02-25",
-      "link": "http://www.qwantz.com/index.php?comic=4439"
     }
   ]
 }
