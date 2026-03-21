@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3221,
-  "fetchedAt": "2026-03-20T18:54:50.592Z",
+  "latestNum": 3222,
+  "fetchedAt": "2026-03-21T06:50:16.090Z",
   "comics": [
+    {
+      "num": 3222,
+      "title": "Star Formation",
+      "img": "https://imgs.xkcd.com/comics/star_formation.png",
+      "alt": "It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!",
+      "date": "2026-03-20"
+    },
     {
       "num": 3221,
       "title": "Landscape Features",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/binary_star.png",
       "alt": "The discovery of a fully typographical star system comes with a big asterisk.",
       "date": "2026-02-04"
-    },
-    {
-      "num": 3202,
-      "title": "Groundhog Day Meaning",
-      "img": "https://imgs.xkcd.com/comics/groundhog_day_meaning.png",
-      "alt": "Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.",
-      "date": "2026-02-02"
     }
   ]
 }

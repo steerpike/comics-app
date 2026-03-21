@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3220,
-  "latestNum": 3221,
-  "fetchedAt": "2026-03-18T19:05:07.358Z",
+  "total": 3221,
+  "latestNum": 3222,
+  "fetchedAt": "2026-03-21T06:50:16.099Z",
   "comics": [
     {
       "num": 1,
@@ -22543,6 +22543,13 @@
       "img": "https://imgs.xkcd.com/comics/landscape_features.png",
       "alt": "'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question",
       "date": "2026-03-18"
+    },
+    {
+      "num": 3222,
+      "title": "Star Formation",
+      "img": "https://imgs.xkcd.com/comics/star_formation.png",
+      "alt": "It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!",
+      "date": "2026-03-20"
     }
   ]
 }
