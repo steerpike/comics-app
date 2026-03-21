@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-21T06:50:16.737Z",
+  "fetchedAt": "2026-03-21T18:40:26.688Z",
   "comics": [
+    {
+      "slug": "congrats-2",
+      "title": "Congrats",
+      "img": "https://www.smbc-comics.com/comics/1773961670-20260321.png",
+      "alt": "Well now I wish it were twins.",
+      "date": "2026-03-21",
+      "link": "https://www.smbc-comics.com/comic/congrats-2"
+    },
     {
       "slug": "waiting",
       "title": "Waiting",
@@ -156,14 +164,6 @@
       "alt": "On the last Socrates joke, like a dozen people told me I should've called his nutritional supplements Himlock, and it just kills me that I didn't.",
       "date": "2026-03-02",
       "link": "https://www.smbc-comics.com/comic/athenian"
-    },
-    {
-      "slug": "friend-2",
-      "title": "Friend",
-      "img": "https://www.smbc-comics.com/comics/1772223575-20260301copy.png",
-      "alt": "Clearly R2D2 is the real catch, so going for 3PO proves you're loyal to the cause.",
-      "date": "2026-03-01",
-      "link": "https://www.smbc-comics.com/comic/friend-2"
     }
   ]
 }
