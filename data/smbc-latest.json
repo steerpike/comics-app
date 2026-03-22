@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-22T06:56:29.734Z",
+  "fetchedAt": "2026-03-22T18:41:27.590Z",
   "comics": [
+    {
+      "slug": "wait-2",
+      "title": "Wait",
+      "img": "https://www.smbc-comics.com/comics/1773962220-20260322.png",
+      "alt": "Guess he's not buying the see-thru feel-thru corset either.",
+      "date": "2026-03-22",
+      "link": "https://www.smbc-comics.com/comic/wait-2"
+    },
     {
       "slug": "congrats-2",
       "title": "Congrats",
@@ -156,14 +164,6 @@
       "alt": "The other option is good cop, cop pretending to be a fish on the floor that keeps flopping around but won't die.",
       "date": "2026-03-03",
       "link": "https://www.smbc-comics.com/comic/good-cop"
-    },
-    {
-      "slug": "athenian",
-      "title": "Athenian",
-      "img": "https://www.smbc-comics.com/comics/1772223623-20260302.png",
-      "alt": "On the last Socrates joke, like a dozen people told me I should've called his nutritional supplements Himlock, and it just kills me that I didn't.",
-      "date": "2026-03-02",
-      "link": "https://www.smbc-comics.com/comic/athenian"
     }
   ]
 }
