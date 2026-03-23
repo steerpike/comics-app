@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3222,
-  "fetchedAt": "2026-03-23T07:15:18.684Z",
+  "latestNum": 3223,
+  "fetchedAt": "2026-03-23T18:59:41.670Z",
   "comics": [
+    {
+      "num": 3223,
+      "title": "Inflation Timeline",
+      "img": "https://imgs.xkcd.com/comics/inflation_timeline.png",
+      "alt": "Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'",
+      "date": "2026-03-23"
+    },
     {
       "num": 3222,
       "title": "Star Formation",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png",
       "alt": "Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.",
       "date": "2026-02-06"
-    },
-    {
-      "num": 3203,
-      "title": "Binary Star",
-      "img": "https://imgs.xkcd.com/comics/binary_star.png",
-      "alt": "The discovery of a fully typographical star system comes with a big asterisk.",
-      "date": "2026-02-04"
     }
   ]
 }

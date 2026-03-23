@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3221,
-  "latestNum": 3222,
-  "fetchedAt": "2026-03-21T06:50:16.099Z",
+  "total": 3222,
+  "latestNum": 3223,
+  "fetchedAt": "2026-03-23T18:59:41.679Z",
   "comics": [
     {
       "num": 1,
@@ -22550,6 +22550,13 @@
       "img": "https://imgs.xkcd.com/comics/star_formation.png",
       "alt": "It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!",
       "date": "2026-03-20"
+    },
+    {
+      "num": 3223,
+      "title": "Inflation Timeline",
+      "img": "https://imgs.xkcd.com/comics/inflation_timeline.png",
+      "alt": "Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'",
+      "date": "2026-03-23"
     }
   ]
 }

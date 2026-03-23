@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-23T07:15:19.009Z",
+  "fetchedAt": "2026-03-23T18:59:42.204Z",
   "comics": [
+    {
+      "num": 4450,
+      "title": "the meaning of life (part 2)",
+      "img": "http://www.qwantz.com/comics/comic2-5148.png",
+      "alt": "other philosopher's books are too big, so i'm just gonna summarize them.  also, i'm not going to read them first so that way you know my summaries are completely unbiased",
+      "date": "2026-03-23",
+      "link": "http://www.qwantz.com/index.php?comic=4450"
+    },
     {
       "num": 4449,
       "title": "okay i admit: i was thinking of the \"&butiwouldratherbereading=thelastdinosaurcomicever\" url secret code when writing this one",
@@ -76,14 +84,6 @@
       "alt": "that's a big oopsie-doopsie on my part, and i apologize",
       "date": "2026-03-02",
       "link": "http://www.qwantz.com/index.php?comic=4441"
-    },
-    {
-      "num": 4440,
-      "title": "okay MAYBE the graphic design could use some work but on the other hand... maybe not??",
-      "img": "http://www.qwantz.com/comics/comic2-5138.png",
-      "alt": "all these cards have dinosaurs on them because THAT'S WHAT SELLS, EVERYONE WANTS A DINOSAUR CARD, GET OUTTA HERE WITH THESE STOCK PHOTOS OF, LIKE, FLOWERS OR WHATEVER",
-      "date": "2026-02-27",
-      "link": "http://www.qwantz.com/index.php?comic=4440"
     }
   ]
 }

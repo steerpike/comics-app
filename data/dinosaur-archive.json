@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 19,
-  "highestNum": 4449,
-  "fetchedAt": "2026-03-20T18:54:50.797Z",
+  "total": 20,
+  "highestNum": 4450,
+  "fetchedAt": "2026-03-23T18:59:42.204Z",
   "comics": [
     {
       "num": 4431,
@@ -155,6 +155,14 @@
       "alt": "We can't even say for sure that the meaning of life isn't to get smushed by an asteroid.  i'm gonna go lie down, and then i'm gonna write one HELL of a got dang treatise",
       "date": "2026-03-20",
       "link": "http://www.qwantz.com/index.php?comic=4449"
+    },
+    {
+      "num": 4450,
+      "title": "the meaning of life (part 2)",
+      "img": "http://www.qwantz.com/comics/comic2-5148.png",
+      "alt": "other philosopher's books are too big, so i'm just gonna summarize them.  also, i'm not going to read them first so that way you know my summaries are completely unbiased",
+      "date": "2026-03-23",
+      "link": "http://www.qwantz.com/index.php?comic=4450"
     }
   ]
 }
