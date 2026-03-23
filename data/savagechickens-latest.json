@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-22T18:41:29.522Z",
+  "fetchedAt": "2026-03-23T07:15:20.927Z",
   "comics": [
+    {
+      "slug": "uncomfortable-2",
+      "title": "Uncomfortable",
+      "img": "https://www.savagechickens.com/wp-content/uploads/uncomfortable.jpg",
+      "alt": "Uncomfortable",
+      "date": "2026-03-23",
+      "link": "https://www.savagechickens.com/2026/03/uncomfortable-2.html"
+    },
     {
       "slug": "usually-a-good-combo",
       "title": "Usually A Good Combo",
@@ -76,14 +84,6 @@
       "alt": "Immersive",
       "date": "2026-03-10",
       "link": "https://www.savagechickens.com/2026/03/immersive.html"
-    },
-    {
-      "slug": "godzilla-haiku",
-      "title": "Godzilla Haiku",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickengodzillahaiku.jpg",
-      "alt": "Godzilla Haiku",
-      "date": "2026-03-09",
-      "link": "https://www.savagechickens.com/2026/03/godzilla-haiku.html"
     }
   ]
 }
