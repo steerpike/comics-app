@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-23T18:59:44.240Z",
+  "fetchedAt": "2026-03-24T07:08:29.172Z",
   "comics": [
+    {
+      "slug": "morale",
+      "title": "Morale",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmorale-1.jpg",
+      "alt": "Morale",
+      "date": "2026-03-24",
+      "link": "https://www.savagechickens.com/2026/03/morale.html"
+    },
     {
       "slug": "uncomfortable-2",
       "title": "Uncomfortable",
@@ -76,14 +84,6 @@
       "alt": "Nice Cave",
       "date": "2026-03-11",
       "link": "https://www.savagechickens.com/2026/03/nice-cave.html"
-    },
-    {
-      "slug": "immersive",
-      "title": "Immersive",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenimmersive.jpg",
-      "alt": "Immersive",
-      "date": "2026-03-10",
-      "link": "https://www.savagechickens.com/2026/03/immersive.html"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-03-23T18:59:43.934Z",
+  "fetchedAt": "2026-03-24T07:08:28.900Z",
   "comics": [
+    {
+      "slug": "let-you-down",
+      "title": "Let You Down",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/03/let-you-down.png",
+      "alt": "",
+      "date": "2026-03-17",
+      "link": "https://poorlydrawnlines.com/comic/let-you-down/"
+    },
     {
       "slug": "becoming-cool",
       "title": "Becoming Cool",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-01-21",
       "link": "https://poorlydrawnlines.com/comic/inspire-people/"
-    },
-    {
-      "slug": "come-closer",
-      "title": "Come Closer",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/01/come-closer.png",
-      "alt": "",
-      "date": "2026-01-08",
-      "link": "https://poorlydrawnlines.com/comic/come-closer/"
     }
   ]
 }

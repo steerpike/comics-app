@@ -3,8 +3,16 @@
   "name": "Loading Artist",
   "url": "https://loadingartist.com",
   "attribution": "Loading Artist by Gregor Czaykowski",
-  "fetchedAt": "2026-03-23T18:59:44.746Z",
+  "fetchedAt": "2026-03-24T07:08:29.681Z",
   "comics": [
+    {
+      "slug": "be-write-back",
+      "title": "Be Write Back",
+      "img": "https://loadingartist.com/comic/be-write-back/be-write-back_hu14741037498826812809.jpg",
+      "alt": "4-panel Loading Artist comic.\nPanel 1: Red guy finds Hat guy surrounded by stacks of books, scribbling furiously. ",
+      "date": "2026-03-24",
+      "link": "https://loadingartist.com/comic/be-write-back/"
+    },
     {
       "slug": "downtime",
       "title": "Downtime",
