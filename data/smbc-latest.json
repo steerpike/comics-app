@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-24T07:08:27.499Z",
+  "fetchedAt": "2026-03-24T19:07:29.894Z",
   "comics": [
+    {
+      "slug": "phi",
+      "title": "Phi",
+      "img": "https://www.smbc-comics.com/comics/1773971979-20260324.png",
+      "alt": "There should be demotivational youtube math videos. Just to be different.",
+      "date": "2026-03-24",
+      "link": "https://www.smbc-comics.com/comic/phi"
+    },
     {
       "slug": "nature-4",
       "title": "Nature",
@@ -156,14 +164,6 @@
       "alt": "Still better than the time I got divorced via a pop-up book.",
       "date": "2026-03-05",
       "link": "https://www.smbc-comics.com/comic/wow-3"
-    },
-    {
-      "slug": "serve",
-      "title": "Serve",
-      "img": "https://www.smbc-comics.com/comics/1772481186-20260304.png",
-      "alt": "I need to do an upbeat comic week one of these days. They all end with hooray.",
-      "date": "2026-03-04",
-      "link": "https://www.smbc-comics.com/comic/serve"
     }
   ]
 }
