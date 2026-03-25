@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-03-25T07:06:19.323Z",
+  "fetchedAt": "2026-03-25T18:59:49.965Z",
   "comics": [
+    {
+      "slug": "seriously",
+      "title": "Seriously",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/03/take-me-seriously-2.png",
+      "alt": "",
+      "date": "2026-03-25",
+      "link": "https://poorlydrawnlines.com/comic/seriously/"
+    },
     {
       "slug": "let-you-down",
       "title": "Let You Down",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-01-28",
       "link": "https://poorlydrawnlines.com/comic/as-an-adult/"
-    },
-    {
-      "slug": "inspire-people",
-      "title": "Inspire People",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/01/inspire-people.png",
-      "alt": "",
-      "date": "2026-01-21",
-      "link": "https://poorlydrawnlines.com/comic/inspire-people/"
     }
   ]
 }

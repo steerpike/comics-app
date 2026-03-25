@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 20,
-  "highestNum": 4450,
-  "fetchedAt": "2026-03-23T18:59:42.204Z",
+  "total": 21,
+  "highestNum": 4451,
+  "fetchedAt": "2026-03-25T18:59:48.644Z",
   "comics": [
     {
       "num": 4431,
@@ -163,6 +163,14 @@
       "alt": "other philosopher's books are too big, so i'm just gonna summarize them.  also, i'm not going to read them first so that way you know my summaries are completely unbiased",
       "date": "2026-03-23",
       "link": "http://www.qwantz.com/index.php?comic=4450"
+    },
+    {
+      "num": 4451,
+      "title": "the meaning of life AND/OR math",
+      "img": "http://www.qwantz.com/comics/comic2-5149.png",
+      "alt": "we're still inventing new shapes!!  babies keep having to learn new shapes, and in this case WE'RE BABIES!!",
+      "date": "2026-03-25",
+      "link": "http://www.qwantz.com/index.php?comic=4451"
     }
   ]
 }

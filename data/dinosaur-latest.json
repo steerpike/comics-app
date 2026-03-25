@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-25T07:06:17.319Z",
+  "fetchedAt": "2026-03-25T18:59:48.643Z",
   "comics": [
+    {
+      "num": 4451,
+      "title": "the meaning of life AND/OR math",
+      "img": "http://www.qwantz.com/comics/comic2-5149.png",
+      "alt": "we're still inventing new shapes!!  babies keep having to learn new shapes, and in this case WE'RE BABIES!!",
+      "date": "2026-03-25",
+      "link": "http://www.qwantz.com/index.php?comic=4451"
+    },
     {
       "num": 4450,
       "title": "the meaning of life (part 2)",
@@ -76,14 +84,6 @@
       "alt": "but i LOVE universes where aphorisms suddenly become literally true comics!!",
       "date": "2026-03-04",
       "link": "http://www.qwantz.com/index.php?comic=4442"
-    },
-    {
-      "num": 4441,
-      "title": "we're all in this together, and by \"this\" i mean \"being forced to devour other life if we wish to maintain our own\"",
-      "img": "http://www.qwantz.com/comics/comic2-5139.png",
-      "alt": "that's a big oopsie-doopsie on my part, and i apologize",
-      "date": "2026-03-02",
-      "link": "http://www.qwantz.com/index.php?comic=4441"
     }
   ]
 }

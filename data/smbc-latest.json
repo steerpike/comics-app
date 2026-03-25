@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-25T07:06:17.550Z",
+  "fetchedAt": "2026-03-25T18:59:48.935Z",
   "comics": [
+    {
+      "slug": "noble-2",
+      "title": "Noble",
+      "img": "https://www.smbc-comics.com/comics/1774386995-20260325.png",
+      "alt": "Later she has to decide if broadcast fertilizing a lake without telling her is a kind of cheating.",
+      "date": "2026-03-25",
+      "link": "https://www.smbc-comics.com/comic/noble-2"
+    },
     {
       "slug": "phi",
       "title": "Phi",
@@ -156,14 +164,6 @@
       "alt": "Batman would've just reached for his utility belt.",
       "date": "2026-03-06",
       "link": "https://www.smbc-comics.com/comic/curses"
-    },
-    {
-      "slug": "wow-3",
-      "title": "Wow",
-      "img": "https://www.smbc-comics.com/comics/1772735783-20260305 (1).png",
-      "alt": "Still better than the time I got divorced via a pop-up book.",
-      "date": "2026-03-05",
-      "link": "https://www.smbc-comics.com/comic/wow-3"
     }
   ]
 }
