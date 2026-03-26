@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-26T07:13:45.666Z",
+  "fetchedAt": "2026-03-26T19:11:23.230Z",
   "comics": [
+    {
+      "slug": "humor-2",
+      "title": "Humor",
+      "img": "https://www.smbc-comics.com/comics/1774387043-20260326.png",
+      "alt": "This comic is for an audience of one, named Kelly.",
+      "date": "2026-03-26",
+      "link": "https://www.smbc-comics.com/comic/humor-2"
+    },
     {
       "slug": "noble-2",
       "title": "Noble",
@@ -156,14 +164,6 @@
       "alt": "Actually there's probably a medieval German version that makes this one look pleasant.",
       "date": "2026-03-07",
       "link": "https://www.smbc-comics.com/comic/pumpkin"
-    },
-    {
-      "slug": "curses",
-      "title": "Curses",
-      "img": "https://www.smbc-comics.com/comics/1772766658-20260306.png",
-      "alt": "Batman would've just reached for his utility belt.",
-      "date": "2026-03-06",
-      "link": "https://www.smbc-comics.com/comic/curses"
     }
   ]
 }
