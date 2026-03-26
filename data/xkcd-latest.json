@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3223,
-  "fetchedAt": "2026-03-25T18:59:48.370Z",
+  "latestNum": 3224,
+  "fetchedAt": "2026-03-26T07:13:43.893Z",
   "comics": [
+    {
+      "num": 3224,
+      "title": "Centimeter Wavelengths",
+      "img": "https://imgs.xkcd.com/comics/centimeter_wavelengths.png",
+      "alt": "Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?",
+      "date": "2026-03-25"
+    },
     {
       "num": 3223,
       "title": "Inflation Timeline",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/carbon_dating.png",
       "alt": "This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.",
       "date": "2026-02-09"
-    },
-    {
-      "num": 3204,
-      "title": "Dinosaurs And Non-Dinosaurs",
-      "img": "https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png",
-      "alt": "Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.",
-      "date": "2026-02-06"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-25T18:59:50.641Z",
+  "fetchedAt": "2026-03-26T07:13:48.032Z",
   "comics": [
+    {
+      "slug": "every-morning",
+      "title": "Every Morning",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickeneverymorning.jpg",
+      "alt": "Every Morning",
+      "date": "2026-03-26",
+      "link": "https://www.savagechickens.com/2026/03/every-morning.html"
+    },
     {
       "slug": "cat-magic",
       "title": "Cat Magic",
@@ -76,14 +84,6 @@
       "alt": "Friday the 13th: Part XXXVII",
       "date": "2026-03-13",
       "link": "https://www.savagechickens.com/2026/03/friday-the-13th-part-xxxvii.html"
-    },
-    {
-      "slug": "sashimi",
-      "title": "Sashimi",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickensashimi.jpg",
-      "alt": "Sashimi",
-      "date": "2026-03-12",
-      "link": "https://www.savagechickens.com/2026/03/sashimi.html"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3222,
-  "latestNum": 3223,
-  "fetchedAt": "2026-03-23T18:59:41.679Z",
+  "total": 3223,
+  "latestNum": 3224,
+  "fetchedAt": "2026-03-26T07:13:43.903Z",
   "comics": [
     {
       "num": 1,
@@ -22557,6 +22557,13 @@
       "img": "https://imgs.xkcd.com/comics/inflation_timeline.png",
       "alt": "Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'",
       "date": "2026-03-23"
+    },
+    {
+      "num": 3224,
+      "title": "Centimeter Wavelengths",
+      "img": "https://imgs.xkcd.com/comics/centimeter_wavelengths.png",
+      "alt": "Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?",
+      "date": "2026-03-25"
     }
   ]
 }
