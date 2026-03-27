@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 21,
-  "highestNum": 4451,
-  "fetchedAt": "2026-03-25T18:59:48.644Z",
+  "total": 22,
+  "highestNum": 4452,
+  "fetchedAt": "2026-03-27T18:59:44.454Z",
   "comics": [
     {
       "num": 4431,
@@ -171,6 +171,14 @@
       "alt": "we're still inventing new shapes!!  babies keep having to learn new shapes, and in this case WE'RE BABIES!!",
       "date": "2026-03-25",
       "link": "http://www.qwantz.com/index.php?comic=4451"
+    },
+    {
+      "num": 4452,
+      "title": "several parts of his biography here are fabrications, but they're impossible to fully disprove, which makes them the SUPER FUN kind of made-up biography part",
+      "img": "http://www.qwantz.com/comics/comic2-5150.png",
+      "alt": "Chris Doppler, or ",
+      "date": "2026-03-27",
+      "link": "http://www.qwantz.com/index.php?comic=4452"
     }
   ]
 }

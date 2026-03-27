@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-27T07:13:02.929Z",
+  "fetchedAt": "2026-03-27T18:59:44.698Z",
   "comics": [
+    {
+      "slug": "shocks",
+      "title": "Shocks",
+      "img": "https://www.smbc-comics.com/comics/1774387174-20260327.png",
+      "alt": "S and S is a form of S and M.",
+      "date": "2026-03-27",
+      "link": "https://www.smbc-comics.com/comic/shocks"
+    },
     {
       "slug": "humor-2",
       "title": "Humor",
@@ -156,14 +164,6 @@
       "alt": "I need to do a collection of just comics containing the word Hooray.",
       "date": "2026-03-08",
       "link": "https://www.smbc-comics.com/comic/hooray"
-    },
-    {
-      "slug": "pumpkin",
-      "title": "Pumpkin",
-      "img": "https://www.smbc-comics.com/comics/1773264910-20260307.png",
-      "alt": "Actually there's probably a medieval German version that makes this one look pleasant.",
-      "date": "2026-03-07",
-      "link": "https://www.smbc-comics.com/comic/pumpkin"
     }
   ]
 }

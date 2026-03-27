@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-27T07:12:59.121Z",
+  "fetchedAt": "2026-03-27T18:59:44.453Z",
   "comics": [
+    {
+      "num": 4452,
+      "title": "several parts of his biography here are fabrications, but they're impossible to fully disprove, which makes them the SUPER FUN kind of made-up biography part",
+      "img": "http://www.qwantz.com/comics/comic2-5150.png",
+      "alt": "Chris Doppler, or ",
+      "date": "2026-03-27",
+      "link": "http://www.qwantz.com/index.php?comic=4452"
+    },
     {
       "num": 4451,
       "title": "the meaning of life AND/OR math",
@@ -76,14 +84,6 @@
       "alt": "none of his friends mention how hard it'll be for him to get them on his face, but that's because they're all happy to help him whenever he wants.  OH SNAP, WHOLESOME MOMENTS IN DINOSAUR COMICS!!",
       "date": "2026-03-06",
       "link": "http://www.qwantz.com/index.php?comic=4443"
-    },
-    {
-      "num": 4442,
-      "title": "universe where aphorisms suddenly become literally true comics",
-      "img": "http://www.qwantz.com/comics/comic2-5140.png",
-      "alt": "but i LOVE universes where aphorisms suddenly become literally true comics!!",
-      "date": "2026-03-04",
-      "link": "http://www.qwantz.com/index.php?comic=4442"
     }
   ]
 }
