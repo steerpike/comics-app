@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-26T19:11:25.290Z",
+  "fetchedAt": "2026-03-27T07:13:09.358Z",
   "comics": [
+    {
+      "slug": "hooray",
+      "title": "Hooray!",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenhooray.jpg",
+      "alt": "Hooray!",
+      "date": "2026-03-27",
+      "link": "https://www.savagechickens.com/2026/03/hooray.html"
+    },
     {
       "slug": "every-morning",
       "title": "Every Morning",
@@ -76,14 +84,6 @@
       "alt": "The Truth",
       "date": "2026-03-16",
       "link": "https://www.savagechickens.com/2026/03/the-truth-2.html"
-    },
-    {
-      "slug": "friday-the-13th-part-xxxvii",
-      "title": "Friday the 13th: Part XXXVII",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenfridaythe13thxxxvii.jpg",
-      "alt": "Friday the 13th: Part XXXVII",
-      "date": "2026-03-13",
-      "link": "https://www.savagechickens.com/2026/03/friday-the-13th-part-xxxvii.html"
     }
   ]
 }
