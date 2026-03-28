@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3224,
-  "fetchedAt": "2026-03-27T18:59:44.328Z",
+  "latestNum": 3225,
+  "fetchedAt": "2026-03-28T07:02:57.920Z",
   "comics": [
+    {
+      "num": 3225,
+      "title": "Satellite Pollution",
+      "img": "https://imgs.xkcd.com/comics/satellite_pollution.png",
+      "alt": "We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.",
+      "date": "2026-03-27"
+    },
     {
       "num": 3224,
       "title": "Centimeter Wavelengths",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/installation.png",
       "alt": "Do YOU remember the skylight being this big?",
       "date": "2026-02-11"
-    },
-    {
-      "num": 3205,
-      "title": "Carbon Dating",
-      "img": "https://imgs.xkcd.com/comics/carbon_dating.png",
-      "alt": "This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.",
-      "date": "2026-02-09"
     }
   ]
 }

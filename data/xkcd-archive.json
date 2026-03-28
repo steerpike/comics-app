@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3223,
-  "latestNum": 3224,
-  "fetchedAt": "2026-03-26T07:13:43.903Z",
+  "total": 3224,
+  "latestNum": 3225,
+  "fetchedAt": "2026-03-28T07:02:57.929Z",
   "comics": [
     {
       "num": 1,
@@ -22564,6 +22564,13 @@
       "img": "https://imgs.xkcd.com/comics/centimeter_wavelengths.png",
       "alt": "Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?",
       "date": "2026-03-25"
+    },
+    {
+      "num": 3225,
+      "title": "Satellite Pollution",
+      "img": "https://imgs.xkcd.com/comics/satellite_pollution.png",
+      "alt": "We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.",
+      "date": "2026-03-27"
     }
   ]
 }
