@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-28T07:02:59.682Z",
+  "fetchedAt": "2026-03-28T18:45:39.810Z",
   "comics": [
+    {
+      "slug": "cure-3",
+      "title": "Cure",
+      "img": "https://www.smbc-comics.com/comics/1774664956-20260328.png",
+      "alt": "Later, while he's crying on the floor she wedgies him without mercy.",
+      "date": "2026-03-28",
+      "link": "https://www.smbc-comics.com/comic/cure-3"
+    },
     {
       "slug": "shocks",
       "title": "Shocks",
@@ -156,14 +164,6 @@
       "alt": "The baby also goes to jail and has the cutest little orange jumpsuit.",
       "date": "2026-03-09",
       "link": "https://www.smbc-comics.com/comic/invisible"
-    },
-    {
-      "slug": "hooray",
-      "title": "Hooray",
-      "img": "https://www.smbc-comics.com/comics/1772766819-20260308.png",
-      "alt": "I need to do a collection of just comics containing the word Hooray.",
-      "date": "2026-03-08",
-      "link": "https://www.smbc-comics.com/comic/hooray"
     }
   ]
 }
