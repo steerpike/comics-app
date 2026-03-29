@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-29T07:08:37.343Z",
+  "fetchedAt": "2026-03-29T18:48:55.562Z",
   "comics": [
+    {
+      "slug": "water",
+      "title": "Water",
+      "img": "https://www.smbc-comics.com/comics/1774664991-20260329.png",
+      "alt": "Later, it puts him in a corner and forgets about him for six months.",
+      "date": "2026-03-29",
+      "link": "https://www.smbc-comics.com/comic/water"
+    },
     {
       "slug": "cure-3",
       "title": "Cure",
@@ -156,14 +164,6 @@
       "alt": "The alternative was artisanal soap biiiiiitch.",
       "date": "2026-03-10",
       "link": "https://www.smbc-comics.com/comic/learn-2"
-    },
-    {
-      "slug": "invisible",
-      "title": "Invisible",
-      "img": "https://www.smbc-comics.com/comics/1773007628-20260309.png",
-      "alt": "The baby also goes to jail and has the cutest little orange jumpsuit.",
-      "date": "2026-03-09",
-      "link": "https://www.smbc-comics.com/comic/invisible"
     }
   ]
 }
