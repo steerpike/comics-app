@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-30T07:46:55.673Z",
+  "fetchedAt": "2026-03-30T19:03:21.829Z",
   "comics": [
+    {
+      "slug": "humanities-2",
+      "title": "Humanities",
+      "img": "https://www.smbc-comics.com/comics/1774665043-20260330.png",
+      "alt": "Anyone who thinks the humanities makes people more expansive should spend four minutes in an English department meeting.",
+      "date": "2026-03-30",
+      "link": "https://www.smbc-comics.com/comic/humanities-2"
+    },
     {
       "slug": "water",
       "title": "Water",
@@ -156,14 +164,6 @@
       "alt": "God keeps trying to evolve primates to be more repulsive to each other and they just keep finding it hotter.",
       "date": "2026-03-11",
       "link": "https://www.smbc-comics.com/comic/holy-2"
-    },
-    {
-      "slug": "learn-2",
-      "title": "Learn",
-      "img": "https://www.smbc-comics.com/comics/1773007680-20260310.png",
-      "alt": "The alternative was artisanal soap biiiiiitch.",
-      "date": "2026-03-10",
-      "link": "https://www.smbc-comics.com/comic/learn-2"
     }
   ]
 }

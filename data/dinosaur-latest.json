@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-03-30T07:46:55.185Z",
+  "fetchedAt": "2026-03-30T19:03:21.567Z",
   "comics": [
+    {
+      "num": 4453,
+      "title": "god: if you want me to leave this building, just send me a sign",
+      "img": "http://www.qwantz.com/comics/comic2-5151.png",
+      "alt": "IN MY DEFENSE, the last minute has been really educational for me vis-a-vis why i'm bad at this",
+      "date": "2026-03-30",
+      "link": "http://www.qwantz.com/index.php?comic=4453"
+    },
     {
       "num": 4452,
       "title": "several parts of his biography here are fabrications, but they're impossible to fully disprove, which makes them the SUPER FUN kind of made-up biography part",
@@ -76,14 +84,6 @@
       "alt": "the universal narrative conclude-o-matic is misnamed: it IS obviously universal, but as it requires you to choose options it is not fully ",
       "date": "2026-03-09",
       "link": "http://www.qwantz.com/index.php?comic=4444"
-    },
-    {
-      "num": 4443,
-      "title": "you can't spell \"glass\" without \"ass\", but this means absolutely nothing and i do regret pointing it out",
-      "img": "http://www.qwantz.com/comics/comic2-5141.png",
-      "alt": "none of his friends mention how hard it'll be for him to get them on his face, but that's because they're all happy to help him whenever he wants.  OH SNAP, WHOLESOME MOMENTS IN DINOSAUR COMICS!!",
-      "date": "2026-03-06",
-      "link": "http://www.qwantz.com/index.php?comic=4443"
     }
   ]
 }

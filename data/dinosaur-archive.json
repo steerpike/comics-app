@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 22,
-  "highestNum": 4452,
-  "fetchedAt": "2026-03-27T18:59:44.454Z",
+  "total": 23,
+  "highestNum": 4453,
+  "fetchedAt": "2026-03-30T19:03:21.568Z",
   "comics": [
     {
       "num": 4431,
@@ -179,6 +179,14 @@
       "alt": "Chris Doppler, or ",
       "date": "2026-03-27",
       "link": "http://www.qwantz.com/index.php?comic=4452"
+    },
+    {
+      "num": 4453,
+      "title": "god: if you want me to leave this building, just send me a sign",
+      "img": "http://www.qwantz.com/comics/comic2-5151.png",
+      "alt": "IN MY DEFENSE, the last minute has been really educational for me vis-a-vis why i'm bad at this",
+      "date": "2026-03-30",
+      "link": "http://www.qwantz.com/index.php?comic=4453"
     }
   ]
 }
