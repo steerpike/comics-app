@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3225,
-  "fetchedAt": "2026-03-30T19:03:21.211Z",
+  "latestNum": 3226,
+  "fetchedAt": "2026-03-31T07:20:17.161Z",
   "comics": [
+    {
+      "num": 3226,
+      "title": "Home Solar",
+      "img": "https://imgs.xkcd.com/comics/home_solar.png",
+      "alt": "\"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own.\"",
+      "date": "2026-03-30"
+    },
     {
       "num": 3225,
       "title": "Satellite Pollution",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png",
       "alt": "'The zero line in WMM2025 passes through a lot of population centers; I wonder what year the largest share of the population lived in a zone of less than 5° of declination,' he thought, derailing all other tasks for the rest of the day.",
       "date": "2026-02-13"
-    },
-    {
-      "num": 3206,
-      "title": "Installation",
-      "img": "https://imgs.xkcd.com/comics/installation.png",
-      "alt": "Do YOU remember the skylight being this big?",
-      "date": "2026-02-11"
     }
   ]
 }
