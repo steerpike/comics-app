@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-03-31T07:20:18.157Z",
+  "fetchedAt": "2026-03-31T19:05:22.624Z",
   "comics": [
+    {
+      "slug": "up-4",
+      "title": "Up",
+      "img": "https://www.smbc-comics.com/comics/1774665092-20260331.png",
+      "alt": "You also have chickenbutt, but honestly it's the least of your worries.",
+      "date": "2026-03-31",
+      "link": "https://www.smbc-comics.com/comic/up-4"
+    },
     {
       "slug": "humanities-2",
       "title": "Humanities",
@@ -156,14 +164,6 @@
       "alt": "If Ai destroys the world because we wrote stories about it, we will at least have the funniest possible apocalypse.",
       "date": "2026-03-12",
       "link": "https://www.smbc-comics.com/comic/sci-fi"
-    },
-    {
-      "slug": "holy-2",
-      "title": "Holy",
-      "img": "https://www.smbc-comics.com/comics/1773007729-20260311.png",
-      "alt": "God keeps trying to evolve primates to be more repulsive to each other and they just keep finding it hotter.",
-      "date": "2026-03-11",
-      "link": "https://www.smbc-comics.com/comic/holy-2"
     }
   ]
 }
