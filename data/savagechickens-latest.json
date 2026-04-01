@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-03-31T19:05:24.666Z",
+  "fetchedAt": "2026-04-01T07:26:04.102Z",
   "comics": [
+    {
+      "slug": "scratch",
+      "title": "Scratch",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenscratch-1.jpg",
+      "alt": "Scratch",
+      "date": "2026-04-01",
+      "link": "https://www.savagechickens.com/2026/04/scratch.html"
+    },
     {
       "slug": "basking",
       "title": "Basking",
@@ -76,14 +84,6 @@
       "alt": "Up Next!",
       "date": "2026-03-19",
       "link": "https://www.savagechickens.com/2026/03/up-next-4.html"
-    },
-    {
-      "slug": "cyborg-therapy",
-      "title": "Cyborg Therapy",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickencyborgtherapy.jpg",
-      "alt": "Cyborg Therapy",
-      "date": "2026-03-18",
-      "link": "https://www.savagechickens.com/2026/03/cyborg-therapy.html"
     }
   ]
 }
