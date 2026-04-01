@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-04-01T07:25:47.115Z",
+  "fetchedAt": "2026-04-01T19:06:53.855Z",
   "comics": [
+    {
+      "num": 4454,
+      "title": "death comes to us all, but before it does, LET'S READ SOME COMICS!!",
+      "img": "http://www.qwantz.com/comics/comic2-5152.png",
+      "alt": "most art was created by the dead, but then again, so were most mistakes",
+      "date": "2026-04-01",
+      "link": "http://www.qwantz.com/index.php?comic=4454"
+    },
     {
       "num": 4453,
       "title": "god: if you want me to leave this building, just send me a sign",
@@ -76,14 +84,6 @@
       "alt": "stop saying ",
       "date": "2026-03-11",
       "link": "http://www.qwantz.com/index.php?comic=4445"
-    },
-    {
-      "num": 4444,
-      "title": "you only get one choice of archive text though and here it is, no refunds will be entertained!!",
-      "img": "http://www.qwantz.com/comics/comic2-5142.png",
-      "alt": "the universal narrative conclude-o-matic is misnamed: it IS obviously universal, but as it requires you to choose options it is not fully ",
-      "date": "2026-03-09",
-      "link": "http://www.qwantz.com/index.php?comic=4444"
     }
   ]
 }

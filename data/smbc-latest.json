@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-01T07:25:47.472Z",
+  "fetchedAt": "2026-04-01T19:06:54.118Z",
   "comics": [
+    {
+      "slug": "loot",
+      "title": "Loot",
+      "img": "https://www.smbc-comics.com/comics/1774994016-20260401.png",
+      "alt": "The most valuable thing he owns are old Pokemon cards, so the Viking has to create an eBay account to complete the job of looting.",
+      "date": "2026-04-01",
+      "link": "https://www.smbc-comics.com/comic/loot"
+    },
     {
       "slug": "up-4",
       "title": "Up",
@@ -156,14 +164,6 @@
       "alt": "Confusingly, many of them grow up to dislike Batman.",
       "date": "2026-03-13",
       "link": "https://www.smbc-comics.com/comic/hmm"
-    },
-    {
-      "slug": "sci-fi",
-      "title": "Sci fi",
-      "img": "https://www.smbc-comics.com/comics/1773265059-20260312.png",
-      "alt": "If Ai destroys the world because we wrote stories about it, we will at least have the funniest possible apocalypse.",
-      "date": "2026-03-12",
-      "link": "https://www.smbc-comics.com/comic/sci-fi"
     }
   ]
 }

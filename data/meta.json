@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-04-01T07:26:04.775Z",
+  "fetchedAt": "2026-04-01T19:06:56.424Z",
   "sources": {
     "xkcd": "ok",
     "dinosaur": "ok",
     "smbc": "ok",
     "wondermark": "ok",
-    "nedroid": "error: Request timed out after 15s for https://nedroid.com/feed/",
+    "nedroid": "ok",
     "poorlydrawnlines": "ok",
     "savagechickens": "ok",
     "buttersafe": "ok",
