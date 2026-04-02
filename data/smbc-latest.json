@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-02T07:17:25.428Z",
+  "fetchedAt": "2026-04-02T19:01:00.392Z",
   "comics": [
+    {
+      "slug": "special-5",
+      "title": "Special",
+      "img": "https://www.smbc-comics.com/comics/1774994067-20260402 - Copy.png",
+      "alt": "When I was a kid, I wondered why all adults are crazy. Now I wonder how any are sane.",
+      "date": "2026-04-02",
+      "link": "https://www.smbc-comics.com/comic/special-5"
+    },
     {
       "slug": "loot",
       "title": "Loot",
@@ -156,14 +164,6 @@
       "alt": "You must have a bigger humiliation fetish than me!",
       "date": "2026-03-14",
       "link": "https://www.smbc-comics.com/comic/rated"
-    },
-    {
-      "slug": "hmm",
-      "title": "Hmm",
-      "img": "https://www.smbc-comics.com/comics/1773962356-20260313.png",
-      "alt": "Confusingly, many of them grow up to dislike Batman.",
-      "date": "2026-03-13",
-      "link": "https://www.smbc-comics.com/comic/hmm"
     }
   ]
 }
