@@ -3,8 +3,88 @@
   "name": "Buttersafe",
   "url": "https://www.buttersafe.com",
   "attribution": "Buttersafe by Alex Culang and Raynato Castro",
-  "fetchedAt": "2026-04-01T19:06:56.300Z",
+  "fetchedAt": "2026-04-02T07:17:28.797Z",
   "comics": [
+    {
+      "slug": "2026-03-26-no-catch",
+      "title": "No Catch",
+      "img": "http://www.buttersafe.com/comics/rss/2026-03-26-NoCatchRSS.jpg",
+      "alt": "No Catch",
+      "date": "2026-03-26",
+      "link": "http://www.buttersafe.com/2026/03/26/no-catch/"
+    },
+    {
+      "slug": "2026-03-19-a-photo-of-us",
+      "title": "A Photo of Us",
+      "img": "http://www.buttersafe.com/comics/rss/2026-03-19-APhotoOfUsRSS.jpg",
+      "alt": "A Photo of Us",
+      "date": "2026-03-19",
+      "link": "http://www.buttersafe.com/2026/03/19/a-photo-of-us/"
+    },
+    {
+      "slug": "2026-03-12-martial-arts-master",
+      "title": "Martial Arts Master",
+      "img": "http://www.buttersafe.com/comics/rss/2026-03-12-MartialArtsMasterRSS.jpg",
+      "alt": "Martial Arts Master",
+      "date": "2026-03-12",
+      "link": "http://www.buttersafe.com/2026/03/12/martial-arts-master/"
+    },
+    {
+      "slug": "2026-03-05-nominative-determinism-comics",
+      "title": "Nominative Determinism Comics",
+      "img": "http://www.buttersafe.com/comics/rss/2026-03-05-NominativeDeterminismComicsRSS.jpg",
+      "alt": "Nominative Determinism Comics",
+      "date": "2026-03-05",
+      "link": "http://www.buttersafe.com/2026/03/05/nominative-determinism-comics/"
+    },
+    {
+      "slug": "2026-02-26-too-hot-too-cold",
+      "title": "Too Hot, Too Cold",
+      "img": "http://www.buttersafe.com/comics/rss/2026-02-26-TooHotTooColdRSS.jpg",
+      "alt": "Too Hot, Too Cold",
+      "date": "2026-02-26",
+      "link": "http://www.buttersafe.com/2026/02/26/too-hot-too-cold/"
+    },
+    {
+      "slug": "2026-02-19-you-complete-me",
+      "title": "You Complete Me",
+      "img": "http://www.buttersafe.com/comics/rss/2026-02-19-YouCompleteMeRSS.jpg",
+      "alt": "You Complete Me",
+      "date": "2026-02-19",
+      "link": "http://www.buttersafe.com/2026/02/19/you-complete-me/"
+    },
+    {
+      "slug": "2026-02-12-amnesiacs-anonymous",
+      "title": "Amnesiacs Anonymous",
+      "img": "http://www.buttersafe.com/comics/rss/2026-02-12-AmnesiacsAnonymousRSS.jpg",
+      "alt": "Amnesiacs Anonymous",
+      "date": "2026-02-12",
+      "link": "http://www.buttersafe.com/2026/02/12/amnesiacs-anonymous/"
+    },
+    {
+      "slug": "2026-02-05-my-time-is-coming",
+      "title": "My Time is Coming",
+      "img": "http://www.buttersafe.com/comics/rss/2026-02-05-MyTimeIsComingRSS.jpg",
+      "alt": "My Time is Coming",
+      "date": "2026-02-05",
+      "link": "http://www.buttersafe.com/2026/02/05/my-time-is-coming/"
+    },
+    {
+      "slug": "2026-01-29-a-guy-pretends-hes-a-tree",
+      "title": "A Guy Pretends He’s a Tree",
+      "img": "http://www.buttersafe.com/comics/rss/2026-01-29-AGuyPretendsHesATreeRSS.jpg",
+      "alt": "A Guy Pretends He’s a Tree",
+      "date": "2026-01-29",
+      "link": "http://www.buttersafe.com/2026/01/29/a-guy-pretends-hes-a-tree/"
+    },
+    {
+      "slug": "2026-01-22-best-before",
+      "title": "Best Before",
+      "img": "http://www.buttersafe.com/comics/rss/2026-01-22-BestBeforeRSS.jpg",
+      "alt": "Best Before",
+      "date": "2026-01-22",
+      "link": "http://www.buttersafe.com/2026/01/22/best-before/"
+    },
     {
       "slug": "2026-01-15-moral-imperative",
       "title": "Moral Imperative",
@@ -84,86 +164,6 @@
       "alt": "Such a Coward",
       "date": "2025-11-13",
       "link": "http://www.buttersafe.com/2025/11/13/such-a-coward/"
-    },
-    {
-      "slug": "2025-11-06-will-ones-head-pop",
-      "title": "Will One’s Head Pop?",
-      "img": "http://www.buttersafe.com/comics/rss/2025-11-06-WillOnesHeadPopRSS.jpg",
-      "alt": "Will One’s Head Pop?",
-      "date": "2025-11-06",
-      "link": "http://www.buttersafe.com/2025/11/06/will-ones-head-pop/"
-    },
-    {
-      "slug": "2025-10-30-drugs-and-razor-blades-in-candy-comics",
-      "title": "Drugs and Razor Blades in Candy Comics",
-      "img": "http://www.buttersafe.com/comics/rss/2025-10-30-DrugsAndRazorBladesInCandyComicsRSS.jpg",
-      "alt": "Drugs and Razor Blades in Candy Comics",
-      "date": "2025-10-30",
-      "link": "http://www.buttersafe.com/2025/10/30/drugs-and-razor-blades-in-candy-comics/"
-    },
-    {
-      "slug": "2025-10-23-familiar-news",
-      "title": "Familiar News",
-      "img": "http://www.buttersafe.com/comics/rss/2025-10-23-FamiliarNewsRSS.jpg",
-      "alt": "Familiar News",
-      "date": "2025-10-23",
-      "link": "http://www.buttersafe.com/2025/10/23/familiar-news/"
-    },
-    {
-      "slug": "2025-10-16-king-of-skeletons",
-      "title": "King of Skeletons",
-      "img": "http://www.buttersafe.com/comics/rss/2025-10-16-KingOfSkeletonsRSS.jpg",
-      "alt": "King of Skeletons",
-      "date": "2025-10-16",
-      "link": "http://www.buttersafe.com/2025/10/16/king-of-skeletons/"
-    },
-    {
-      "slug": "2025-10-09-witch-potluck",
-      "title": "Witch Potluck",
-      "img": "http://www.buttersafe.com/comics/rss/2025-10-09-WitchPotluckRSS.jpg",
-      "alt": "Witch Potluck",
-      "date": "2025-10-09",
-      "link": "http://www.buttersafe.com/2025/10/09/witch-potluck/"
-    },
-    {
-      "slug": "2025-10-02-acts-of-evil",
-      "title": "Acts of Evil",
-      "img": "http://www.buttersafe.com/comics/rss/2025-10-02-ActsOfEvilRSS.jpg",
-      "alt": "Acts of Evil",
-      "date": "2025-10-02",
-      "link": "http://www.buttersafe.com/2025/10/02/acts-of-evil/"
-    },
-    {
-      "slug": "2025-09-25-leg-falling-sleep",
-      "title": "Leg Falling Sleep",
-      "img": "http://www.buttersafe.com/comics/rss/2025-09-25-LegFallingAsleepRSS.jpg",
-      "alt": "Leg Falling Sleep",
-      "date": "2025-09-25",
-      "link": "http://www.buttersafe.com/2025/09/25/leg-falling-sleep/"
-    },
-    {
-      "slug": "2025-09-18-empty",
-      "title": "Empty",
-      "img": "http://www.buttersafe.com/comics/rss/2025-09-18-EmptyRSS.jpg",
-      "alt": "Empty",
-      "date": "2025-09-18",
-      "link": "http://www.buttersafe.com/2025/09/18/empty/"
-    },
-    {
-      "slug": "2025-09-11-swamp-of-no-escape",
-      "title": "Swamp of No Escape",
-      "img": "http://www.buttersafe.com/comics/rss/2025-09-11-SwampOfNoEscapeRSS.jpg",
-      "alt": "Swamp of No Escape",
-      "date": "2025-09-11",
-      "link": "http://www.buttersafe.com/2025/09/11/swamp-of-no-escape/"
-    },
-    {
-      "slug": "2025-09-04-warrior-wanimals-ogre-attack",
-      "title": "Warrior Wanimals – Ogre Attack!",
-      "img": "http://www.buttersafe.com/comics/rss/2025-09-04-WarriorWanimalsOgreAttackRSS.jpg",
-      "alt": "Warrior Wanimals – Ogre Attack!",
-      "date": "2025-09-04",
-      "link": "http://www.buttersafe.com/2025/09/04/warrior-wanimals-ogre-attack/"
     }
   ]
 }

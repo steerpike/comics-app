@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3225,
-  "latestNum": 3226,
-  "fetchedAt": "2026-03-31T07:20:17.170Z",
+  "total": 3226,
+  "latestNum": 3227,
+  "fetchedAt": "2026-04-02T07:17:24.759Z",
   "comics": [
     {
       "num": 1,
@@ -22578,6 +22578,13 @@
       "img": "https://imgs.xkcd.com/comics/home_solar.png",
       "alt": "\"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own.\"",
       "date": "2026-03-30"
+    },
+    {
+      "num": 3227,
+      "title": "Creation",
+      "img": "https://imgs.xkcd.com/comics/creation.png",
+      "alt": "This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.",
+      "date": "2026-04-01"
     }
   ]
 }
