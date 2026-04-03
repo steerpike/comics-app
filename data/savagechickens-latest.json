@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-02T19:01:02.504Z",
+  "fetchedAt": "2026-04-03T07:14:27.249Z",
   "comics": [
+    {
+      "slug": "this-easter",
+      "title": "This Easter",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthiseaster.jpg",
+      "alt": "This Easter",
+      "date": "2026-04-03",
+      "link": "https://www.savagechickens.com/2026/04/this-easter.html"
+    },
     {
       "slug": "easter-surprise",
       "title": "Easter Surprise",
@@ -76,14 +84,6 @@
       "alt": "Uncomfortable",
       "date": "2026-03-23",
       "link": "https://www.savagechickens.com/2026/03/uncomfortable-2.html"
-    },
-    {
-      "slug": "usually-a-good-combo",
-      "title": "Usually A Good Combo",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenusuallyagoodcombo.jpg",
-      "alt": "Usually A Good Combo",
-      "date": "2026-03-20",
-      "link": "https://www.savagechickens.com/2026/03/usually-a-good-combo.html"
     }
   ]
 }
