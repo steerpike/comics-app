@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3227,
-  "fetchedAt": "2026-04-03T07:14:24.616Z",
+  "latestNum": 3228,
+  "fetchedAt": "2026-04-03T18:52:38.546Z",
   "comics": [
+    {
+      "num": 3228,
+      "title": "Day Counter",
+      "img": "https://imgs.xkcd.com/comics/day_counter.png",
+      "alt": "It has been −2,147,483,648 days since our last integer overflow.",
+      "date": "2026-04-03"
+    },
     {
       "num": 3227,
       "title": "Creation",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/plums.png",
       "alt": "My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost.",
       "date": "2026-02-18"
-    },
-    {
-      "num": 3208,
-      "title": "SNEWS",
-      "img": "https://imgs.xkcd.com/comics/snews.png",
-      "alt": "People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible.",
-      "date": "2026-02-16"
     }
   ]
 }

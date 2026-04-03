@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-03T07:14:25.315Z",
+  "fetchedAt": "2026-04-03T18:52:39.419Z",
   "comics": [
+    {
+      "slug": "bad-4",
+      "title": "Bad",
+      "img": "https://www.smbc-comics.com/comics/1774994123-20260403.png",
+      "alt": "You can't see it from this angle, but the kitty has an AK.",
+      "date": "2026-04-03",
+      "link": "https://www.smbc-comics.com/comic/bad-4"
+    },
     {
       "slug": "special-5",
       "title": "Special",
@@ -156,14 +164,6 @@
       "alt": "The worst thing is they're talking in binary, and the boy doesn't understand why kids at school think he's crazy.",
       "date": "2026-03-15",
       "link": "https://www.smbc-comics.com/comic/machine"
-    },
-    {
-      "slug": "rated",
-      "title": "Rated",
-      "img": "https://www.smbc-comics.com/comics/1773265146-20260314.png",
-      "alt": "You must have a bigger humiliation fetish than me!",
-      "date": "2026-03-14",
-      "link": "https://www.smbc-comics.com/comic/rated"
     }
   ]
 }
