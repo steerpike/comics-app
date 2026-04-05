@@ -3,8 +3,16 @@
   "name": "Wondermark",
   "url": "https://wondermark.com",
   "attribution": "Wondermark by David Malki!",
-  "fetchedAt": "2026-04-04T18:47:43.886Z",
+  "fetchedAt": "2026-04-05T07:11:44.849Z",
   "comics": [
+    {
+      "num": 1583,
+      "title": "#1583; Groan Up",
+      "img": "https://wondermark.com/wp-content/uploads/2026/04/2026-04-04-1583veggies_1600px.png",
+      "alt": "",
+      "date": "2026-04-04",
+      "link": "https://wondermark.com/c/1583/"
+    },
     {
       "num": 0,
       "title": "ECCC this weekend! With a sample of Bolted!",
@@ -36,22 +44,6 @@
       "alt": "",
       "date": "2026-01-14",
       "link": "https://wondermark.com/c/1580/"
-    },
-    {
-      "num": 0,
-      "title": "Bolted! Game – Designer Diary",
-      "img": "https://wondermark.com/wp-content/uploads/2025/12/bolted_ks_gamebox-1024x589.jpg",
-      "alt": "",
-      "date": "2025-12-19",
-      "link": "https://wondermark.com/bolted-designer-diary/"
-    },
-    {
-      "num": 0,
-      "title": "Tiff & Eve Crossover Comic",
-      "img": "https://wondermark.com/wp-content/uploads/2025/12/special_TiffEve_1300px.png",
-      "alt": "",
-      "date": "2025-12-18",
-      "link": "https://wondermark.com/c/tiffeve/"
     }
   ]
 }

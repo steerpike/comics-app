@@ -3,7 +3,7 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-04T18:47:42.960Z",
+  "fetchedAt": "2026-04-05T07:11:43.987Z",
   "comics": [
     {
       "slug": "super-3",
@@ -24,7 +24,7 @@
     {
       "slug": "special-5",
       "title": "Special",
-      "img": "https://www.smbc-comics.com/comics/1774994067-20260402 - Copy.png",
+      "img": "https://www.smbc-comics.com/comics/1775359011-20260402.png",
       "alt": "When I was a kid, I wondered why all adults are crazy. Now I wonder how any are sane.",
       "date": "2026-04-02",
       "link": "https://www.smbc-comics.com/comic/special-5"
