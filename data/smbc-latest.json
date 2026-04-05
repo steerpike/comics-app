@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-05T07:11:43.987Z",
+  "fetchedAt": "2026-04-05T18:49:57.755Z",
   "comics": [
+    {
+      "slug": "hi",
+      "title": "Hi",
+      "img": "https://www.smbc-comics.com/comics/1775358890-20260405.png",
+      "alt": "Suddenly regretting that I didn't just draw a word for word graphic novel of the entire book twice.",
+      "date": "2026-04-05",
+      "link": "https://www.smbc-comics.com/comic/hi"
+    },
     {
       "slug": "super-3",
       "title": "Super",
@@ -156,14 +164,6 @@
       "alt": "Actually all the apocalypses are good for philosophers, but this one is best for language analysis.",
       "date": "2026-03-17",
       "link": "https://www.smbc-comics.com/comic/philosophy-5"
-    },
-    {
-      "slug": "under",
-      "title": "Under",
-      "img": "https://www.smbc-comics.com/comics/1773626130-20260316.png",
-      "alt": "This is the best votey panel I will ever do.",
-      "date": "2026-03-16",
-      "link": "https://www.smbc-comics.com/comic/under"
     }
   ]
 }
