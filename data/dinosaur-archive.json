@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 24,
-  "highestNum": 4454,
-  "fetchedAt": "2026-04-01T19:06:53.856Z",
+  "total": 25,
+  "highestNum": 4455,
+  "fetchedAt": "2026-04-06T19:05:18.089Z",
   "comics": [
     {
       "num": 4431,
@@ -195,6 +195,14 @@
       "alt": "most art was created by the dead, but then again, so were most mistakes",
       "date": "2026-04-01",
       "link": "http://www.qwantz.com/index.php?comic=4454"
+    },
+    {
+      "num": 4455,
+      "title": "you bet i followed corporate linguistic guidance and included that dash in jell-o!!!  i love to follow corporate linguistic guidance but ONLY when i am doing a BIT",
+      "img": "http://www.qwantz.com/comics/comic2-5153.png",
+      "alt": "this comic is brought to you by uncontacted peoples.  they're allowed to contact YOU but you can't say anything back to THEM; i don't make the rules i just enforce them",
+      "date": "2026-04-06",
+      "link": "http://www.qwantz.com/index.php?comic=4455"
     }
   ]
 }

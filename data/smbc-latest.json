@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-06T07:48:24.280Z",
+  "fetchedAt": "2026-04-06T19:05:18.344Z",
   "comics": [
+    {
+      "slug": "borax",
+      "title": "Borax",
+      "img": "https://www.smbc-comics.com/comics/1775358940-20260406.png",
+      "alt": "I think I'm the only one who likes the clowns are a species jokes, but by GOD I love them.",
+      "date": "2026-04-06",
+      "link": "https://www.smbc-comics.com/comic/borax"
+    },
     {
       "slug": "hi",
       "title": "Hi",
@@ -156,14 +164,6 @@
       "alt": "All of this is window dressing to justify panel 3.",
       "date": "2026-03-18",
       "link": "https://www.smbc-comics.com/comic/where-4"
-    },
-    {
-      "slug": "philosophy-5",
-      "title": "Philosophy",
-      "img": "https://www.smbc-comics.com/comics/1773639229-20260317.png",
-      "alt": "Actually all the apocalypses are good for philosophers, but this one is best for language analysis.",
-      "date": "2026-03-17",
-      "link": "https://www.smbc-comics.com/comic/philosophy-5"
     }
   ]
 }
