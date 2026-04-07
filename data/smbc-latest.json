@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-07T07:22:33.298Z",
+  "fetchedAt": "2026-04-07T19:08:22.791Z",
   "comics": [
+    {
+      "slug": "will-2",
+      "title": "Will",
+      "img": "https://www.smbc-comics.com/comics/1775512256-20260407.png",
+      "alt": "We will have had peace immediately!",
+      "date": "2026-04-07",
+      "link": "https://www.smbc-comics.com/comic/will-2"
+    },
     {
       "slug": "borax",
       "title": "Borax",
@@ -156,14 +164,6 @@
       "alt": "Fortunately the comic cuts off at the waist.",
       "date": "2026-03-19",
       "link": "https://www.smbc-comics.com/comic/love-9"
-    },
-    {
-      "slug": "where-4",
-      "title": "Where",
-      "img": "https://www.smbc-comics.com/comics/1773690047-20260318.png",
-      "alt": "All of this is window dressing to justify panel 3.",
-      "date": "2026-03-18",
-      "link": "https://www.smbc-comics.com/comic/where-4"
     }
   ]
 }
