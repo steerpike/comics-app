@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 25,
-  "highestNum": 4455,
-  "fetchedAt": "2026-04-06T19:05:18.089Z",
+  "total": 26,
+  "highestNum": 4456,
+  "fetchedAt": "2026-04-08T19:20:52.407Z",
   "comics": [
     {
       "num": 4431,
@@ -203,6 +203,14 @@
       "alt": "this comic is brought to you by uncontacted peoples.  they're allowed to contact YOU but you can't say anything back to THEM; i don't make the rules i just enforce them",
       "date": "2026-04-06",
       "link": "http://www.qwantz.com/index.php?comic=4455"
+    },
+    {
+      "num": 4456,
+      "title": "uncontacted peoples comix!  part two of two",
+      "img": "http://www.qwantz.com/comics/comic2-5154.png",
+      "alt": "confirming what i said decades ago: I have less than zero interest in knowing these sorts of things.  but, i DO have a marked interest in keeping track of what i said decades ago so that i might continually confirm them.",
+      "date": "2026-04-08",
+      "link": "http://www.qwantz.com/index.php?comic=4456"
     }
   ]
 }

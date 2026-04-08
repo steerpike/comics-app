@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-08T07:25:44.246Z",
+  "fetchedAt": "2026-04-08T19:20:52.751Z",
   "comics": [
+    {
+      "slug": "mary",
+      "title": "Mary",
+      "img": "https://www.smbc-comics.com/comics/1775512299-20260408.png",
+      "alt": "The survivors try to escape on a trolley but get derailed when they swerve toward five people.",
+      "date": "2026-04-08",
+      "link": "https://www.smbc-comics.com/comic/mary"
+    },
     {
       "slug": "will-2",
       "title": "Will",
@@ -156,14 +164,6 @@
       "alt": "I hereby release this to Hollywood.",
       "date": "2026-03-20",
       "link": "https://www.smbc-comics.com/comic/waiting"
-    },
-    {
-      "slug": "love-9",
-      "title": "Love",
-      "img": "https://www.smbc-comics.com/comics/1773693346-20260319.png",
-      "alt": "Fortunately the comic cuts off at the waist.",
-      "date": "2026-03-19",
-      "link": "https://www.smbc-comics.com/comic/love-9"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-04-08T07:25:45.285Z",
+  "fetchedAt": "2026-04-08T19:20:54.939Z",
   "comics": [
+    {
+      "slug": "seagulls",
+      "title": "Seagulls",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/04/seagulls.png",
+      "alt": "",
+      "date": "2026-04-08",
+      "link": "https://poorlydrawnlines.com/comic/seagulls/"
+    },
     {
       "slug": "loudly",
       "title": "Loudly",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-02-06",
       "link": "https://poorlydrawnlines.com/comic/tell-you-something/"
-    },
-    {
-      "slug": "a-new-bird",
-      "title": "A New Bird",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/01/a-new-bird.png",
-      "alt": "",
-      "date": "2026-01-30",
-      "link": "https://poorlydrawnlines.com/comic/a-new-bird/"
     }
   ]
 }

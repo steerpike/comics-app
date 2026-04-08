@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3229,
-  "fetchedAt": "2026-04-08T07:25:43.513Z",
+  "latestNum": 3230,
+  "fetchedAt": "2026-04-08T19:20:51.990Z",
   "comics": [
+    {
+      "num": 3230,
+      "title": "Overton",
+      "img": "https://imgs.xkcd.com/comics/overton.png",
+      "alt": "I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.",
+      "date": "2026-04-08"
+    },
     {
       "num": 3229,
       "title": "Grammar",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/amperage.png",
       "alt": "Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?",
       "date": "2026-02-23"
-    },
-    {
-      "num": 3210,
-      "title": "Eliminating the Impossible",
-      "img": "https://imgs.xkcd.com/comics/eliminating_the_impossible.png",
-      "alt": "'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.",
-      "date": "2026-02-20"
     }
   ]
 }

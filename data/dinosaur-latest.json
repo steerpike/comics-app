@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-04-08T07:25:43.946Z",
+  "fetchedAt": "2026-04-08T19:20:52.407Z",
   "comics": [
+    {
+      "num": 4456,
+      "title": "uncontacted peoples comix!  part two of two",
+      "img": "http://www.qwantz.com/comics/comic2-5154.png",
+      "alt": "confirming what i said decades ago: I have less than zero interest in knowing these sorts of things.  but, i DO have a marked interest in keeping track of what i said decades ago so that i might continually confirm them.",
+      "date": "2026-04-08",
+      "link": "http://www.qwantz.com/index.php?comic=4456"
+    },
     {
       "num": 4455,
       "title": "you bet i followed corporate linguistic guidance and included that dash in jell-o!!!  i love to follow corporate linguistic guidance but ONLY when i am doing a BIT",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-03-16",
       "link": "http://www.qwantz.com/index.php?comic=4447"
-    },
-    {
-      "num": 4446,
-      "title": "no, it's hairy AND gary, not \"hairy gary\".  look: gary only has the normal amount of hair",
-      "img": "http://www.qwantz.com/comics/comic2-5144.png",
-      "alt": "Later on they travelled back in time to undo this, in what in retrospect was a MUCH more interesting and even MORE canonical adventure!!",
-      "date": "2026-03-13",
-      "link": "http://www.qwantz.com/index.php?comic=4446"
     }
   ]
 }
