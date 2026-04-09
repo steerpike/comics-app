@@ -3,8 +3,16 @@
   "name": "Wondermark",
   "url": "https://wondermark.com",
   "attribution": "Wondermark by David Malki!",
-  "fetchedAt": "2026-04-08T19:20:54.290Z",
+  "fetchedAt": "2026-04-09T07:27:25.795Z",
   "comics": [
+    {
+      "num": 1584,
+      "title": "#1584; In which a Potato is compacted",
+      "img": "https://wondermark.com/wp-content/uploads/2026/04/2026-04-07-1584chips_1600px.png",
+      "alt": "",
+      "date": "2026-04-08",
+      "link": "https://wondermark.com/c/1584/"
+    },
     {
       "num": 1583,
       "title": "#1583; Groan Up",

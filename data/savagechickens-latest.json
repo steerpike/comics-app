@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-08T19:20:55.249Z",
+  "fetchedAt": "2026-04-09T07:27:26.666Z",
   "comics": [
+    {
+      "slug": "simulator",
+      "title": "Simulator",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickensimulator.jpg",
+      "alt": "Simulator",
+      "date": "2026-04-09",
+      "link": "https://www.savagechickens.com/2026/04/simulator.html"
+    },
     {
       "slug": "hulk-cat-angry",
       "title": "Hulk Cat Angry",
@@ -76,14 +84,6 @@
       "alt": "Hooray!",
       "date": "2026-03-27",
       "link": "https://www.savagechickens.com/2026/03/hooray.html"
-    },
-    {
-      "slug": "every-morning",
-      "title": "Every Morning",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickeneverymorning.jpg",
-      "alt": "Every Morning",
-      "date": "2026-03-26",
-      "link": "https://www.savagechickens.com/2026/03/every-morning.html"
     }
   ]
 }
