@@ -3,8 +3,48 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-09T07:27:24.807Z",
+  "fetchedAt": "2026-04-09T19:12:04.316Z",
   "comics": [
+    {
+      "slug": "spheres-part-5",
+      "title": "Spheres Part 5",
+      "img": "https://www.smbc-comics.com/comics/1775692056-Part5-site.png",
+      "alt": "Whoever figures out the bonus panel puzzle gets 3 Internet Points.",
+      "date": "2026-04-09",
+      "link": "https://www.smbc-comics.com/comic/spheres-part-5"
+    },
+    {
+      "slug": "spheres-part-4",
+      "title": "Spheres Part 4",
+      "img": "https://www.smbc-comics.com/comics/1775692000-Part4-site.png",
+      "alt": "Does this change my imaginary Erdos number to a complex number?",
+      "date": "2026-04-09",
+      "link": "https://www.smbc-comics.com/comic/spheres-part-4"
+    },
+    {
+      "slug": "spheres-part-3",
+      "title": "Spheres Part 3",
+      "img": "https://www.smbc-comics.com/comics/1775691902-Part3-site.png",
+      "alt": "Does this change my imaginary Erdos number to a complex number?",
+      "date": "2026-04-09",
+      "link": "https://www.smbc-comics.com/comic/spheres-part-3"
+    },
+    {
+      "slug": "spheres-part-2",
+      "title": "Spheres Part 2",
+      "img": "https://www.smbc-comics.com/comics/1775691847-Part2-site.png",
+      "alt": "Does this change my imaginary Erdos number to a complex number?",
+      "date": "2026-04-09",
+      "link": "https://www.smbc-comics.com/comic/spheres-part-2"
+    },
+    {
+      "slug": "spheres-part-1",
+      "title": "Spheres Part 1",
+      "img": "https://www.smbc-comics.com/comics/1775691810-Part1-site.png",
+      "alt": "Does this change my imaginary Erdos number to a complex number?",
+      "date": "2026-04-09",
+      "link": "https://www.smbc-comics.com/comic/spheres-part-1"
+    },
     {
       "slug": "mary",
       "title": "Mary",
@@ -124,46 +164,6 @@
       "alt": "Later she has to decide if broadcast fertilizing a lake without telling her is a kind of cheating.",
       "date": "2026-03-25",
       "link": "https://www.smbc-comics.com/comic/noble-2"
-    },
-    {
-      "slug": "phi",
-      "title": "Phi",
-      "img": "https://www.smbc-comics.com/comics/1773971979-20260324.png",
-      "alt": "There should be demotivational youtube math videos. Just to be different.",
-      "date": "2026-03-24",
-      "link": "https://www.smbc-comics.com/comic/phi"
-    },
-    {
-      "slug": "nature-4",
-      "title": "Nature",
-      "img": "https://www.smbc-comics.com/comics/1774387474-20260323.png",
-      "alt": "All I'm saying is it fits the data.",
-      "date": "2026-03-23",
-      "link": "https://www.smbc-comics.com/comic/nature-4"
-    },
-    {
-      "slug": "wait-2",
-      "title": "Wait",
-      "img": "https://www.smbc-comics.com/comics/1773962220-20260322.png",
-      "alt": "Guess he's not buying the see-thru feel-thru corset either.",
-      "date": "2026-03-22",
-      "link": "https://www.smbc-comics.com/comic/wait-2"
-    },
-    {
-      "slug": "congrats-2",
-      "title": "Congrats",
-      "img": "https://www.smbc-comics.com/comics/1773961670-20260321.png",
-      "alt": "Well now I wish it were twins.",
-      "date": "2026-03-21",
-      "link": "https://www.smbc-comics.com/comic/congrats-2"
-    },
-    {
-      "slug": "waiting",
-      "title": "Waiting",
-      "img": "https://www.smbc-comics.com/comics/1773693395-20260320.png",
-      "alt": "I hereby release this to Hollywood.",
-      "date": "2026-03-20",
-      "link": "https://www.smbc-comics.com/comic/waiting"
     }
   ]
 }
