@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-04-10T07:46:46.271Z",
+  "fetchedAt": "2026-04-10T18:58:13.177Z",
   "comics": [
+    {
+      "num": 4457,
+      "title": "the ol' genre switcharoo (it's a new genre switcharoo)",
+      "img": "http://www.qwantz.com/comics/comic2-5155.png",
+      "alt": "and when you throw in a ",
+      "date": "2026-04-10",
+      "link": "http://www.qwantz.com/index.php?comic=4457"
+    },
     {
       "num": 4456,
       "title": "uncontacted peoples comix!  part two of two",
@@ -76,14 +84,6 @@
       "alt": "i'm great at flirting with my friends!  but i'm afraid that flirting with YOUR friends simply wouldn't interest me at all",
       "date": "2026-03-18",
       "link": "http://www.qwantz.com/index.php?comic=4448"
-    },
-    {
-      "num": 4447,
-      "title": "BATMAN FACTS featuring A TALKING DINOSAUR who you should TRUST",
-      "img": "http://www.qwantz.com/comics/comic2-5145.png",
-      "alt": "",
-      "date": "2026-03-16",
-      "link": "http://www.qwantz.com/index.php?comic=4447"
     }
   ]
 }

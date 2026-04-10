@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-04-09T19:12:06.388Z",
+  "fetchedAt": "2026-04-10T18:58:14.403Z",
   "comics": [
+    {
+      "slug": "little-dude",
+      "title": "Little Dude",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/04/little-dude.png",
+      "alt": "",
+      "date": "2026-04-10",
+      "link": "https://poorlydrawnlines.com/comic/little-dude/"
+    },
     {
       "slug": "seagulls",
       "title": "Seagulls",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-02-12",
       "link": "https://poorlydrawnlines.com/comic/your-job/"
-    },
-    {
-      "slug": "tell-you-something",
-      "title": "Tell You Something",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/02/tell-you-something.png",
-      "alt": "",
-      "date": "2026-02-06",
-      "link": "https://poorlydrawnlines.com/comic/tell-you-something/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 26,
-  "highestNum": 4456,
-  "fetchedAt": "2026-04-08T19:20:52.407Z",
+  "total": 27,
+  "highestNum": 4457,
+  "fetchedAt": "2026-04-10T18:58:13.178Z",
   "comics": [
     {
       "num": 4431,
@@ -211,6 +211,14 @@
       "alt": "confirming what i said decades ago: I have less than zero interest in knowing these sorts of things.  but, i DO have a marked interest in keeping track of what i said decades ago so that i might continually confirm them.",
       "date": "2026-04-08",
       "link": "http://www.qwantz.com/index.php?comic=4456"
+    },
+    {
+      "num": 4457,
+      "title": "the ol' genre switcharoo (it's a new genre switcharoo)",
+      "img": "http://www.qwantz.com/comics/comic2-5155.png",
+      "alt": "and when you throw in a ",
+      "date": "2026-04-10",
+      "link": "http://www.qwantz.com/index.php?comic=4457"
     }
   ]
 }
