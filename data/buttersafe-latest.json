@@ -3,8 +3,24 @@
   "name": "Buttersafe",
   "url": "https://www.buttersafe.com",
   "attribution": "Buttersafe by Alex Culang and Raynato Castro",
-  "fetchedAt": "2026-04-09T19:12:06.983Z",
+  "fetchedAt": "2026-04-10T07:46:49.512Z",
   "comics": [
+    {
+      "slug": "2026-04-09-best-friends-forever",
+      "title": "Best Friends Forever",
+      "img": "http://www.buttersafe.com/comics/rss/2026-04-09-BestFriendsForeverRSS.jpg",
+      "alt": "Best Friends Forever",
+      "date": "2026-04-09",
+      "link": "http://www.buttersafe.com/2026/04/09/best-friends-forever/"
+    },
+    {
+      "slug": "2026-04-02-look-both-ways",
+      "title": "Look Both Ways",
+      "img": "http://www.buttersafe.com/comics/rss/2026-04-02-LookBothWaysRSS.jpg",
+      "alt": "Look Both Ways",
+      "date": "2026-04-02",
+      "link": "http://www.buttersafe.com/2026/04/02/look-both-ways/"
+    },
     {
       "slug": "2026-03-26-no-catch",
       "title": "No Catch",
@@ -148,22 +164,6 @@
       "alt": "Picturing You as a Turkey",
       "date": "2025-11-27",
       "link": "http://www.buttersafe.com/2025/11/27/picturing-you-as-a-turkey/"
-    },
-    {
-      "slug": "2025-11-20-nothing-out-there",
-      "title": "Nothing Out There",
-      "img": "http://www.buttersafe.com/comics/rss/2025-11-20-NothingOutThereRSS.jpg",
-      "alt": "Nothing Out There",
-      "date": "2025-11-20",
-      "link": "http://www.buttersafe.com/2025/11/20/nothing-out-there/"
-    },
-    {
-      "slug": "2025-11-13-such-a-coward",
-      "title": "Such a Coward",
-      "img": "http://www.buttersafe.com/comics/rss/2025-11-13-SuchACowardRSS.jpg",
-      "alt": "Such a Coward",
-      "date": "2025-11-13",
-      "link": "http://www.buttersafe.com/2025/11/13/such-a-coward/"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-09T19:12:06.708Z",
+  "fetchedAt": "2026-04-10T07:46:49.012Z",
   "comics": [
+    {
+      "slug": "scratching-post",
+      "title": "Scratching Post",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenscratchingpost.jpg",
+      "alt": "Scratching Post",
+      "date": "2026-04-10",
+      "link": "https://www.savagechickens.com/2026/04/scratching-post.html"
+    },
     {
       "slug": "simulator",
       "title": "Simulator",
@@ -76,14 +84,6 @@
       "alt": "Moral Center",
       "date": "2026-03-30",
       "link": "https://www.savagechickens.com/2026/03/moral-center.html"
-    },
-    {
-      "slug": "hooray",
-      "title": "Hooray!",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenhooray.jpg",
-      "alt": "Hooray!",
-      "date": "2026-03-27",
-      "link": "https://www.savagechickens.com/2026/03/hooray.html"
     }
   ]
 }
