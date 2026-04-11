@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-11T07:04:35.163Z",
+  "fetchedAt": "2026-04-11T18:50:44.043Z",
   "comics": [
+    {
+      "slug": "peace-3",
+      "title": "Peace",
+      "img": "https://www.smbc-comics.com/comics/1775692363-20260411.png",
+      "alt": "It's not about the humanicide, it's about avoiding awkwardness.",
+      "date": "2026-04-11",
+      "link": "https://www.smbc-comics.com/comic/peace-3"
+    },
     {
       "slug": "log",
       "title": "Log",
@@ -156,14 +164,6 @@
       "alt": "S and S is a form of S and M.",
       "date": "2026-03-27",
       "link": "https://www.smbc-comics.com/comic/shocks"
-    },
-    {
-      "slug": "humor-2",
-      "title": "Humor",
-      "img": "https://www.smbc-comics.com/comics/1774387043-20260326.png",
-      "alt": "This comic is for an audience of one, named Kelly.",
-      "date": "2026-03-26",
-      "link": "https://www.smbc-comics.com/comic/humor-2"
     }
   ]
 }
