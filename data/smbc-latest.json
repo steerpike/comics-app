@@ -3,7 +3,7 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-10T18:58:13.469Z",
+  "fetchedAt": "2026-04-11T07:04:35.163Z",
   "comics": [
     {
       "slug": "log",
@@ -24,7 +24,7 @@
     {
       "slug": "spheres-part-4",
       "title": "Spheres Part 4",
-      "img": "https://www.smbc-comics.com/comics/1775692000-Part4-site.png",
+      "img": "https://www.smbc-comics.com/comics/1775856247-Part4-sitefix.png",
       "alt": "Does this change my imaginary Erdos number to a complex number?",
       "date": "2026-04-09",
       "link": "https://www.smbc-comics.com/comic/spheres-part-4"

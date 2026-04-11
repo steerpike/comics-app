@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3230,
-  "fetchedAt": "2026-04-10T18:58:11.890Z",
+  "latestNum": 3231,
+  "fetchedAt": "2026-04-11T07:04:34.426Z",
   "comics": [
+    {
+      "num": 3231,
+      "title": "Lightning",
+      "img": "https://imgs.xkcd.com/comics/lightning.png",
+      "alt": "Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.",
+      "date": "2026-04-10"
+    },
     {
       "num": 3230,
       "title": "Overton",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/little_red_dots.png",
       "alt": "After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.",
       "date": "2026-02-25"
-    },
-    {
-      "num": 3211,
-      "title": "Amperage",
-      "img": "https://imgs.xkcd.com/comics/amperage.png",
-      "alt": "Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?",
-      "date": "2026-02-23"
     }
   ]
 }
