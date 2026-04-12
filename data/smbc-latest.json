@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-12T07:19:11.096Z",
+  "fetchedAt": "2026-04-12T18:55:04.611Z",
   "comics": [
+    {
+      "slug": "stage",
+      "title": "Stage",
+      "img": "https://www.smbc-comics.com/comics/1775866759-20260412.png",
+      "alt": "The only offputting part is when the young burst out later.",
+      "date": "2026-04-12",
+      "link": "https://www.smbc-comics.com/comic/stage"
+    },
     {
       "slug": "peace-3",
       "title": "Peace",
@@ -156,14 +164,6 @@
       "alt": "Later, while he's crying on the floor she wedgies him without mercy.",
       "date": "2026-03-28",
       "link": "https://www.smbc-comics.com/comic/cure-3"
-    },
-    {
-      "slug": "shocks",
-      "title": "Shocks",
-      "img": "https://www.smbc-comics.com/comics/1774387174-20260327.png",
-      "alt": "S and S is a form of S and M.",
-      "date": "2026-03-27",
-      "link": "https://www.smbc-comics.com/comic/shocks"
     }
   ]
 }
