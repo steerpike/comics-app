@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-13T08:08:58.028Z",
+  "fetchedAt": "2026-04-13T19:17:52.283Z",
   "comics": [
+    {
+      "slug": "witch-2",
+      "title": "Witch",
+      "img": "https://www.smbc-comics.com/comics/1776037091-20260413.png",
+      "alt": "She immediately starts building a child-size oven in a house made of candy.",
+      "date": "2026-04-13",
+      "link": "https://www.smbc-comics.com/comic/witch-2"
+    },
     {
       "slug": "stage",
       "title": "Stage",
@@ -156,14 +164,6 @@
       "alt": "Later, it puts him in a corner and forgets about him for six months.",
       "date": "2026-03-29",
       "link": "https://www.smbc-comics.com/comic/water"
-    },
-    {
-      "slug": "cure-3",
-      "title": "Cure",
-      "img": "https://www.smbc-comics.com/comics/1774664956-20260328.png",
-      "alt": "Later, while he's crying on the floor she wedgies him without mercy.",
-      "date": "2026-03-28",
-      "link": "https://www.smbc-comics.com/comic/cure-3"
     }
   ]
 }

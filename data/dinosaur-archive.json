@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 27,
-  "highestNum": 4457,
-  "fetchedAt": "2026-04-10T18:58:13.178Z",
+  "total": 28,
+  "highestNum": 4458,
+  "fetchedAt": "2026-04-13T19:17:52.072Z",
   "comics": [
     {
       "num": 4431,
@@ -219,6 +219,14 @@
       "alt": "and when you throw in a ",
       "date": "2026-04-10",
       "link": "http://www.qwantz.com/index.php?comic=4457"
+    },
+    {
+      "num": 4458,
+      "title": "it's always good to make new friends!",
+      "img": "http://www.qwantz.com/comics/comic2-5156.png",
+      "alt": "i've made a new friend: they're venomous but seriously there's only a teeny tiny amount of neurotoxin in their bites, so little we didn't even know it was there until recently and YES probably i should lead with other fun facts when introducing my friend the garter snake rather than leading with ",
+      "date": "2026-04-13",
+      "link": "http://www.qwantz.com/index.php?comic=4458"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-04-13T08:08:57.743Z",
+  "fetchedAt": "2026-04-13T19:17:52.071Z",
   "comics": [
+    {
+      "num": 4458,
+      "title": "it's always good to make new friends!",
+      "img": "http://www.qwantz.com/comics/comic2-5156.png",
+      "alt": "i've made a new friend: they're venomous but seriously there's only a teeny tiny amount of neurotoxin in their bites, so little we didn't even know it was there until recently and YES probably i should lead with other fun facts when introducing my friend the garter snake rather than leading with ",
+      "date": "2026-04-13",
+      "link": "http://www.qwantz.com/index.php?comic=4458"
+    },
     {
       "num": 4457,
       "title": "the ol' genre switcharoo (it's a new genre switcharoo)",
@@ -76,14 +84,6 @@
       "alt": "We can't even say for sure that the meaning of life isn't to get smushed by an asteroid.  i'm gonna go lie down, and then i'm gonna write one HELL of a got dang treatise",
       "date": "2026-03-20",
       "link": "http://www.qwantz.com/index.php?comic=4449"
-    },
-    {
-      "num": 4448,
-      "title": "and thus concludes the trilogy of Three Guys Who Were Great At Different Things, Starring Sherlock Holmes, Batman, And T-Rex, But Not Together, They're On Three Separate And Unrelated Adventures",
-      "img": "http://www.qwantz.com/comics/comic2-5146.png",
-      "alt": "i'm great at flirting with my friends!  but i'm afraid that flirting with YOUR friends simply wouldn't interest me at all",
-      "date": "2026-03-18",
-      "link": "http://www.qwantz.com/index.php?comic=4448"
     }
   ]
 }
