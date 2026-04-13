@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-12T18:55:06.218Z",
+  "fetchedAt": "2026-04-13T08:09:00.727Z",
   "comics": [
+    {
+      "slug": "a-i-tech-support",
+      "title": "A.I. Tech Support",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenaitechsupport.jpg",
+      "alt": "A.I. Tech Support",
+      "date": "2026-04-13",
+      "link": "https://www.savagechickens.com/2026/04/a-i-tech-support.html"
+    },
     {
       "slug": "scratching-post",
       "title": "Scratching Post",
@@ -76,14 +84,6 @@
       "alt": "Basking",
       "date": "2026-03-31",
       "link": "https://www.savagechickens.com/2026/03/basking.html"
-    },
-    {
-      "slug": "moral-center",
-      "title": "Moral Center",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmoralcenter.jpg",
-      "alt": "Moral Center",
-      "date": "2026-03-30",
-      "link": "https://www.savagechickens.com/2026/03/moral-center.html"
     }
   ]
 }
