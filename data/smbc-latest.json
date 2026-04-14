@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-14T07:51:21.847Z",
+  "fetchedAt": "2026-04-14T19:21:00.245Z",
   "comics": [
+    {
+      "slug": "easier",
+      "title": "Easier",
+      "img": "https://www.smbc-comics.com/comics/1776037138-20260414.png",
+      "alt": "Brought to you by Zach hasn't studied physics in years and is trying to read through the famous Mike and Ike quantum computing textbook.",
+      "date": "2026-04-14",
+      "link": "https://www.smbc-comics.com/comic/easier"
+    },
     {
       "slug": "witch-2",
       "title": "Witch",
@@ -156,14 +164,6 @@
       "alt": "Anyone who thinks the humanities makes people more expansive should spend four minutes in an English department meeting.",
       "date": "2026-03-30",
       "link": "https://www.smbc-comics.com/comic/humanities-2"
-    },
-    {
-      "slug": "water",
-      "title": "Water",
-      "img": "https://www.smbc-comics.com/comics/1774664991-20260329.png",
-      "alt": "Later, it puts him in a corner and forgets about him for six months.",
-      "date": "2026-03-29",
-      "link": "https://www.smbc-comics.com/comic/water"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-04-14T07:51:23.437Z",
+  "fetchedAt": "2026-04-14T19:21:02.111Z",
   "comics": [
+    {
+      "slug": "the-masked-mouse",
+      "title": "The Masked Mouse",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/04/masked-mouse.png",
+      "alt": "",
+      "date": "2026-04-14",
+      "link": "https://poorlydrawnlines.com/comic/the-masked-mouse/"
+    },
     {
       "slug": "little-dude",
       "title": "Little Dude",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-02-18",
       "link": "https://poorlydrawnlines.com/comic/bird-of-the-year/"
-    },
-    {
-      "slug": "your-job",
-      "title": "Your Job",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/02/your-job.png",
-      "alt": "",
-      "date": "2026-02-12",
-      "link": "https://poorlydrawnlines.com/comic/your-job/"
     }
   ]
 }
