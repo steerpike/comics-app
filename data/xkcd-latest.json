@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3231,
-  "fetchedAt": "2026-04-13T19:17:51.584Z",
+  "latestNum": 3232,
+  "fetchedAt": "2026-04-14T07:51:21.121Z",
   "comics": [
+    {
+      "num": 3232,
+      "title": "Countdown Standard",
+      "img": "https://imgs.xkcd.com/comics/countdown_standard.png",
+      "alt": "Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.",
+      "date": "2026-04-13"
+    },
     {
       "num": 3231,
       "title": "Lightning",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/dental_formulas.png",
       "alt": "I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.",
       "date": "2026-02-27"
-    },
-    {
-      "num": 3212,
-      "title": "Little Red Dots",
-      "img": "https://imgs.xkcd.com/comics/little_red_dots.png",
-      "alt": "After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.",
-      "date": "2026-02-25"
     }
   ]
 }
