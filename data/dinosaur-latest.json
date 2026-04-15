@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-04-15T07:52:01.247Z",
+  "fetchedAt": "2026-04-15T19:21:58.297Z",
   "comics": [
+    {
+      "num": 4459,
+      "title": "however i am the undisputed global expert on what it's like being me, uncontested though that field may be",
+      "img": "http://www.qwantz.com/comics/comic2-5157.png",
+      "alt": "i'm so DISTRESSED at being NOT THE BEST / though my accidental rhymes still pass the TEST",
+      "date": "2026-04-15",
+      "link": "http://www.qwantz.com/index.php?comic=4459"
+    },
     {
       "num": 4458,
       "title": "it's always good to make new friends!",
@@ -76,14 +84,6 @@
       "alt": "other philosopher's books are too big, so i'm just gonna summarize them.  also, i'm not going to read them first so that way you know my summaries are completely unbiased",
       "date": "2026-03-23",
       "link": "http://www.qwantz.com/index.php?comic=4450"
-    },
-    {
-      "num": 4449,
-      "title": "okay i admit: i was thinking of the \"&butiwouldratherbereading=thelastdinosaurcomicever\" url secret code when writing this one",
-      "img": "http://www.qwantz.com/comics/comic2-5147.png",
-      "alt": "We can't even say for sure that the meaning of life isn't to get smushed by an asteroid.  i'm gonna go lie down, and then i'm gonna write one HELL of a got dang treatise",
-      "date": "2026-03-20",
-      "link": "http://www.qwantz.com/index.php?comic=4449"
     }
   ]
 }

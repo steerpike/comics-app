@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 28,
-  "highestNum": 4458,
-  "fetchedAt": "2026-04-13T19:17:52.072Z",
+  "total": 29,
+  "highestNum": 4459,
+  "fetchedAt": "2026-04-15T19:21:58.298Z",
   "comics": [
     {
       "num": 4431,
@@ -227,6 +227,14 @@
       "alt": "i've made a new friend: they're venomous but seriously there's only a teeny tiny amount of neurotoxin in their bites, so little we didn't even know it was there until recently and YES probably i should lead with other fun facts when introducing my friend the garter snake rather than leading with ",
       "date": "2026-04-13",
       "link": "http://www.qwantz.com/index.php?comic=4458"
+    },
+    {
+      "num": 4459,
+      "title": "however i am the undisputed global expert on what it's like being me, uncontested though that field may be",
+      "img": "http://www.qwantz.com/comics/comic2-5157.png",
+      "alt": "i'm so DISTRESSED at being NOT THE BEST / though my accidental rhymes still pass the TEST",
+      "date": "2026-04-15",
+      "link": "http://www.qwantz.com/index.php?comic=4459"
     }
   ]
 }

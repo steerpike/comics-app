@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-15T07:52:01.469Z",
+  "fetchedAt": "2026-04-15T19:21:58.489Z",
   "comics": [
+    {
+      "slug": "infinite-2",
+      "title": "Infinite",
+      "img": "https://www.smbc-comics.com/comics/1776204679-20260415.png",
+      "alt": "Brought to you by the All Theodicy compilation of SMBC, coming 2035.",
+      "date": "2026-04-15",
+      "link": "https://www.smbc-comics.com/comic/infinite-2"
+    },
     {
       "slug": "easier",
       "title": "Easier",
@@ -156,14 +164,6 @@
       "alt": "You also have chickenbutt, but honestly it's the least of your worries.",
       "date": "2026-03-31",
       "link": "https://www.smbc-comics.com/comic/up-4"
-    },
-    {
-      "slug": "humanities-2",
-      "title": "Humanities",
-      "img": "https://www.smbc-comics.com/comics/1774665043-20260330.png",
-      "alt": "Anyone who thinks the humanities makes people more expansive should spend four minutes in an English department meeting.",
-      "date": "2026-03-30",
-      "link": "https://www.smbc-comics.com/comic/humanities-2"
     }
   ]
 }
