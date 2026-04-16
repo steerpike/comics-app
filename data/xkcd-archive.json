@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3231,
-  "latestNum": 3232,
-  "fetchedAt": "2026-04-14T07:51:21.130Z",
+  "total": 3232,
+  "latestNum": 3233,
+  "fetchedAt": "2026-04-16T07:52:00.414Z",
   "comics": [
     {
       "num": 1,
@@ -22620,6 +22620,13 @@
       "img": "https://imgs.xkcd.com/comics/countdown_standard.png",
       "alt": "Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.",
       "date": "2026-04-13"
+    },
+    {
+      "num": 3233,
+      "title": "Make It Myself",
+      "img": "https://imgs.xkcd.com/comics/make_it_myself.png",
+      "alt": "It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!",
+      "date": "2026-04-15"
     }
   ]
 }

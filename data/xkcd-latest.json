@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3232,
-  "fetchedAt": "2026-04-15T19:21:57.795Z",
+  "latestNum": 3233,
+  "fetchedAt": "2026-04-16T07:52:00.404Z",
   "comics": [
+    {
+      "num": 3233,
+      "title": "Make It Myself",
+      "img": "https://imgs.xkcd.com/comics/make_it_myself.png",
+      "alt": "It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!",
+      "date": "2026-04-15"
+    },
     {
       "num": 3232,
       "title": "Countdown Standard",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/electric_vehicles.png",
       "alt": "Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.",
       "date": "2026-03-02"
-    },
-    {
-      "num": 3213,
-      "title": "Dental Formulas",
-      "img": "https://imgs.xkcd.com/comics/dental_formulas.png",
-      "alt": "I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.",
-      "date": "2026-02-27"
     }
   ]
 }

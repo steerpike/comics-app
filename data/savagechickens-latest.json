@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-15T19:22:00.828Z",
+  "fetchedAt": "2026-04-16T07:52:03.069Z",
   "comics": [
+    {
+      "slug": "special",
+      "title": "Special",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentodaysspecial.jpg",
+      "alt": "Special",
+      "date": "2026-04-16",
+      "link": "https://www.savagechickens.com/2026/04/special.html"
+    },
     {
       "slug": "the-new-chaos",
       "title": "The New Chaos",
@@ -76,14 +84,6 @@
       "alt": "This Easter",
       "date": "2026-04-03",
       "link": "https://www.savagechickens.com/2026/04/this-easter.html"
-    },
-    {
-      "slug": "easter-surprise",
-      "title": "Easter Surprise",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickeneastersurprise.jpg",
-      "alt": "Easter Surprise",
-      "date": "2026-04-02",
-      "link": "https://www.savagechickens.com/2026/04/easter-surprise.html"
     }
   ]
 }
