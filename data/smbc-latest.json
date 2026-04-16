@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-16T07:52:01.193Z",
+  "fetchedAt": "2026-04-16T19:20:12.151Z",
   "comics": [
+    {
+      "slug": "forbidden",
+      "title": "Forbidden",
+      "img": "https://www.smbc-comics.com/comics/1776204808-20260416.png",
+      "alt": "Later it turns out the duck was getting with a porcupine and had a litter of Echidnas.",
+      "date": "2026-04-16",
+      "link": "https://www.smbc-comics.com/comic/forbidden"
+    },
     {
       "slug": "infinite-2",
       "title": "Infinite",
@@ -156,14 +164,6 @@
       "alt": "The most valuable thing he owns are old Pokemon cards, so the Viking has to create an eBay account to complete the job of looting.",
       "date": "2026-04-01",
       "link": "https://www.smbc-comics.com/comic/loot"
-    },
-    {
-      "slug": "up-4",
-      "title": "Up",
-      "img": "https://www.smbc-comics.com/comics/1774665092-20260331.png",
-      "alt": "You also have chickenbutt, but honestly it's the least of your worries.",
-      "date": "2026-03-31",
-      "link": "https://www.smbc-comics.com/comic/up-4"
     }
   ]
 }
