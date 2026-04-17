@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-04-17T07:51:58.350Z",
+  "fetchedAt": "2026-04-17T19:04:58.989Z",
   "comics": [
+    {
+      "num": 4460,
+      "title": "good news!  eventually!  possibly.  ...maybe",
+      "img": "http://www.qwantz.com/comics/comic2-5158.png",
+      "alt": "bye, gareth 2000!  you'll live forever on in our memories, however brief though they may be",
+      "date": "2026-04-17",
+      "link": "http://www.qwantz.com/index.php?comic=4460"
+    },
     {
       "num": 4459,
       "title": "however i am the undisputed global expert on what it's like being me, uncontested though that field may be",
@@ -76,14 +84,6 @@
       "alt": "we're still inventing new shapes!!  babies keep having to learn new shapes, and in this case WE'RE BABIES!!",
       "date": "2026-03-25",
       "link": "http://www.qwantz.com/index.php?comic=4451"
-    },
-    {
-      "num": 4450,
-      "title": "the meaning of life (part 2)",
-      "img": "http://www.qwantz.com/comics/comic2-5148.png",
-      "alt": "other philosopher's books are too big, so i'm just gonna summarize them.  also, i'm not going to read them first so that way you know my summaries are completely unbiased",
-      "date": "2026-03-23",
-      "link": "http://www.qwantz.com/index.php?comic=4450"
     }
   ]
 }

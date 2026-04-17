@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-17T07:51:58.630Z",
+  "fetchedAt": "2026-04-17T19:04:59.209Z",
   "comics": [
+    {
+      "slug": "same-3",
+      "title": "Same",
+      "img": "https://www.smbc-comics.com/comics/1776387508-20260417.png",
+      "alt": "The key is to put the self-on-fire at the beginning of the video and promise to show that it technically cures cancer, but only if you watch to the end without skipping.",
+      "date": "2026-04-17",
+      "link": "https://www.smbc-comics.com/comic/same-3"
+    },
     {
       "slug": "forbidden",
       "title": "Forbidden",
@@ -156,14 +164,6 @@
       "alt": "When I was a kid, I wondered why all adults are crazy. Now I wonder how any are sane.",
       "date": "2026-04-02",
       "link": "https://www.smbc-comics.com/comic/special-5"
-    },
-    {
-      "slug": "loot",
-      "title": "Loot",
-      "img": "https://www.smbc-comics.com/comics/1774994016-20260401.png",
-      "alt": "The most valuable thing he owns are old Pokemon cards, so the Viking has to create an eBay account to complete the job of looting.",
-      "date": "2026-04-01",
-      "link": "https://www.smbc-comics.com/comic/loot"
     }
   ]
 }
