@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-16T19:20:13.639Z",
+  "fetchedAt": "2026-04-17T07:52:00.495Z",
   "comics": [
+    {
+      "slug": "kayak",
+      "title": "Kayak",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenkayak.jpg",
+      "alt": "Kayak",
+      "date": "2026-04-17",
+      "link": "https://www.savagechickens.com/2026/04/kayak.html"
+    },
     {
       "slug": "special",
       "title": "Special",
@@ -76,14 +84,6 @@
       "alt": "Hello Xenomorph",
       "date": "2026-04-06",
       "link": "https://www.savagechickens.com/2026/04/hello-xenomorph.html"
-    },
-    {
-      "slug": "this-easter",
-      "title": "This Easter",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthiseaster.jpg",
-      "alt": "This Easter",
-      "date": "2026-04-03",
-      "link": "https://www.savagechickens.com/2026/04/this-easter.html"
     }
   ]
 }
