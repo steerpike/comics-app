@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3233,
-  "fetchedAt": "2026-04-17T19:04:58.628Z",
+  "latestNum": 3234,
+  "fetchedAt": "2026-04-18T07:12:53.255Z",
   "comics": [
+    {
+      "num": 3234,
+      "title": "Europa Missions",
+      "img": "https://imgs.xkcd.com/comics/europa_missions.png",
+      "alt": "Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.",
+      "date": "2026-04-17"
+    },
     {
       "num": 3233,
       "title": "Make It Myself",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/solar_warning.png",
       "alt": "This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.",
       "date": "2026-03-04"
-    },
-    {
-      "num": 3214,
-      "title": "Electric Vehicles",
-      "img": "https://imgs.xkcd.com/comics/electric_vehicles.png",
-      "alt": "Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.",
-      "date": "2026-03-02"
     }
   ]
 }

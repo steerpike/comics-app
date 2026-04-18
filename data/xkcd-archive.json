@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3232,
-  "latestNum": 3233,
-  "fetchedAt": "2026-04-16T07:52:00.414Z",
+  "total": 3233,
+  "latestNum": 3234,
+  "fetchedAt": "2026-04-18T07:12:53.264Z",
   "comics": [
     {
       "num": 1,
@@ -22627,6 +22627,13 @@
       "img": "https://imgs.xkcd.com/comics/make_it_myself.png",
       "alt": "It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!",
       "date": "2026-04-15"
+    },
+    {
+      "num": 3234,
+      "title": "Europa Missions",
+      "img": "https://imgs.xkcd.com/comics/europa_missions.png",
+      "alt": "Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.",
+      "date": "2026-04-17"
     }
   ]
 }

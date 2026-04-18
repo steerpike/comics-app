@@ -3,12 +3,12 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-17T19:04:59.209Z",
+  "fetchedAt": "2026-04-18T07:12:53.885Z",
   "comics": [
     {
       "slug": "same-3",
       "title": "Same",
-      "img": "https://www.smbc-comics.com/comics/1776387508-20260417.png",
+      "img": "https://www.smbc-comics.com/comics/1776458231-20260417.png",
       "alt": "The key is to put the self-on-fire at the beginning of the video and promise to show that it technically cures cancer, but only if you watch to the end without skipping.",
       "date": "2026-04-17",
       "link": "https://www.smbc-comics.com/comic/same-3"
