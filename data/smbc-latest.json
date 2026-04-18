@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-18T07:12:53.885Z",
+  "fetchedAt": "2026-04-18T18:55:53.365Z",
   "comics": [
+    {
+      "slug": "dreams-2",
+      "title": "Dreams",
+      "img": "https://www.smbc-comics.com/comics/1776383978-20260418.png",
+      "alt": "I'm pretty sure this is how Stoicism works, just more douchey.",
+      "date": "2026-04-18",
+      "link": "https://www.smbc-comics.com/comic/dreams-2"
+    },
     {
       "slug": "same-3",
       "title": "Same",
@@ -156,14 +164,6 @@
       "alt": "You can't see it from this angle, but the kitty has an AK.",
       "date": "2026-04-03",
       "link": "https://www.smbc-comics.com/comic/bad-4"
-    },
-    {
-      "slug": "special-5",
-      "title": "Special",
-      "img": "https://www.smbc-comics.com/comics/1775359011-20260402.png",
-      "alt": "When I was a kid, I wondered why all adults are crazy. Now I wonder how any are sane.",
-      "date": "2026-04-02",
-      "link": "https://www.smbc-comics.com/comic/special-5"
     }
   ]
 }
