@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-19T07:24:06.157Z",
+  "fetchedAt": "2026-04-19T18:56:00.452Z",
   "comics": [
+    {
+      "slug": "dial",
+      "title": "Dial",
+      "img": "https://www.smbc-comics.com/comics/1776384022-20260419.png",
+      "alt": "The funny part is every action in your life turns SOME torture dial!",
+      "date": "2026-04-19",
+      "link": "https://www.smbc-comics.com/comic/dial"
+    },
     {
       "slug": "dreams-2",
       "title": "Dreams",
@@ -156,14 +164,6 @@
       "alt": "It's inoperable thanks to the yellow sun of Earth!",
       "date": "2026-04-04",
       "link": "https://www.smbc-comics.com/comic/super-3"
-    },
-    {
-      "slug": "bad-4",
-      "title": "Bad",
-      "img": "https://www.smbc-comics.com/comics/1774994123-20260403.png",
-      "alt": "You can't see it from this angle, but the kitty has an AK.",
-      "date": "2026-04-03",
-      "link": "https://www.smbc-comics.com/comic/bad-4"
     }
   ]
 }
