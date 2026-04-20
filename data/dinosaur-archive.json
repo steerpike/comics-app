@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 30,
-  "highestNum": 4460,
-  "fetchedAt": "2026-04-17T19:04:58.990Z",
+  "total": 31,
+  "highestNum": 4461,
+  "fetchedAt": "2026-04-20T19:10:16.942Z",
   "comics": [
     {
       "num": 4431,
@@ -243,6 +243,14 @@
       "alt": "bye, gareth 2000!  you'll live forever on in our memories, however brief though they may be",
       "date": "2026-04-17",
       "link": "http://www.qwantz.com/index.php?comic=4460"
+    },
+    {
+      "num": 4461,
+      "title": "good girl, bad Bertrand Russell",
+      "img": "http://www.qwantz.com/comics/comic2-5159.png",
+      "alt": "this comic inspired by my dog's freeze-dried cheese treats that are just normal cheese that's been freeze-dried and honestly pretty great if you love the flavour of cheese but have always craved an added freeze-dried CRUNCH",
+      "date": "2026-04-20",
+      "link": "http://www.qwantz.com/index.php?comic=4461"
     }
   ]
 }

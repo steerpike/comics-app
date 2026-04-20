@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-20T08:13:12.005Z",
+  "fetchedAt": "2026-04-20T19:10:17.586Z",
   "comics": [
+    {
+      "slug": "nigh-2",
+      "title": "Nigh",
+      "img": "https://www.smbc-comics.com/comics/1776548137-20260420.png",
+      "alt": "I read a guy the other day saying all cognitive tasks will be automated, so it's important to stay flexible, and all I can figure is he was imagining humans would make a good building material.",
+      "date": "2026-04-20",
+      "link": "https://www.smbc-comics.com/comic/nigh-2"
+    },
     {
       "slug": "dial",
       "title": "Dial",
@@ -156,14 +164,6 @@
       "alt": "Suddenly regretting that I didn't just draw a word for word graphic novel of the entire book twice.",
       "date": "2026-04-05",
       "link": "https://www.smbc-comics.com/comic/hi"
-    },
-    {
-      "slug": "super-3",
-      "title": "Super",
-      "img": "https://www.smbc-comics.com/comics/1774994166-20260404.png",
-      "alt": "It's inoperable thanks to the yellow sun of Earth!",
-      "date": "2026-04-04",
-      "link": "https://www.smbc-comics.com/comic/super-3"
     }
   ]
 }

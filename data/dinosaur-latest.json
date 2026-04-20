@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-04-20T08:13:11.645Z",
+  "fetchedAt": "2026-04-20T19:10:16.941Z",
   "comics": [
+    {
+      "num": 4461,
+      "title": "good girl, bad Bertrand Russell",
+      "img": "http://www.qwantz.com/comics/comic2-5159.png",
+      "alt": "this comic inspired by my dog's freeze-dried cheese treats that are just normal cheese that's been freeze-dried and honestly pretty great if you love the flavour of cheese but have always craved an added freeze-dried CRUNCH",
+      "date": "2026-04-20",
+      "link": "http://www.qwantz.com/index.php?comic=4461"
+    },
     {
       "num": 4460,
       "title": "good news!  eventually!  possibly.  ...maybe",
@@ -76,14 +84,6 @@
       "alt": "Chris Doppler, or ",
       "date": "2026-03-27",
       "link": "http://www.qwantz.com/index.php?comic=4452"
-    },
-    {
-      "num": 4451,
-      "title": "the meaning of life AND/OR math",
-      "img": "http://www.qwantz.com/comics/comic2-5149.png",
-      "alt": "we're still inventing new shapes!!  babies keep having to learn new shapes, and in this case WE'RE BABIES!!",
-      "date": "2026-03-25",
-      "link": "http://www.qwantz.com/index.php?comic=4451"
     }
   ]
 }
