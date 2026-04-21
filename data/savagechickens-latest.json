@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-20T19:10:19.627Z",
+  "fetchedAt": "2026-04-21T07:57:10.721Z",
   "comics": [
+    {
+      "slug": "monster-friend",
+      "title": "Monster Friend",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenrodan.jpg",
+      "alt": "Monster Friend",
+      "date": "2026-04-21",
+      "link": "https://www.savagechickens.com/2026/04/monster-friend.html"
+    },
     {
       "slug": "gallery-show",
       "title": "Gallery Show",
@@ -76,14 +84,6 @@
       "alt": "Hulk Cat Angry",
       "date": "2026-04-08",
       "link": "https://www.savagechickens.com/2026/04/hulk-cat-angry.html"
-    },
-    {
-      "slug": "substitution",
-      "title": "Substitution",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickensubstitute-1.jpg",
-      "alt": "Substitution",
-      "date": "2026-04-07",
-      "link": "https://www.savagechickens.com/2026/04/substitution.html"
     }
   ]
 }

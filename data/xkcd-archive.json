@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3233,
-  "latestNum": 3234,
-  "fetchedAt": "2026-04-18T07:12:53.264Z",
+  "total": 3234,
+  "latestNum": 3235,
+  "fetchedAt": "2026-04-21T07:57:07.986Z",
   "comics": [
     {
       "num": 1,
@@ -22634,6 +22634,13 @@
       "img": "https://imgs.xkcd.com/comics/europa_missions.png",
       "alt": "Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.",
       "date": "2026-04-17"
+    },
+    {
+      "num": 3235,
+      "title": "Types of Board Game",
+      "img": "https://imgs.xkcd.com/comics/types_of_board_game.png",
+      "alt": "I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.",
+      "date": "2026-04-20"
     }
   ]
 }
