@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-21T07:57:08.818Z",
+  "fetchedAt": "2026-04-21T19:17:12.139Z",
   "comics": [
+    {
+      "slug": "standard",
+      "title": "Standard",
+      "img": "https://www.smbc-comics.com/comics/1776728330-20260421.png",
+      "alt": "Should this be rated NSFW?",
+      "date": "2026-04-21",
+      "link": "https://www.smbc-comics.com/comic/standard"
+    },
     {
       "slug": "nigh-2",
       "title": "Nigh",
@@ -156,14 +164,6 @@
       "alt": "I think I'm the only one who likes the clowns are a species jokes, but by GOD I love them.",
       "date": "2026-04-06",
       "link": "https://www.smbc-comics.com/comic/borax"
-    },
-    {
-      "slug": "hi",
-      "title": "Hi",
-      "img": "https://www.smbc-comics.com/comics/1775358890-20260405.png",
-      "alt": "Suddenly regretting that I didn't just draw a word for word graphic novel of the entire book twice.",
-      "date": "2026-04-05",
-      "link": "https://www.smbc-comics.com/comic/hi"
     }
   ]
 }
