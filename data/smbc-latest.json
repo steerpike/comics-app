@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-22T07:53:30.515Z",
+  "fetchedAt": "2026-04-22T19:18:18.519Z",
   "comics": [
+    {
+      "slug": "waas",
+      "title": "WaaS",
+      "img": "https://www.smbc-comics.com/comics/1776728379-20260422.png",
+      "alt": "Have I mentioned SMBC's ad-free patreon page?",
+      "date": "2026-04-22",
+      "link": "https://www.smbc-comics.com/comic/waas"
+    },
     {
       "slug": "standard",
       "title": "Standard",
@@ -156,14 +164,6 @@
       "alt": "We will have had peace immediately!",
       "date": "2026-04-07",
       "link": "https://www.smbc-comics.com/comic/will-2"
-    },
-    {
-      "slug": "borax",
-      "title": "Borax",
-      "img": "https://www.smbc-comics.com/comics/1775358940-20260406.png",
-      "alt": "I think I'm the only one who likes the clowns are a species jokes, but by GOD I love them.",
-      "date": "2026-04-06",
-      "link": "https://www.smbc-comics.com/comic/borax"
     }
   ]
 }

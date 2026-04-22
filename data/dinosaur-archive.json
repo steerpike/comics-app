@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 31,
-  "highestNum": 4461,
-  "fetchedAt": "2026-04-20T19:10:16.942Z",
+  "total": 32,
+  "highestNum": 4462,
+  "fetchedAt": "2026-04-22T19:18:18.160Z",
   "comics": [
     {
       "num": 4431,
@@ -251,6 +251,14 @@
       "alt": "this comic inspired by my dog's freeze-dried cheese treats that are just normal cheese that's been freeze-dried and honestly pretty great if you love the flavour of cheese but have always craved an added freeze-dried CRUNCH",
       "date": "2026-04-20",
       "link": "http://www.qwantz.com/index.php?comic=4461"
+    },
+    {
+      "num": 4462,
+      "title": "t-rex in: mistakes were made",
+      "img": "http://www.qwantz.com/comics/comic2-5160.png",
+      "alt": "t-rex in: no no no, no more mistakes, only correct things all the time forever and ever!!!  please please please",
+      "date": "2026-04-22",
+      "link": "http://www.qwantz.com/index.php?comic=4462"
     }
   ]
 }
