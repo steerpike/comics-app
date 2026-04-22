@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-21T19:17:13.675Z",
+  "fetchedAt": "2026-04-22T07:53:32.467Z",
   "comics": [
+    {
+      "slug": "never-really-caught-on",
+      "title": "Never Really Caught On",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenneverreallycaughton.jpg",
+      "alt": "Never Really Caught On",
+      "date": "2026-04-22",
+      "link": "https://www.savagechickens.com/2026/04/never-really-caught-on.html"
+    },
     {
       "slug": "monster-friend",
       "title": "Monster Friend",
@@ -76,14 +84,6 @@
       "alt": "Simulator",
       "date": "2026-04-09",
       "link": "https://www.savagechickens.com/2026/04/simulator.html"
-    },
-    {
-      "slug": "hulk-cat-angry",
-      "title": "Hulk Cat Angry",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenhulkcatangry.jpg",
-      "alt": "Hulk Cat Angry",
-      "date": "2026-04-08",
-      "link": "https://www.savagechickens.com/2026/04/hulk-cat-angry.html"
     }
   ]
 }
