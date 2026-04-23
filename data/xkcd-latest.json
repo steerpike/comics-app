@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3235,
-  "fetchedAt": "2026-04-22T19:18:18.001Z",
+  "latestNum": 3236,
+  "fetchedAt": "2026-04-23T07:59:42.662Z",
   "comics": [
+    {
+      "num": 3236,
+      "title": "Border Message",
+      "img": "https://imgs.xkcd.com/comics/border_message.png",
+      "alt": "Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.",
+      "date": "2026-04-22"
+    },
     {
       "num": 3235,
       "title": "Types of Board Game",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/home_remedies.png",
       "alt": "As always, you are permitted to call one person for guidance, but that person must be a grandparent.",
       "date": "2026-03-09"
-    },
-    {
-      "num": 3216,
-      "title": "Bazookasaurus",
-      "img": "https://imgs.xkcd.com/comics/bazookasaurus.png",
-      "alt": "In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.",
-      "date": "2026-03-06"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-22T19:18:19.884Z",
+  "fetchedAt": "2026-04-23T07:59:45.047Z",
   "comics": [
+    {
+      "slug": "as-you-like-it",
+      "title": "As You Like It",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenasyoulikeit.jpg",
+      "alt": "As You Like It",
+      "date": "2026-04-23",
+      "link": "https://www.savagechickens.com/2026/04/as-you-like-it.html"
+    },
     {
       "slug": "never-really-caught-on",
       "title": "Never Really Caught On",
@@ -76,14 +84,6 @@
       "alt": "Scratching Post",
       "date": "2026-04-10",
       "link": "https://www.savagechickens.com/2026/04/scratching-post.html"
-    },
-    {
-      "slug": "simulator",
-      "title": "Simulator",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickensimulator.jpg",
-      "alt": "Simulator",
-      "date": "2026-04-09",
-      "link": "https://www.savagechickens.com/2026/04/simulator.html"
     }
   ]
 }

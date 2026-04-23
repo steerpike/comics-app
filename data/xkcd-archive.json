@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3234,
-  "latestNum": 3235,
-  "fetchedAt": "2026-04-21T07:57:07.986Z",
+  "total": 3235,
+  "latestNum": 3236,
+  "fetchedAt": "2026-04-23T07:59:42.672Z",
   "comics": [
     {
       "num": 1,
@@ -22641,6 +22641,13 @@
       "img": "https://imgs.xkcd.com/comics/types_of_board_game.png",
       "alt": "I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.",
       "date": "2026-04-20"
+    },
+    {
+      "num": 3236,
+      "title": "Border Message",
+      "img": "https://imgs.xkcd.com/comics/border_message.png",
+      "alt": "Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.",
+      "date": "2026-04-22"
     }
   ]
 }
