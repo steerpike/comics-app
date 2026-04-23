@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-04-23T07:59:44.641Z",
+  "fetchedAt": "2026-04-23T19:15:18.686Z",
   "comics": [
+    {
+      "slug": "i-am-snake",
+      "title": "I Am Snake",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/04/I-Am-Snake.png",
+      "alt": "",
+      "date": "2026-04-23",
+      "link": "https://poorlydrawnlines.com/comic/i-am-snake/"
+    },
     {
       "slug": "the-masked-mouse",
       "title": "The Masked Mouse",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-02-20",
       "link": "https://poorlydrawnlines.com/comic/a-good-friend/"
-    },
-    {
-      "slug": "bird-of-the-year",
-      "title": "Bird of the Year",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/02/bird-of-the-year.png",
-      "alt": "",
-      "date": "2026-02-18",
-      "link": "https://poorlydrawnlines.com/comic/bird-of-the-year/"
     }
   ]
 }
