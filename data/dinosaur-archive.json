@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 32,
-  "highestNum": 4462,
-  "fetchedAt": "2026-04-22T19:18:18.160Z",
+  "total": 33,
+  "highestNum": 4463,
+  "fetchedAt": "2026-04-24T18:57:06.137Z",
   "comics": [
     {
       "num": 4431,
@@ -259,6 +259,14 @@
       "alt": "t-rex in: no no no, no more mistakes, only correct things all the time forever and ever!!!  please please please",
       "date": "2026-04-22",
       "link": "http://www.qwantz.com/index.php?comic=4462"
+    },
+    {
+      "num": 4463,
+      "title": "annoyingly annoyed",
+      "img": "http://www.qwantz.com/comics/comic2-5161.png",
+      "alt": "panel 6 t-rex is breaking the streak of all the other even-numbered panel t-rexes by saying something other than ",
+      "date": "2026-04-24",
+      "link": "http://www.qwantz.com/index.php?comic=4463"
     }
   ]
 }

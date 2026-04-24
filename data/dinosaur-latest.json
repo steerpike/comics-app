@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-04-24T08:08:40.448Z",
+  "fetchedAt": "2026-04-24T18:57:06.137Z",
   "comics": [
+    {
+      "num": 4463,
+      "title": "annoyingly annoyed",
+      "img": "http://www.qwantz.com/comics/comic2-5161.png",
+      "alt": "panel 6 t-rex is breaking the streak of all the other even-numbered panel t-rexes by saying something other than ",
+      "date": "2026-04-24",
+      "link": "http://www.qwantz.com/index.php?comic=4463"
+    },
     {
       "num": 4462,
       "title": "t-rex in: mistakes were made",
@@ -76,14 +84,6 @@
       "alt": "most art was created by the dead, but then again, so were most mistakes",
       "date": "2026-04-01",
       "link": "http://www.qwantz.com/index.php?comic=4454"
-    },
-    {
-      "num": 4453,
-      "title": "god: if you want me to leave this building, just send me a sign",
-      "img": "http://www.qwantz.com/comics/comic2-5151.png",
-      "alt": "IN MY DEFENSE, the last minute has been really educational for me vis-a-vis why i'm bad at this",
-      "date": "2026-03-30",
-      "link": "http://www.qwantz.com/index.php?comic=4453"
     }
   ]
 }

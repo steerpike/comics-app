@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3236,
-  "fetchedAt": "2026-04-24T08:08:40.069Z",
+  "latestNum": 3237,
+  "fetchedAt": "2026-04-24T18:57:05.962Z",
   "comics": [
+    {
+      "num": 3237,
+      "title": "Husband and Wife",
+      "img": "https://imgs.xkcd.com/comics/husband_and_wife.png",
+      "alt": "Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.",
+      "date": "2026-04-24"
+    },
     {
       "num": 3236,
       "title": "Border Message",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/subduction_retrieval.png",
       "alt": "Aww, the oceanic crust and the continental crust are getting married!",
       "date": "2026-03-11"
-    },
-    {
-      "num": 3217,
-      "title": "Home Remedies",
-      "img": "https://imgs.xkcd.com/comics/home_remedies.png",
-      "alt": "As always, you are permitted to call one person for guidance, but that person must be a grandparent.",
-      "date": "2026-03-09"
     }
   ]
 }
