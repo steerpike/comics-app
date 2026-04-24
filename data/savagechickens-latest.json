@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-23T19:15:19.358Z",
+  "fetchedAt": "2026-04-24T08:08:42.714Z",
   "comics": [
+    {
+      "slug": "energy",
+      "title": "Energy",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenenergy.jpg",
+      "alt": "Energy",
+      "date": "2026-04-24",
+      "link": "https://www.savagechickens.com/2026/04/energy.html"
+    },
     {
       "slug": "as-you-like-it",
       "title": "As You Like It",
@@ -76,14 +84,6 @@
       "alt": "A.I. Tech Support",
       "date": "2026-04-13",
       "link": "https://www.savagechickens.com/2026/04/a-i-tech-support.html"
-    },
-    {
-      "slug": "scratching-post",
-      "title": "Scratching Post",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenscratchingpost.jpg",
-      "alt": "Scratching Post",
-      "date": "2026-04-10",
-      "link": "https://www.savagechickens.com/2026/04/scratching-post.html"
     }
   ]
 }
