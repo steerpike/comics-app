@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-26T07:44:30.790Z",
+  "fetchedAt": "2026-04-26T18:59:22.726Z",
   "comics": [
+    {
+      "slug": "quantum-6",
+      "title": "Quantum",
+      "img": "https://www.smbc-comics.com/comics/1776970356-20260426.png",
+      "alt": "Later they go out for a superposition of chocolate and vanilla ice cream.",
+      "date": "2026-04-26",
+      "link": "https://www.smbc-comics.com/comic/quantum-6"
+    },
     {
       "slug": "end-2",
       "title": "End",
@@ -156,14 +164,6 @@
       "alt": "Does this change my imaginary Erdos number to a complex number?",
       "date": "2026-04-09",
       "link": "https://www.smbc-comics.com/comic/spheres-part-3"
-    },
-    {
-      "slug": "spheres-part-2",
-      "title": "Spheres Part 2",
-      "img": "https://www.smbc-comics.com/comics/1775691847-Part2-site.png",
-      "alt": "Does this change my imaginary Erdos number to a complex number?",
-      "date": "2026-04-09",
-      "link": "https://www.smbc-comics.com/comic/spheres-part-2"
     }
   ]
 }
