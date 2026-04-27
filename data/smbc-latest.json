@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-27T08:30:14.722Z",
+  "fetchedAt": "2026-04-27T19:27:21.208Z",
   "comics": [
+    {
+      "slug": "set",
+      "title": "Set",
+      "img": "https://www.smbc-comics.com/comics/1777252661-20260427.png",
+      "alt": "Why start with a confusing idea like zero, when you can refer to the notion of a something with nothing in it?",
+      "date": "2026-04-27",
+      "link": "https://www.smbc-comics.com/comic/set"
+    },
     {
       "slug": "quantum-6",
       "title": "Quantum",
@@ -156,14 +164,6 @@
       "alt": "Does this change my imaginary Erdos number to a complex number?",
       "date": "2026-04-09",
       "link": "https://www.smbc-comics.com/comic/spheres-part-4"
-    },
-    {
-      "slug": "spheres-part-3",
-      "title": "Spheres Part 3",
-      "img": "https://www.smbc-comics.com/comics/1775691902-Part3-site.png",
-      "alt": "Does this change my imaginary Erdos number to a complex number?",
-      "date": "2026-04-09",
-      "link": "https://www.smbc-comics.com/comic/spheres-part-3"
     }
   ]
 }

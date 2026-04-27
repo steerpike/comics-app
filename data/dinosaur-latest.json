@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-04-27T08:30:14.265Z",
+  "fetchedAt": "2026-04-27T19:27:20.833Z",
   "comics": [
+    {
+      "num": 4464,
+      "title": "big challenges!!  BIG CHALLENGES",
+      "img": "http://www.qwantz.com/comics/comic2-5162.png",
+      "alt": "his li'l bro is named Li'l Challenges. Sanrio hit me up, my arms are overflowing with AMAZING CHARACTERS here",
+      "date": "2026-04-27",
+      "link": "http://www.qwantz.com/index.php?comic=4464"
+    },
     {
       "num": 4463,
       "title": "annoyingly annoyed",
@@ -76,14 +84,6 @@
       "alt": "this comic is brought to you by uncontacted peoples.  they're allowed to contact YOU but you can't say anything back to THEM; i don't make the rules i just enforce them",
       "date": "2026-04-06",
       "link": "http://www.qwantz.com/index.php?comic=4455"
-    },
-    {
-      "num": 4454,
-      "title": "death comes to us all, but before it does, LET'S READ SOME COMICS!!",
-      "img": "http://www.qwantz.com/comics/comic2-5152.png",
-      "alt": "most art was created by the dead, but then again, so were most mistakes",
-      "date": "2026-04-01",
-      "link": "http://www.qwantz.com/index.php?comic=4454"
     }
   ]
 }

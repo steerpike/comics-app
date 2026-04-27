@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 33,
-  "highestNum": 4463,
-  "fetchedAt": "2026-04-24T18:57:06.137Z",
+  "total": 34,
+  "highestNum": 4464,
+  "fetchedAt": "2026-04-27T19:27:20.833Z",
   "comics": [
     {
       "num": 4431,
@@ -267,6 +267,14 @@
       "alt": "panel 6 t-rex is breaking the streak of all the other even-numbered panel t-rexes by saying something other than ",
       "date": "2026-04-24",
       "link": "http://www.qwantz.com/index.php?comic=4463"
+    },
+    {
+      "num": 4464,
+      "title": "big challenges!!  BIG CHALLENGES",
+      "img": "http://www.qwantz.com/comics/comic2-5162.png",
+      "alt": "his li'l bro is named Li'l Challenges. Sanrio hit me up, my arms are overflowing with AMAZING CHARACTERS here",
+      "date": "2026-04-27",
+      "link": "http://www.qwantz.com/index.php?comic=4464"
     }
   ]
 }
