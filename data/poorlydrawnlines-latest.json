@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-04-28T08:29:02.682Z",
+  "fetchedAt": "2026-04-28T19:44:54.959Z",
   "comics": [
+    {
+      "slug": "mr-nice-doug",
+      "title": "Mr. Nice Doug",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/04/mr-nice.png",
+      "alt": "",
+      "date": "2026-04-28",
+      "link": "https://poorlydrawnlines.com/comic/mr-nice-doug/"
+    },
     {
       "slug": "i-am-snake",
       "title": "I Am Snake",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-02-24",
       "link": "https://poorlydrawnlines.com/comic/care-about-stuff/"
-    },
-    {
-      "slug": "a-good-friend",
-      "title": "A Good Friend",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/02/a-good-friend.png",
-      "alt": "",
-      "date": "2026-02-20",
-      "link": "https://poorlydrawnlines.com/comic/a-good-friend/"
     }
   ]
 }

@@ -3,8 +3,24 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-28T08:29:00.326Z",
+  "fetchedAt": "2026-04-28T19:44:52.714Z",
   "comics": [
+    {
+      "slug": "kickstarter-launch",
+      "title": "Kickstarter Launch!",
+      "img": "https://www.smbc-comics.com/comics/1777343494-parentingkickstarterlaunchcomic.png",
+      "alt": "A book 12 years in the making...",
+      "date": "2026-04-28",
+      "link": "https://www.smbc-comics.com/comic/kickstarter-launch"
+    },
+    {
+      "slug": "copernican",
+      "title": "Copernican",
+      "img": "https://www.smbc-comics.com/comics/1777341653-20260428-edit.png",
+      "alt": "This joke is more for my future audience of robots, but humans are welcome.",
+      "date": "2026-04-28",
+      "link": "https://www.smbc-comics.com/comic/copernican"
+    },
     {
       "slug": "set",
       "title": "Set",
@@ -148,22 +164,6 @@
       "alt": "He got cursed with it after that time Jesus yelled at a fig tree.",
       "date": "2026-04-10",
       "link": "https://www.smbc-comics.com/comic/log"
-    },
-    {
-      "slug": "spheres-part-5",
-      "title": "Spheres Part 5",
-      "img": "https://www.smbc-comics.com/comics/1775692056-Part5-site.png",
-      "alt": "Whoever figures out the bonus panel puzzle gets 3 Internet Points.",
-      "date": "2026-04-09",
-      "link": "https://www.smbc-comics.com/comic/spheres-part-5"
-    },
-    {
-      "slug": "spheres-part-4",
-      "title": "Spheres Part 4",
-      "img": "https://www.smbc-comics.com/comics/1775856247-Part4-sitefix.png",
-      "alt": "Does this change my imaginary Erdos number to a complex number?",
-      "date": "2026-04-09",
-      "link": "https://www.smbc-comics.com/comic/spheres-part-4"
     }
   ]
 }
