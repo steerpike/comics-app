@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3237,
-  "fetchedAt": "2026-04-27T19:27:20.589Z",
+  "latestNum": 3238,
+  "fetchedAt": "2026-04-28T08:28:59.454Z",
   "comics": [
+    {
+      "num": 3238,
+      "title": "Soniferous Aether",
+      "img": "https://imgs.xkcd.com/comics/soniferous_aether.png",
+      "alt": "Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.",
+      "date": "2026-04-27"
+    },
     {
       "num": 3237,
       "title": "Husband and Wife",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/planets_and_bright_stars.png",
       "alt": "An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.",
       "date": "2026-03-13"
-    },
-    {
-      "num": 3218,
-      "title": "Subduction Retrieval",
-      "img": "https://imgs.xkcd.com/comics/subduction_retrieval.png",
-      "alt": "Aww, the oceanic crust and the continental crust are getting married!",
-      "date": "2026-03-11"
     }
   ]
 }

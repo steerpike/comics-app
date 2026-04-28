@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3236,
-  "latestNum": 3237,
-  "fetchedAt": "2026-04-24T18:57:05.974Z",
+  "total": 3237,
+  "latestNum": 3238,
+  "fetchedAt": "2026-04-28T08:28:59.464Z",
   "comics": [
     {
       "num": 1,
@@ -22655,6 +22655,13 @@
       "img": "https://imgs.xkcd.com/comics/husband_and_wife.png",
       "alt": "Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.",
       "date": "2026-04-24"
+    },
+    {
+      "num": 3238,
+      "title": "Soniferous Aether",
+      "img": "https://imgs.xkcd.com/comics/soniferous_aether.png",
+      "alt": "Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.",
+      "date": "2026-04-27"
     }
   ]
 }
