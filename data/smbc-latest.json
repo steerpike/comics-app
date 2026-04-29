@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-29T08:23:05.022Z",
+  "fetchedAt": "2026-04-29T19:40:58.534Z",
   "comics": [
+    {
+      "slug": "spoon",
+      "title": "Spoon",
+      "img": "https://www.smbc-comics.com/comics/1777341680-20260429-edit.png",
+      "alt": "Ten bucks to any president who does the thing in the second-to-last panel.",
+      "date": "2026-04-29",
+      "link": "https://www.smbc-comics.com/comic/spoon"
+    },
     {
       "slug": "kickstarter-launch",
       "title": "Kickstarter Launch!",
@@ -156,14 +164,6 @@
       "alt": "It's not about the humanicide, it's about avoiding awkwardness.",
       "date": "2026-04-11",
       "link": "https://www.smbc-comics.com/comic/peace-3"
-    },
-    {
-      "slug": "log",
-      "title": "Log",
-      "img": "https://www.smbc-comics.com/comics/1775692319-20260410.png",
-      "alt": "He got cursed with it after that time Jesus yelled at a fig tree.",
-      "date": "2026-04-10",
-      "link": "https://www.smbc-comics.com/comic/log"
     }
   ]
 }

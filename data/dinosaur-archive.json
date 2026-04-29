@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 34,
-  "highestNum": 4464,
-  "fetchedAt": "2026-04-27T19:27:20.833Z",
+  "total": 35,
+  "highestNum": 4465,
+  "fetchedAt": "2026-04-29T19:40:58.285Z",
   "comics": [
     {
       "num": 4431,
@@ -275,6 +275,14 @@
       "alt": "his li'l bro is named Li'l Challenges. Sanrio hit me up, my arms are overflowing with AMAZING CHARACTERS here",
       "date": "2026-04-27",
       "link": "http://www.qwantz.com/index.php?comic=4464"
+    },
+    {
+      "num": 4465,
+      "title": "styles change, but secret third types in ontologies never do",
+      "img": "http://www.qwantz.com/comics/comic2-5163.png",
+      "alt": "ostracization SOUNDS like it's the process of slowly being turned into an ostrich, but it really just means being excluded from a group.  i guess there's two types of ostracization and only one of them is good.",
+      "date": "2026-04-29",
+      "link": "http://www.qwantz.com/index.php?comic=4465"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3237,
-  "latestNum": 3238,
-  "fetchedAt": "2026-04-28T08:28:59.464Z",
+  "total": 3238,
+  "latestNum": 3239,
+  "fetchedAt": "2026-04-29T19:40:57.878Z",
   "comics": [
     {
       "num": 1,
@@ -22662,6 +22662,13 @@
       "img": "https://imgs.xkcd.com/comics/soniferous_aether.png",
       "alt": "Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.",
       "date": "2026-04-27"
+    },
+    {
+      "num": 3239,
+      "title": "Simple Machines",
+      "img": "https://imgs.xkcd.com/comics/simple_machines.png",
+      "alt": "It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.",
+      "date": "2026-04-29"
     }
   ]
 }
