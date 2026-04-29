@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-28T19:44:55.266Z",
+  "fetchedAt": "2026-04-29T08:23:06.653Z",
   "comics": [
+    {
+      "slug": "skills-2",
+      "title": "Skills",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenskillscow.jpg",
+      "alt": "Skills",
+      "date": "2026-04-29",
+      "link": "https://www.savagechickens.com/2026/04/skills-2.html"
+    },
     {
       "slug": "death-2",
       "title": "Death!",
@@ -76,14 +84,6 @@
       "alt": "Special",
       "date": "2026-04-16",
       "link": "https://www.savagechickens.com/2026/04/special.html"
-    },
-    {
-      "slug": "the-new-chaos",
-      "title": "The New Chaos",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthenewchaos.jpg",
-      "alt": "The New Chaos",
-      "date": "2026-04-15",
-      "link": "https://www.savagechickens.com/2026/04/the-new-chaos.html"
     }
   ]
 }
