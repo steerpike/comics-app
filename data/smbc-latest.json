@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-04-30T08:25:58.058Z",
+  "fetchedAt": "2026-04-30T19:26:39.028Z",
   "comics": [
+    {
+      "slug": "meaning-7",
+      "title": "Meaning",
+      "img": "https://www.smbc-comics.com/comics/1777341705-20260430-edit.png",
+      "alt": "The worst part is the robot makes him use reddit 7 hours a day, because that's what past employees were doing in its training data.",
+      "date": "2026-04-30",
+      "link": "https://www.smbc-comics.com/comic/meaning-7"
+    },
     {
       "slug": "spoon",
       "title": "Spoon",
@@ -156,14 +164,6 @@
       "alt": "The only offputting part is when the young burst out later.",
       "date": "2026-04-12",
       "link": "https://www.smbc-comics.com/comic/stage"
-    },
-    {
-      "slug": "peace-3",
-      "title": "Peace",
-      "img": "https://www.smbc-comics.com/comics/1775692363-20260411.png",
-      "alt": "It's not about the humanicide, it's about avoiding awkwardness.",
-      "date": "2026-04-11",
-      "link": "https://www.smbc-comics.com/comic/peace-3"
     }
   ]
 }
