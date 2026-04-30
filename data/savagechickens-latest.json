@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-29T19:41:00.252Z",
+  "fetchedAt": "2026-04-30T08:26:01.276Z",
   "comics": [
+    {
+      "slug": "reconfigure",
+      "title": "Reconfigure",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenreconfigure.jpg",
+      "alt": "Reconfigure",
+      "date": "2026-04-30",
+      "link": "https://www.savagechickens.com/2026/04/reconfigure.html"
+    },
     {
       "slug": "skills-2",
       "title": "Skills",
@@ -76,14 +84,6 @@
       "alt": "Kayak",
       "date": "2026-04-17",
       "link": "https://www.savagechickens.com/2026/04/kayak.html"
-    },
-    {
-      "slug": "special",
-      "title": "Special",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickentodaysspecial.jpg",
-      "alt": "Special",
-      "date": "2026-04-16",
-      "link": "https://www.savagechickens.com/2026/04/special.html"
     }
   ]
 }
