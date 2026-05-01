@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-04-30T19:26:40.965Z",
+  "fetchedAt": "2026-05-01T08:15:51.049Z",
   "comics": [
+    {
+      "slug": "impending",
+      "title": "Impending",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenimpending.jpg",
+      "alt": "Impending",
+      "date": "2026-05-01",
+      "link": "https://www.savagechickens.com/2026/05/impending.html"
+    },
     {
       "slug": "reconfigure",
       "title": "Reconfigure",
@@ -76,14 +84,6 @@
       "alt": "Gallery Show",
       "date": "2026-04-20",
       "link": "https://www.savagechickens.com/2026/04/gallery-show.html"
-    },
-    {
-      "slug": "kayak",
-      "title": "Kayak",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenkayak.jpg",
-      "alt": "Kayak",
-      "date": "2026-04-17",
-      "link": "https://www.savagechickens.com/2026/04/kayak.html"
     }
   ]
 }
