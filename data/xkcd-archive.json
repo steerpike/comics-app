@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3238,
-  "latestNum": 3239,
-  "fetchedAt": "2026-04-29T19:40:57.878Z",
+  "total": 3239,
+  "latestNum": 3240,
+  "fetchedAt": "2026-05-01T19:16:03.229Z",
   "comics": [
     {
       "num": 1,
@@ -22669,6 +22669,13 @@
       "img": "https://imgs.xkcd.com/comics/simple_machines.png",
       "alt": "It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.",
       "date": "2026-04-29"
+    },
+    {
+      "num": 3240,
+      "title": "Bottle",
+      "img": "https://imgs.xkcd.com/comics/bottle.png",
+      "alt": "\"I know it seems impossible, but the trick is that I sailed in here when I was very young.\"",
+      "date": "2026-05-01"
     }
   ]
 }

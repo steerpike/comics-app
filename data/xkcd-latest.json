@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3239,
-  "fetchedAt": "2026-05-01T08:15:48.660Z",
+  "latestNum": 3240,
+  "fetchedAt": "2026-05-01T19:16:03.221Z",
   "comics": [
+    {
+      "num": 3240,
+      "title": "Bottle",
+      "img": "https://imgs.xkcd.com/comics/bottle.png",
+      "alt": "\"I know it seems impossible, but the trick is that I sailed in here when I was very young.\"",
+      "date": "2026-05-01"
+    },
     {
       "num": 3239,
       "title": "Simple Machines",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/landscape_features.png",
       "alt": "'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question",
       "date": "2026-03-18"
-    },
-    {
-      "num": 3220,
-      "title": "Rotational Gravity",
-      "img": "https://imgs.xkcd.com/comics/rotational_gravity.png",
-      "alt": "I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.",
-      "date": "2026-03-16"
     }
   ]
 }
