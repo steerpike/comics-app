@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-02T07:48:43.673Z",
+  "fetchedAt": "2026-05-02T19:03:48.608Z",
   "comics": [
+    {
+      "slug": "nagel",
+      "title": "Nagel",
+      "img": "https://www.smbc-comics.com/comics/1777600196-20260502-edit.png",
+      "alt": "The best part is that it's included in a book titled Mortal Questions. Also that the original paper came out in 1969.",
+      "date": "2026-05-02",
+      "link": "https://www.smbc-comics.com/comic/nagel"
+    },
     {
       "slug": "tragic",
       "title": "Tragic",
@@ -156,14 +164,6 @@
       "alt": "Brought to you by Zach hasn't studied physics in years and is trying to read through the famous Mike and Ike quantum computing textbook.",
       "date": "2026-04-14",
       "link": "https://www.smbc-comics.com/comic/easier"
-    },
-    {
-      "slug": "witch-2",
-      "title": "Witch",
-      "img": "https://www.smbc-comics.com/comics/1776037091-20260413.png",
-      "alt": "She immediately starts building a child-size oven in a house made of candy.",
-      "date": "2026-04-13",
-      "link": "https://www.smbc-comics.com/comic/witch-2"
     }
   ]
 }
