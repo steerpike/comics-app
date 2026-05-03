@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-03T08:04:18.043Z",
+  "fetchedAt": "2026-05-03T19:04:00.162Z",
   "comics": [
+    {
+      "slug": "peace-4",
+      "title": "Peace",
+      "img": "https://www.smbc-comics.com/comics/1777777835-20260503-edit.png",
+      "alt": "Triple the median would of course be 50% more inner peace.",
+      "date": "2026-05-03",
+      "link": "https://www.smbc-comics.com/comic/peace-4"
+    },
     {
       "slug": "nagel",
       "title": "Nagel",
@@ -156,14 +164,6 @@
       "alt": "Brought to you by the All Theodicy compilation of SMBC, coming 2035.",
       "date": "2026-04-15",
       "link": "https://www.smbc-comics.com/comic/infinite-2"
-    },
-    {
-      "slug": "easier",
-      "title": "Easier",
-      "img": "https://www.smbc-comics.com/comics/1776037138-20260414.png",
-      "alt": "Brought to you by Zach hasn't studied physics in years and is trying to read through the famous Mike and Ike quantum computing textbook.",
-      "date": "2026-04-14",
-      "link": "https://www.smbc-comics.com/comic/easier"
     }
   ]
 }
