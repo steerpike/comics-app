@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-04T08:33:12.463Z",
+  "fetchedAt": "2026-05-04T19:44:00.240Z",
   "comics": [
+    {
+      "slug": "future-4",
+      "title": "Future",
+      "img": "https://www.smbc-comics.com/comics/1777833135-20260504-edit.png",
+      "alt": "I read in an econ book that panel four is a thing that actually happens, and I've been terrified ever since.",
+      "date": "2026-05-04",
+      "link": "https://www.smbc-comics.com/comic/future-4"
+    },
     {
       "slug": "peace-4",
       "title": "Peace",
@@ -156,14 +164,6 @@
       "alt": "Later it turns out the duck was getting with a porcupine and had a litter of Echidnas.",
       "date": "2026-04-16",
       "link": "https://www.smbc-comics.com/comic/forbidden"
-    },
-    {
-      "slug": "infinite-2",
-      "title": "Infinite",
-      "img": "https://www.smbc-comics.com/comics/1776204679-20260415.png",
-      "alt": "Brought to you by the All Theodicy compilation of SMBC, coming 2035.",
-      "date": "2026-04-15",
-      "link": "https://www.smbc-comics.com/comic/infinite-2"
     }
   ]
 }

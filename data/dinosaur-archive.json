@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 35,
-  "highestNum": 4465,
-  "fetchedAt": "2026-04-29T19:40:58.285Z",
+  "total": 36,
+  "highestNum": 4466,
+  "fetchedAt": "2026-05-04T19:43:59.990Z",
   "comics": [
     {
       "num": 4431,
@@ -283,6 +283,14 @@
       "alt": "ostracization SOUNDS like it's the process of slowly being turned into an ostrich, but it really just means being excluded from a group.  i guess there's two types of ostracization and only one of them is good.",
       "date": "2026-04-29",
       "link": "http://www.qwantz.com/index.php?comic=4465"
+    },
+    {
+      "num": 4466,
+      "title": "i changed one (1) breaker in one (1) breaker box with the help of my father, who is a retired electrical engineer, and when I commented that he was maybe being overly cautious with a breaker box whose master breaker was off, he said \"first, never trust anything is off.  and second, all the people who mess with electricity who weren't overly cautious are dead now\"",
+      "img": "http://www.qwantz.com/comics/comic2-5164.png",
+      "alt": "allegedly not doing stupid things saves us all from dying.  you heard it here - well, i was going to say ",
+      "date": "2026-05-04",
+      "link": "http://www.qwantz.com/index.php?comic=4466"
     }
   ]
 }

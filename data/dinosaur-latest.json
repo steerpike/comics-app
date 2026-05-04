@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-05-04T08:33:12.278Z",
+  "fetchedAt": "2026-05-04T19:43:59.989Z",
   "comics": [
+    {
+      "num": 4466,
+      "title": "i changed one (1) breaker in one (1) breaker box with the help of my father, who is a retired electrical engineer, and when I commented that he was maybe being overly cautious with a breaker box whose master breaker was off, he said \"first, never trust anything is off.  and second, all the people who mess with electricity who weren't overly cautious are dead now\"",
+      "img": "http://www.qwantz.com/comics/comic2-5164.png",
+      "alt": "allegedly not doing stupid things saves us all from dying.  you heard it here - well, i was going to say ",
+      "date": "2026-05-04",
+      "link": "http://www.qwantz.com/index.php?comic=4466"
+    },
     {
       "num": 4465,
       "title": "styles change, but secret third types in ontologies never do",
@@ -76,14 +84,6 @@
       "alt": "and when you throw in a ",
       "date": "2026-04-10",
       "link": "http://www.qwantz.com/index.php?comic=4457"
-    },
-    {
-      "num": 4456,
-      "title": "uncontacted peoples comix!  part two of two",
-      "img": "http://www.qwantz.com/comics/comic2-5154.png",
-      "alt": "confirming what i said decades ago: I have less than zero interest in knowing these sorts of things.  but, i DO have a marked interest in keeping track of what i said decades ago so that i might continually confirm them.",
-      "date": "2026-04-08",
-      "link": "http://www.qwantz.com/index.php?comic=4456"
     }
   ]
 }
