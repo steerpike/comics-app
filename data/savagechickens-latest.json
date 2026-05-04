@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-03T19:04:01.722Z",
+  "fetchedAt": "2026-05-04T08:33:14.360Z",
   "comics": [
+    {
+      "slug": "barge",
+      "title": "Barge!",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenbarge.jpg",
+      "alt": "Barge!",
+      "date": "2026-05-04",
+      "link": "https://www.savagechickens.com/2026/05/barge.html"
+    },
     {
       "slug": "impending",
       "title": "Impending",
@@ -76,14 +84,6 @@
       "alt": "Monster Friend",
       "date": "2026-04-21",
       "link": "https://www.savagechickens.com/2026/04/monster-friend.html"
-    },
-    {
-      "slug": "gallery-show",
-      "title": "Gallery Show",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickengalleryshow.jpg",
-      "alt": "Gallery Show",
-      "date": "2026-04-20",
-      "link": "https://www.savagechickens.com/2026/04/gallery-show.html"
     }
   ]
 }
