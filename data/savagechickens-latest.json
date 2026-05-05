@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-04T19:44:02.301Z",
+  "fetchedAt": "2026-05-05T08:14:08.528Z",
   "comics": [
+    {
+      "slug": "simpler-times",
+      "title": "Simpler Times",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickensimplertimes.jpg",
+      "alt": "Simpler Times",
+      "date": "2026-05-05",
+      "link": "https://www.savagechickens.com/2026/05/simpler-times.html"
+    },
     {
       "slug": "barge",
       "title": "Barge!",
@@ -76,14 +84,6 @@
       "alt": "Never Really Caught On",
       "date": "2026-04-22",
       "link": "https://www.savagechickens.com/2026/04/never-really-caught-on.html"
-    },
-    {
-      "slug": "monster-friend",
-      "title": "Monster Friend",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenrodan.jpg",
-      "alt": "Monster Friend",
-      "date": "2026-04-21",
-      "link": "https://www.savagechickens.com/2026/04/monster-friend.html"
     }
   ]
 }
