@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-05T08:14:06.887Z",
+  "fetchedAt": "2026-05-05T19:25:45.544Z",
   "comics": [
+    {
+      "slug": "connection-2",
+      "title": "Connection",
+      "img": "https://www.smbc-comics.com/comics/1777833239-20260505-edit.png",
+      "alt": "All I'm saying is this would be the ultimate proof that God has a dirty mind.",
+      "date": "2026-05-05",
+      "link": "https://www.smbc-comics.com/comic/connection-2"
+    },
     {
       "slug": "future-4",
       "title": "Future",
@@ -156,14 +164,6 @@
       "alt": "The key is to put the self-on-fire at the beginning of the video and promise to show that it technically cures cancer, but only if you watch to the end without skipping.",
       "date": "2026-04-17",
       "link": "https://www.smbc-comics.com/comic/same-3"
-    },
-    {
-      "slug": "forbidden",
-      "title": "Forbidden",
-      "img": "https://www.smbc-comics.com/comics/1776204808-20260416.png",
-      "alt": "Later it turns out the duck was getting with a porcupine and had a litter of Echidnas.",
-      "date": "2026-04-16",
-      "link": "https://www.smbc-comics.com/comic/forbidden"
     }
   ]
 }
