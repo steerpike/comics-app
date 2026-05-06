@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-05T19:25:45.544Z",
+  "fetchedAt": "2026-05-06T19:49:33.330Z",
   "comics": [
+    {
+      "slug": "shenanigans",
+      "title": "Shenanigans",
+      "img": "https://www.smbc-comics.com/comics/1777833289-20260506-edit.png",
+      "alt": "Based almost entirely on something Tomer Ullman told me, and I hereby nominate him as First Dean of Shenanigans.",
+      "date": "2026-05-06",
+      "link": "https://www.smbc-comics.com/comic/shenanigans"
+    },
     {
       "slug": "connection-2",
       "title": "Connection",
@@ -156,14 +164,6 @@
       "alt": "I'm pretty sure this is how Stoicism works, just more douchey.",
       "date": "2026-04-18",
       "link": "https://www.smbc-comics.com/comic/dreams-2"
-    },
-    {
-      "slug": "same-3",
-      "title": "Same",
-      "img": "https://www.smbc-comics.com/comics/1776458231-20260417.png",
-      "alt": "The key is to put the self-on-fire at the beginning of the video and promise to show that it technically cures cancer, but only if you watch to the end without skipping.",
-      "date": "2026-04-17",
-      "link": "https://www.smbc-comics.com/comic/same-3"
     }
   ]
 }

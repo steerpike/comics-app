@@ -2,9 +2,23 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3240,
-  "fetchedAt": "2026-05-05T19:25:44.749Z",
+  "latestNum": 3242,
+  "fetchedAt": "2026-05-06T19:49:32.645Z",
   "comics": [
+    {
+      "num": 3242,
+      "title": "Aperiodic Table",
+      "img": "https://imgs.xkcd.com/comics/aperiodic_table.png",
+      "alt": "Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.",
+      "date": "2026-05-06"
+    },
+    {
+      "num": 3241,
+      "title": "Horizontal Stabilizers",
+      "img": "https://imgs.xkcd.com/comics/horizontal_stabilizers.png",
+      "alt": "It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.",
+      "date": "2026-05-04"
+    },
     {
       "num": 3240,
       "title": "Bottle",
@@ -130,20 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/inflation_timeline.png",
       "alt": "Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'",
       "date": "2026-03-23"
-    },
-    {
-      "num": 3222,
-      "title": "Star Formation",
-      "img": "https://imgs.xkcd.com/comics/star_formation.png",
-      "alt": "It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!",
-      "date": "2026-03-20"
-    },
-    {
-      "num": 3221,
-      "title": "Landscape Features",
-      "img": "https://imgs.xkcd.com/comics/landscape_features.png",
-      "alt": "'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question",
-      "date": "2026-03-18"
     }
   ]
 }

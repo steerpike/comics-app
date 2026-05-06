@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3239,
-  "latestNum": 3240,
-  "fetchedAt": "2026-05-01T19:16:03.229Z",
+  "total": 3241,
+  "latestNum": 3242,
+  "fetchedAt": "2026-05-06T19:49:32.655Z",
   "comics": [
     {
       "num": 1,
@@ -22676,6 +22676,20 @@
       "img": "https://imgs.xkcd.com/comics/bottle.png",
       "alt": "\"I know it seems impossible, but the trick is that I sailed in here when I was very young.\"",
       "date": "2026-05-01"
+    },
+    {
+      "num": 3241,
+      "title": "Horizontal Stabilizers",
+      "img": "https://imgs.xkcd.com/comics/horizontal_stabilizers.png",
+      "alt": "It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.",
+      "date": "2026-05-04"
+    },
+    {
+      "num": 3242,
+      "title": "Aperiodic Table",
+      "img": "https://imgs.xkcd.com/comics/aperiodic_table.png",
+      "alt": "Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.",
+      "date": "2026-05-06"
     }
   ]
 }

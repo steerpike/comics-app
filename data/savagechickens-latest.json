@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-05T19:25:47.376Z",
+  "fetchedAt": "2026-05-06T19:49:34.885Z",
   "comics": [
+    {
+      "slug": "special-request",
+      "title": "Special Request",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenspecialrequest.jpg",
+      "alt": "Special Request",
+      "date": "2026-05-06",
+      "link": "https://www.savagechickens.com/2026/05/special-request.html"
+    },
     {
       "slug": "simpler-times",
       "title": "Simpler Times",
@@ -76,14 +84,6 @@
       "alt": "As You Like It",
       "date": "2026-04-23",
       "link": "https://www.savagechickens.com/2026/04/as-you-like-it.html"
-    },
-    {
-      "slug": "never-really-caught-on",
-      "title": "Never Really Caught On",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenneverreallycaughton.jpg",
-      "alt": "Never Really Caught On",
-      "date": "2026-04-22",
-      "link": "https://www.savagechickens.com/2026/04/never-really-caught-on.html"
     }
   ]
 }
