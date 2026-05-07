@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-07T08:37:04.167Z",
+  "fetchedAt": "2026-05-07T19:45:03.007Z",
   "comics": [
+    {
+      "slug": "joke-5",
+      "title": "Joke",
+      "img": "https://www.smbc-comics.com/comics/1777834336-20260507-edit.png",
+      "alt": "Do they still do this? When I was a kid, villains were constantly dangling from buildings and being saved.",
+      "date": "2026-05-07",
+      "link": "https://www.smbc-comics.com/comic/joke-5"
+    },
     {
       "slug": "shenanigans",
       "title": "Shenanigans",
@@ -156,14 +164,6 @@
       "alt": "The funny part is every action in your life turns SOME torture dial!",
       "date": "2026-04-19",
       "link": "https://www.smbc-comics.com/comic/dial"
-    },
-    {
-      "slug": "dreams-2",
-      "title": "Dreams",
-      "img": "https://www.smbc-comics.com/comics/1776383978-20260418.png",
-      "alt": "I'm pretty sure this is how Stoicism works, just more douchey.",
-      "date": "2026-04-18",
-      "link": "https://www.smbc-comics.com/comic/dreams-2"
     }
   ]
 }
