@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-06T19:49:34.885Z",
+  "fetchedAt": "2026-05-07T08:37:05.726Z",
   "comics": [
+    {
+      "slug": "neighborhood-haiku-8",
+      "title": "Neighborhood Haiku #8",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenneighborhoodhaiku8.jpg",
+      "alt": "Neighborhood Haiku #8",
+      "date": "2026-05-07",
+      "link": "https://www.savagechickens.com/2026/05/neighborhood-haiku-8.html"
+    },
     {
       "slug": "special-request",
       "title": "Special Request",
@@ -76,14 +84,6 @@
       "alt": "Energy",
       "date": "2026-04-24",
       "link": "https://www.savagechickens.com/2026/04/energy.html"
-    },
-    {
-      "slug": "as-you-like-it",
-      "title": "As You Like It",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenasyoulikeit.jpg",
-      "alt": "As You Like It",
-      "date": "2026-04-23",
-      "link": "https://www.savagechickens.com/2026/04/as-you-like-it.html"
     }
   ]
 }
