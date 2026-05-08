@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-08T07:45:30.396Z",
+  "fetchedAt": "2026-05-08T19:22:39.779Z",
   "comics": [
+    {
+      "slug": "block",
+      "title": "Block",
+      "img": "https://www.smbc-comics.com/comics/1778110193-20260508-edit.png",
+      "alt": "Technically, this is literary humor.",
+      "date": "2026-05-08",
+      "link": "https://www.smbc-comics.com/comic/block"
+    },
     {
       "slug": "joke-5",
       "title": "Joke",
@@ -156,14 +164,6 @@
       "alt": "I read a guy the other day saying all cognitive tasks will be automated, so it's important to stay flexible, and all I can figure is he was imagining humans would make a good building material.",
       "date": "2026-04-20",
       "link": "https://www.smbc-comics.com/comic/nigh-2"
-    },
-    {
-      "slug": "dial",
-      "title": "Dial",
-      "img": "https://www.smbc-comics.com/comics/1776384022-20260419.png",
-      "alt": "The funny part is every action in your life turns SOME torture dial!",
-      "date": "2026-04-19",
-      "link": "https://www.smbc-comics.com/comic/dial"
     }
   ]
 }

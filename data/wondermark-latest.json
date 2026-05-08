@@ -3,8 +3,24 @@
   "name": "Wondermark",
   "url": "https://wondermark.com",
   "attribution": "Wondermark by David Malki!",
-  "fetchedAt": "2026-05-08T07:45:31.727Z",
+  "fetchedAt": "2026-05-08T19:22:40.520Z",
   "comics": [
+    {
+      "num": 0,
+      "title": "Applications open for Genius Northwest – an IRL gaming competition",
+      "img": "https://wondermark.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-10.13.53-AM.png",
+      "alt": "",
+      "date": "2026-05-08",
+      "link": "https://wondermark.com/applications-open-for-genius-northwest-an-irl-gaming-competition/"
+    },
+    {
+      "num": 1585,
+      "title": "#1585; In which a Complaint is made",
+      "img": "https://wondermark.com/wp-content/uploads/2026/05/2026-05-07-1585letter_1600px.png",
+      "alt": "",
+      "date": "2026-05-08",
+      "link": "https://wondermark.com/c/1585/"
+    },
     {
       "num": 1584,
       "title": "#1584; In which a Potato is compacted",

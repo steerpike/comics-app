@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3242,
-  "fetchedAt": "2026-05-08T07:45:29.831Z",
+  "latestNum": 3243,
+  "fetchedAt": "2026-05-08T19:22:39.019Z",
   "comics": [
+    {
+      "num": 3243,
+      "title": "Crystal Gazing",
+      "img": "https://imgs.xkcd.com/comics/crystal_gazing.png",
+      "alt": "'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.",
+      "date": "2026-05-08"
+    },
     {
       "num": 3242,
       "title": "Aperiodic Table",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/centimeter_wavelengths.png",
       "alt": "Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?",
       "date": "2026-03-25"
-    },
-    {
-      "num": 3223,
-      "title": "Inflation Timeline",
-      "img": "https://imgs.xkcd.com/comics/inflation_timeline.png",
-      "alt": "Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'",
-      "date": "2026-03-23"
     }
   ]
 }

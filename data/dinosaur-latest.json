@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-05-08T07:45:30.162Z",
+  "fetchedAt": "2026-05-08T19:22:39.486Z",
   "comics": [
+    {
+      "num": 4468,
+      "title": "this comic is inspired by... MY DAD, who thinks it's impossible for anyone to tell - much less me, who has known his voice my entire life - when he uses AI",
+      "img": "http://www.qwantz.com/comics/comic2-5166.png",
+      "alt": "sorry Allen Ginsberg, sorry, i'm trying to delete it",
+      "date": "2026-05-08",
+      "link": "http://www.qwantz.com/index.php?comic=4468"
+    },
     {
       "num": 4467,
       "title": "tick tock, motherlover",
@@ -76,14 +84,6 @@
       "alt": "i'm so DISTRESSED at being NOT THE BEST / though my accidental rhymes still pass the TEST",
       "date": "2026-04-15",
       "link": "http://www.qwantz.com/index.php?comic=4459"
-    },
-    {
-      "num": 4458,
-      "title": "it's always good to make new friends!",
-      "img": "http://www.qwantz.com/comics/comic2-5156.png",
-      "alt": "i've made a new friend: they're venomous but seriously there's only a teeny tiny amount of neurotoxin in their bites, so little we didn't even know it was there until recently and YES probably i should lead with other fun facts when introducing my friend the garter snake rather than leading with ",
-      "date": "2026-04-13",
-      "link": "http://www.qwantz.com/index.php?comic=4458"
     }
   ]
 }

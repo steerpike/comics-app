@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3241,
-  "latestNum": 3242,
-  "fetchedAt": "2026-05-06T19:49:32.655Z",
+  "total": 3242,
+  "latestNum": 3243,
+  "fetchedAt": "2026-05-08T19:22:39.028Z",
   "comics": [
     {
       "num": 1,
@@ -22690,6 +22690,13 @@
       "img": "https://imgs.xkcd.com/comics/aperiodic_table.png",
       "alt": "Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.",
       "date": "2026-05-06"
+    },
+    {
+      "num": 3243,
+      "title": "Crystal Gazing",
+      "img": "https://imgs.xkcd.com/comics/crystal_gazing.png",
+      "alt": "'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.",
+      "date": "2026-05-08"
     }
   ]
 }
