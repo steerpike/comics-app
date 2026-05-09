@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-09T07:59:57.380Z",
+  "fetchedAt": "2026-05-09T19:05:57.884Z",
   "comics": [
+    {
+      "slug": "sleep-2",
+      "title": "Sleep",
+      "img": "https://www.smbc-comics.com/comics/1778110245-20260509-edit.png",
+      "alt": "The real punchline comes later when he marries a person who loves him, has a good boss, is respected by his children, works at a rewarding job for 40 years, travels the world for 25 years, and dies in painless repose, surrounded by loved ones.",
+      "date": "2026-05-09",
+      "link": "https://www.smbc-comics.com/comic/sleep-2"
+    },
     {
       "slug": "block",
       "title": "Block",
@@ -156,14 +164,6 @@
       "alt": "Should this be rated NSFW?",
       "date": "2026-04-21",
       "link": "https://www.smbc-comics.com/comic/standard"
-    },
-    {
-      "slug": "nigh-2",
-      "title": "Nigh",
-      "img": "https://www.smbc-comics.com/comics/1776548137-20260420.png",
-      "alt": "I read a guy the other day saying all cognitive tasks will be automated, so it's important to stay flexible, and all I can figure is he was imagining humans would make a good building material.",
-      "date": "2026-04-20",
-      "link": "https://www.smbc-comics.com/comic/nigh-2"
     }
   ]
 }
