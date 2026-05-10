@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-10T08:10:42.492Z",
+  "fetchedAt": "2026-05-10T19:08:37.777Z",
   "comics": [
+    {
+      "slug": "terminal",
+      "title": "Terminal",
+      "img": "https://www.smbc-comics.com/comics/1778110294-20260510-edit.png",
+      "alt": "The other thing is the robots are stingy with the porn and drugs.",
+      "date": "2026-05-10",
+      "link": "https://www.smbc-comics.com/comic/terminal"
+    },
     {
       "slug": "sleep-2",
       "title": "Sleep",
@@ -156,14 +164,6 @@
       "alt": "Have I mentioned SMBC's ad-free patreon page?",
       "date": "2026-04-22",
       "link": "https://www.smbc-comics.com/comic/waas"
-    },
-    {
-      "slug": "standard",
-      "title": "Standard",
-      "img": "https://www.smbc-comics.com/comics/1776728330-20260421.png",
-      "alt": "Should this be rated NSFW?",
-      "date": "2026-04-21",
-      "link": "https://www.smbc-comics.com/comic/standard"
     }
   ]
 }
