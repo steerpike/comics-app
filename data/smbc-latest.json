@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-11T09:44:52.055Z",
+  "fetchedAt": "2026-05-11T19:51:12.941Z",
   "comics": [
+    {
+      "slug": "arp",
+      "title": "Arp",
+      "img": "https://www.smbc-comics.com/comics/1778468544-20260511-edit.png",
+      "alt": "How come nobody has made this? Or did they all go mad after making it, so we haven't heard?",
+      "date": "2026-05-11",
+      "link": "https://www.smbc-comics.com/comic/arp"
+    },
     {
       "slug": "terminal",
       "title": "Terminal",
@@ -156,14 +164,6 @@
       "alt": "You're looking at the teeth, but you're missing... the smile!",
       "date": "2026-04-23",
       "link": "https://www.smbc-comics.com/comic/happiness-6"
-    },
-    {
-      "slug": "waas",
-      "title": "WaaS",
-      "img": "https://www.smbc-comics.com/comics/1776728379-20260422.png",
-      "alt": "Have I mentioned SMBC's ad-free patreon page?",
-      "date": "2026-04-22",
-      "link": "https://www.smbc-comics.com/comic/waas"
     }
   ]
 }

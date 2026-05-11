@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 38,
-  "highestNum": 4468,
-  "fetchedAt": "2026-05-08T19:22:39.487Z",
+  "total": 39,
+  "highestNum": 4469,
+  "fetchedAt": "2026-05-11T19:51:12.647Z",
   "comics": [
     {
       "num": 4431,
@@ -307,6 +307,14 @@
       "alt": "sorry Allen Ginsberg, sorry, i'm trying to delete it",
       "date": "2026-05-08",
       "link": "http://www.qwantz.com/index.php?comic=4468"
+    },
+    {
+      "num": 4469,
+      "title": "t-rex, just - just stay out of corners bud",
+      "img": "http://www.qwantz.com/comics/comic2-5167.png",
+      "alt": "agreement corner has VERY harsh punishments for disagreements, and we all find ourselves forced to agree: they're tough, but fair",
+      "date": "2026-05-11",
+      "link": "http://www.qwantz.com/index.php?comic=4469"
     }
   ]
 }
