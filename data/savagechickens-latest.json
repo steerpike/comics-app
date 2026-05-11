@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-10T19:08:39.500Z",
+  "fetchedAt": "2026-05-11T09:44:53.926Z",
   "comics": [
+    {
+      "slug": "the-tree-in-the-field",
+      "title": "The Tree in the Field",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthetreeinthefield.jpg",
+      "alt": "The Tree in the Field",
+      "date": "2026-05-11",
+      "link": "https://www.savagechickens.com/2026/05/the-tree-in-the-field.html"
+    },
     {
       "slug": "cat-dream",
       "title": "Cat Dream",
@@ -76,14 +84,6 @@
       "alt": "Death!",
       "date": "2026-04-28",
       "link": "https://www.savagechickens.com/2026/04/death-2.html"
-    },
-    {
-      "slug": "the-mondays-2",
-      "title": "The Mondays",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthemondays-1.jpg",
-      "alt": "The Mondays",
-      "date": "2026-04-27",
-      "link": "https://www.savagechickens.com/2026/04/the-mondays-2.html"
     }
   ]
 }
