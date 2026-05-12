@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3243,
-  "fetchedAt": "2026-05-12T08:43:54.020Z",
+  "latestNum": 3244,
+  "fetchedAt": "2026-05-12T19:56:55.440Z",
   "comics": [
+    {
+      "num": 3244,
+      "title": "Pullback Drive",
+      "img": "https://imgs.xkcd.com/comics/pullback_drive.png",
+      "alt": "\"How does the spring not run out almost immediately?\" \"We pull it back REALLY far.\"",
+      "date": "2026-05-11"
+    },
     {
       "num": 3243,
       "title": "Crystal Gazing",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/satellite_pollution.png",
       "alt": "We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.",
       "date": "2026-03-27"
-    },
-    {
-      "num": 3224,
-      "title": "Centimeter Wavelengths",
-      "img": "https://imgs.xkcd.com/comics/centimeter_wavelengths.png",
-      "alt": "Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?",
-      "date": "2026-03-25"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-12T08:43:54.871Z",
+  "fetchedAt": "2026-05-12T19:56:55.880Z",
   "comics": [
+    {
+      "slug": "sport-2",
+      "title": "Sport",
+      "img": "https://www.smbc-comics.com/comics/1778468616-20260512-edit.png",
+      "alt": "The weird part is I'll get complaint emails about the 2037 Olympics not being possible, and not, like, the rest of this idea.",
+      "date": "2026-05-12",
+      "link": "https://www.smbc-comics.com/comic/sport-2"
+    },
     {
       "slug": "arp",
       "title": "Arp",
@@ -156,14 +164,6 @@
       "alt": "Later it works out because the man is a masochist.",
       "date": "2026-04-24",
       "link": "https://www.smbc-comics.com/comic/slap"
-    },
-    {
-      "slug": "happiness-6",
-      "title": "Happiness",
-      "img": "https://www.smbc-comics.com/comics/1776728486-20260423.png",
-      "alt": "You're looking at the teeth, but you're missing... the smile!",
-      "date": "2026-04-23",
-      "link": "https://www.smbc-comics.com/comic/happiness-6"
     }
   ]
 }

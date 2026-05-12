@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3242,
-  "latestNum": 3243,
-  "fetchedAt": "2026-05-08T19:22:39.028Z",
+  "total": 3243,
+  "latestNum": 3244,
+  "fetchedAt": "2026-05-12T19:56:55.449Z",
   "comics": [
     {
       "num": 1,
@@ -22697,6 +22697,13 @@
       "img": "https://imgs.xkcd.com/comics/crystal_gazing.png",
       "alt": "'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.",
       "date": "2026-05-08"
+    },
+    {
+      "num": 3244,
+      "title": "Pullback Drive",
+      "img": "https://imgs.xkcd.com/comics/pullback_drive.png",
+      "alt": "\"How does the spring not run out almost immediately?\" \"We pull it back REALLY far.\"",
+      "date": "2026-05-11"
     }
   ]
 }
