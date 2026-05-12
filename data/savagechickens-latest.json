@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-11T19:51:14.635Z",
+  "fetchedAt": "2026-05-12T08:44:07.246Z",
   "comics": [
+    {
+      "slug": "party-survival-5",
+      "title": "Party Survival 5",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpartysurvival5.jpg",
+      "alt": "Party Survival 5",
+      "date": "2026-05-12",
+      "link": "https://www.savagechickens.com/2026/05/party-survival-5.html"
+    },
     {
       "slug": "the-tree-in-the-field",
       "title": "The Tree in the Field",
@@ -76,14 +84,6 @@
       "alt": "Skills",
       "date": "2026-04-29",
       "link": "https://www.savagechickens.com/2026/04/skills-2.html"
-    },
-    {
-      "slug": "death-2",
-      "title": "Death!",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickendeathdoortodoor-1.jpg",
-      "alt": "Death!",
-      "date": "2026-04-28",
-      "link": "https://www.savagechickens.com/2026/04/death-2.html"
     }
   ]
 }
