@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-05-13T08:47:34.311Z",
+  "fetchedAt": "2026-05-13T19:58:44.164Z",
   "comics": [
+    {
+      "num": 4470,
+      "title": "where do i get my ideas?  easy.  i think \"well, time to have an idea\" and then i pick my absolute favourite from the cornucopia that presents itself",
+      "img": "http://www.qwantz.com/comics/comic2-5168.png",
+      "alt": "YEAH WOW I REALLY SHOULD'VE SET THINGS UP LIKE THIS IN THE FIRST PLACE HUH / MY BAD",
+      "date": "2026-05-13",
+      "link": "http://www.qwantz.com/index.php?comic=4470"
+    },
     {
       "num": 4469,
       "title": "t-rex, just - just stay out of corners bud",
@@ -76,14 +84,6 @@
       "alt": "this comic inspired by my dog's freeze-dried cheese treats that are just normal cheese that's been freeze-dried and honestly pretty great if you love the flavour of cheese but have always craved an added freeze-dried CRUNCH",
       "date": "2026-04-20",
       "link": "http://www.qwantz.com/index.php?comic=4461"
-    },
-    {
-      "num": 4460,
-      "title": "good news!  eventually!  possibly.  ...maybe",
-      "img": "http://www.qwantz.com/comics/comic2-5158.png",
-      "alt": "bye, gareth 2000!  you'll live forever on in our memories, however brief though they may be",
-      "date": "2026-04-17",
-      "link": "http://www.qwantz.com/index.php?comic=4460"
     }
   ]
 }

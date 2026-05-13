@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3243,
-  "latestNum": 3244,
-  "fetchedAt": "2026-05-12T19:56:55.449Z",
+  "total": 3244,
+  "latestNum": 3245,
+  "fetchedAt": "2026-05-13T19:58:43.751Z",
   "comics": [
     {
       "num": 1,
@@ -22704,6 +22704,13 @@
       "img": "https://imgs.xkcd.com/comics/pullback_drive.png",
       "alt": "\"How does the spring not run out almost immediately?\" \"We pull it back REALLY far.\"",
       "date": "2026-05-11"
+    },
+    {
+      "num": 3245,
+      "title": "Results Age",
+      "img": "https://imgs.xkcd.com/comics/results_age.png",
+      "alt": "Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.",
+      "date": "2026-05-13"
     }
   ]
 }

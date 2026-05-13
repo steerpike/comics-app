@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-13T08:47:34.557Z",
+  "fetchedAt": "2026-05-13T19:58:44.453Z",
   "comics": [
+    {
+      "slug": "tide",
+      "title": "Tide",
+      "img": "https://www.smbc-comics.com/comics/1778640181-20260513-edit.png",
+      "alt": "For body soap, especially private areas, you want a gentle, moisturizing Antichrist.",
+      "date": "2026-05-13",
+      "link": "https://www.smbc-comics.com/comic/tide"
+    },
     {
       "slug": "sport-2",
       "title": "Sport",
@@ -156,14 +164,6 @@
       "alt": "During the book tour of A City on Mars, I did a talk with Randall Munroe in NYC, and he made, impromptu, a better joke than any of us have committed to paper. During a discussion of whether you could eliminate all life on Earth for a reasonable price, a person asked if there might be a way you could specifically annihilate Queens. To which he replied, 'regicide?'",
       "date": "2026-04-25",
       "link": "https://www.smbc-comics.com/comic/end-2"
-    },
-    {
-      "slug": "slap",
-      "title": "Slap",
-      "img": "https://www.smbc-comics.com/comics/1776970156-20260424.png",
-      "alt": "Later it works out because the man is a masochist.",
-      "date": "2026-04-24",
-      "link": "https://www.smbc-comics.com/comic/slap"
     }
   ]
 }
