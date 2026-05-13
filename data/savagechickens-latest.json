@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-12T19:56:57.290Z",
+  "fetchedAt": "2026-05-13T08:47:36.109Z",
   "comics": [
+    {
+      "slug": "from-the-makers-of-freakbot",
+      "title": "From the Makers of Freakbot",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenfromthemakersof.jpg",
+      "alt": "From the Makers of Freakbot",
+      "date": "2026-05-13",
+      "link": "https://www.savagechickens.com/2026/05/from-the-makers-of-freakbot.html"
+    },
     {
       "slug": "party-survival-5",
       "title": "Party Survival 5",
@@ -76,14 +84,6 @@
       "alt": "Reconfigure",
       "date": "2026-04-30",
       "link": "https://www.savagechickens.com/2026/04/reconfigure.html"
-    },
-    {
-      "slug": "skills-2",
-      "title": "Skills",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenskillscow.jpg",
-      "alt": "Skills",
-      "date": "2026-04-29",
-      "link": "https://www.savagechickens.com/2026/04/skills-2.html"
     }
   ]
 }
