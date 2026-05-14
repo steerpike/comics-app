@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-13T19:58:46.122Z",
+  "fetchedAt": "2026-05-14T08:40:36.285Z",
   "comics": [
+    {
+      "slug": "i-made-dinner",
+      "title": "I Made Dinner",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenimadedinner.jpg",
+      "alt": "I Made Dinner",
+      "date": "2026-05-14",
+      "link": "https://www.savagechickens.com/2026/05/i-made-dinner.html"
+    },
     {
       "slug": "from-the-makers-of-freakbot",
       "title": "From the Makers of Freakbot",
@@ -76,14 +84,6 @@
       "alt": "Impending",
       "date": "2026-05-01",
       "link": "https://www.savagechickens.com/2026/05/impending.html"
-    },
-    {
-      "slug": "reconfigure",
-      "title": "Reconfigure",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenreconfigure.jpg",
-      "alt": "Reconfigure",
-      "date": "2026-04-30",
-      "link": "https://www.savagechickens.com/2026/04/reconfigure.html"
     }
   ]
 }
