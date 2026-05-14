@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-05-14T08:40:35.829Z",
+  "fetchedAt": "2026-05-14T19:49:19.329Z",
   "comics": [
+    {
+      "slug": "we-are-bugs",
+      "title": "We Are Bugs",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/05/we-are-bugs-scaled.png",
+      "alt": "",
+      "date": "2026-05-14",
+      "link": "https://poorlydrawnlines.com/comic/we-are-bugs/"
+    },
     {
       "slug": "mr-nice-doug",
       "title": "Mr. Nice Doug",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-03-13",
       "link": "https://poorlydrawnlines.com/comic/becoming-cool/"
-    },
-    {
-      "slug": "care-about-stuff",
-      "title": "Care About Stuff",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/02/Care-About-Stuff.png",
-      "alt": "",
-      "date": "2026-02-24",
-      "link": "https://poorlydrawnlines.com/comic/care-about-stuff/"
     }
   ]
 }
