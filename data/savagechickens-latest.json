@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-14T19:49:19.770Z",
+  "fetchedAt": "2026-05-15T08:52:12.153Z",
   "comics": [
+    {
+      "slug": "pizza",
+      "title": "PIZZA",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpizzaforalloccasions.jpg",
+      "alt": "PIZZA",
+      "date": "2026-05-15",
+      "link": "https://www.savagechickens.com/2026/05/pizza.html"
+    },
     {
       "slug": "i-made-dinner",
       "title": "I Made Dinner",
@@ -76,14 +84,6 @@
       "alt": "Barge!",
       "date": "2026-05-04",
       "link": "https://www.savagechickens.com/2026/05/barge.html"
-    },
-    {
-      "slug": "impending",
-      "title": "Impending",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenimpending.jpg",
-      "alt": "Impending",
-      "date": "2026-05-01",
-      "link": "https://www.savagechickens.com/2026/05/impending.html"
     }
   ]
 }
