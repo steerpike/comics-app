@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 40,
-  "highestNum": 4470,
-  "fetchedAt": "2026-05-13T19:58:44.165Z",
+  "total": 41,
+  "highestNum": 4471,
+  "fetchedAt": "2026-05-15T19:41:59.874Z",
   "comics": [
     {
       "num": 4431,
@@ -323,6 +323,14 @@
       "alt": "YEAH WOW I REALLY SHOULD'VE SET THINGS UP LIKE THIS IN THE FIRST PLACE HUH / MY BAD",
       "date": "2026-05-13",
       "link": "http://www.qwantz.com/index.php?comic=4470"
+    },
+    {
+      "num": 4471,
+      "title": "don't forget to budget for the hours and hours it takes to properly assemble, prepare, and enjoy one (1) coffee",
+      "img": "http://www.qwantz.com/comics/comic2-5169.png",
+      "alt": "they're about to release the Eleventh Edition of coffee and I'm expecting some rule changes affecting the Blood Angels Space Marine coffee division",
+      "date": "2026-05-15",
+      "link": "http://www.qwantz.com/index.php?comic=4471"
     }
   ]
 }

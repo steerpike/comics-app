@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-15T08:52:09.910Z",
+  "fetchedAt": "2026-05-15T19:42:00.328Z",
   "comics": [
+    {
+      "slug": "bot-3",
+      "title": "Bot",
+      "img": "https://www.smbc-comics.com/comics/1778650911-20260515.png",
+      "alt": "Unrelated, on a bluesky thread we discovered that there are many philosophers whose names rhyme with Bagel, but other Jewish breads are not so favored.",
+      "date": "2026-05-15",
+      "link": "https://www.smbc-comics.com/comic/bot-3"
+    },
     {
       "slug": "hierarchy",
       "title": "Hierarchy",
@@ -156,14 +164,6 @@
       "alt": "Why start with a confusing idea like zero, when you can refer to the notion of a something with nothing in it?",
       "date": "2026-04-27",
       "link": "https://www.smbc-comics.com/comic/set"
-    },
-    {
-      "slug": "quantum-6",
-      "title": "Quantum",
-      "img": "https://www.smbc-comics.com/comics/1776970356-20260426.png",
-      "alt": "Later they go out for a superposition of chocolate and vanilla ice cream.",
-      "date": "2026-04-26",
-      "link": "https://www.smbc-comics.com/comic/quantum-6"
     }
   ]
 }

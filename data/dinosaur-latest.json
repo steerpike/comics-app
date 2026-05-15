@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-05-15T08:52:09.392Z",
+  "fetchedAt": "2026-05-15T19:41:59.873Z",
   "comics": [
+    {
+      "num": 4471,
+      "title": "don't forget to budget for the hours and hours it takes to properly assemble, prepare, and enjoy one (1) coffee",
+      "img": "http://www.qwantz.com/comics/comic2-5169.png",
+      "alt": "they're about to release the Eleventh Edition of coffee and I'm expecting some rule changes affecting the Blood Angels Space Marine coffee division",
+      "date": "2026-05-15",
+      "link": "http://www.qwantz.com/index.php?comic=4471"
+    },
     {
       "num": 4470,
       "title": "where do i get my ideas?  easy.  i think \"well, time to have an idea\" and then i pick my absolute favourite from the cornucopia that presents itself",
@@ -76,14 +84,6 @@
       "alt": "t-rex in: no no no, no more mistakes, only correct things all the time forever and ever!!!  please please please",
       "date": "2026-04-22",
       "link": "http://www.qwantz.com/index.php?comic=4462"
-    },
-    {
-      "num": 4461,
-      "title": "good girl, bad Bertrand Russell",
-      "img": "http://www.qwantz.com/comics/comic2-5159.png",
-      "alt": "this comic inspired by my dog's freeze-dried cheese treats that are just normal cheese that's been freeze-dried and honestly pretty great if you love the flavour of cheese but have always craved an added freeze-dried CRUNCH",
-      "date": "2026-04-20",
-      "link": "http://www.qwantz.com/index.php?comic=4461"
     }
   ]
 }
