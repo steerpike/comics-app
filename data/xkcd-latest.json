@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3245,
-  "fetchedAt": "2026-05-15T19:41:59.594Z",
+  "latestNum": 3246,
+  "fetchedAt": "2026-05-16T08:07:49.896Z",
   "comics": [
+    {
+      "num": 3246,
+      "title": "Speedrun",
+      "img": "https://imgs.xkcd.com/comics/speedrun.png",
+      "alt": "Usain Bolt holds the world record in the 100 meter speedrun.",
+      "date": "2026-05-15"
+    },
     {
       "num": 3245,
       "title": "Results Age",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/creation.png",
       "alt": "This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.",
       "date": "2026-04-01"
-    },
-    {
-      "num": 3226,
-      "title": "Home Solar",
-      "img": "https://imgs.xkcd.com/comics/home_solar.png",
-      "alt": "\"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own.\"",
-      "date": "2026-03-30"
     }
   ]
 }

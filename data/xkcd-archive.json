@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3244,
-  "latestNum": 3245,
-  "fetchedAt": "2026-05-13T19:58:43.751Z",
+  "total": 3245,
+  "latestNum": 3246,
+  "fetchedAt": "2026-05-16T08:07:49.907Z",
   "comics": [
     {
       "num": 1,
@@ -22711,6 +22711,13 @@
       "img": "https://imgs.xkcd.com/comics/results_age.png",
       "alt": "Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.",
       "date": "2026-05-13"
+    },
+    {
+      "num": 3246,
+      "title": "Speedrun",
+      "img": "https://imgs.xkcd.com/comics/speedrun.png",
+      "alt": "Usain Bolt holds the world record in the 100 meter speedrun.",
+      "date": "2026-05-15"
     }
   ]
 }
