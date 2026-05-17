@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-17T08:24:12.823Z",
+  "fetchedAt": "2026-05-17T19:13:13.901Z",
   "comics": [
+    {
+      "slug": "experiencing",
+      "title": "Experiencing",
+      "img": "https://www.smbc-comics.com/comics/1778989227-20260516-edit.png",
+      "alt": "The flip side is once you get in the machine, you can start searching for the machine in the machine.",
+      "date": "2026-05-17",
+      "link": "https://www.smbc-comics.com/comic/experiencing"
+    },
     {
       "slug": "bot-3",
       "title": "Bot",
@@ -156,14 +164,6 @@
       "alt": "This joke is more for my future audience of robots, but humans are welcome.",
       "date": "2026-04-28",
       "link": "https://www.smbc-comics.com/comic/copernican"
-    },
-    {
-      "slug": "set",
-      "title": "Set",
-      "img": "https://www.smbc-comics.com/comics/1777252661-20260427.png",
-      "alt": "Why start with a confusing idea like zero, when you can refer to the notion of a something with nothing in it?",
-      "date": "2026-04-27",
-      "link": "https://www.smbc-comics.com/comic/set"
     }
   ]
 }
