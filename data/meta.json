@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-05-16T19:08:23.572Z",
+  "fetchedAt": "2026-05-17T08:24:15.026Z",
   "sources": {
     "xkcd": "ok",
     "dinosaur": "ok",
     "smbc": "ok",
     "wondermark": "ok",
     "nedroid": "ok",
-    "poorlydrawnlines": "ok",
+    "poorlydrawnlines": "error: HTTP 202 for https://poorlydrawnlines.com/feed/",
     "savagechickens": "ok",
     "buttersafe": "ok",
     "loadingartist": "ok"
