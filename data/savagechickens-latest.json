@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-17T19:13:16.219Z",
+  "fetchedAt": "2026-05-18T10:09:45.767Z",
   "comics": [
+    {
+      "slug": "spider-man-vs-mosquito-man",
+      "title": "Spider-Man vs Mosquito-Man",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenspidermanvsmosquitoman.jpg",
+      "alt": "Spider-Man vs Mosquito-Man",
+      "date": "2026-05-18",
+      "link": "https://www.savagechickens.com/2026/05/spider-man-vs-mosquito-man.html"
+    },
     {
       "slug": "pizza",
       "title": "PIZZA",
@@ -76,14 +84,6 @@
       "alt": "Simpler Times",
       "date": "2026-05-05",
       "link": "https://www.savagechickens.com/2026/05/simpler-times.html"
-    },
-    {
-      "slug": "barge",
-      "title": "Barge!",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenbarge.jpg",
-      "alt": "Barge!",
-      "date": "2026-05-04",
-      "link": "https://www.savagechickens.com/2026/05/barge.html"
     }
   ]
 }
