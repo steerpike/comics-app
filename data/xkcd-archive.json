@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3245,
-  "latestNum": 3246,
-  "fetchedAt": "2026-05-16T08:07:49.907Z",
+  "total": 3246,
+  "latestNum": 3247,
+  "fetchedAt": "2026-05-18T19:50:34.741Z",
   "comics": [
     {
       "num": 1,
@@ -22718,6 +22718,13 @@
       "img": "https://imgs.xkcd.com/comics/speedrun.png",
       "alt": "Usain Bolt holds the world record in the 100 meter speedrun.",
       "date": "2026-05-15"
+    },
+    {
+      "num": 3247,
+      "title": "Particle Census",
+      "img": "https://imgs.xkcd.com/comics/particle_census.png",
+      "alt": "Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.",
+      "date": "2026-05-18"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-05-18T10:09:43.599Z",
+  "fetchedAt": "2026-05-18T19:50:35.114Z",
   "comics": [
+    {
+      "num": 4472,
+      "title": "ladies, gentlemen... it is my pleasure to introduce to you: your new craving",
+      "img": "http://www.qwantz.com/comics/comic2-5170.png",
+      "alt": "if you don't want horizontal rows of toppings just rotate your pizza a li'l bit",
+      "date": "2026-05-18",
+      "link": "http://www.qwantz.com/index.php?comic=4472"
+    },
     {
       "num": 4471,
       "title": "don't forget to budget for the hours and hours it takes to properly assemble, prepare, and enjoy one (1) coffee",
@@ -76,14 +84,6 @@
       "alt": "panel 6 t-rex is breaking the streak of all the other even-numbered panel t-rexes by saying something other than ",
       "date": "2026-04-24",
       "link": "http://www.qwantz.com/index.php?comic=4463"
-    },
-    {
-      "num": 4462,
-      "title": "t-rex in: mistakes were made",
-      "img": "http://www.qwantz.com/comics/comic2-5160.png",
-      "alt": "t-rex in: no no no, no more mistakes, only correct things all the time forever and ever!!!  please please please",
-      "date": "2026-04-22",
-      "link": "http://www.qwantz.com/index.php?comic=4462"
     }
   ]
 }

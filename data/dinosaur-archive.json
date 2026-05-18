@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 41,
-  "highestNum": 4471,
-  "fetchedAt": "2026-05-15T19:41:59.874Z",
+  "total": 42,
+  "highestNum": 4472,
+  "fetchedAt": "2026-05-18T19:50:35.115Z",
   "comics": [
     {
       "num": 4431,
@@ -331,6 +331,14 @@
       "alt": "they're about to release the Eleventh Edition of coffee and I'm expecting some rule changes affecting the Blood Angels Space Marine coffee division",
       "date": "2026-05-15",
       "link": "http://www.qwantz.com/index.php?comic=4471"
+    },
+    {
+      "num": 4472,
+      "title": "ladies, gentlemen... it is my pleasure to introduce to you: your new craving",
+      "img": "http://www.qwantz.com/comics/comic2-5170.png",
+      "alt": "if you don't want horizontal rows of toppings just rotate your pizza a li'l bit",
+      "date": "2026-05-18",
+      "link": "http://www.qwantz.com/index.php?comic=4472"
     }
   ]
 }
