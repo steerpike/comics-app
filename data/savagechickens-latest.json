@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-18T19:50:37.279Z",
+  "fetchedAt": "2026-05-19T09:50:27.170Z",
   "comics": [
+    {
+      "slug": "in-real-life",
+      "title": "In Real Life",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickeninreallife.jpg",
+      "alt": "In Real Life",
+      "date": "2026-05-19",
+      "link": "https://www.savagechickens.com/2026/05/in-real-life.html"
+    },
     {
       "slug": "spider-man-vs-mosquito-man",
       "title": "Spider-Man vs Mosquito-Man",
@@ -76,14 +84,6 @@
       "alt": "Special Request",
       "date": "2026-05-06",
       "link": "https://www.savagechickens.com/2026/05/special-request.html"
-    },
-    {
-      "slug": "simpler-times",
-      "title": "Simpler Times",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickensimplertimes.jpg",
-      "alt": "Simpler Times",
-      "date": "2026-05-05",
-      "link": "https://www.savagechickens.com/2026/05/simpler-times.html"
     }
   ]
 }
