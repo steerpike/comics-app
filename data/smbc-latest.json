@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-19T09:50:25.606Z",
+  "fetchedAt": "2026-05-19T19:54:31.928Z",
   "comics": [
+    {
+      "slug": "sick-2",
+      "title": "Sick",
+      "img": "https://www.smbc-comics.com/comics/1779137714-20260519-edit.png",
+      "alt": "Oddly enough, Ouroboros is also the sound a snake makes when trying to do this.",
+      "date": "2026-05-19",
+      "link": "https://www.smbc-comics.com/comic/sick-2"
+    },
     {
       "slug": "criminal",
       "title": "Criminal",
@@ -156,14 +164,6 @@
       "alt": "Ten bucks to any president who does the thing in the second-to-last panel.",
       "date": "2026-04-29",
       "link": "https://www.smbc-comics.com/comic/spoon"
-    },
-    {
-      "slug": "kickstarter-launch",
-      "title": "Kickstarter Launch!",
-      "img": "https://www.smbc-comics.com/comics/1777343494-parentingkickstarterlaunchcomic.png",
-      "alt": "A book 12 years in the making...",
-      "date": "2026-04-28",
-      "link": "https://www.smbc-comics.com/comic/kickstarter-launch"
     }
   ]
 }
