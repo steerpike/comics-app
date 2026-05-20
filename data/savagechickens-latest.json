@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-19T19:54:33.751Z",
+  "fetchedAt": "2026-05-20T09:39:07.671Z",
   "comics": [
+    {
+      "slug": "sleeping-in-meetings",
+      "title": "Sleeping in Meetings",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickensleepinginmeetings.jpg",
+      "alt": "Sleeping in Meetings",
+      "date": "2026-05-20",
+      "link": "https://www.savagechickens.com/2026/05/sleeping-in-meetings.html"
+    },
     {
       "slug": "in-real-life",
       "title": "In Real Life",
@@ -76,14 +84,6 @@
       "alt": "Neighborhood Haiku #8",
       "date": "2026-05-07",
       "link": "https://www.savagechickens.com/2026/05/neighborhood-haiku-8.html"
-    },
-    {
-      "slug": "special-request",
-      "title": "Special Request",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenspecialrequest.jpg",
-      "alt": "Special Request",
-      "date": "2026-05-06",
-      "link": "https://www.savagechickens.com/2026/05/special-request.html"
     }
   ]
 }
