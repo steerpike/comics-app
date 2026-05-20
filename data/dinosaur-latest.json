@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-05-20T09:39:05.490Z",
+  "fetchedAt": "2026-05-20T20:20:58.753Z",
   "comics": [
+    {
+      "num": 4473,
+      "title": "do scarecrows scare crow's scarecrows' scared crows",
+      "img": "http://www.qwantz.com/comics/comic2-5171.png",
+      "alt": "alternate last panel is just t-rex posed as always saying ",
+      "date": "2026-05-20",
+      "link": "http://www.qwantz.com/index.php?comic=4473"
+    },
     {
       "num": 4472,
       "title": "ladies, gentlemen... it is my pleasure to introduce to you: your new craving",
@@ -76,14 +84,6 @@
       "alt": "his li'l bro is named Li'l Challenges. Sanrio hit me up, my arms are overflowing with AMAZING CHARACTERS here",
       "date": "2026-04-27",
       "link": "http://www.qwantz.com/index.php?comic=4464"
-    },
-    {
-      "num": 4463,
-      "title": "annoyingly annoyed",
-      "img": "http://www.qwantz.com/comics/comic2-5161.png",
-      "alt": "panel 6 t-rex is breaking the streak of all the other even-numbered panel t-rexes by saying something other than ",
-      "date": "2026-04-24",
-      "link": "http://www.qwantz.com/index.php?comic=4463"
     }
   ]
 }

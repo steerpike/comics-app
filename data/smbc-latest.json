@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-20T09:39:05.703Z",
+  "fetchedAt": "2026-05-20T20:20:59.242Z",
   "comics": [
+    {
+      "slug": "trash",
+      "title": "Trash",
+      "img": "https://www.smbc-comics.com/comics/1779137781-20260520-edit.png",
+      "alt": "Kicking myself for not teeing this up as a major kickstarter.",
+      "date": "2026-05-20",
+      "link": "https://www.smbc-comics.com/comic/trash"
+    },
     {
       "slug": "sick-2",
       "title": "Sick",
@@ -156,14 +164,6 @@
       "alt": "The worst part is the robot makes him use reddit 7 hours a day, because that's what past employees were doing in its training data.",
       "date": "2026-04-30",
       "link": "https://www.smbc-comics.com/comic/meaning-7"
-    },
-    {
-      "slug": "spoon",
-      "title": "Spoon",
-      "img": "https://www.smbc-comics.com/comics/1777341680-20260429-edit.png",
-      "alt": "Ten bucks to any president who does the thing in the second-to-last panel.",
-      "date": "2026-04-29",
-      "link": "https://www.smbc-comics.com/comic/spoon"
     }
   ]
 }

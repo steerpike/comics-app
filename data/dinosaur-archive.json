@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 42,
-  "highestNum": 4472,
-  "fetchedAt": "2026-05-18T19:50:35.115Z",
+  "total": 43,
+  "highestNum": 4473,
+  "fetchedAt": "2026-05-20T20:20:58.754Z",
   "comics": [
     {
       "num": 4431,
@@ -339,6 +339,14 @@
       "alt": "if you don't want horizontal rows of toppings just rotate your pizza a li'l bit",
       "date": "2026-05-18",
       "link": "http://www.qwantz.com/index.php?comic=4472"
+    },
+    {
+      "num": 4473,
+      "title": "do scarecrows scare crow's scarecrows' scared crows",
+      "img": "http://www.qwantz.com/comics/comic2-5171.png",
+      "alt": "alternate last panel is just t-rex posed as always saying ",
+      "date": "2026-05-20",
+      "link": "http://www.qwantz.com/index.php?comic=4473"
     }
   ]
 }
