@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3246,
-  "latestNum": 3247,
-  "fetchedAt": "2026-05-18T19:50:34.741Z",
+  "total": 3247,
+  "latestNum": 3248,
+  "fetchedAt": "2026-05-21T09:46:29.632Z",
   "comics": [
     {
       "num": 1,
@@ -22725,6 +22725,13 @@
       "img": "https://imgs.xkcd.com/comics/particle_census.png",
       "alt": "Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.",
       "date": "2026-05-18"
+    },
+    {
+      "num": 3248,
+      "title": "182.8 Meters",
+      "img": "https://imgs.xkcd.com/comics/182_8_meters.png",
+      "alt": "They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.",
+      "date": "2026-05-20"
     }
   ]
 }
