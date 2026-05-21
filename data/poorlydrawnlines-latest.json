@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-05-20T20:21:01.463Z",
+  "fetchedAt": "2026-05-21T19:56:26.199Z",
   "comics": [
+    {
+      "slug": "ancient-seagulls",
+      "title": "Ancient Seagulls",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/05/ancient-seagulls.png",
+      "alt": "",
+      "date": "2026-05-21",
+      "link": "https://poorlydrawnlines.com/comic/ancient-seagulls/"
+    },
     {
       "slug": "largest-cat-2",
       "title": "Largest Cat 2",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-03-25",
       "link": "https://poorlydrawnlines.com/comic/seriously/"
-    },
-    {
-      "slug": "let-you-down",
-      "title": "Let You Down",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/03/let-you-down.png",
-      "alt": "",
-      "date": "2026-03-17",
-      "link": "https://poorlydrawnlines.com/comic/let-you-down/"
     }
   ]
 }

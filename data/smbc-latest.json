@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-21T09:46:30.164Z",
+  "fetchedAt": "2026-05-21T19:56:25.004Z",
   "comics": [
+    {
+      "slug": "back-3",
+      "title": "Back",
+      "img": "https://www.smbc-comics.com/comics/1779301059-20260521 - edit.png",
+      "alt": "I want to be buried at the K-T boundary holding a box of brass gears marked Time Machine.",
+      "date": "2026-05-21",
+      "link": "https://www.smbc-comics.com/comic/back-3"
+    },
     {
       "slug": "trash",
       "title": "Trash",
@@ -156,14 +164,6 @@
       "alt": "Later he's upset that nobody's upset.",
       "date": "2026-05-01",
       "link": "https://www.smbc-comics.com/comic/tragic"
-    },
-    {
-      "slug": "meaning-7",
-      "title": "Meaning",
-      "img": "https://www.smbc-comics.com/comics/1777341705-20260430-edit.png",
-      "alt": "The worst part is the robot makes him use reddit 7 hours a day, because that's what past employees were doing in its training data.",
-      "date": "2026-04-30",
-      "link": "https://www.smbc-comics.com/comic/meaning-7"
     }
   ]
 }
