@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-21T19:56:26.699Z",
+  "fetchedAt": "2026-05-22T09:31:08.528Z",
   "comics": [
+    {
+      "slug": "the-cycle-of-work",
+      "title": "The Cycle of Work",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthecycleofwork.jpg",
+      "alt": "The Cycle of Work",
+      "date": "2026-05-22",
+      "link": "https://www.savagechickens.com/2026/05/the-cycle-of-work.html"
+    },
     {
       "slug": "psychic-cat",
       "title": "Psychic Cat",
@@ -76,14 +84,6 @@
       "alt": "The Tree in the Field",
       "date": "2026-05-11",
       "link": "https://www.savagechickens.com/2026/05/the-tree-in-the-field.html"
-    },
-    {
-      "slug": "cat-dream",
-      "title": "Cat Dream",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickencatdream-1.jpg",
-      "alt": "Cat Dream",
-      "date": "2026-05-08",
-      "link": "https://www.savagechickens.com/2026/05/cat-dream.html"
     }
   ]
 }
