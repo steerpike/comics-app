@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-22T09:31:06.518Z",
+  "fetchedAt": "2026-05-22T19:50:25.134Z",
   "comics": [
+    {
+      "slug": "ex-3",
+      "title": "Ex",
+      "img": "https://www.smbc-comics.com/comics/1779413076-20260522-edit.png",
+      "alt": "You've got to own that feeling, girl.",
+      "date": "2026-05-22",
+      "link": "https://www.smbc-comics.com/comic/ex-3"
+    },
     {
       "slug": "back-3",
       "title": "Back",
@@ -156,14 +164,6 @@
       "alt": "The best part is that it's included in a book titled Mortal Questions. Also that the original paper came out in 1969.",
       "date": "2026-05-02",
       "link": "https://www.smbc-comics.com/comic/nagel"
-    },
-    {
-      "slug": "tragic",
-      "title": "Tragic",
-      "img": "https://www.smbc-comics.com/comics/1777600106-20260501-edit.png",
-      "alt": "Later he's upset that nobody's upset.",
-      "date": "2026-05-01",
-      "link": "https://www.smbc-comics.com/comic/tragic"
     }
   ]
 }

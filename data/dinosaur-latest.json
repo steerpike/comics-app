@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-05-22T09:31:06.225Z",
+  "fetchedAt": "2026-05-22T19:50:24.770Z",
   "comics": [
+    {
+      "num": 4474,
+      "title": "we don't know how to swim and we don't know how to not poop our pants every time.  being a baby is mortifying and you can't even explain yourself",
+      "img": "http://www.qwantz.com/comics/comic2-5172.png",
+      "alt": "it's a very useful word to say on a first date.  speed dating is SO much faster for dinosaurs; this is canon",
+      "date": "2026-05-22",
+      "link": "http://www.qwantz.com/index.php?comic=4474"
+    },
     {
       "num": 4473,
       "title": "do scarecrows scare crow's scarecrows' scared crows",
@@ -76,14 +84,6 @@
       "alt": "ostracization SOUNDS like it's the process of slowly being turned into an ostrich, but it really just means being excluded from a group.  i guess there's two types of ostracization and only one of them is good.",
       "date": "2026-04-29",
       "link": "http://www.qwantz.com/index.php?comic=4465"
-    },
-    {
-      "num": 4464,
-      "title": "big challenges!!  BIG CHALLENGES",
-      "img": "http://www.qwantz.com/comics/comic2-5162.png",
-      "alt": "his li'l bro is named Li'l Challenges. Sanrio hit me up, my arms are overflowing with AMAZING CHARACTERS here",
-      "date": "2026-04-27",
-      "link": "http://www.qwantz.com/index.php?comic=4464"
     }
   ]
 }

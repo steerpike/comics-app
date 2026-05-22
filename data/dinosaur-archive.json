@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 43,
-  "highestNum": 4473,
-  "fetchedAt": "2026-05-20T20:20:58.754Z",
+  "total": 44,
+  "highestNum": 4474,
+  "fetchedAt": "2026-05-22T19:50:24.771Z",
   "comics": [
     {
       "num": 4431,
@@ -347,6 +347,14 @@
       "alt": "alternate last panel is just t-rex posed as always saying ",
       "date": "2026-05-20",
       "link": "http://www.qwantz.com/index.php?comic=4473"
+    },
+    {
+      "num": 4474,
+      "title": "we don't know how to swim and we don't know how to not poop our pants every time.  being a baby is mortifying and you can't even explain yourself",
+      "img": "http://www.qwantz.com/comics/comic2-5172.png",
+      "alt": "it's a very useful word to say on a first date.  speed dating is SO much faster for dinosaurs; this is canon",
+      "date": "2026-05-22",
+      "link": "http://www.qwantz.com/index.php?comic=4474"
     }
   ]
 }
