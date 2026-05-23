@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-23T08:23:00.342Z",
+  "fetchedAt": "2026-05-23T19:14:27.605Z",
   "comics": [
+    {
+      "slug": "safe",
+      "title": "Safe",
+      "img": "https://www.smbc-comics.com/comics/1779491306-20260523 - edit.png",
+      "alt": "The only annoying part is how the Ai keeps complimenting your blackmail skills instead of ruining the world.",
+      "date": "2026-05-23",
+      "link": "https://www.smbc-comics.com/comic/safe"
+    },
     {
       "slug": "ex-3",
       "title": "Ex",
@@ -156,14 +164,6 @@
       "alt": "Triple the median would of course be 50% more inner peace.",
       "date": "2026-05-03",
       "link": "https://www.smbc-comics.com/comic/peace-4"
-    },
-    {
-      "slug": "nagel",
-      "title": "Nagel",
-      "img": "https://www.smbc-comics.com/comics/1777600196-20260502-edit.png",
-      "alt": "The best part is that it's included in a book titled Mortal Questions. Also that the original paper came out in 1969.",
-      "date": "2026-05-02",
-      "link": "https://www.smbc-comics.com/comic/nagel"
     }
   ]
 }
