@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-24T19:20:34.918Z",
+  "fetchedAt": "2026-05-25T10:12:55.601Z",
   "comics": [
+    {
+      "slug": "cat-meetings",
+      "title": "Cat Meetings",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickencatmeetings.jpg",
+      "alt": "Cat Meetings",
+      "date": "2026-05-25",
+      "link": "https://www.savagechickens.com/2026/05/cat-meetings.html"
+    },
     {
       "slug": "the-cycle-of-work",
       "title": "The Cycle of Work",
@@ -76,14 +84,6 @@
       "alt": "Party Survival 5",
       "date": "2026-05-12",
       "link": "https://www.savagechickens.com/2026/05/party-survival-5.html"
-    },
-    {
-      "slug": "the-tree-in-the-field",
-      "title": "The Tree in the Field",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthetreeinthefield.jpg",
-      "alt": "The Tree in the Field",
-      "date": "2026-05-11",
-      "link": "https://www.savagechickens.com/2026/05/the-tree-in-the-field.html"
     }
   ]
 }
