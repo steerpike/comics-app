@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-05-25T10:12:53.522Z",
+  "fetchedAt": "2026-05-25T19:44:29.630Z",
   "comics": [
+    {
+      "num": 4475,
+      "title": "it costs more to go back to 1965 so that's why he chose 1993.  a perfect explanation",
+      "img": "http://www.qwantz.com/comics/comic2-5173.png",
+      "alt": "to answer your question, yes, he brought utahraptor to his doctor's appointment.  that's what friends do for each other",
+      "date": "2026-05-25",
+      "link": "http://www.qwantz.com/index.php?comic=4475"
+    },
     {
       "num": 4474,
       "title": "we don't know how to swim and we don't know how to not poop our pants every time.  being a baby is mortifying and you can't even explain yourself",
@@ -76,14 +84,6 @@
       "alt": "allegedly not doing stupid things saves us all from dying.  you heard it here - well, i was going to say ",
       "date": "2026-05-04",
       "link": "http://www.qwantz.com/index.php?comic=4466"
-    },
-    {
-      "num": 4465,
-      "title": "styles change, but secret third types in ontologies never do",
-      "img": "http://www.qwantz.com/comics/comic2-5163.png",
-      "alt": "ostracization SOUNDS like it's the process of slowly being turned into an ostrich, but it really just means being excluded from a group.  i guess there's two types of ostracization and only one of them is good.",
-      "date": "2026-04-29",
-      "link": "http://www.qwantz.com/index.php?comic=4465"
     }
   ]
 }

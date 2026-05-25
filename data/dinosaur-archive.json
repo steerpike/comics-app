@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 44,
-  "highestNum": 4474,
-  "fetchedAt": "2026-05-22T19:50:24.771Z",
+  "total": 45,
+  "highestNum": 4475,
+  "fetchedAt": "2026-05-25T19:44:29.630Z",
   "comics": [
     {
       "num": 4431,
@@ -355,6 +355,14 @@
       "alt": "it's a very useful word to say on a first date.  speed dating is SO much faster for dinosaurs; this is canon",
       "date": "2026-05-22",
       "link": "http://www.qwantz.com/index.php?comic=4474"
+    },
+    {
+      "num": 4475,
+      "title": "it costs more to go back to 1965 so that's why he chose 1993.  a perfect explanation",
+      "img": "http://www.qwantz.com/comics/comic2-5173.png",
+      "alt": "to answer your question, yes, he brought utahraptor to his doctor's appointment.  that's what friends do for each other",
+      "date": "2026-05-25",
+      "link": "http://www.qwantz.com/index.php?comic=4475"
     }
   ]
 }

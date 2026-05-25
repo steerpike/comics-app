@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-25T10:12:53.756Z",
+  "fetchedAt": "2026-05-25T19:44:30.018Z",
   "comics": [
+    {
+      "slug": "bonzo",
+      "title": "Bonzo",
+      "img": "https://www.smbc-comics.com/comics/1779672714-20260525 - edit.png",
+      "alt": "The hard thing about male clowns is you have to disbud them at a young age are they get dangerous.",
+      "date": "2026-05-25",
+      "link": "https://www.smbc-comics.com/comic/bonzo"
+    },
     {
       "slug": "cave-3",
       "title": "Cave",
@@ -156,14 +164,6 @@
       "alt": "All I'm saying is this would be the ultimate proof that God has a dirty mind.",
       "date": "2026-05-05",
       "link": "https://www.smbc-comics.com/comic/connection-2"
-    },
-    {
-      "slug": "future-4",
-      "title": "Future",
-      "img": "https://www.smbc-comics.com/comics/1777833135-20260504-edit.png",
-      "alt": "I read in an econ book that panel four is a thing that actually happens, and I've been terrified ever since.",
-      "date": "2026-05-04",
-      "link": "https://www.smbc-comics.com/comic/future-4"
     }
   ]
 }
