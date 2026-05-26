@@ -3,8 +3,16 @@
   "name": "Wondermark",
   "url": "https://wondermark.com",
   "attribution": "Wondermark by David Malki!",
-  "fetchedAt": "2026-05-25T19:44:30.964Z",
+  "fetchedAt": "2026-05-26T10:00:52.202Z",
   "comics": [
+    {
+      "num": 0,
+      "title": "Bolted! Fulfillment Update",
+      "img": "https://wondermark.com/wp-content/uploads/2026/05/Screenshot-2026-05-25-at-12.46.57-PM.png",
+      "alt": "",
+      "date": "2026-05-25",
+      "link": "https://wondermark.com/bolted-fulfillment-update/"
+    },
     {
       "num": 0,
       "title": "Applications open for Genius Northwest – an IRL gaming competition",
@@ -60,14 +68,6 @@
       "alt": "",
       "date": "2026-01-24",
       "link": "https://wondermark.com/c/1581/"
-    },
-    {
-      "num": 1580,
-      "title": "#1580; What’s Undone is Undead",
-      "img": "https://wondermark.com/wp-content/uploads/2026/01/2026-01-14-1580abandon_1600px.png",
-      "alt": "",
-      "date": "2026-01-14",
-      "link": "https://wondermark.com/c/1580/"
     }
   ]
 }

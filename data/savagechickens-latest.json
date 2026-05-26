@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-25T19:44:31.911Z",
+  "fetchedAt": "2026-05-26T10:00:53.213Z",
   "comics": [
+    {
+      "slug": "in-case-of-grizzly-bear",
+      "title": "In Case of Grizzly Bear",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenincaseofgrizzlybear.jpg",
+      "alt": "In Case of Grizzly Bear",
+      "date": "2026-05-26",
+      "link": "https://www.savagechickens.com/2026/05/in-case-of-grizzly-bear.html"
+    },
     {
       "slug": "cat-meetings",
       "title": "Cat Meetings",
@@ -76,14 +84,6 @@
       "alt": "From the Makers of Freakbot",
       "date": "2026-05-13",
       "link": "https://www.savagechickens.com/2026/05/from-the-makers-of-freakbot.html"
-    },
-    {
-      "slug": "party-survival-5",
-      "title": "Party Survival 5",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpartysurvival5.jpg",
-      "alt": "Party Survival 5",
-      "date": "2026-05-12",
-      "link": "https://www.savagechickens.com/2026/05/party-survival-5.html"
     }
   ]
 }

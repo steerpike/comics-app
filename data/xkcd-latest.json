@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3249,
-  "fetchedAt": "2026-05-25T19:44:29.374Z",
+  "latestNum": 3250,
+  "fetchedAt": "2026-05-26T10:00:49.964Z",
   "comics": [
+    {
+      "num": 3250,
+      "title": "Flag Design",
+      "img": "https://imgs.xkcd.com/comics/flag_design.png",
+      "alt": "Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.",
+      "date": "2026-05-25"
+    },
     {
       "num": 3249,
       "title": "Neutrino Project",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/lightning.png",
       "alt": "Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.",
       "date": "2026-04-10"
-    },
-    {
-      "num": 3230,
-      "title": "Overton",
-      "img": "https://imgs.xkcd.com/comics/overton.png",
-      "alt": "I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.",
-      "date": "2026-04-08"
     }
   ]
 }
