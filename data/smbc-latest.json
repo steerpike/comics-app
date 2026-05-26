@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-26T10:00:50.818Z",
+  "fetchedAt": "2026-05-26T20:11:13.282Z",
   "comics": [
+    {
+      "slug": "gates-2",
+      "title": "Gates",
+      "img": "https://www.smbc-comics.com/comics/1779672771-20260526 - edit.png",
+      "alt": "You exist in a perpetual state of just about to get to Disney World.",
+      "date": "2026-05-26",
+      "link": "https://www.smbc-comics.com/comic/gates-2"
+    },
     {
       "slug": "bonzo",
       "title": "Bonzo",
@@ -156,14 +164,6 @@
       "alt": "Based almost entirely on something Tomer Ullman told me, and I hereby nominate him as First Dean of Shenanigans.",
       "date": "2026-05-06",
       "link": "https://www.smbc-comics.com/comic/shenanigans"
-    },
-    {
-      "slug": "connection-2",
-      "title": "Connection",
-      "img": "https://www.smbc-comics.com/comics/1777833239-20260505-edit.png",
-      "alt": "All I'm saying is this would be the ultimate proof that God has a dirty mind.",
-      "date": "2026-05-05",
-      "link": "https://www.smbc-comics.com/comic/connection-2"
     }
   ]
 }
