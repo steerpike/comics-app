@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 45,
-  "highestNum": 4475,
-  "fetchedAt": "2026-05-25T19:44:29.630Z",
+  "total": 46,
+  "highestNum": 4476,
+  "fetchedAt": "2026-05-27T20:21:26.671Z",
   "comics": [
     {
       "num": 4431,
@@ -363,6 +363,14 @@
       "alt": "to answer your question, yes, he brought utahraptor to his doctor's appointment.  that's what friends do for each other",
       "date": "2026-05-25",
       "link": "http://www.qwantz.com/index.php?comic=4475"
+    },
+    {
+      "num": 4476,
+      "title": "out-of-genre / completely-in-genre covers",
+      "img": "http://www.qwantz.com/comics/comic2-5174.png",
+      "alt": "imagine beethoven, but with a sick drop. but be careful because i started doing that once and now i can't stop imagining beethoven but with a sick drop",
+      "date": "2026-05-27",
+      "link": "http://www.qwantz.com/index.php?comic=4476"
     }
   ]
 }

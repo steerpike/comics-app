@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-05-27T09:56:35.988Z",
+  "fetchedAt": "2026-05-27T20:21:26.670Z",
   "comics": [
+    {
+      "num": 4476,
+      "title": "out-of-genre / completely-in-genre covers",
+      "img": "http://www.qwantz.com/comics/comic2-5174.png",
+      "alt": "imagine beethoven, but with a sick drop. but be careful because i started doing that once and now i can't stop imagining beethoven but with a sick drop",
+      "date": "2026-05-27",
+      "link": "http://www.qwantz.com/index.php?comic=4476"
+    },
     {
       "num": 4475,
       "title": "it costs more to go back to 1965 so that's why he chose 1993.  a perfect explanation",
@@ -76,14 +84,6 @@
       "alt": "IT'S / GOING / TO CURE ITSELF BY THE NEXT COMIC",
       "date": "2026-05-06",
       "link": "http://www.qwantz.com/index.php?comic=4467"
-    },
-    {
-      "num": 4466,
-      "title": "i changed one (1) breaker in one (1) breaker box with the help of my father, who is a retired electrical engineer, and when I commented that he was maybe being overly cautious with a breaker box whose master breaker was off, he said \"first, never trust anything is off.  and second, all the people who mess with electricity who weren't overly cautious are dead now\"",
-      "img": "http://www.qwantz.com/comics/comic2-5164.png",
-      "alt": "allegedly not doing stupid things saves us all from dying.  you heard it here - well, i was going to say ",
-      "date": "2026-05-04",
-      "link": "http://www.qwantz.com/index.php?comic=4466"
     }
   ]
 }
