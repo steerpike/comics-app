@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3250,
-  "fetchedAt": "2026-05-27T20:21:26.145Z",
+  "latestNum": 3251,
+  "fetchedAt": "2026-05-28T10:07:07.753Z",
   "comics": [
+    {
+      "num": 3251,
+      "title": "Time Machine Conversation",
+      "img": "https://imgs.xkcd.com/comics/time_machine_conversation.png",
+      "alt": "It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.",
+      "date": "2026-05-27"
+    },
     {
       "num": 3250,
       "title": "Flag Design",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/countdown_standard.png",
       "alt": "Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.",
       "date": "2026-04-13"
-    },
-    {
-      "num": 3231,
-      "title": "Lightning",
-      "img": "https://imgs.xkcd.com/comics/lightning.png",
-      "alt": "Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.",
-      "date": "2026-04-10"
     }
   ]
 }

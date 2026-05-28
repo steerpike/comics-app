@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-27T20:21:28.724Z",
+  "fetchedAt": "2026-05-28T10:07:10.858Z",
   "comics": [
+    {
+      "slug": "trouble-in-knossos",
+      "title": "Trouble in Knossos",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentroubleinknossos.jpg",
+      "alt": "Trouble in Knossos",
+      "date": "2026-05-28",
+      "link": "https://www.savagechickens.com/2026/05/trouble-in-knossos.html"
+    },
     {
       "slug": "problem-solver",
       "title": "Problem Solver",
@@ -76,14 +84,6 @@
       "alt": "PIZZA",
       "date": "2026-05-15",
       "link": "https://www.savagechickens.com/2026/05/pizza.html"
-    },
-    {
-      "slug": "i-made-dinner",
-      "title": "I Made Dinner",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenimadedinner.jpg",
-      "alt": "I Made Dinner",
-      "date": "2026-05-14",
-      "link": "https://www.savagechickens.com/2026/05/i-made-dinner.html"
     }
   ]
 }

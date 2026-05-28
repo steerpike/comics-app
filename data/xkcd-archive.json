@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3249,
-  "latestNum": 3250,
-  "fetchedAt": "2026-05-26T10:00:49.974Z",
+  "total": 3250,
+  "latestNum": 3251,
+  "fetchedAt": "2026-05-28T10:07:07.762Z",
   "comics": [
     {
       "num": 1,
@@ -22746,6 +22746,13 @@
       "img": "https://imgs.xkcd.com/comics/flag_design.png",
       "alt": "Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.",
       "date": "2026-05-25"
+    },
+    {
+      "num": 3251,
+      "title": "Time Machine Conversation",
+      "img": "https://imgs.xkcd.com/comics/time_machine_conversation.png",
+      "alt": "It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.",
+      "date": "2026-05-27"
     }
   ]
 }
