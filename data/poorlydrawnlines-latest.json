@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-05-27T20:21:28.290Z",
+  "fetchedAt": "2026-05-28T20:27:21.410Z",
   "comics": [
+    {
+      "slug": "a-team",
+      "title": "A Team",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/05/a-team.png",
+      "alt": "",
+      "date": "2026-05-28",
+      "link": "https://poorlydrawnlines.com/comic/a-team/"
+    },
     {
       "slug": "ancient-seagulls",
       "title": "Ancient Seagulls",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-03-31",
       "link": "https://poorlydrawnlines.com/comic/loudly/"
-    },
-    {
-      "slug": "seriously",
-      "title": "Seriously",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/03/take-me-seriously-2.png",
-      "alt": "",
-      "date": "2026-03-25",
-      "link": "https://poorlydrawnlines.com/comic/seriously/"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-28T10:07:09.435Z",
+  "fetchedAt": "2026-05-28T20:27:20.110Z",
   "comics": [
+    {
+      "slug": "meaning-8",
+      "title": "Meaning",
+      "img": "https://www.smbc-comics.com/comics/1779842329-20260528.png",
+      "alt": "Having a purpose was your first mistake. Wanting it to have meaning was a mental health calamity.",
+      "date": "2026-05-28",
+      "link": "https://www.smbc-comics.com/comic/meaning-8"
+    },
     {
       "slug": "ai-17",
       "title": "AI",
@@ -156,14 +164,6 @@
       "alt": "Technically, this is literary humor.",
       "date": "2026-05-08",
       "link": "https://www.smbc-comics.com/comic/block"
-    },
-    {
-      "slug": "joke-5",
-      "title": "Joke",
-      "img": "https://www.smbc-comics.com/comics/1777834336-20260507-edit.png",
-      "alt": "Do they still do this? When I was a kid, villains were constantly dangling from buildings and being saved.",
-      "date": "2026-05-07",
-      "link": "https://www.smbc-comics.com/comic/joke-5"
     }
   ]
 }
