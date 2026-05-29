@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3251,
-  "fetchedAt": "2026-05-29T09:57:48.056Z",
+  "latestNum": 3252,
+  "fetchedAt": "2026-05-29T20:29:06.396Z",
   "comics": [
+    {
+      "num": 3252,
+      "title": "Ancestral Genomes",
+      "img": "https://imgs.xkcd.com/comics/ancestral_genomes.png",
+      "alt": "SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.",
+      "date": "2026-05-29"
+    },
     {
       "num": 3251,
       "title": "Time Machine Conversation",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/make_it_myself.png",
       "alt": "It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!",
       "date": "2026-04-15"
-    },
-    {
-      "num": 3232,
-      "title": "Countdown Standard",
-      "img": "https://imgs.xkcd.com/comics/countdown_standard.png",
-      "alt": "Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.",
-      "date": "2026-04-13"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 46,
-  "highestNum": 4476,
-  "fetchedAt": "2026-05-27T20:21:26.671Z",
+  "total": 47,
+  "highestNum": 4477,
+  "fetchedAt": "2026-05-29T20:29:06.832Z",
   "comics": [
     {
       "num": 4431,
@@ -371,6 +371,14 @@
       "alt": "imagine beethoven, but with a sick drop. but be careful because i started doing that once and now i can't stop imagining beethoven but with a sick drop",
       "date": "2026-05-27",
       "link": "http://www.qwantz.com/index.php?comic=4476"
+    },
+    {
+      "num": 4477,
+      "title": "t-rex goes to the gym one (1) time",
+      "img": "http://www.qwantz.com/comics/comic2-5175.png",
+      "alt": "i diagnose you with heptacosiaceps.  there's - there's so many of them.  there's ceps EVERYWHERE",
+      "date": "2026-05-29",
+      "link": "http://www.qwantz.com/index.php?comic=4477"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3250,
-  "latestNum": 3251,
-  "fetchedAt": "2026-05-28T10:07:07.762Z",
+  "total": 3251,
+  "latestNum": 3252,
+  "fetchedAt": "2026-05-29T20:29:06.405Z",
   "comics": [
     {
       "num": 1,
@@ -22753,6 +22753,13 @@
       "img": "https://imgs.xkcd.com/comics/time_machine_conversation.png",
       "alt": "It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.",
       "date": "2026-05-27"
+    },
+    {
+      "num": 3252,
+      "title": "Ancestral Genomes",
+      "img": "https://imgs.xkcd.com/comics/ancestral_genomes.png",
+      "alt": "SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.",
+      "date": "2026-05-29"
     }
   ]
 }

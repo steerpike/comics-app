@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-05-29T09:57:48.210Z",
+  "fetchedAt": "2026-05-29T20:29:06.831Z",
   "comics": [
+    {
+      "num": 4477,
+      "title": "t-rex goes to the gym one (1) time",
+      "img": "http://www.qwantz.com/comics/comic2-5175.png",
+      "alt": "i diagnose you with heptacosiaceps.  there's - there's so many of them.  there's ceps EVERYWHERE",
+      "date": "2026-05-29",
+      "link": "http://www.qwantz.com/index.php?comic=4477"
+    },
     {
       "num": 4476,
       "title": "out-of-genre / completely-in-genre covers",
@@ -76,14 +84,6 @@
       "alt": "sorry Allen Ginsberg, sorry, i'm trying to delete it",
       "date": "2026-05-08",
       "link": "http://www.qwantz.com/index.php?comic=4468"
-    },
-    {
-      "num": 4467,
-      "title": "tick tock, motherlover",
-      "img": "http://www.qwantz.com/comics/comic2-5165.png",
-      "alt": "IT'S / GOING / TO CURE ITSELF BY THE NEXT COMIC",
-      "date": "2026-05-06",
-      "link": "http://www.qwantz.com/index.php?comic=4467"
     }
   ]
 }

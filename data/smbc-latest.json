@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-29T09:57:48.531Z",
+  "fetchedAt": "2026-05-29T20:29:07.117Z",
   "comics": [
+    {
+      "slug": "debunking",
+      "title": "Debunking",
+      "img": "https://www.smbc-comics.com/comics/1779933574-20260529.png",
+      "alt": "I find cheese really good for when I have a stomach-wants-cheese, or when my head feels a little cheese-wanty.",
+      "date": "2026-05-29",
+      "link": "https://www.smbc-comics.com/comic/debunking"
+    },
     {
       "slug": "meaning-8",
       "title": "Meaning",
@@ -156,14 +164,6 @@
       "alt": "The real punchline comes later when he marries a person who loves him, has a good boss, is respected by his children, works at a rewarding job for 40 years, travels the world for 25 years, and dies in painless repose, surrounded by loved ones.",
       "date": "2026-05-09",
       "link": "https://www.smbc-comics.com/comic/sleep-2"
-    },
-    {
-      "slug": "block",
-      "title": "Block",
-      "img": "https://www.smbc-comics.com/comics/1778110193-20260508-edit.png",
-      "alt": "Technically, this is literary humor.",
-      "date": "2026-05-08",
-      "link": "https://www.smbc-comics.com/comic/block"
     }
   ]
 }
