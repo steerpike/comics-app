@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-28T20:27:21.967Z",
+  "fetchedAt": "2026-05-29T09:57:49.962Z",
   "comics": [
+    {
+      "slug": "interview-dog",
+      "title": "Interview With A Dog",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickendoginterview-1.jpg",
+      "alt": "Interview With A Dog",
+      "date": "2026-05-29",
+      "link": "https://www.savagechickens.com/2026/05/interview-dog.html"
+    },
     {
       "slug": "trouble-in-knossos",
       "title": "Trouble in Knossos",
@@ -76,14 +84,6 @@
       "alt": "Spider-Man vs Mosquito-Man",
       "date": "2026-05-18",
       "link": "https://www.savagechickens.com/2026/05/spider-man-vs-mosquito-man.html"
-    },
-    {
-      "slug": "pizza",
-      "title": "PIZZA",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpizzaforalloccasions.jpg",
-      "alt": "PIZZA",
-      "date": "2026-05-15",
-      "link": "https://www.savagechickens.com/2026/05/pizza.html"
     }
   ]
 }
