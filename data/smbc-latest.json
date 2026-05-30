@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-30T08:30:56.618Z",
+  "fetchedAt": "2026-05-30T19:20:33.927Z",
   "comics": [
+    {
+      "slug": "free-4",
+      "title": "Free",
+      "img": "https://www.smbc-comics.com/comics/1780099563-20260530.png",
+      "alt": "Really should've asked about the ship label before he got in.",
+      "date": "2026-05-30",
+      "link": "https://www.smbc-comics.com/comic/free-4"
+    },
     {
       "slug": "debunking",
       "title": "Debunking",
@@ -156,14 +164,6 @@
       "alt": "The other thing is the robots are stingy with the porn and drugs.",
       "date": "2026-05-10",
       "link": "https://www.smbc-comics.com/comic/terminal"
-    },
-    {
-      "slug": "sleep-2",
-      "title": "Sleep",
-      "img": "https://www.smbc-comics.com/comics/1778110245-20260509-edit.png",
-      "alt": "The real punchline comes later when he marries a person who loves him, has a good boss, is respected by his children, works at a rewarding job for 40 years, travels the world for 25 years, and dies in painless repose, surrounded by loved ones.",
-      "date": "2026-05-09",
-      "link": "https://www.smbc-comics.com/comic/sleep-2"
     }
   ]
 }
