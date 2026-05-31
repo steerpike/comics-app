@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-05-31T08:49:43.404Z",
+  "fetchedAt": "2026-05-31T19:20:18.838Z",
   "comics": [
+    {
+      "slug": "prophecy",
+      "title": "Prophecy",
+      "img": "https://www.smbc-comics.com/comics/1780099607-20260531.png",
+      "alt": "This is the actual plot of The Hobbit. The entire journey is meant to convince Frodo to just stay home ever after.",
+      "date": "2026-05-31",
+      "link": "https://www.smbc-comics.com/comic/prophecy"
+    },
     {
       "slug": "free-4",
       "title": "Free",
@@ -156,14 +164,6 @@
       "alt": "How come nobody has made this? Or did they all go mad after making it, so we haven't heard?",
       "date": "2026-05-11",
       "link": "https://www.smbc-comics.com/comic/arp"
-    },
-    {
-      "slug": "terminal",
-      "title": "Terminal",
-      "img": "https://www.smbc-comics.com/comics/1778110294-20260510-edit.png",
-      "alt": "The other thing is the robots are stingy with the porn and drugs.",
-      "date": "2026-05-10",
-      "link": "https://www.smbc-comics.com/comic/terminal"
     }
   ]
 }
