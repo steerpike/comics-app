@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-05-31T19:20:20.556Z",
+  "fetchedAt": "2026-06-01T11:40:02.195Z",
   "comics": [
+    {
+      "slug": "boring-and-ordinary",
+      "title": "Boring and Ordinary",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenboringandordinary.jpg",
+      "alt": "Boring and Ordinary",
+      "date": "2026-06-01",
+      "link": "https://www.savagechickens.com/2026/06/boring-and-ordinary.html"
+    },
     {
       "slug": "interview-dog",
       "title": "Interview With A Dog",
@@ -76,14 +84,6 @@
       "alt": "In Real Life",
       "date": "2026-05-19",
       "link": "https://www.savagechickens.com/2026/05/in-real-life.html"
-    },
-    {
-      "slug": "spider-man-vs-mosquito-man",
-      "title": "Spider-Man vs Mosquito-Man",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenspidermanvsmosquitoman.jpg",
-      "alt": "Spider-Man vs Mosquito-Man",
-      "date": "2026-05-18",
-      "link": "https://www.savagechickens.com/2026/05/spider-man-vs-mosquito-man.html"
     }
   ]
 }
