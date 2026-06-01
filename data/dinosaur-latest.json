@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-01T11:40:00.022Z",
+  "fetchedAt": "2026-06-01T21:35:36.636Z",
   "comics": [
+    {
+      "num": 4478,
+      "title": "sorry to all dogs.  also is this why you're all so into pee?  ...don't answer that, dogs",
+      "img": "http://www.qwantz.com/comics/comic2-5176.png",
+      "alt": "in the final analysis we really should've had more blue things lying around in panel five before we tried this, but it's too late for that now!  it's over 23 years too late for that now!!",
+      "date": "2026-06-01",
+      "link": "http://www.qwantz.com/index.php?comic=4478"
+    },
     {
       "num": 4477,
       "title": "t-rex goes to the gym one (1) time",
@@ -76,14 +84,6 @@
       "alt": "agreement corner has VERY harsh punishments for disagreements, and we all find ourselves forced to agree: they're tough, but fair",
       "date": "2026-05-11",
       "link": "http://www.qwantz.com/index.php?comic=4469"
-    },
-    {
-      "num": 4468,
-      "title": "this comic is inspired by... MY DAD, who thinks it's impossible for anyone to tell - much less me, who has known his voice my entire life - when he uses AI",
-      "img": "http://www.qwantz.com/comics/comic2-5166.png",
-      "alt": "sorry Allen Ginsberg, sorry, i'm trying to delete it",
-      "date": "2026-05-08",
-      "link": "http://www.qwantz.com/index.php?comic=4468"
     }
   ]
 }

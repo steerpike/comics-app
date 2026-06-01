@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-01T11:40:00.317Z",
+  "fetchedAt": "2026-06-01T21:35:37.046Z",
   "comics": [
+    {
+      "slug": "shorthand",
+      "title": "Shorthand",
+      "img": "https://www.smbc-comics.com/comics/1780279940-20260601.png",
+      "alt": "SMBC will be at Davos this year, if someone at Davos looks at it on their phone.",
+      "date": "2026-06-01",
+      "link": "https://www.smbc-comics.com/comic/shorthand"
+    },
     {
       "slug": "prophecy",
       "title": "Prophecy",
@@ -156,14 +164,6 @@
       "alt": "The weird part is I'll get complaint emails about the 2037 Olympics not being possible, and not, like, the rest of this idea.",
       "date": "2026-05-12",
       "link": "https://www.smbc-comics.com/comic/sport-2"
-    },
-    {
-      "slug": "arp",
-      "title": "Arp",
-      "img": "https://www.smbc-comics.com/comics/1778468544-20260511-edit.png",
-      "alt": "How come nobody has made this? Or did they all go mad after making it, so we haven't heard?",
-      "date": "2026-05-11",
-      "link": "https://www.smbc-comics.com/comic/arp"
     }
   ]
 }

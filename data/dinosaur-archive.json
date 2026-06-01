@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 47,
-  "highestNum": 4477,
-  "fetchedAt": "2026-05-29T20:29:06.832Z",
+  "total": 48,
+  "highestNum": 4478,
+  "fetchedAt": "2026-06-01T21:35:36.637Z",
   "comics": [
     {
       "num": 4431,
@@ -379,6 +379,14 @@
       "alt": "i diagnose you with heptacosiaceps.  there's - there's so many of them.  there's ceps EVERYWHERE",
       "date": "2026-05-29",
       "link": "http://www.qwantz.com/index.php?comic=4477"
+    },
+    {
+      "num": 4478,
+      "title": "sorry to all dogs.  also is this why you're all so into pee?  ...don't answer that, dogs",
+      "img": "http://www.qwantz.com/comics/comic2-5176.png",
+      "alt": "in the final analysis we really should've had more blue things lying around in panel five before we tried this, but it's too late for that now!  it's over 23 years too late for that now!!",
+      "date": "2026-06-01",
+      "link": "http://www.qwantz.com/index.php?comic=4478"
     }
   ]
 }

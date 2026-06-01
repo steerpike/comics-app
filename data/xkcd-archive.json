@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3251,
-  "latestNum": 3252,
-  "fetchedAt": "2026-05-29T20:29:06.405Z",
+  "total": 3252,
+  "latestNum": 3253,
+  "fetchedAt": "2026-06-01T21:35:36.373Z",
   "comics": [
     {
       "num": 1,
@@ -22760,6 +22760,13 @@
       "img": "https://imgs.xkcd.com/comics/ancestral_genomes.png",
       "alt": "SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.",
       "date": "2026-05-29"
+    },
+    {
+      "num": 3253,
+      "title": "Sunbeam",
+      "img": "https://imgs.xkcd.com/comics/sunbeam.png",
+      "alt": "While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.",
+      "date": "2026-06-01"
     }
   ]
 }
