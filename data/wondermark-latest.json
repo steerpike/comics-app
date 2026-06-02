@@ -3,8 +3,16 @@
   "name": "Wondermark",
   "url": "https://wondermark.com",
   "attribution": "Wondermark by David Malki!",
-  "fetchedAt": "2026-06-01T21:35:37.928Z",
+  "fetchedAt": "2026-06-02T10:40:58.748Z",
   "comics": [
+    {
+      "num": 1586,
+      "title": "#1586; In which a Deuce is Cubed",
+      "img": "https://wondermark.com/wp-content/uploads/2026/06/2026-06-01-1586jet_1600px.png",
+      "alt": "",
+      "date": "2026-06-02",
+      "link": "https://wondermark.com/c/1586/"
+    },
     {
       "num": 0,
       "title": "Bolted! Fulfillment Update",
@@ -60,14 +68,6 @@
       "alt": "",
       "date": "2026-02-12",
       "link": "https://wondermark.com/c/1582/"
-    },
-    {
-      "num": 1581,
-      "title": "#1581; The Longest, Most Fruitless Search",
-      "img": "https://wondermark.com/wp-content/uploads/2026/01/2026-01-23-1581flyer-scaled.png",
-      "alt": "",
-      "date": "2026-01-24",
-      "link": "https://wondermark.com/c/1581/"
     }
   ]
 }
