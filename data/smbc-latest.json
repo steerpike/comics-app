@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-02T10:40:57.947Z",
+  "fetchedAt": "2026-06-02T20:52:33.201Z",
   "comics": [
+    {
+      "slug": "marshmallow",
+      "title": "Marshmallow",
+      "img": "https://www.smbc-comics.com/comics/1780286961-20260602.png",
+      "alt": "A note of appreciation to the 4 of you who started laughing on the first panel.",
+      "date": "2026-06-02",
+      "link": "https://www.smbc-comics.com/comic/marshmallow"
+    },
     {
       "slug": "shorthand",
       "title": "Shorthand",
@@ -156,14 +164,6 @@
       "alt": "For body soap, especially private areas, you want a gentle, moisturizing Antichrist.",
       "date": "2026-05-13",
       "link": "https://www.smbc-comics.com/comic/tide"
-    },
-    {
-      "slug": "sport-2",
-      "title": "Sport",
-      "img": "https://www.smbc-comics.com/comics/1778468616-20260512-edit.png",
-      "alt": "The weird part is I'll get complaint emails about the 2037 Olympics not being possible, and not, like, the rest of this idea.",
-      "date": "2026-05-12",
-      "link": "https://www.smbc-comics.com/comic/sport-2"
     }
   ]
 }
