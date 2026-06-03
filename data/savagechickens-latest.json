@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-02T20:52:35.846Z",
+  "fetchedAt": "2026-06-03T11:04:34.931Z",
   "comics": [
+    {
+      "slug": "cat-door",
+      "title": "Cat Door",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickencatdoor.jpg",
+      "alt": "Cat Door",
+      "date": "2026-06-03",
+      "link": "https://www.savagechickens.com/2026/06/cat-door.html"
+    },
     {
       "slug": "how-to-quit-the-internet",
       "title": "How To Quit the Internet",
@@ -76,14 +84,6 @@
       "alt": "Psychic Cat",
       "date": "2026-05-21",
       "link": "https://www.savagechickens.com/2026/05/psychic-cat.html"
-    },
-    {
-      "slug": "sleeping-in-meetings",
-      "title": "Sleeping in Meetings",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickensleepinginmeetings.jpg",
-      "alt": "Sleeping in Meetings",
-      "date": "2026-05-20",
-      "link": "https://www.savagechickens.com/2026/05/sleeping-in-meetings.html"
     }
   ]
 }
