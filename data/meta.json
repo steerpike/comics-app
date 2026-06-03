@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-03T11:04:35.690Z",
+  "fetchedAt": "2026-06-03T20:58:02.367Z",
   "sources": {
     "xkcd": "ok",
-    "dinosaur": "error: Request timed out after 15s for https://www.qwantz.com/rssfeed.php",
+    "dinosaur": "ok",
     "smbc": "ok",
-    "wondermark": "error: Request timed out after 15s for https://wondermark.com/feed/",
+    "wondermark": "ok",
     "nedroid": "ok",
     "poorlydrawnlines": "ok",
     "savagechickens": "ok",

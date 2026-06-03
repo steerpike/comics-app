@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-03T11:04:19.020Z",
+  "fetchedAt": "2026-06-03T20:57:59.895Z",
   "comics": [
+    {
+      "slug": "speech",
+      "title": "Speech",
+      "img": "https://www.smbc-comics.com/comics/1780287005-20260603.png",
+      "alt": "Just a reminder that I am available for commencement speeches, birthdays, and Bar Mitzvahs.",
+      "date": "2026-06-03",
+      "link": "https://www.smbc-comics.com/comic/speech"
+    },
     {
       "slug": "marshmallow",
       "title": "Marshmallow",
@@ -156,14 +164,6 @@
       "alt": "No, it doesn't belong in the bodily needs section. If anything, it's in opposition to bodily needs.",
       "date": "2026-05-14",
       "link": "https://www.smbc-comics.com/comic/hierarchy"
-    },
-    {
-      "slug": "tide",
-      "title": "Tide",
-      "img": "https://www.smbc-comics.com/comics/1778640181-20260513-edit.png",
-      "alt": "For body soap, especially private areas, you want a gentle, moisturizing Antichrist.",
-      "date": "2026-05-13",
-      "link": "https://www.smbc-comics.com/comic/tide"
     }
   ]
 }

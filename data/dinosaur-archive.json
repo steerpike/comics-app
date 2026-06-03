@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 48,
-  "highestNum": 4478,
-  "fetchedAt": "2026-06-01T21:35:36.637Z",
+  "total": 49,
+  "highestNum": 4479,
+  "fetchedAt": "2026-06-03T20:57:59.547Z",
   "comics": [
     {
       "num": 4431,
@@ -387,6 +387,14 @@
       "alt": "in the final analysis we really should've had more blue things lying around in panel five before we tried this, but it's too late for that now!  it's over 23 years too late for that now!!",
       "date": "2026-06-01",
       "link": "http://www.qwantz.com/index.php?comic=4478"
+    },
+    {
+      "num": 4479,
+      "title": "I JUST WANTED TO SEE WHAT WOULD BE DIFFERENT IF \"PARMESAN\" WAS PRONOUNCED \"PAR-ME-SEE-IAN\" AND I GUESS THE ANSWER IS NOT MUCH",
+      "img": "http://www.qwantz.com/comics/comic2-5177.png",
+      "alt": "t-rex's fifth sentence in panel three is my affirmation in the mirror every single morning",
+      "date": "2026-06-03",
+      "link": "http://www.qwantz.com/index.php?comic=4479"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-02T20:52:32.863Z",
+  "fetchedAt": "2026-06-03T20:57:59.546Z",
   "comics": [
+    {
+      "num": 4479,
+      "title": "I JUST WANTED TO SEE WHAT WOULD BE DIFFERENT IF \"PARMESAN\" WAS PRONOUNCED \"PAR-ME-SEE-IAN\" AND I GUESS THE ANSWER IS NOT MUCH",
+      "img": "http://www.qwantz.com/comics/comic2-5177.png",
+      "alt": "t-rex's fifth sentence in panel three is my affirmation in the mirror every single morning",
+      "date": "2026-06-03",
+      "link": "http://www.qwantz.com/index.php?comic=4479"
+    },
     {
       "num": 4478,
       "title": "sorry to all dogs.  also is this why you're all so into pee?  ...don't answer that, dogs",
@@ -76,14 +84,6 @@
       "alt": "YEAH WOW I REALLY SHOULD'VE SET THINGS UP LIKE THIS IN THE FIRST PLACE HUH / MY BAD",
       "date": "2026-05-13",
       "link": "http://www.qwantz.com/index.php?comic=4470"
-    },
-    {
-      "num": 4469,
-      "title": "t-rex, just - just stay out of corners bud",
-      "img": "http://www.qwantz.com/comics/comic2-5167.png",
-      "alt": "agreement corner has VERY harsh punishments for disagreements, and we all find ourselves forced to agree: they're tough, but fair",
-      "date": "2026-05-11",
-      "link": "http://www.qwantz.com/index.php?comic=4469"
     }
   ]
 }
