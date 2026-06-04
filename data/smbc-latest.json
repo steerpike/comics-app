@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-04T09:59:19.019Z",
+  "fetchedAt": "2026-06-04T20:08:42.556Z",
   "comics": [
+    {
+      "slug": "gland",
+      "title": "Gland",
+      "img": "https://www.smbc-comics.com/comics/1780287055-20260604.png",
+      "alt": "If you disagree, find me a recent source specifically proving Descartes wrong.",
+      "date": "2026-06-04",
+      "link": "https://www.smbc-comics.com/comic/gland"
+    },
     {
       "slug": "speech",
       "title": "Speech",
@@ -156,14 +164,6 @@
       "alt": "Unrelated, on a bluesky thread we discovered that there are many philosophers whose names rhyme with Bagel, but other Jewish breads are not so favored.",
       "date": "2026-05-15",
       "link": "https://www.smbc-comics.com/comic/bot-3"
-    },
-    {
-      "slug": "hierarchy",
-      "title": "Hierarchy",
-      "img": "https://www.smbc-comics.com/comics/1778697043-20260514_edit.png",
-      "alt": "No, it doesn't belong in the bodily needs section. If anything, it's in opposition to bodily needs.",
-      "date": "2026-05-14",
-      "link": "https://www.smbc-comics.com/comic/hierarchy"
     }
   ]
 }
