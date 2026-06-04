@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3253,
-  "fetchedAt": "2026-06-03T20:57:59.204Z",
+  "latestNum": 3254,
+  "fetchedAt": "2026-06-04T09:59:18.282Z",
   "comics": [
+    {
+      "num": 3254,
+      "title": "Detector",
+      "img": "https://imgs.xkcd.com/comics/detector.png",
+      "alt": "No other experiment has a lower false negative rate.",
+      "date": "2026-06-03"
+    },
     {
       "num": 3253,
       "title": "Sunbeam",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/types_of_board_game.png",
       "alt": "I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.",
       "date": "2026-04-20"
-    },
-    {
-      "num": 3234,
-      "title": "Europa Missions",
-      "img": "https://imgs.xkcd.com/comics/europa_missions.png",
-      "alt": "Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.",
-      "date": "2026-04-17"
     }
   ]
 }

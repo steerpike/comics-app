@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-03T20:58:01.609Z",
+  "fetchedAt": "2026-06-04T09:59:20.715Z",
   "comics": [
+    {
+      "slug": "just-not-the-same",
+      "title": "Just Not The Same",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenjustnotthesame.jpg",
+      "alt": "Just Not The Same",
+      "date": "2026-06-04",
+      "link": "https://www.savagechickens.com/2026/06/just-not-the-same.html"
+    },
     {
       "slug": "cat-door",
       "title": "Cat Door",
@@ -76,14 +84,6 @@
       "alt": "The Cycle of Work",
       "date": "2026-05-22",
       "link": "https://www.savagechickens.com/2026/05/the-cycle-of-work.html"
-    },
-    {
-      "slug": "psychic-cat",
-      "title": "Psychic Cat",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpsychiccat.jpg",
-      "alt": "Psychic Cat",
-      "date": "2026-05-21",
-      "link": "https://www.savagechickens.com/2026/05/psychic-cat.html"
     }
   ]
 }
