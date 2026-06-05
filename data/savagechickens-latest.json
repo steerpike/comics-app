@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-04T20:08:44.381Z",
+  "fetchedAt": "2026-06-05T09:55:58.469Z",
   "comics": [
+    {
+      "slug": "random-acts",
+      "title": "Random Acts",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenrandomacts.jpg",
+      "alt": "Random Acts",
+      "date": "2026-06-05",
+      "link": "https://www.savagechickens.com/2026/06/random-acts.html"
+    },
     {
       "slug": "just-not-the-same",
       "title": "Just Not The Same",
@@ -76,14 +84,6 @@
       "alt": "Cat Meetings",
       "date": "2026-05-25",
       "link": "https://www.savagechickens.com/2026/05/cat-meetings.html"
-    },
-    {
-      "slug": "the-cycle-of-work",
-      "title": "The Cycle of Work",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthecycleofwork.jpg",
-      "alt": "The Cycle of Work",
-      "date": "2026-05-22",
-      "link": "https://www.savagechickens.com/2026/05/the-cycle-of-work.html"
     }
   ]
 }
