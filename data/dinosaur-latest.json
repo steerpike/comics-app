@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-05T09:55:54.853Z",
+  "fetchedAt": "2026-06-05T19:58:26.109Z",
   "comics": [
+    {
+      "num": 4480,
+      "title": "ted got back in his time machine and returned to his own time.  life without a giant wheel full of books that lets you rotate through books without standing up to get more books simply wasn't worth living",
+      "img": "http://www.qwantz.com/comics/comic2-5178.png",
+      "alt": "they might've had a special tool to clip their nails but it was a worse special tool.  THE END",
+      "date": "2026-06-05",
+      "link": "http://www.qwantz.com/index.php?comic=4480"
+    },
     {
       "num": 4479,
       "title": "I JUST WANTED TO SEE WHAT WOULD BE DIFFERENT IF \"PARMESAN\" WAS PRONOUNCED \"PAR-ME-SEE-IAN\" AND I GUESS THE ANSWER IS NOT MUCH",
@@ -76,14 +84,6 @@
       "alt": "they're about to release the Eleventh Edition of coffee and I'm expecting some rule changes affecting the Blood Angels Space Marine coffee division",
       "date": "2026-05-15",
       "link": "http://www.qwantz.com/index.php?comic=4471"
-    },
-    {
-      "num": 4470,
-      "title": "where do i get my ideas?  easy.  i think \"well, time to have an idea\" and then i pick my absolute favourite from the cornucopia that presents itself",
-      "img": "http://www.qwantz.com/comics/comic2-5168.png",
-      "alt": "YEAH WOW I REALLY SHOULD'VE SET THINGS UP LIKE THIS IN THE FIRST PLACE HUH / MY BAD",
-      "date": "2026-05-13",
-      "link": "http://www.qwantz.com/index.php?comic=4470"
     }
   ]
 }

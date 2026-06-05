@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3253,
-  "latestNum": 3254,
-  "fetchedAt": "2026-06-04T09:59:18.291Z",
+  "total": 3254,
+  "latestNum": 3255,
+  "fetchedAt": "2026-06-05T19:58:25.672Z",
   "comics": [
     {
       "num": 1,
@@ -22774,6 +22774,13 @@
       "img": "https://imgs.xkcd.com/comics/detector.png",
       "alt": "No other experiment has a lower false negative rate.",
       "date": "2026-06-03"
+    },
+    {
+      "num": 3255,
+      "title": "Planetary Science",
+      "img": "https://imgs.xkcd.com/comics/planetary_science.png",
+      "alt": "The research was overseen by the Institutional Review Board, which is what I named my surfboard.",
+      "date": "2026-06-05"
     }
   ]
 }

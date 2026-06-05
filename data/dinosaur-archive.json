@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 49,
-  "highestNum": 4479,
-  "fetchedAt": "2026-06-03T20:57:59.547Z",
+  "total": 50,
+  "highestNum": 4480,
+  "fetchedAt": "2026-06-05T19:58:26.109Z",
   "comics": [
     {
       "num": 4431,
@@ -395,6 +395,14 @@
       "alt": "t-rex's fifth sentence in panel three is my affirmation in the mirror every single morning",
       "date": "2026-06-03",
       "link": "http://www.qwantz.com/index.php?comic=4479"
+    },
+    {
+      "num": 4480,
+      "title": "ted got back in his time machine and returned to his own time.  life without a giant wheel full of books that lets you rotate through books without standing up to get more books simply wasn't worth living",
+      "img": "http://www.qwantz.com/comics/comic2-5178.png",
+      "alt": "they might've had a special tool to clip their nails but it was a worse special tool.  THE END",
+      "date": "2026-06-05",
+      "link": "http://www.qwantz.com/index.php?comic=4480"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-05T09:55:55.111Z",
+  "fetchedAt": "2026-06-05T19:58:26.428Z",
   "comics": [
+    {
+      "slug": "proof-5",
+      "title": "Proof",
+      "img": "https://www.smbc-comics.com/comics/1780608554-20260605.png",
+      "alt": "This sort of thing is why I will likely never write fantasy.",
+      "date": "2026-06-05",
+      "link": "https://www.smbc-comics.com/comic/proof-5"
+    },
     {
       "slug": "gland",
       "title": "Gland",
@@ -156,14 +164,6 @@
       "alt": "The flip side is once you get in the machine, you can start searching for the machine in the machine.",
       "date": "2026-05-17",
       "link": "https://www.smbc-comics.com/comic/experiencing"
-    },
-    {
-      "slug": "bot-3",
-      "title": "Bot",
-      "img": "https://www.smbc-comics.com/comics/1778650911-20260515.png",
-      "alt": "Unrelated, on a bluesky thread we discovered that there are many philosophers whose names rhyme with Bagel, but other Jewish breads are not so favored.",
-      "date": "2026-05-15",
-      "link": "https://www.smbc-comics.com/comic/bot-3"
     }
   ]
 }

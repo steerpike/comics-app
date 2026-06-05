@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3254,
-  "fetchedAt": "2026-06-05T09:55:54.418Z",
+  "latestNum": 3255,
+  "fetchedAt": "2026-06-05T19:58:25.663Z",
   "comics": [
+    {
+      "num": 3255,
+      "title": "Planetary Science",
+      "img": "https://imgs.xkcd.com/comics/planetary_science.png",
+      "alt": "The research was overseen by the Institutional Review Board, which is what I named my surfboard.",
+      "date": "2026-06-05"
+    },
     {
       "num": 3254,
       "title": "Detector",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/border_message.png",
       "alt": "Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.",
       "date": "2026-04-22"
-    },
-    {
-      "num": 3235,
-      "title": "Types of Board Game",
-      "img": "https://imgs.xkcd.com/comics/types_of_board_game.png",
-      "alt": "I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.",
-      "date": "2026-04-20"
     }
   ]
 }
