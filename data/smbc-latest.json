@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-06T08:36:53.124Z",
+  "fetchedAt": "2026-06-06T19:26:49.540Z",
   "comics": [
+    {
+      "slug": "yes",
+      "title": "Yes",
+      "img": "https://www.smbc-comics.com/comics/1780608620-20260606.png",
+      "alt": "This is one of those jokes where the moment I finish drawing it I realize someone has probably already done it. But then, given that this is recursive, there's at least some layer of Doom on Doom that has not yet been achieved.",
+      "date": "2026-06-06",
+      "link": "https://www.smbc-comics.com/comic/yes"
+    },
     {
       "slug": "proof-5",
       "title": "Proof",
@@ -156,14 +164,6 @@
       "alt": "I'm so incredibly available to write this movie and 17 sequels. It's like the movie Wall Street, but with dolls.",
       "date": "2026-05-18",
       "link": "https://www.smbc-comics.com/comic/criminal"
-    },
-    {
-      "slug": "experiencing",
-      "title": "Experiencing",
-      "img": "https://www.smbc-comics.com/comics/1778989227-20260516-edit.png",
-      "alt": "The flip side is once you get in the machine, you can start searching for the machine in the machine.",
-      "date": "2026-05-17",
-      "link": "https://www.smbc-comics.com/comic/experiencing"
     }
   ]
 }
