@@ -3,8 +3,16 @@
   "name": "Wondermark",
   "url": "https://wondermark.com",
   "attribution": "Wondermark by David Malki!",
-  "fetchedAt": "2026-06-05T19:58:27.416Z",
+  "fetchedAt": "2026-06-06T08:36:53.803Z",
   "comics": [
+    {
+      "num": 1587,
+      "title": "#1587; And Onward One Opines",
+      "img": "https://wondermark.com/wp-content/uploads/2026/06/2026-06-05-1587fiction_1600px.png",
+      "alt": "",
+      "date": "2026-06-06",
+      "link": "https://wondermark.com/c/1587/"
+    },
     {
       "num": 1586,
       "title": "#1586; In which a Deuce is Cubed",
