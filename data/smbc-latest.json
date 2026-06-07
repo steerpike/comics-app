@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-07T09:16:47.492Z",
+  "fetchedAt": "2026-06-07T19:26:10.180Z",
   "comics": [
+    {
+      "slug": "consciousness-10",
+      "title": "Consciousness",
+      "img": "https://www.smbc-comics.com/comics/1780787893-20260607.png",
+      "alt": "From an idea in Aguera y Arcas' recent book What is Intelligence?",
+      "date": "2026-06-07",
+      "link": "https://www.smbc-comics.com/comic/consciousness-10"
+    },
     {
       "slug": "yes",
       "title": "Yes",
@@ -156,14 +164,6 @@
       "alt": "Oddly enough, Ouroboros is also the sound a snake makes when trying to do this.",
       "date": "2026-05-19",
       "link": "https://www.smbc-comics.com/comic/sick-2"
-    },
-    {
-      "slug": "criminal",
-      "title": "Criminal",
-      "img": "https://www.smbc-comics.com/comics/1779062362-20260517_edit.png",
-      "alt": "I'm so incredibly available to write this movie and 17 sequels. It's like the movie Wall Street, but with dolls.",
-      "date": "2026-05-18",
-      "link": "https://www.smbc-comics.com/comic/criminal"
     }
   ]
 }
