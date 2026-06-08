@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-08T11:00:53.653Z",
+  "fetchedAt": "2026-06-08T20:21:42.274Z",
   "comics": [
+    {
+      "slug": "gold-5",
+      "title": "Gold",
+      "img": "https://www.smbc-comics.com/comics/1780787940-20260608.png",
+      "alt": "I contend that SMBC remains the comic with the funniest jokes about commodity pricing.",
+      "date": "2026-06-08",
+      "link": "https://www.smbc-comics.com/comic/gold-5"
+    },
     {
       "slug": "consciousness-10",
       "title": "Consciousness",
@@ -156,14 +164,6 @@
       "alt": "Kicking myself for not teeing this up as a major kickstarter.",
       "date": "2026-05-20",
       "link": "https://www.smbc-comics.com/comic/trash"
-    },
-    {
-      "slug": "sick-2",
-      "title": "Sick",
-      "img": "https://www.smbc-comics.com/comics/1779137714-20260519-edit.png",
-      "alt": "Oddly enough, Ouroboros is also the sound a snake makes when trying to do this.",
-      "date": "2026-05-19",
-      "link": "https://www.smbc-comics.com/comic/sick-2"
     }
   ]
 }

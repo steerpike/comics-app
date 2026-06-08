@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-07T19:26:11.774Z",
+  "fetchedAt": "2026-06-08T20:21:44.021Z",
   "comics": [
+    {
+      "slug": "trust-in-a-i",
+      "title": "Trust in A.I.",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentrustinai.jpg",
+      "alt": "Trust in A.I.",
+      "date": "2026-06-08",
+      "link": "https://www.savagechickens.com/2026/06/trust-in-a-i.html"
+    },
     {
       "slug": "random-acts",
       "title": "Random Acts",
@@ -76,14 +84,6 @@
       "alt": "In Case of Grizzly Bear",
       "date": "2026-05-26",
       "link": "https://www.savagechickens.com/2026/05/in-case-of-grizzly-bear.html"
-    },
-    {
-      "slug": "cat-meetings",
-      "title": "Cat Meetings",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickencatmeetings.jpg",
-      "alt": "Cat Meetings",
-      "date": "2026-05-25",
-      "link": "https://www.savagechickens.com/2026/05/cat-meetings.html"
     }
   ]
 }

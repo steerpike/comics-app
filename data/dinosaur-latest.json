@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-08T11:00:53.409Z",
+  "fetchedAt": "2026-06-08T20:21:41.933Z",
   "comics": [
+    {
+      "num": 4481,
+      "title": "if you have three (3) friends then let me just say WOW, BRAG MUCH??",
+      "img": "http://www.qwantz.com/comics/comic2-5179.png",
+      "alt": "getting hate mail from a dog is ruff, ruff, ruff",
+      "date": "2026-06-08",
+      "link": "http://www.qwantz.com/index.php?comic=4481"
+    },
     {
       "num": 4480,
       "title": "ted got back in his time machine and returned to his own time.  life without a giant wheel full of books that lets you rotate through books without standing up to get more books simply wasn't worth living",
@@ -76,14 +84,6 @@
       "alt": "if you don't want horizontal rows of toppings just rotate your pizza a li'l bit",
       "date": "2026-05-18",
       "link": "http://www.qwantz.com/index.php?comic=4472"
-    },
-    {
-      "num": 4471,
-      "title": "don't forget to budget for the hours and hours it takes to properly assemble, prepare, and enjoy one (1) coffee",
-      "img": "http://www.qwantz.com/comics/comic2-5169.png",
-      "alt": "they're about to release the Eleventh Edition of coffee and I'm expecting some rule changes affecting the Blood Angels Space Marine coffee division",
-      "date": "2026-05-15",
-      "link": "http://www.qwantz.com/index.php?comic=4471"
     }
   ]
 }
