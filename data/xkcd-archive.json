@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3254,
-  "latestNum": 3255,
-  "fetchedAt": "2026-06-05T19:58:25.672Z",
+  "total": 3255,
+  "latestNum": 3256,
+  "fetchedAt": "2026-06-09T09:50:35.257Z",
   "comics": [
     {
       "num": 1,
@@ -22781,6 +22781,13 @@
       "img": "https://imgs.xkcd.com/comics/planetary_science.png",
       "alt": "The research was overseen by the Institutional Review Board, which is what I named my surfboard.",
       "date": "2026-06-05"
+    },
+    {
+      "num": 3256,
+      "title": "Nostalgia Content",
+      "img": "https://imgs.xkcd.com/comics/nostalgia_content.png",
+      "alt": "Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.",
+      "date": "2026-06-08"
     }
   ]
 }

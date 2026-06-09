@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-08T20:21:44.021Z",
+  "fetchedAt": "2026-06-09T09:50:37.690Z",
   "comics": [
+    {
+      "slug": "the-end-of-small-talk",
+      "title": "The End of Small Talk",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentheendofsmalltalk.jpg",
+      "alt": "The End of Small Talk",
+      "date": "2026-06-09",
+      "link": "https://www.savagechickens.com/2026/06/the-end-of-small-talk.html"
+    },
     {
       "slug": "trust-in-a-i",
       "title": "Trust in A.I.",
@@ -76,14 +84,6 @@
       "alt": "Problem Solver",
       "date": "2026-05-27",
       "link": "https://www.savagechickens.com/2026/05/problem-solver.html"
-    },
-    {
-      "slug": "in-case-of-grizzly-bear",
-      "title": "In Case of Grizzly Bear",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenincaseofgrizzlybear.jpg",
-      "alt": "In Case of Grizzly Bear",
-      "date": "2026-05-26",
-      "link": "https://www.savagechickens.com/2026/05/in-case-of-grizzly-bear.html"
     }
   ]
 }
