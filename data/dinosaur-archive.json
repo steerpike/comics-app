@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 51,
-  "highestNum": 4481,
-  "fetchedAt": "2026-06-08T20:21:41.934Z",
+  "total": 52,
+  "highestNum": 4482,
+  "fetchedAt": "2026-06-10T20:33:35.488Z",
   "comics": [
     {
       "num": 4431,
@@ -411,6 +411,14 @@
       "alt": "getting hate mail from a dog is ruff, ruff, ruff",
       "date": "2026-06-08",
       "link": "http://www.qwantz.com/index.php?comic=4481"
+    },
+    {
+      "num": 4482,
+      "title": "finger-quotes disease can be treated with a short length of rope, sturdy and true, to tie your hands behind your back",
+      "img": "http://www.qwantz.com/comics/comic2-5180.png",
+      "alt": "i have some ",
+      "date": "2026-06-10",
+      "link": "http://www.qwantz.com/index.php?comic=4482"
     }
   ]
 }

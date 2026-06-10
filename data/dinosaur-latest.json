@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-10T10:06:04.959Z",
+  "fetchedAt": "2026-06-10T20:33:35.488Z",
   "comics": [
+    {
+      "num": 4482,
+      "title": "finger-quotes disease can be treated with a short length of rope, sturdy and true, to tie your hands behind your back",
+      "img": "http://www.qwantz.com/comics/comic2-5180.png",
+      "alt": "i have some ",
+      "date": "2026-06-10",
+      "link": "http://www.qwantz.com/index.php?comic=4482"
+    },
     {
       "num": 4481,
       "title": "if you have three (3) friends then let me just say WOW, BRAG MUCH??",
@@ -76,14 +84,6 @@
       "alt": "alternate last panel is just t-rex posed as always saying ",
       "date": "2026-05-20",
       "link": "http://www.qwantz.com/index.php?comic=4473"
-    },
-    {
-      "num": 4472,
-      "title": "ladies, gentlemen... it is my pleasure to introduce to you: your new craving",
-      "img": "http://www.qwantz.com/comics/comic2-5170.png",
-      "alt": "if you don't want horizontal rows of toppings just rotate your pizza a li'l bit",
-      "date": "2026-05-18",
-      "link": "http://www.qwantz.com/index.php?comic=4472"
     }
   ]
 }

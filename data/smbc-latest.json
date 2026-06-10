@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-10T10:06:05.228Z",
+  "fetchedAt": "2026-06-10T20:33:36.105Z",
   "comics": [
+    {
+      "slug": "surveil",
+      "title": "Surveil",
+      "img": "https://www.smbc-comics.com/comics/1780969413-20260610.png",
+      "alt": "I don't know if it's happened yet, but you can bet in the next few years someone will start fitting people out to collect sex training data.",
+      "date": "2026-06-10",
+      "link": "https://www.smbc-comics.com/comic/surveil"
+    },
     {
       "slug": "creative-3",
       "title": "Creative",
@@ -156,14 +164,6 @@
       "alt": "You've got to own that feeling, girl.",
       "date": "2026-05-22",
       "link": "https://www.smbc-comics.com/comic/ex-3"
-    },
-    {
-      "slug": "back-3",
-      "title": "Back",
-      "img": "https://www.smbc-comics.com/comics/1779301059-20260521 - edit.png",
-      "alt": "I want to be buried at the K-T boundary holding a box of brass gears marked Time Machine.",
-      "date": "2026-05-21",
-      "link": "https://www.smbc-comics.com/comic/back-3"
     }
   ]
 }
