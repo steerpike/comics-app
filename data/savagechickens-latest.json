@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-09T20:09:21.385Z",
+  "fetchedAt": "2026-06-10T10:06:07.084Z",
   "comics": [
+    {
+      "slug": "the-new-coffee",
+      "title": "The New Coffee",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthenewcoffee.jpg",
+      "alt": "The New Coffee",
+      "date": "2026-06-10",
+      "link": "https://www.savagechickens.com/2026/06/the-new-coffee.html"
+    },
     {
       "slug": "the-end-of-small-talk",
       "title": "The End of Small Talk",
@@ -76,14 +84,6 @@
       "alt": "Trouble in Knossos",
       "date": "2026-05-28",
       "link": "https://www.savagechickens.com/2026/05/trouble-in-knossos.html"
-    },
-    {
-      "slug": "problem-solver",
-      "title": "Problem Solver",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenproblemsolver.jpg",
-      "alt": "Problem Solver",
-      "date": "2026-05-27",
-      "link": "https://www.savagechickens.com/2026/05/problem-solver.html"
     }
   ]
 }
