@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3255,
-  "latestNum": 3256,
-  "fetchedAt": "2026-06-09T09:50:35.257Z",
+  "total": 3256,
+  "latestNum": 3257,
+  "fetchedAt": "2026-06-11T10:40:28.869Z",
   "comics": [
     {
       "num": 1,
@@ -22788,6 +22788,13 @@
       "img": "https://imgs.xkcd.com/comics/nostalgia_content.png",
       "alt": "Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.",
       "date": "2026-06-08"
+    },
+    {
+      "num": 3257,
+      "title": "Beam Pipe",
+      "img": "https://imgs.xkcd.com/comics/beam_pipe.png",
+      "alt": "'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom",
+      "date": "2026-06-10"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-10T20:33:37.862Z",
+  "fetchedAt": "2026-06-11T10:40:31.528Z",
   "comics": [
+    {
+      "slug": "another-successful-interview",
+      "title": "Another Successful Interview",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenanothersuccessfulinterview.jpg",
+      "alt": "Another Successful Interview",
+      "date": "2026-06-11",
+      "link": "https://www.savagechickens.com/2026/06/another-successful-interview.html"
+    },
     {
       "slug": "the-new-coffee",
       "title": "The New Coffee",
@@ -76,14 +84,6 @@
       "alt": "Interview With A Dog",
       "date": "2026-05-29",
       "link": "https://www.savagechickens.com/2026/05/interview-dog.html"
-    },
-    {
-      "slug": "trouble-in-knossos",
-      "title": "Trouble in Knossos",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickentroubleinknossos.jpg",
-      "alt": "Trouble in Knossos",
-      "date": "2026-05-28",
-      "link": "https://www.savagechickens.com/2026/05/trouble-in-knossos.html"
     }
   ]
 }
