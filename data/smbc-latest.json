@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-11T10:40:29.463Z",
+  "fetchedAt": "2026-06-11T20:25:08.967Z",
   "comics": [
+    {
+      "slug": "huh-2",
+      "title": "Huh",
+      "img": "https://www.smbc-comics.com/comics/1780969506-20260611.png",
+      "alt": "Once I realized this, all those inept AI laundry-folding videos became hilarious.",
+      "date": "2026-06-11",
+      "link": "https://www.smbc-comics.com/comic/huh-2"
+    },
     {
       "slug": "surveil",
       "title": "Surveil",
@@ -156,14 +164,6 @@
       "alt": "The only annoying part is how the Ai keeps complimenting your blackmail skills instead of ruining the world.",
       "date": "2026-05-23",
       "link": "https://www.smbc-comics.com/comic/safe"
-    },
-    {
-      "slug": "ex-3",
-      "title": "Ex",
-      "img": "https://www.smbc-comics.com/comics/1779413076-20260522-edit.png",
-      "alt": "You've got to own that feeling, girl.",
-      "date": "2026-05-22",
-      "link": "https://www.smbc-comics.com/comic/ex-3"
     }
   ]
 }
