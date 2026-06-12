@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-11T20:25:10.872Z",
+  "fetchedAt": "2026-06-12T10:17:43.098Z",
   "comics": [
+    {
+      "slug": "read-my-mind",
+      "title": "Read My Mind",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenreadmymind.jpg",
+      "alt": "Read My Mind",
+      "date": "2026-06-12",
+      "link": "https://www.savagechickens.com/2026/06/read-my-mind.html"
+    },
     {
       "slug": "another-successful-interview",
       "title": "Another Successful Interview",
@@ -76,14 +84,6 @@
       "alt": "Boring and Ordinary",
       "date": "2026-06-01",
       "link": "https://www.savagechickens.com/2026/06/boring-and-ordinary.html"
-    },
-    {
-      "slug": "interview-dog",
-      "title": "Interview With A Dog",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickendoginterview-1.jpg",
-      "alt": "Interview With A Dog",
-      "date": "2026-05-29",
-      "link": "https://www.savagechickens.com/2026/05/interview-dog.html"
     }
   ]
 }
