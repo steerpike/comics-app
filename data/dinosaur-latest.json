@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-12T10:17:41.183Z",
+  "fetchedAt": "2026-06-12T20:13:45.424Z",
   "comics": [
+    {
+      "num": 4483,
+      "title": "doctors have tests they can do, so if you're the sucker that was born in that minute they'll know and then they have to tell your parents",
+      "img": "http://www.qwantz.com/comics/comic2-5181.png",
+      "alt": "meet a thousand babies and only four of them will be suckers!  this is good news for anyone whose life has - perhaps through no fault of their own - brought them to circumstances in which they must now absolutely meet one thousand babies",
+      "date": "2026-06-12",
+      "link": "http://www.qwantz.com/index.php?comic=4483"
+    },
     {
       "num": 4482,
       "title": "finger-quotes disease can be treated with a short length of rope, sturdy and true, to tie your hands behind your back",
@@ -76,14 +84,6 @@
       "alt": "it's a very useful word to say on a first date.  speed dating is SO much faster for dinosaurs; this is canon",
       "date": "2026-05-22",
       "link": "http://www.qwantz.com/index.php?comic=4474"
-    },
-    {
-      "num": 4473,
-      "title": "do scarecrows scare crow's scarecrows' scared crows",
-      "img": "http://www.qwantz.com/comics/comic2-5171.png",
-      "alt": "alternate last panel is just t-rex posed as always saying ",
-      "date": "2026-05-20",
-      "link": "http://www.qwantz.com/index.php?comic=4473"
     }
   ]
 }

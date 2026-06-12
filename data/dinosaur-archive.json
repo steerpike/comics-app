@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 52,
-  "highestNum": 4482,
-  "fetchedAt": "2026-06-10T20:33:35.488Z",
+  "total": 53,
+  "highestNum": 4483,
+  "fetchedAt": "2026-06-12T20:13:45.425Z",
   "comics": [
     {
       "num": 4431,
@@ -419,6 +419,14 @@
       "alt": "i have some ",
       "date": "2026-06-10",
       "link": "http://www.qwantz.com/index.php?comic=4482"
+    },
+    {
+      "num": 4483,
+      "title": "doctors have tests they can do, so if you're the sucker that was born in that minute they'll know and then they have to tell your parents",
+      "img": "http://www.qwantz.com/comics/comic2-5181.png",
+      "alt": "meet a thousand babies and only four of them will be suckers!  this is good news for anyone whose life has - perhaps through no fault of their own - brought them to circumstances in which they must now absolutely meet one thousand babies",
+      "date": "2026-06-12",
+      "link": "http://www.qwantz.com/index.php?comic=4483"
     }
   ]
 }

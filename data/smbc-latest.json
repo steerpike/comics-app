@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-12T10:17:41.405Z",
+  "fetchedAt": "2026-06-12T20:13:45.668Z",
   "comics": [
+    {
+      "slug": "time-7",
+      "title": "Time",
+      "img": "https://www.smbc-comics.com/comics/1781057264-20260612.png",
+      "alt": "All-loving God my ass.",
+      "date": "2026-06-12",
+      "link": "https://www.smbc-comics.com/comic/time-7"
+    },
     {
       "slug": "huh-2",
       "title": "Huh",
@@ -156,14 +164,6 @@
       "alt": "The worst part about being a caveman is people constantly yelling questions about seed oil and fermented foods when you're just trying to relax.",
       "date": "2026-05-24",
       "link": "https://www.smbc-comics.com/comic/cave-3"
-    },
-    {
-      "slug": "safe",
-      "title": "Safe",
-      "img": "https://www.smbc-comics.com/comics/1779491306-20260523 - edit.png",
-      "alt": "The only annoying part is how the Ai keeps complimenting your blackmail skills instead of ruining the world.",
-      "date": "2026-05-23",
-      "link": "https://www.smbc-comics.com/comic/safe"
     }
   ]
 }
