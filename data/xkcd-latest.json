@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3257,
-  "fetchedAt": "2026-06-12T20:13:44.945Z",
+  "latestNum": 3258,
+  "fetchedAt": "2026-06-13T09:19:56.048Z",
   "comics": [
+    {
+      "num": 3258,
+      "title": "Plate Flip",
+      "img": "https://imgs.xkcd.com/comics/plate_flip.png",
+      "alt": "It's great for exfoliating your skin, bones, houses, cities, landscape, etc.",
+      "date": "2026-06-12"
+    },
     {
       "num": 3257,
       "title": "Beam Pipe",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/simple_machines.png",
       "alt": "It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.",
       "date": "2026-04-29"
-    },
-    {
-      "num": 3238,
-      "title": "Soniferous Aether",
-      "img": "https://imgs.xkcd.com/comics/soniferous_aether.png",
-      "alt": "Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.",
-      "date": "2026-04-27"
     }
   ]
 }

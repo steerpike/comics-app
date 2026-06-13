@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3256,
-  "latestNum": 3257,
-  "fetchedAt": "2026-06-11T10:40:28.869Z",
+  "total": 3257,
+  "latestNum": 3258,
+  "fetchedAt": "2026-06-13T09:19:56.058Z",
   "comics": [
     {
       "num": 1,
@@ -22795,6 +22795,13 @@
       "img": "https://imgs.xkcd.com/comics/beam_pipe.png",
       "alt": "'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom",
       "date": "2026-06-10"
+    },
+    {
+      "num": 3258,
+      "title": "Plate Flip",
+      "img": "https://imgs.xkcd.com/comics/plate_flip.png",
+      "alt": "It's great for exfoliating your skin, bones, houses, cities, landscape, etc.",
+      "date": "2026-06-12"
     }
   ]
 }
