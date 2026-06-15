@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-14T19:39:53.892Z",
+  "fetchedAt": "2026-06-15T12:20:02.541Z",
   "comics": [
+    {
+      "slug": "fork-etiquette",
+      "title": "Fork Etiquette",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenforketiquette.jpg",
+      "alt": "Fork Etiquette",
+      "date": "2026-06-15",
+      "link": "https://www.savagechickens.com/2026/06/fork-etiquette.html"
+    },
     {
       "slug": "read-my-mind",
       "title": "Read My Mind",
@@ -76,14 +84,6 @@
       "alt": "How To Quit the Internet",
       "date": "2026-06-02",
       "link": "https://www.savagechickens.com/2026/06/how-to-quit-the-internet.html"
-    },
-    {
-      "slug": "boring-and-ordinary",
-      "title": "Boring and Ordinary",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenboringandordinary.jpg",
-      "alt": "Boring and Ordinary",
-      "date": "2026-06-01",
-      "link": "https://www.savagechickens.com/2026/06/boring-and-ordinary.html"
     }
   ]
 }
