@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3258,
-  "fetchedAt": "2026-06-15T12:20:00.544Z",
+  "latestNum": 3259,
+  "fetchedAt": "2026-06-15T20:57:38.613Z",
   "comics": [
+    {
+      "num": 3259,
+      "title": "Tethys",
+      "img": "https://imgs.xkcd.com/comics/tethys.png",
+      "alt": "In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.",
+      "date": "2026-06-15"
+    },
     {
       "num": 3258,
       "title": "Plate Flip",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/bottle.png",
       "alt": "\"I know it seems impossible, but the trick is that I sailed in here when I was very young.\"",
       "date": "2026-05-01"
-    },
-    {
-      "num": 3239,
-      "title": "Simple Machines",
-      "img": "https://imgs.xkcd.com/comics/simple_machines.png",
-      "alt": "It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.",
-      "date": "2026-04-29"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-15T12:20:00.692Z",
+  "fetchedAt": "2026-06-15T20:57:38.780Z",
   "comics": [
+    {
+      "num": 4484,
+      "title": "t-rex's movie mashup minute",
+      "img": "http://www.qwantz.com/comics/comic2-5182.png",
+      "alt": "whenever a character in a movie looks through binoculars they should see that old-timey silent film train racing towards them, and THEN, according to KULESHOV, when they lower their binoculars we'll all get to see a reaction to that train.  filmic art, baby",
+      "date": "2026-06-15",
+      "link": "http://www.qwantz.com/index.php?comic=4484"
+    },
     {
       "num": 4483,
       "title": "doctors have tests they can do, so if you're the sucker that was born in that minute they'll know and then they have to tell your parents",
@@ -76,14 +84,6 @@
       "alt": "to answer your question, yes, he brought utahraptor to his doctor's appointment.  that's what friends do for each other",
       "date": "2026-05-25",
       "link": "http://www.qwantz.com/index.php?comic=4475"
-    },
-    {
-      "num": 4474,
-      "title": "we don't know how to swim and we don't know how to not poop our pants every time.  being a baby is mortifying and you can't even explain yourself",
-      "img": "http://www.qwantz.com/comics/comic2-5172.png",
-      "alt": "it's a very useful word to say on a first date.  speed dating is SO much faster for dinosaurs; this is canon",
-      "date": "2026-05-22",
-      "link": "http://www.qwantz.com/index.php?comic=4474"
     }
   ]
 }

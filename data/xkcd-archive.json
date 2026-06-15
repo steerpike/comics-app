@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3257,
-  "latestNum": 3258,
-  "fetchedAt": "2026-06-13T09:19:56.058Z",
+  "total": 3258,
+  "latestNum": 3259,
+  "fetchedAt": "2026-06-15T20:57:38.623Z",
   "comics": [
     {
       "num": 1,
@@ -22802,6 +22802,13 @@
       "img": "https://imgs.xkcd.com/comics/plate_flip.png",
       "alt": "It's great for exfoliating your skin, bones, houses, cities, landscape, etc.",
       "date": "2026-06-12"
+    },
+    {
+      "num": 3259,
+      "title": "Tethys",
+      "img": "https://imgs.xkcd.com/comics/tethys.png",
+      "alt": "In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.",
+      "date": "2026-06-15"
     }
   ]
 }

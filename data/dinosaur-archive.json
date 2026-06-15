@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 53,
-  "highestNum": 4483,
-  "fetchedAt": "2026-06-12T20:13:45.425Z",
+  "total": 54,
+  "highestNum": 4484,
+  "fetchedAt": "2026-06-15T20:57:38.781Z",
   "comics": [
     {
       "num": 4431,
@@ -427,6 +427,14 @@
       "alt": "meet a thousand babies and only four of them will be suckers!  this is good news for anyone whose life has - perhaps through no fault of their own - brought them to circumstances in which they must now absolutely meet one thousand babies",
       "date": "2026-06-12",
       "link": "http://www.qwantz.com/index.php?comic=4483"
+    },
+    {
+      "num": 4484,
+      "title": "t-rex's movie mashup minute",
+      "img": "http://www.qwantz.com/comics/comic2-5182.png",
+      "alt": "whenever a character in a movie looks through binoculars they should see that old-timey silent film train racing towards them, and THEN, according to KULESHOV, when they lower their binoculars we'll all get to see a reaction to that train.  filmic art, baby",
+      "date": "2026-06-15",
+      "link": "http://www.qwantz.com/index.php?comic=4484"
     }
   ]
 }

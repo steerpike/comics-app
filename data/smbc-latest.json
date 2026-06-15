@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-15T12:20:00.978Z",
+  "fetchedAt": "2026-06-15T20:57:39.063Z",
   "comics": [
+    {
+      "slug": "duck-2",
+      "title": "Duck",
+      "img": "https://www.smbc-comics.com/comics/1781314358-20260615.png",
+      "alt": "Idiot drawn to look like me because I am the idiot.",
+      "date": "2026-06-15",
+      "link": "https://www.smbc-comics.com/comic/duck-2"
+    },
     {
       "slug": "proof-6",
       "title": "Proof",
@@ -156,14 +164,6 @@
       "alt": "Having a purpose was your first mistake. Wanting it to have meaning was a mental health calamity.",
       "date": "2026-05-28",
       "link": "https://www.smbc-comics.com/comic/meaning-8"
-    },
-    {
-      "slug": "ai-17",
-      "title": "AI",
-      "img": "https://www.smbc-comics.com/comics/1779842282-20260527 - edit.png",
-      "alt": "This is one of those jokes you make, then realize people in the field have probably been saying it verbatim for 20 years.",
-      "date": "2026-05-27",
-      "link": "https://www.smbc-comics.com/comic/ai-17"
     }
   ]
 }
