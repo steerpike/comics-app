@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-15T20:57:40.491Z",
+  "fetchedAt": "2026-06-16T11:16:09.390Z",
   "comics": [
+    {
+      "slug": "incident-on-canis-5",
+      "title": "Incident on Canis-5",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenincidentoncanis5.jpg",
+      "alt": "Incident on Canis-5",
+      "date": "2026-06-16",
+      "link": "https://www.savagechickens.com/2026/06/incident-on-canis-5.html"
+    },
     {
       "slug": "fork-etiquette",
       "title": "Fork Etiquette",
@@ -76,14 +84,6 @@
       "alt": "Cat Door",
       "date": "2026-06-03",
       "link": "https://www.savagechickens.com/2026/06/cat-door.html"
-    },
-    {
-      "slug": "how-to-quit-the-internet",
-      "title": "How To Quit the Internet",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenhowtoquittheinternet.jpg",
-      "alt": "How To Quit the Internet",
-      "date": "2026-06-02",
-      "link": "https://www.savagechickens.com/2026/06/how-to-quit-the-internet.html"
     }
   ]
 }
