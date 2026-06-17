@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-16T20:54:14.601Z",
+  "fetchedAt": "2026-06-17T11:01:13.909Z",
   "comics": [
+    {
+      "slug": "this-reality",
+      "title": "This Reality",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthisreality.jpg",
+      "alt": "This Reality",
+      "date": "2026-06-17",
+      "link": "https://www.savagechickens.com/2026/06/this-reality.html"
+    },
     {
       "slug": "incident-on-canis-5",
       "title": "Incident on Canis-5",
@@ -76,14 +84,6 @@
       "alt": "Just Not The Same",
       "date": "2026-06-04",
       "link": "https://www.savagechickens.com/2026/06/just-not-the-same.html"
-    },
-    {
-      "slug": "cat-door",
-      "title": "Cat Door",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickencatdoor.jpg",
-      "alt": "Cat Door",
-      "date": "2026-06-03",
-      "link": "https://www.savagechickens.com/2026/06/cat-door.html"
     }
   ]
 }
