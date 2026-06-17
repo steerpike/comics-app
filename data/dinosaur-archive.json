@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 54,
-  "highestNum": 4484,
-  "fetchedAt": "2026-06-15T20:57:38.781Z",
+  "total": 55,
+  "highestNum": 4485,
+  "fetchedAt": "2026-06-17T20:15:23.068Z",
   "comics": [
     {
       "num": 4431,
@@ -435,6 +435,14 @@
       "alt": "whenever a character in a movie looks through binoculars they should see that old-timey silent film train racing towards them, and THEN, according to KULESHOV, when they lower their binoculars we'll all get to see a reaction to that train.  filmic art, baby",
       "date": "2026-06-15",
       "link": "http://www.qwantz.com/index.php?comic=4484"
+    },
+    {
+      "num": 4485,
+      "title": "non-candle-based lights, today known as \"lights\"",
+      "img": "http://www.qwantz.com/comics/comic2-5183.png",
+      "alt": "...wait, when the power goes out i DO search my cupboards for horses.  am i not supposed to",
+      "date": "2026-06-17",
+      "link": "http://www.qwantz.com/index.php?comic=4485"
     }
   ]
 }

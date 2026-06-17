@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-17T11:01:11.875Z",
+  "fetchedAt": "2026-06-17T20:15:23.067Z",
   "comics": [
+    {
+      "num": 4485,
+      "title": "non-candle-based lights, today known as \"lights\"",
+      "img": "http://www.qwantz.com/comics/comic2-5183.png",
+      "alt": "...wait, when the power goes out i DO search my cupboards for horses.  am i not supposed to",
+      "date": "2026-06-17",
+      "link": "http://www.qwantz.com/index.php?comic=4485"
+    },
     {
       "num": 4484,
       "title": "t-rex's movie mashup minute",
@@ -76,14 +84,6 @@
       "alt": "imagine beethoven, but with a sick drop. but be careful because i started doing that once and now i can't stop imagining beethoven but with a sick drop",
       "date": "2026-05-27",
       "link": "http://www.qwantz.com/index.php?comic=4476"
-    },
-    {
-      "num": 4475,
-      "title": "it costs more to go back to 1965 so that's why he chose 1993.  a perfect explanation",
-      "img": "http://www.qwantz.com/comics/comic2-5173.png",
-      "alt": "to answer your question, yes, he brought utahraptor to his doctor's appointment.  that's what friends do for each other",
-      "date": "2026-05-25",
-      "link": "http://www.qwantz.com/index.php?comic=4475"
     }
   ]
 }

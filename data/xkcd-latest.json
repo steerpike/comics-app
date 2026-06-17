@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3259,
-  "fetchedAt": "2026-06-17T11:01:11.603Z",
+  "latestNum": 3260,
+  "fetchedAt": "2026-06-17T20:15:22.697Z",
   "comics": [
+    {
+      "num": 3260,
+      "title": "Messi",
+      "img": "https://imgs.xkcd.com/comics/messi.png",
+      "alt": "Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.",
+      "date": "2026-06-17"
+    },
     {
       "num": 3259,
       "title": "Tethys",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/horizontal_stabilizers.png",
       "alt": "It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.",
       "date": "2026-05-04"
-    },
-    {
-      "num": 3240,
-      "title": "Bottle",
-      "img": "https://imgs.xkcd.com/comics/bottle.png",
-      "alt": "\"I know it seems impossible, but the trick is that I sailed in here when I was very young.\"",
-      "date": "2026-05-01"
     }
   ]
 }

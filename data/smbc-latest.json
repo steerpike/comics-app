@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-17T11:01:12.255Z",
+  "fetchedAt": "2026-06-17T20:15:23.344Z",
   "comics": [
+    {
+      "slug": "deal",
+      "title": "Deal",
+      "img": "https://www.smbc-comics.com/comics/1781661979-20260617.png",
+      "alt": "Later the drug dealer gets nostalgic about how in the 90s economy you could give out the first one free.",
+      "date": "2026-06-17",
+      "link": "https://www.smbc-comics.com/comic/deal"
+    },
     {
       "slug": "sawyer",
       "title": "Sawyer",
@@ -156,14 +164,6 @@
       "alt": "This is the actual plot of The Hobbit. The entire journey is meant to convince Frodo to just stay home ever after.",
       "date": "2026-05-31",
       "link": "https://www.smbc-comics.com/comic/prophecy"
-    },
-    {
-      "slug": "free-4",
-      "title": "Free",
-      "img": "https://www.smbc-comics.com/comics/1780099563-20260530.png",
-      "alt": "Really should've asked about the ship label before he got in.",
-      "date": "2026-05-30",
-      "link": "https://www.smbc-comics.com/comic/free-4"
     }
   ]
 }

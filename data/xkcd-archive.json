@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3258,
-  "latestNum": 3259,
-  "fetchedAt": "2026-06-15T20:57:38.623Z",
+  "total": 3259,
+  "latestNum": 3260,
+  "fetchedAt": "2026-06-17T20:15:22.706Z",
   "comics": [
     {
       "num": 1,
@@ -22809,6 +22809,13 @@
       "img": "https://imgs.xkcd.com/comics/tethys.png",
       "alt": "In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.",
       "date": "2026-06-15"
+    },
+    {
+      "num": 3260,
+      "title": "Messi",
+      "img": "https://imgs.xkcd.com/comics/messi.png",
+      "alt": "Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.",
+      "date": "2026-06-17"
     }
   ]
 }
