@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-17T20:15:25.072Z",
+  "fetchedAt": "2026-06-18T10:28:00.539Z",
   "comics": [
+    {
+      "slug": "little-disappointments",
+      "title": "Little Disappointments",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickendisappointments-1.jpg",
+      "alt": "Little Disappointments",
+      "date": "2026-06-18",
+      "link": "https://www.savagechickens.com/2026/06/little-disappointments.html"
+    },
     {
       "slug": "this-reality",
       "title": "This Reality",
@@ -76,14 +84,6 @@
       "alt": "Random Acts",
       "date": "2026-06-05",
       "link": "https://www.savagechickens.com/2026/06/random-acts.html"
-    },
-    {
-      "slug": "just-not-the-same",
-      "title": "Just Not The Same",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenjustnotthesame.jpg",
-      "alt": "Just Not The Same",
-      "date": "2026-06-04",
-      "link": "https://www.savagechickens.com/2026/06/just-not-the-same.html"
     }
   ]
 }
