@@ -55,6 +55,15 @@ jobs:
           git commit -m "Update comic data [automated]"
           git push
 
+      - name: Export trace to Honeycomb
+        if: always()
+        uses: inception-health/otel-export-trace@v1
+        with:
+          otlpEndpoint: https://api.honeycomb.io
+          otlpHeaders: x-honeycomb-team=${{ secrets.COMICS_APP_HONEYCOMB_API_KEY }}
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          runId: ${{ github.run_id }}
+
   deploy:
     runs-on: ubuntu-latest
     # Deploy on push OR after fetch-data completes (if it ran)
@@ -89,3 +98,12 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Export trace to Honeycomb
+        if: always()
+        uses: inception-health/otel-export-trace@v1
+        with:
+          otlpEndpoint: https://api.honeycomb.io
+          otlpHeaders: x-honeycomb-team=${{ secrets.COMICS_APP_HONEYCOMB_API_KEY }}
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          runId: ${{ github.run_id }}
