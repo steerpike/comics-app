@@ -1,15 +1,15 @@
 {
-  "fetchedAt": "2026-06-18T10:28:24.133Z",
+  "fetchedAt": "2026-06-18T20:28:11.612Z",
   "sources": {
     "xkcd": "ok",
     "dinosaur": "ok",
     "smbc": "ok",
     "wondermark": "ok",
-    "nedroid": "error: Request timed out after 15s for https://nedroid.com/feed/",
-    "poorlydrawnlines": "error: HTTP 202 for https://poorlydrawnlines.com/feed/",
+    "nedroid": "ok",
+    "poorlydrawnlines": "ok",
     "savagechickens": "ok",
     "buttersafe": "ok",
-    "loadingartist": "error: Request timed out after 15s for https://loadingartist.com/index.xml"
+    "loadingartist": "ok"
   },
   "nextFetch": "Automatic via GitHub Actions (twice daily)"
 }

@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-18T10:27:41.202Z",
+  "fetchedAt": "2026-06-18T20:28:09.043Z",
   "comics": [
+    {
+      "slug": "spooky-3",
+      "title": "Spooky",
+      "img": "https://www.smbc-comics.com/comics/1781743636-20260618.png",
+      "alt": "Kelly told me this one was too weird, so please make it popular so she has to roll her eyes.",
+      "date": "2026-06-18",
+      "link": "https://www.smbc-comics.com/comic/spooky-3"
+    },
     {
       "slug": "deal",
       "title": "Deal",
@@ -156,14 +164,6 @@
       "alt": "SMBC will be at Davos this year, if someone at Davos looks at it on their phone.",
       "date": "2026-06-01",
       "link": "https://www.smbc-comics.com/comic/shorthand"
-    },
-    {
-      "slug": "prophecy",
-      "title": "Prophecy",
-      "img": "https://www.smbc-comics.com/comics/1780099607-20260531.png",
-      "alt": "This is the actual plot of The Hobbit. The entire journey is meant to convince Frodo to just stay home ever after.",
-      "date": "2026-05-31",
-      "link": "https://www.smbc-comics.com/comic/prophecy"
     }
   ]
 }
