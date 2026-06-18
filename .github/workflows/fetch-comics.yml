@@ -55,20 +55,61 @@ jobs:
           git commit -m "Update comic data [automated]"
           git push
 
-      - name: Export trace to Honeycomb
+      - name: Send trace to Honeycomb
         if: always()
-        uses: inception-health/otel-export-trace@v1
+        env:
+          HONEYCOMB_API_KEY: ${{ secrets.COMICS_APP_HONEYCOMB_API_KEY }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          node .github/scripts/send-trace.js \
+            --job "fetch-data" \
+            --status "$JOB_STATUS" \
+            --run-id "$GITHUB_RUN_ID" \
+            --sha "$GITHUB_SHA" \
+            --ref "$GITHUB_REF_NAME"
+
+  test:
+    runs-on: ubuntu-latest
+    needs: fetch-data
+    if: always() && (github.event_name == 'push' || needs.fetch-data.result == 'success' || needs.fetch-data.result == 'skipped')
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          otlpEndpoint: https://api.honeycomb.io
-          otlpHeaders: x-honeycomb-team=${{ secrets.COMICS_APP_HONEYCOMB_API_KEY }}
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
-          runId: ${{ github.run_id }}
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run e2e tests
+        env:
+          HONEYCOMB_API_KEY: ${{ secrets.COMICS_APP_HONEYCOMB_API_KEY }}
+        run: npm test
+
+      - name: Send trace to Honeycomb
+        if: always()
+        env:
+          HONEYCOMB_API_KEY: ${{ secrets.COMICS_APP_HONEYCOMB_API_KEY }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          node .github/scripts/send-trace.js \
+            --job "test" \
+            --status "$JOB_STATUS" \
+            --run-id "$GITHUB_RUN_ID" \
+            --sha "$GITHUB_SHA" \
+            --ref "$GITHUB_REF_NAME"
 
   deploy:
     runs-on: ubuntu-latest
-    # Deploy on push OR after fetch-data completes (if it ran)
-    if: always() && (github.event_name == 'push' || needs.fetch-data.result == 'success' || needs.fetch-data.result == 'skipped')
-    needs: fetch-data
+    # Deploy on push OR after fetch-data completes (if it ran), but only if tests passed
+    if: always() && (github.event_name == 'push' || needs.fetch-data.result == 'success' || needs.fetch-data.result == 'skipped') && (needs.test.result == 'success' || needs.test.result == 'skipped')
+    needs: [fetch-data, test]
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -99,11 +140,15 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Export trace to Honeycomb
+      - name: Send trace to Honeycomb
         if: always()
-        uses: inception-health/otel-export-trace@v1
-        with:
-          otlpEndpoint: https://api.honeycomb.io
-          otlpHeaders: x-honeycomb-team=${{ secrets.COMICS_APP_HONEYCOMB_API_KEY }}
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
-          runId: ${{ github.run_id }}
+        env:
+          HONEYCOMB_API_KEY: ${{ secrets.COMICS_APP_HONEYCOMB_API_KEY }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          node .github/scripts/send-trace.js \
+            --job "deploy" \
+            --status "$JOB_STATUS" \
+            --run-id "$GITHUB_RUN_ID" \
+            --sha "$GITHUB_SHA" \
+            --ref "$GITHUB_REF_NAME"
