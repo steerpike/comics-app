@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 55,
-  "highestNum": 4485,
-  "fetchedAt": "2026-06-17T20:15:23.068Z",
+  "total": 56,
+  "highestNum": 4486,
+  "fetchedAt": "2026-06-19T19:51:55.940Z",
   "comics": [
     {
       "num": 4431,
@@ -443,6 +443,14 @@
       "alt": "...wait, when the power goes out i DO search my cupboards for horses.  am i not supposed to",
       "date": "2026-06-17",
       "link": "http://www.qwantz.com/index.php?comic=4485"
+    },
+    {
+      "num": 4486,
+      "title": "art is life",
+      "img": "http://www.qwantz.com/comics/comic2-5184.png",
+      "alt": "i'll consider art when i'm dead, and since i'm gonna be dead for a LOT longer than i'm alive, living is for filling up that art-consideration tank. to answer your question: no i am NOT interested in discussing my unusual theology any further",
+      "date": "2026-06-19",
+      "link": "http://www.qwantz.com/index.php?comic=4486"
     }
   ]
 }

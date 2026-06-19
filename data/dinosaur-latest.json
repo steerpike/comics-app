@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-19T10:41:15.751Z",
+  "fetchedAt": "2026-06-19T19:51:55.939Z",
   "comics": [
+    {
+      "num": 4486,
+      "title": "art is life",
+      "img": "http://www.qwantz.com/comics/comic2-5184.png",
+      "alt": "i'll consider art when i'm dead, and since i'm gonna be dead for a LOT longer than i'm alive, living is for filling up that art-consideration tank. to answer your question: no i am NOT interested in discussing my unusual theology any further",
+      "date": "2026-06-19",
+      "link": "http://www.qwantz.com/index.php?comic=4486"
+    },
     {
       "num": 4485,
       "title": "non-candle-based lights, today known as \"lights\"",
@@ -76,14 +84,6 @@
       "alt": "i diagnose you with heptacosiaceps.  there's - there's so many of them.  there's ceps EVERYWHERE",
       "date": "2026-05-29",
       "link": "http://www.qwantz.com/index.php?comic=4477"
-    },
-    {
-      "num": 4476,
-      "title": "out-of-genre / completely-in-genre covers",
-      "img": "http://www.qwantz.com/comics/comic2-5174.png",
-      "alt": "imagine beethoven, but with a sick drop. but be careful because i started doing that once and now i can't stop imagining beethoven but with a sick drop",
-      "date": "2026-05-27",
-      "link": "http://www.qwantz.com/index.php?comic=4476"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-19T10:41:16.004Z",
+  "fetchedAt": "2026-06-19T19:51:58.068Z",
   "comics": [
+    {
+      "slug": "gwas",
+      "title": "GWAS",
+      "img": "https://www.smbc-comics.com/comics/1781743854-20260619.png",
+      "alt": "Unfortunately, so much mitochondrial energy flowed to the dong that all the cognitive stats selected for got blocked.",
+      "date": "2026-06-19",
+      "link": "https://www.smbc-comics.com/comic/gwas"
+    },
     {
       "slug": "spooky-3",
       "title": "Spooky",
@@ -156,14 +164,6 @@
       "alt": "A note of appreciation to the 4 of you who started laughing on the first panel.",
       "date": "2026-06-02",
       "link": "https://www.smbc-comics.com/comic/marshmallow"
-    },
-    {
-      "slug": "shorthand",
-      "title": "Shorthand",
-      "img": "https://www.smbc-comics.com/comics/1780279940-20260601.png",
-      "alt": "SMBC will be at Davos this year, if someone at Davos looks at it on their phone.",
-      "date": "2026-06-01",
-      "link": "https://www.smbc-comics.com/comic/shorthand"
     }
   ]
 }
