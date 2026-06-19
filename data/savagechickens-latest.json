@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-18T20:28:10.829Z",
+  "fetchedAt": "2026-06-19T10:41:17.849Z",
   "comics": [
+    {
+      "slug": "apocalypse-tv",
+      "title": "Apocalypse TV",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenapocalypsetv.jpg",
+      "alt": "Apocalypse TV",
+      "date": "2026-06-19",
+      "link": "https://www.savagechickens.com/2026/06/apocalypse-tv.html"
+    },
     {
       "slug": "little-disappointments",
       "title": "Little Disappointments",
@@ -76,14 +84,6 @@
       "alt": "Trust in A.I.",
       "date": "2026-06-08",
       "link": "https://www.savagechickens.com/2026/06/trust-in-a-i.html"
-    },
-    {
-      "slug": "random-acts",
-      "title": "Random Acts",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenrandomacts.jpg",
-      "alt": "Random Acts",
-      "date": "2026-06-05",
-      "link": "https://www.savagechickens.com/2026/06/random-acts.html"
     }
   ]
 }
