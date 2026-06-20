@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3259,
-  "latestNum": 3260,
-  "fetchedAt": "2026-06-17T20:15:22.706Z",
+  "total": 3260,
+  "latestNum": 3261,
+  "fetchedAt": "2026-06-20T09:19:39.770Z",
   "comics": [
     {
       "num": 1,
@@ -22816,6 +22816,13 @@
       "img": "https://imgs.xkcd.com/comics/messi.png",
       "alt": "Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.",
       "date": "2026-06-17"
+    },
+    {
+      "num": 3261,
+      "title": "Side Effect",
+      "img": "https://imgs.xkcd.com/comics/side_effect.png",
+      "alt": "Brace yourself--the chirp gets pretty weird.",
+      "date": "2026-06-19"
     }
   ]
 }

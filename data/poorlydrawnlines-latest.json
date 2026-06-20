@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-06-19T10:41:17.619Z",
+  "fetchedAt": "2026-06-20T09:19:41.705Z",
   "comics": [
+    {
+      "slug": "hurry",
+      "title": "Hurry",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/06/hurry.png",
+      "alt": "",
+      "date": "2026-06-19",
+      "link": "https://poorlydrawnlines.com/comic/hurry/"
+    },
     {
       "slug": "my-weeds",
       "title": "My Weeds",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-04-23",
       "link": "https://poorlydrawnlines.com/comic/i-am-snake/"
-    },
-    {
-      "slug": "the-masked-mouse",
-      "title": "The Masked Mouse",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/04/masked-mouse.png",
-      "alt": "",
-      "date": "2026-04-14",
-      "link": "https://poorlydrawnlines.com/comic/the-masked-mouse/"
     }
   ]
 }
