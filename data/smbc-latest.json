@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-20T09:19:40.362Z",
+  "fetchedAt": "2026-06-20T19:40:34.653Z",
   "comics": [
+    {
+      "slug": "ubi",
+      "title": "UBI",
+      "img": "https://www.smbc-comics.com/comics/1781743829-20260620.png",
+      "alt": "The good news is everyone has job security in the post-scarcity world.",
+      "date": "2026-06-20",
+      "link": "https://www.smbc-comics.com/comic/ubi"
+    },
     {
       "slug": "gwas",
       "title": "GWAS",
@@ -156,14 +164,6 @@
       "alt": "Just a reminder that I am available for commencement speeches, birthdays, and Bar Mitzvahs.",
       "date": "2026-06-03",
       "link": "https://www.smbc-comics.com/comic/speech"
-    },
-    {
-      "slug": "marshmallow",
-      "title": "Marshmallow",
-      "img": "https://www.smbc-comics.com/comics/1780286961-20260602.png",
-      "alt": "A note of appreciation to the 4 of you who started laughing on the first panel.",
-      "date": "2026-06-02",
-      "link": "https://www.smbc-comics.com/comic/marshmallow"
     }
   ]
 }
