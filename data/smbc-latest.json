@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-21T09:53:18.683Z",
+  "fetchedAt": "2026-06-21T19:46:14.119Z",
   "comics": [
+    {
+      "slug": "ginge",
+      "title": "Ginge",
+      "img": "https://www.smbc-comics.com/comics/1781743897-20260621.png",
+      "alt": "They later left because the flesh-trees made everyone uncomfortable.",
+      "date": "2026-06-21",
+      "link": "https://www.smbc-comics.com/comic/ginge"
+    },
     {
       "slug": "ubi",
       "title": "UBI",
@@ -156,14 +164,6 @@
       "alt": "If you disagree, find me a recent source specifically proving Descartes wrong.",
       "date": "2026-06-04",
       "link": "https://www.smbc-comics.com/comic/gland"
-    },
-    {
-      "slug": "speech",
-      "title": "Speech",
-      "img": "https://www.smbc-comics.com/comics/1780287005-20260603.png",
-      "alt": "Just a reminder that I am available for commencement speeches, birthdays, and Bar Mitzvahs.",
-      "date": "2026-06-03",
-      "link": "https://www.smbc-comics.com/comic/speech"
     }
   ]
 }
