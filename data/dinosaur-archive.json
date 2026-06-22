@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 56,
-  "highestNum": 4486,
-  "fetchedAt": "2026-06-19T19:51:55.940Z",
+  "total": 57,
+  "highestNum": 4487,
+  "fetchedAt": "2026-06-22T20:51:14.350Z",
   "comics": [
     {
       "num": 4431,
@@ -451,6 +451,14 @@
       "alt": "i'll consider art when i'm dead, and since i'm gonna be dead for a LOT longer than i'm alive, living is for filling up that art-consideration tank. to answer your question: no i am NOT interested in discussing my unusual theology any further",
       "date": "2026-06-19",
       "link": "http://www.qwantz.com/index.php?comic=4486"
+    },
+    {
+      "num": 4487,
+      "title": "i wrote this comic a few days ago and then yesterday i saw a turtle!!  it's like i MANIFESTED it.  only she wasn't wearing a hamburger costume so it's like i manifested NOTHING",
+      "img": "http://www.qwantz.com/comics/comic2-5185.png",
+      "alt": "sherlock put on a hamburger costume and deduced it felt all wrong for him.  he was a polish sausage costume guy or he was NOTHING",
+      "date": "2026-06-22",
+      "link": "http://www.qwantz.com/index.php?comic=4487"
     }
   ]
 }

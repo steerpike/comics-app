@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-22T12:09:07.463Z",
+  "fetchedAt": "2026-06-22T20:51:14.741Z",
   "comics": [
+    {
+      "slug": "she",
+      "title": "She",
+      "img": "https://www.smbc-comics.com/comics/1782076832-20260622-edit.png",
+      "alt": "There should be a movie that, at the end, says that the lesson is that it is good to have the type of friend and kinship network favored by recently evolved East African apes.",
+      "date": "2026-06-22",
+      "link": "https://www.smbc-comics.com/comic/she"
+    },
     {
       "slug": "ginge",
       "title": "Ginge",
@@ -156,14 +164,6 @@
       "alt": "This sort of thing is why I will likely never write fantasy.",
       "date": "2026-06-05",
       "link": "https://www.smbc-comics.com/comic/proof-5"
-    },
-    {
-      "slug": "gland",
-      "title": "Gland",
-      "img": "https://www.smbc-comics.com/comics/1780287055-20260604.png",
-      "alt": "If you disagree, find me a recent source specifically proving Descartes wrong.",
-      "date": "2026-06-04",
-      "link": "https://www.smbc-comics.com/comic/gland"
     }
   ]
 }

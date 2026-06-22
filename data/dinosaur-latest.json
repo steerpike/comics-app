@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-22T12:09:07.201Z",
+  "fetchedAt": "2026-06-22T20:51:14.350Z",
   "comics": [
+    {
+      "num": 4487,
+      "title": "i wrote this comic a few days ago and then yesterday i saw a turtle!!  it's like i MANIFESTED it.  only she wasn't wearing a hamburger costume so it's like i manifested NOTHING",
+      "img": "http://www.qwantz.com/comics/comic2-5185.png",
+      "alt": "sherlock put on a hamburger costume and deduced it felt all wrong for him.  he was a polish sausage costume guy or he was NOTHING",
+      "date": "2026-06-22",
+      "link": "http://www.qwantz.com/index.php?comic=4487"
+    },
     {
       "num": 4486,
       "title": "art is life",
@@ -76,14 +84,6 @@
       "alt": "in the final analysis we really should've had more blue things lying around in panel five before we tried this, but it's too late for that now!  it's over 23 years too late for that now!!",
       "date": "2026-06-01",
       "link": "http://www.qwantz.com/index.php?comic=4478"
-    },
-    {
-      "num": 4477,
-      "title": "t-rex goes to the gym one (1) time",
-      "img": "http://www.qwantz.com/comics/comic2-5175.png",
-      "alt": "i diagnose you with heptacosiaceps.  there's - there's so many of them.  there's ceps EVERYWHERE",
-      "date": "2026-05-29",
-      "link": "http://www.qwantz.com/index.php?comic=4477"
     }
   ]
 }
