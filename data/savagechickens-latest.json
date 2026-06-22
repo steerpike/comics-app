@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-21T19:46:15.842Z",
+  "fetchedAt": "2026-06-22T12:09:09.119Z",
   "comics": [
+    {
+      "slug": "shockotronic",
+      "title": "Shockotronic",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenshockbot.jpg",
+      "alt": "Shockotronic",
+      "date": "2026-06-22",
+      "link": "https://www.savagechickens.com/2026/06/shockotronic.html"
+    },
     {
       "slug": "apocalypse-tv",
       "title": "Apocalypse TV",
@@ -76,14 +84,6 @@
       "alt": "The End of Small Talk",
       "date": "2026-06-09",
       "link": "https://www.savagechickens.com/2026/06/the-end-of-small-talk.html"
-    },
-    {
-      "slug": "trust-in-a-i",
-      "title": "Trust in A.I.",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickentrustinai.jpg",
-      "alt": "Trust in A.I.",
-      "date": "2026-06-08",
-      "link": "https://www.savagechickens.com/2026/06/trust-in-a-i.html"
     }
   ]
 }
