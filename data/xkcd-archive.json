@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3260,
-  "latestNum": 3261,
-  "fetchedAt": "2026-06-20T09:19:39.770Z",
+  "total": 3261,
+  "latestNum": 3262,
+  "fetchedAt": "2026-06-23T09:45:04.814Z",
   "comics": [
     {
       "num": 1,
@@ -22823,6 +22823,13 @@
       "img": "https://imgs.xkcd.com/comics/side_effect.png",
       "alt": "Brace yourself--the chirp gets pretty weird.",
       "date": "2026-06-19"
+    },
+    {
+      "num": 3262,
+      "title": "Sports Commentary",
+      "img": "https://imgs.xkcd.com/comics/sports_commentary.png",
+      "alt": "The plural of anecdote may not be data, but the singular of data is anecdote.",
+      "date": "2026-06-22"
     }
   ]
 }

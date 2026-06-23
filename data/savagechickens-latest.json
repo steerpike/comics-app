@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-22T20:51:16.454Z",
+  "fetchedAt": "2026-06-23T09:45:07.569Z",
   "comics": [
+    {
+      "slug": "making-a-difference",
+      "title": "Making A Difference",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmakingadifference.jpg",
+      "alt": "Making A Difference",
+      "date": "2026-06-23",
+      "link": "https://www.savagechickens.com/2026/06/making-a-difference.html"
+    },
     {
       "slug": "shockotronic",
       "title": "Shockotronic",
@@ -76,14 +84,6 @@
       "alt": "The New Coffee",
       "date": "2026-06-10",
       "link": "https://www.savagechickens.com/2026/06/the-new-coffee.html"
-    },
-    {
-      "slug": "the-end-of-small-talk",
-      "title": "The End of Small Talk",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickentheendofsmalltalk.jpg",
-      "alt": "The End of Small Talk",
-      "date": "2026-06-09",
-      "link": "https://www.savagechickens.com/2026/06/the-end-of-small-talk.html"
     }
   ]
 }

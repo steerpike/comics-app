@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3261,
-  "fetchedAt": "2026-06-22T20:51:14.035Z",
+  "latestNum": 3262,
+  "fetchedAt": "2026-06-23T09:45:04.803Z",
   "comics": [
+    {
+      "num": 3262,
+      "title": "Sports Commentary",
+      "img": "https://imgs.xkcd.com/comics/sports_commentary.png",
+      "alt": "The plural of anecdote may not be data, but the singular of data is anecdote.",
+      "date": "2026-06-22"
+    },
     {
       "num": 3261,
       "title": "Side Effect",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/crystal_gazing.png",
       "alt": "'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.",
       "date": "2026-05-08"
-    },
-    {
-      "num": 3242,
-      "title": "Aperiodic Table",
-      "img": "https://imgs.xkcd.com/comics/aperiodic_table.png",
-      "alt": "Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.",
-      "date": "2026-05-06"
     }
   ]
 }
