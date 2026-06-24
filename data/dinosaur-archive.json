@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 57,
-  "highestNum": 4487,
-  "fetchedAt": "2026-06-22T20:51:14.350Z",
+  "total": 58,
+  "highestNum": 4488,
+  "fetchedAt": "2026-06-24T19:49:46.187Z",
   "comics": [
     {
       "num": 4431,
@@ -459,6 +459,14 @@
       "alt": "sherlock put on a hamburger costume and deduced it felt all wrong for him.  he was a polish sausage costume guy or he was NOTHING",
       "date": "2026-06-22",
       "link": "http://www.qwantz.com/index.php?comic=4487"
+    },
+    {
+      "num": 4488,
+      "title": "this comic is 10% better if you don't know Shakespeare wrote Julius Caesar, so in the last panel it's just T-Rex carrying a heck of a grudge against the guy",
+      "img": "http://www.qwantz.com/comics/comic2-5186.png",
+      "alt": "friends, romans, third type of guy: lend me your ears",
+      "date": "2026-06-24",
+      "link": "http://www.qwantz.com/index.php?comic=4488"
     }
   ]
 }

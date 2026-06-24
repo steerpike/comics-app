@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-24T09:34:38.730Z",
+  "fetchedAt": "2026-06-24T19:49:46.186Z",
   "comics": [
+    {
+      "num": 4488,
+      "title": "this comic is 10% better if you don't know Shakespeare wrote Julius Caesar, so in the last panel it's just T-Rex carrying a heck of a grudge against the guy",
+      "img": "http://www.qwantz.com/comics/comic2-5186.png",
+      "alt": "friends, romans, third type of guy: lend me your ears",
+      "date": "2026-06-24",
+      "link": "http://www.qwantz.com/index.php?comic=4488"
+    },
     {
       "num": 4487,
       "title": "i wrote this comic a few days ago and then yesterday i saw a turtle!!  it's like i MANIFESTED it.  only she wasn't wearing a hamburger costume so it's like i manifested NOTHING",
@@ -76,14 +84,6 @@
       "alt": "t-rex's fifth sentence in panel three is my affirmation in the mirror every single morning",
       "date": "2026-06-03",
       "link": "http://www.qwantz.com/index.php?comic=4479"
-    },
-    {
-      "num": 4478,
-      "title": "sorry to all dogs.  also is this why you're all so into pee?  ...don't answer that, dogs",
-      "img": "http://www.qwantz.com/comics/comic2-5176.png",
-      "alt": "in the final analysis we really should've had more blue things lying around in panel five before we tried this, but it's too late for that now!  it's over 23 years too late for that now!!",
-      "date": "2026-06-01",
-      "link": "http://www.qwantz.com/index.php?comic=4478"
     }
   ]
 }
