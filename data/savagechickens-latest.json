@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-23T20:08:49.525Z",
+  "fetchedAt": "2026-06-24T09:34:40.663Z",
   "comics": [
+    {
+      "slug": "ouch",
+      "title": "Ouch!",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenouchheadache.jpg",
+      "alt": "Ouch!",
+      "date": "2026-06-24",
+      "link": "https://www.savagechickens.com/2026/06/ouch.html"
+    },
     {
       "slug": "making-a-difference",
       "title": "Making A Difference",
@@ -76,14 +84,6 @@
       "alt": "Another Successful Interview",
       "date": "2026-06-11",
       "link": "https://www.savagechickens.com/2026/06/another-successful-interview.html"
-    },
-    {
-      "slug": "the-new-coffee",
-      "title": "The New Coffee",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthenewcoffee.jpg",
-      "alt": "The New Coffee",
-      "date": "2026-06-10",
-      "link": "https://www.savagechickens.com/2026/06/the-new-coffee.html"
     }
   ]
 }

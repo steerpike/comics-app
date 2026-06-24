@@ -3,7 +3,7 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-23T20:08:47.491Z",
+  "fetchedAt": "2026-06-24T09:34:38.970Z",
   "comics": [
     {
       "slug": "spiraling",
@@ -96,7 +96,7 @@
     {
       "slug": "upcoming-book-signings",
       "title": "Upcoming Book Signings",
-      "img": "https://www.smbc-comics.com/comics/1781226681-comicplaceholder-small.png",
+      "img": "https://www.smbc-comics.com/comics/1782247899-comicplaceholder-small-updated.png",
       "alt": "Mark your calendars!",
       "date": "2026-06-13",
       "link": "https://www.smbc-comics.com/comic/upcoming-book-signings"
