@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-24T19:49:48.281Z",
+  "fetchedAt": "2026-06-25T09:26:44.266Z",
   "comics": [
+    {
+      "slug": "out-of-the-darkness",
+      "title": "Out of the Darkness",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenoutofthedarkness.jpg",
+      "alt": "Out of the Darkness",
+      "date": "2026-06-25",
+      "link": "https://www.savagechickens.com/2026/06/out-of-the-darkness.html"
+    },
     {
       "slug": "ouch",
       "title": "Ouch!",
@@ -76,14 +84,6 @@
       "alt": "Read My Mind",
       "date": "2026-06-12",
       "link": "https://www.savagechickens.com/2026/06/read-my-mind.html"
-    },
-    {
-      "slug": "another-successful-interview",
-      "title": "Another Successful Interview",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenanothersuccessfulinterview.jpg",
-      "alt": "Another Successful Interview",
-      "date": "2026-06-11",
-      "link": "https://www.savagechickens.com/2026/06/another-successful-interview.html"
     }
   ]
 }

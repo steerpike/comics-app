@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3262,
-  "fetchedAt": "2026-06-24T19:49:45.745Z",
+  "latestNum": 3263,
+  "fetchedAt": "2026-06-25T09:26:41.927Z",
   "comics": [
+    {
+      "num": 3263,
+      "title": "Baryon Asymmetry",
+      "img": "https://imgs.xkcd.com/comics/baryon_asymmetry.png",
+      "alt": "Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?",
+      "date": "2026-06-24"
+    },
     {
       "num": 3262,
       "title": "Sports Commentary",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/pullback_drive.png",
       "alt": "\"How does the spring not run out almost immediately?\" \"We pull it back REALLY far.\"",
       "date": "2026-05-11"
-    },
-    {
-      "num": 3243,
-      "title": "Crystal Gazing",
-      "img": "https://imgs.xkcd.com/comics/crystal_gazing.png",
-      "alt": "'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.",
-      "date": "2026-05-08"
     }
   ]
 }

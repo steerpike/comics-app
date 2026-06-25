@@ -3,8 +3,96 @@
   "name": "Buttersafe",
   "url": "https://www.buttersafe.com",
   "attribution": "Buttersafe by Alex Culang and Raynato Castro",
-  "fetchedAt": "2026-06-24T19:49:48.731Z",
+  "fetchedAt": "2026-06-25T09:26:45.122Z",
   "comics": [
+    {
+      "slug": "2026-06-25-horse-mirage",
+      "title": "Horse Mirage",
+      "img": "http://www.buttersafe.com/comics/rss/2026-06-25-HorseMirageRSS.jpg",
+      "alt": "Horse Mirage",
+      "date": "2026-06-25",
+      "link": "http://www.buttersafe.com/2026/06/25/horse-mirage/"
+    },
+    {
+      "slug": "2026-06-18-bee-demon",
+      "title": "Bee Demon",
+      "img": "http://www.buttersafe.com/comics/rss/2026-06-18-BeeDemonRSS.jpg",
+      "alt": "Bee Demon",
+      "date": "2026-06-18",
+      "link": "http://www.buttersafe.com/2026/06/18/bee-demon/"
+    },
+    {
+      "slug": "2026-06-11-no-hands",
+      "title": "No Hands",
+      "img": "http://www.buttersafe.com/comics/rss/2026-06-11-NoHandsRSS.jpg",
+      "alt": "No Hands",
+      "date": "2026-06-11",
+      "link": "http://www.buttersafe.com/2026/06/11/no-hands/"
+    },
+    {
+      "slug": "2026-06-04-big-long-cigarette-so-long-it-goes-into-the-sky-comics",
+      "title": "Big Long Cigarette So Long It Goes Into The Sky Comics",
+      "img": "http://www.buttersafe.com/comics/rss/2026-06-04-BigLongCigaretteComicsRSS.jpg",
+      "alt": "Big Long Cigarette So Long It Goes Into The Sky Comics",
+      "date": "2026-06-04",
+      "link": "http://www.buttersafe.com/2026/06/04/big-long-cigarette-so-long-it-goes-into-the-sky-comics/"
+    },
+    {
+      "slug": "2026-05-28-always-late-larry",
+      "title": "Always Late Larry",
+      "img": "http://www.buttersafe.com/comics/rss/2026-05-28-AlwaysLateLarryRSS.jpg",
+      "alt": "Always Late Larry",
+      "date": "2026-05-28",
+      "link": "http://www.buttersafe.com/2026/05/28/always-late-larry/"
+    },
+    {
+      "slug": "2026-05-21-letting-go",
+      "title": "Letting Go",
+      "img": "http://www.buttersafe.com/comics/rss/2026-05-21-LettingGoRSS.jpg",
+      "alt": "Letting Go",
+      "date": "2026-05-21",
+      "link": "http://www.buttersafe.com/2026/05/21/letting-go/"
+    },
+    {
+      "slug": "2026-05-14-your-destination",
+      "title": "Your Destination",
+      "img": "http://www.buttersafe.com/comics/rss/2026-05-14-YourDestinationRSS.jpg",
+      "alt": "Your Destination",
+      "date": "2026-05-14",
+      "link": "http://www.buttersafe.com/2026/05/14/your-destination/"
+    },
+    {
+      "slug": "2026-05-07-a-figure-in-the-periphery",
+      "title": "A Figure in the Periphery",
+      "img": "http://www.buttersafe.com/comics/rss/2026-05-07-AFigureInThePeripheryRSS.jpg",
+      "alt": "A Figure in the Periphery",
+      "date": "2026-05-07",
+      "link": "http://www.buttersafe.com/2026/05/07/a-figure-in-the-periphery/"
+    },
+    {
+      "slug": "2026-04-30-its-alive-2",
+      "title": "It’s Alive",
+      "img": "http://www.buttersafe.com/comics/rss/2026-04-30-ItsAliveRSS.jpg",
+      "alt": "It’s Alive",
+      "date": "2026-04-30",
+      "link": "http://www.buttersafe.com/2026/04/30/its-alive-2/"
+    },
+    {
+      "slug": "2026-04-23-where-do-you-see-yourself",
+      "title": "Where Do You See Yourself?",
+      "img": "http://www.buttersafe.com/comics/rss/2026-04-23-WhereDoYouSeeYourselfRSS.jpg",
+      "alt": "Where Do You See Yourself?",
+      "date": "2026-04-23",
+      "link": "http://www.buttersafe.com/2026/04/23/where-do-you-see-yourself/"
+    },
+    {
+      "slug": "2026-04-16-guilloteens",
+      "title": "Guilloteens",
+      "img": "http://www.buttersafe.com/comics/rss/2026-04-16-GuilloteensRSS.jpg",
+      "alt": "Guilloteens",
+      "date": "2026-04-16",
+      "link": "http://www.buttersafe.com/2026/04/16/guilloteens/"
+    },
     {
       "slug": "2026-04-09-best-friends-forever",
       "title": "Best Friends Forever",
@@ -68,102 +156,6 @@
       "alt": "You Complete Me",
       "date": "2026-02-19",
       "link": "http://www.buttersafe.com/2026/02/19/you-complete-me/"
-    },
-    {
-      "slug": "2026-02-12-amnesiacs-anonymous",
-      "title": "Amnesiacs Anonymous",
-      "img": "http://www.buttersafe.com/comics/rss/2026-02-12-AmnesiacsAnonymousRSS.jpg",
-      "alt": "Amnesiacs Anonymous",
-      "date": "2026-02-12",
-      "link": "http://www.buttersafe.com/2026/02/12/amnesiacs-anonymous/"
-    },
-    {
-      "slug": "2026-02-05-my-time-is-coming",
-      "title": "My Time is Coming",
-      "img": "http://www.buttersafe.com/comics/rss/2026-02-05-MyTimeIsComingRSS.jpg",
-      "alt": "My Time is Coming",
-      "date": "2026-02-05",
-      "link": "http://www.buttersafe.com/2026/02/05/my-time-is-coming/"
-    },
-    {
-      "slug": "2026-01-29-a-guy-pretends-hes-a-tree",
-      "title": "A Guy Pretends He’s a Tree",
-      "img": "http://www.buttersafe.com/comics/rss/2026-01-29-AGuyPretendsHesATreeRSS.jpg",
-      "alt": "A Guy Pretends He’s a Tree",
-      "date": "2026-01-29",
-      "link": "http://www.buttersafe.com/2026/01/29/a-guy-pretends-hes-a-tree/"
-    },
-    {
-      "slug": "2026-01-22-best-before",
-      "title": "Best Before",
-      "img": "http://www.buttersafe.com/comics/rss/2026-01-22-BestBeforeRSS.jpg",
-      "alt": "Best Before",
-      "date": "2026-01-22",
-      "link": "http://www.buttersafe.com/2026/01/22/best-before/"
-    },
-    {
-      "slug": "2026-01-15-moral-imperative",
-      "title": "Moral Imperative",
-      "img": "http://www.buttersafe.com/comics/rss/2026-01-15-CrimeBoyz-MoralImperativeRSS.jpg",
-      "alt": "Moral Imperative",
-      "date": "2026-01-15",
-      "link": "http://www.buttersafe.com/2026/01/15/moral-imperative/"
-    },
-    {
-      "slug": "2026-01-08-rushing-everywhere",
-      "title": "Rushing Everywhere",
-      "img": "http://www.buttersafe.com/comics/rss/2026-01-08-RushingEverywhereRSS.jpg",
-      "alt": "Rushing Everywhere",
-      "date": "2026-01-08",
-      "link": "http://www.buttersafe.com/2026/01/08/rushing-everywhere/"
-    },
-    {
-      "slug": "2026-01-01-replacing-my-year",
-      "title": "Replacing My Year",
-      "img": "http://www.buttersafe.com/comics/rss/2026-01-01-ReplacingMyYearRSS.jpg",
-      "alt": "Replacing My Year",
-      "date": "2026-01-01",
-      "link": "http://www.buttersafe.com/2026/01/01/replacing-my-year/"
-    },
-    {
-      "slug": "2025-12-25-see-how-santa-likes-it",
-      "title": "See How Santa Likes It",
-      "img": "http://www.buttersafe.com/comics/rss/2025-12-25-SeeHowSantaLikesItRSS.jpg",
-      "alt": "See How Santa Likes It",
-      "date": "2025-12-25",
-      "link": "http://www.buttersafe.com/2025/12/25/see-how-santa-likes-it/"
-    },
-    {
-      "slug": "2025-12-18-video-games-santa",
-      "title": "Video Games Santa",
-      "img": "http://www.buttersafe.com/comics/rss/2025-12-18-VideoGamesSantaRSS.jpg",
-      "alt": "Video Games Santa",
-      "date": "2025-12-18",
-      "link": "http://www.buttersafe.com/2025/12/18/video-games-santa/"
-    },
-    {
-      "slug": "2025-12-11-snowman-in-a-snow-globe",
-      "title": "Snowman in a Snow Globe",
-      "img": "http://www.buttersafe.com/comics/rss/2025-12-11-SnowmanInASnowGlobeRSS.jpg",
-      "alt": "Snowman in a Snow Globe",
-      "date": "2025-12-11",
-      "link": "http://www.buttersafe.com/2025/12/11/snowman-in-a-snow-globe/"
-    },
-    {
-      "slug": "2025-12-04-picturing-a-person-as-a-table",
-      "title": "Picturing a Person as a Table",
-      "img": "http://www.buttersafe.com/comics/rss/2025-12-04-PicturingATableAsAPersonRSS.jpg",
-      "alt": "Picturing a Person as a Table",
-      "date": "2025-12-04",
-      "link": "http://www.buttersafe.com/2025/12/04/picturing-a-person-as-a-table/"
-    },
-    {
-      "slug": "2025-11-27-picturing-you-as-a-turkey",
-      "title": "Picturing You as a Turkey",
-      "img": "http://www.buttersafe.com/comics/rss/2025-11-27-PicturingYouAsATurkeyRSS.jpg",
-      "alt": "Picturing You as a Turkey",
-      "date": "2025-11-27",
-      "link": "http://www.buttersafe.com/2025/11/27/picturing-you-as-a-turkey/"
     }
   ]
 }

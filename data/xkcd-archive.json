@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3261,
-  "latestNum": 3262,
-  "fetchedAt": "2026-06-23T09:45:04.814Z",
+  "total": 3262,
+  "latestNum": 3263,
+  "fetchedAt": "2026-06-25T09:26:41.937Z",
   "comics": [
     {
       "num": 1,
@@ -22830,6 +22830,13 @@
       "img": "https://imgs.xkcd.com/comics/sports_commentary.png",
       "alt": "The plural of anecdote may not be data, but the singular of data is anecdote.",
       "date": "2026-06-22"
+    },
+    {
+      "num": 3263,
+      "title": "Baryon Asymmetry",
+      "img": "https://imgs.xkcd.com/comics/baryon_asymmetry.png",
+      "alt": "Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?",
+      "date": "2026-06-24"
     }
   ]
 }
