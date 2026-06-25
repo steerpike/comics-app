@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-25T09:26:42.593Z",
+  "fetchedAt": "2026-06-25T20:03:53.257Z",
   "comics": [
+    {
+      "slug": "agency",
+      "title": "Agency",
+      "img": "https://www.smbc-comics.com/comics/1782175610-20260625.png",
+      "alt": "I've been doing jokes about robots being better than humans for 20 years, but just lately I got told I do too much AI propaganda.",
+      "date": "2026-06-25",
+      "link": "https://www.smbc-comics.com/comic/agency"
+    },
     {
       "slug": "comedy-2",
       "title": "Comedy",
@@ -156,14 +164,6 @@
       "alt": "I contend that SMBC remains the comic with the funniest jokes about commodity pricing.",
       "date": "2026-06-08",
       "link": "https://www.smbc-comics.com/comic/gold-5"
-    },
-    {
-      "slug": "consciousness-10",
-      "title": "Consciousness",
-      "img": "https://www.smbc-comics.com/comics/1780787893-20260607.png",
-      "alt": "From an idea in Aguera y Arcas' recent book What is Intelligence?",
-      "date": "2026-06-07",
-      "link": "https://www.smbc-comics.com/comic/consciousness-10"
     }
   ]
 }
