@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-25T20:03:54.959Z",
+  "fetchedAt": "2026-06-26T09:31:44.079Z",
   "comics": [
+    {
+      "slug": "happy-place",
+      "title": "Happy Place",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenhappyplace.jpg",
+      "alt": "Happy Place",
+      "date": "2026-06-26",
+      "link": "https://www.savagechickens.com/2026/06/happy-place.html"
+    },
     {
       "slug": "out-of-the-darkness",
       "title": "Out of the Darkness",
@@ -76,14 +84,6 @@
       "alt": "Fork Etiquette",
       "date": "2026-06-15",
       "link": "https://www.savagechickens.com/2026/06/fork-etiquette.html"
-    },
-    {
-      "slug": "read-my-mind",
-      "title": "Read My Mind",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenreadmymind.jpg",
-      "alt": "Read My Mind",
-      "date": "2026-06-12",
-      "link": "https://www.savagechickens.com/2026/06/read-my-mind.html"
     }
   ]
 }
