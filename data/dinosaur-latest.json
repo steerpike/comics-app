@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-26T09:31:42.072Z",
+  "fetchedAt": "2026-06-26T19:51:41.671Z",
   "comics": [
+    {
+      "num": 4489,
+      "title": "t-rex is just SO HAPPY in that last panel",
+      "img": "http://www.qwantz.com/comics/comic2-5187.png",
+      "alt": "AND it's the perfect socially-acceptable excuse to cram ice cream sandwiches into your mouth as quickly as possible.  ",
+      "date": "2026-06-26",
+      "link": "http://www.qwantz.com/index.php?comic=4489"
+    },
     {
       "num": 4488,
       "title": "this comic is 10% better if you don't know Shakespeare wrote Julius Caesar, so in the last panel it's just T-Rex carrying a heck of a grudge against the guy",
@@ -76,14 +84,6 @@
       "alt": "they might've had a special tool to clip their nails but it was a worse special tool.  THE END",
       "date": "2026-06-05",
       "link": "http://www.qwantz.com/index.php?comic=4480"
-    },
-    {
-      "num": 4479,
-      "title": "I JUST WANTED TO SEE WHAT WOULD BE DIFFERENT IF \"PARMESAN\" WAS PRONOUNCED \"PAR-ME-SEE-IAN\" AND I GUESS THE ANSWER IS NOT MUCH",
-      "img": "http://www.qwantz.com/comics/comic2-5177.png",
-      "alt": "t-rex's fifth sentence in panel three is my affirmation in the mirror every single morning",
-      "date": "2026-06-03",
-      "link": "http://www.qwantz.com/index.php?comic=4479"
     }
   ]
 }

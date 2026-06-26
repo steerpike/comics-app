@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 58,
-  "highestNum": 4488,
-  "fetchedAt": "2026-06-24T19:49:46.187Z",
+  "total": 59,
+  "highestNum": 4489,
+  "fetchedAt": "2026-06-26T19:51:41.671Z",
   "comics": [
     {
       "num": 4431,
@@ -467,6 +467,14 @@
       "alt": "friends, romans, third type of guy: lend me your ears",
       "date": "2026-06-24",
       "link": "http://www.qwantz.com/index.php?comic=4488"
+    },
+    {
+      "num": 4489,
+      "title": "t-rex is just SO HAPPY in that last panel",
+      "img": "http://www.qwantz.com/comics/comic2-5187.png",
+      "alt": "AND it's the perfect socially-acceptable excuse to cram ice cream sandwiches into your mouth as quickly as possible.  ",
+      "date": "2026-06-26",
+      "link": "http://www.qwantz.com/index.php?comic=4489"
     }
   ]
 }

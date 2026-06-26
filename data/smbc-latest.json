@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-26T09:31:42.432Z",
+  "fetchedAt": "2026-06-26T19:51:42.021Z",
   "comics": [
+    {
+      "slug": "milgram",
+      "title": "Milgram",
+      "img": "https://www.smbc-comics.com/comics/1782416796-20260626 - Copy.png",
+      "alt": "Come across this while reading Melanie Mitchell's delightful book, Complexity - A Guided Tour.",
+      "date": "2026-06-26",
+      "link": "https://www.smbc-comics.com/comic/milgram"
+    },
     {
       "slug": "agency",
       "title": "Agency",
@@ -156,14 +164,6 @@
       "alt": "C'monnnnn hatemail.",
       "date": "2026-06-09",
       "link": "https://www.smbc-comics.com/comic/creative-3"
-    },
-    {
-      "slug": "gold-5",
-      "title": "Gold",
-      "img": "https://www.smbc-comics.com/comics/1780787940-20260608.png",
-      "alt": "I contend that SMBC remains the comic with the funniest jokes about commodity pricing.",
-      "date": "2026-06-08",
-      "link": "https://www.smbc-comics.com/comic/gold-5"
     }
   ]
 }
