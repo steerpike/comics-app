@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-27T08:39:10.387Z",
+  "fetchedAt": "2026-06-27T19:23:43.827Z",
   "comics": [
+    {
+      "slug": "mission",
+      "title": "Mission",
+      "img": "https://www.smbc-comics.com/comics/1782416846-20260627.png",
+      "alt": "Created after watching my CTO brother struggle to make an iPhone transmit live video to a Windows desktop for over an hour.",
+      "date": "2026-06-27",
+      "link": "https://www.smbc-comics.com/comic/mission"
+    },
     {
       "slug": "milgram",
       "title": "Milgram",
@@ -156,14 +164,6 @@
       "alt": "I don't know if it's happened yet, but you can bet in the next few years someone will start fitting people out to collect sex training data.",
       "date": "2026-06-10",
       "link": "https://www.smbc-comics.com/comic/surveil"
-    },
-    {
-      "slug": "creative-3",
-      "title": "Creative",
-      "img": "https://www.smbc-comics.com/comics/1780969351-20260609.png",
-      "alt": "C'monnnnn hatemail.",
-      "date": "2026-06-09",
-      "link": "https://www.smbc-comics.com/comic/creative-3"
     }
   ]
 }
