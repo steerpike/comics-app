@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3263,
-  "fetchedAt": "2026-06-26T19:51:41.413Z",
+  "latestNum": 3264,
+  "fetchedAt": "2026-06-27T08:39:09.870Z",
   "comics": [
+    {
+      "num": 3264,
+      "title": "720 Ollie",
+      "img": "https://imgs.xkcd.com/comics/720_ollie.png",
+      "alt": "This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.",
+      "date": "2026-06-26"
+    },
     {
       "num": 3263,
       "title": "Baryon Asymmetry",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/results_age.png",
       "alt": "Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.",
       "date": "2026-05-13"
-    },
-    {
-      "num": 3244,
-      "title": "Pullback Drive",
-      "img": "https://imgs.xkcd.com/comics/pullback_drive.png",
-      "alt": "\"How does the spring not run out almost immediately?\" \"We pull it back REALLY far.\"",
-      "date": "2026-05-11"
     }
   ]
 }

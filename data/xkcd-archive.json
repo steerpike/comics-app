@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3262,
-  "latestNum": 3263,
-  "fetchedAt": "2026-06-25T09:26:41.937Z",
+  "total": 3263,
+  "latestNum": 3264,
+  "fetchedAt": "2026-06-27T08:39:09.879Z",
   "comics": [
     {
       "num": 1,
@@ -22837,6 +22837,13 @@
       "img": "https://imgs.xkcd.com/comics/baryon_asymmetry.png",
       "alt": "Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?",
       "date": "2026-06-24"
+    },
+    {
+      "num": 3264,
+      "title": "720 Ollie",
+      "img": "https://imgs.xkcd.com/comics/720_ollie.png",
+      "alt": "This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.",
+      "date": "2026-06-26"
     }
   ]
 }
