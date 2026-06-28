@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-28T08:55:49.270Z",
+  "fetchedAt": "2026-06-28T19:24:08.618Z",
   "comics": [
+    {
+      "slug": "protocol-2",
+      "title": "Protocol",
+      "img": "https://www.smbc-comics.com/comics/1782416890-20260628.png",
+      "alt": "This is why there are tons of fantasy books about alchemists and NOTHING about chemists.",
+      "date": "2026-06-28",
+      "link": "https://www.smbc-comics.com/comic/protocol-2"
+    },
     {
       "slug": "mission",
       "title": "Mission",
@@ -156,14 +164,6 @@
       "alt": "Once I realized this, all those inept AI laundry-folding videos became hilarious.",
       "date": "2026-06-11",
       "link": "https://www.smbc-comics.com/comic/huh-2"
-    },
-    {
-      "slug": "surveil",
-      "title": "Surveil",
-      "img": "https://www.smbc-comics.com/comics/1780969413-20260610.png",
-      "alt": "I don't know if it's happened yet, but you can bet in the next few years someone will start fitting people out to collect sex training data.",
-      "date": "2026-06-10",
-      "link": "https://www.smbc-comics.com/comic/surveil"
     }
   ]
 }
