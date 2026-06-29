@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 59,
-  "highestNum": 4489,
-  "fetchedAt": "2026-06-26T19:51:41.671Z",
+  "total": 60,
+  "highestNum": 4490,
+  "fetchedAt": "2026-06-29T20:01:02.548Z",
   "comics": [
     {
       "num": 4431,
@@ -475,6 +475,14 @@
       "alt": "AND it's the perfect socially-acceptable excuse to cram ice cream sandwiches into your mouth as quickly as possible.  ",
       "date": "2026-06-26",
       "link": "http://www.qwantz.com/index.php?comic=4489"
+    },
+    {
+      "num": 4490,
+      "title": "pop quiz is short for a) popular quiz, b) soda pop quiz, or c) discopop quiz",
+      "img": "http://www.qwantz.com/comics/comic2-5188.png",
+      "alt": "how often are you getting pizza pie thrown into your eyes, dean?  dean.  dean i just wanna know why you assumed that was a universal experience",
+      "date": "2026-06-29",
+      "link": "http://www.qwantz.com/index.php?comic=4490"
     }
   ]
 }

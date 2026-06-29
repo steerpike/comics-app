@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-29T11:04:30.773Z",
+  "fetchedAt": "2026-06-29T20:01:02.950Z",
   "comics": [
+    {
+      "slug": "minos",
+      "title": "Minos",
+      "img": "https://www.smbc-comics.com/comics/1782692310-20260629.png",
+      "alt": "Pretty sure Midas would've gotten plenty of action too.",
+      "date": "2026-06-29",
+      "link": "https://www.smbc-comics.com/comic/minos"
+    },
     {
       "slug": "protocol-2",
       "title": "Protocol",
@@ -156,14 +164,6 @@
       "alt": "All-loving God my ass.",
       "date": "2026-06-12",
       "link": "https://www.smbc-comics.com/comic/time-7"
-    },
-    {
-      "slug": "huh-2",
-      "title": "Huh",
-      "img": "https://www.smbc-comics.com/comics/1780969506-20260611.png",
-      "alt": "Once I realized this, all those inept AI laundry-folding videos became hilarious.",
-      "date": "2026-06-11",
-      "link": "https://www.smbc-comics.com/comic/huh-2"
     }
   ]
 }

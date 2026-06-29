@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-06-29T11:04:30.502Z",
+  "fetchedAt": "2026-06-29T20:01:02.548Z",
   "comics": [
+    {
+      "num": 4490,
+      "title": "pop quiz is short for a) popular quiz, b) soda pop quiz, or c) discopop quiz",
+      "img": "http://www.qwantz.com/comics/comic2-5188.png",
+      "alt": "how often are you getting pizza pie thrown into your eyes, dean?  dean.  dean i just wanna know why you assumed that was a universal experience",
+      "date": "2026-06-29",
+      "link": "http://www.qwantz.com/index.php?comic=4490"
+    },
     {
       "num": 4489,
       "title": "t-rex is just SO HAPPY in that last panel",
@@ -76,14 +84,6 @@
       "alt": "getting hate mail from a dog is ruff, ruff, ruff",
       "date": "2026-06-08",
       "link": "http://www.qwantz.com/index.php?comic=4481"
-    },
-    {
-      "num": 4480,
-      "title": "ted got back in his time machine and returned to his own time.  life without a giant wheel full of books that lets you rotate through books without standing up to get more books simply wasn't worth living",
-      "img": "http://www.qwantz.com/comics/comic2-5178.png",
-      "alt": "they might've had a special tool to clip their nails but it was a worse special tool.  THE END",
-      "date": "2026-06-05",
-      "link": "http://www.qwantz.com/index.php?comic=4480"
     }
   ]
 }

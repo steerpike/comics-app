@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3264,
-  "fetchedAt": "2026-06-29T11:04:30.088Z",
+  "latestNum": 3265,
+  "fetchedAt": "2026-06-29T20:01:02.176Z",
   "comics": [
+    {
+      "num": 3265,
+      "title": "Asteroid Threat",
+      "img": "https://imgs.xkcd.com/comics/asteroid_threat.png",
+      "alt": "Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.",
+      "date": "2026-06-29"
+    },
     {
       "num": 3264,
       "title": "720 Ollie",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/speedrun.png",
       "alt": "Usain Bolt holds the world record in the 100 meter speedrun.",
       "date": "2026-05-15"
-    },
-    {
-      "num": 3245,
-      "title": "Results Age",
-      "img": "https://imgs.xkcd.com/comics/results_age.png",
-      "alt": "Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.",
-      "date": "2026-05-13"
     }
   ]
 }
