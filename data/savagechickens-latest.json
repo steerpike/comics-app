@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-28T19:24:10.115Z",
+  "fetchedAt": "2026-06-29T11:04:32.471Z",
   "comics": [
+    {
+      "slug": "near-future",
+      "title": "Near Future",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickennearfuture.jpg",
+      "alt": "Near Future",
+      "date": "2026-06-29",
+      "link": "https://www.savagechickens.com/2026/06/near-future.html"
+    },
     {
       "slug": "happy-place",
       "title": "Happy Place",
@@ -76,14 +84,6 @@
       "alt": "Incident on Canis-5",
       "date": "2026-06-16",
       "link": "https://www.savagechickens.com/2026/06/incident-on-canis-5.html"
-    },
-    {
-      "slug": "fork-etiquette",
-      "title": "Fork Etiquette",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenforketiquette.jpg",
-      "alt": "Fork Etiquette",
-      "date": "2026-06-15",
-      "link": "https://www.savagechickens.com/2026/06/fork-etiquette.html"
     }
   ]
 }
