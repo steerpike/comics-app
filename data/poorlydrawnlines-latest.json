@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-06-29T20:01:05.062Z",
+  "fetchedAt": "2026-06-30T20:01:34.664Z",
   "comics": [
+    {
+      "slug": "wild-card",
+      "title": "Wild Card",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/06/wild-card.png",
+      "alt": "",
+      "date": "2026-06-30",
+      "link": "https://poorlydrawnlines.com/comic/wild-card/"
+    },
     {
       "slug": "my-parents",
       "title": "My Parents",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-05-19",
       "link": "https://poorlydrawnlines.com/comic/largest-cat-2/"
-    },
-    {
-      "slug": "we-are-bugs",
-      "title": "We Are Bugs",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/05/we-are-bugs-scaled.png",
-      "alt": "",
-      "date": "2026-05-14",
-      "link": "https://poorlydrawnlines.com/comic/we-are-bugs/"
     }
   ]
 }

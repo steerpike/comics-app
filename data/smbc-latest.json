@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-06-30T09:40:49.582Z",
+  "fetchedAt": "2026-06-30T20:01:31.353Z",
   "comics": [
+    {
+      "slug": "uncanny-3",
+      "title": "Uncanny",
+      "img": "https://www.smbc-comics.com/comics/1782692356-20260630.png",
+      "alt": "It's not an uncanny valley, it's an uncanny mountain that you're afraid to climb.",
+      "date": "2026-06-30",
+      "link": "https://www.smbc-comics.com/comic/uncanny-3"
+    },
     {
       "slug": "minos",
       "title": "Minos",
@@ -156,14 +164,6 @@
       "alt": "I posted this as a joke about a script I shouldn't do, and bluesky economists pressured me into making it.",
       "date": "2026-06-13",
       "link": "https://www.smbc-comics.com/comic/summary-2"
-    },
-    {
-      "slug": "time-7",
-      "title": "Time",
-      "img": "https://www.smbc-comics.com/comics/1781057264-20260612.png",
-      "alt": "All-loving God my ass.",
-      "date": "2026-06-12",
-      "link": "https://www.smbc-comics.com/comic/time-7"
     }
   ]
 }

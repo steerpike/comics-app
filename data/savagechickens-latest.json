@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-29T20:01:05.671Z",
+  "fetchedAt": "2026-06-30T20:01:35.213Z",
   "comics": [
+    {
+      "slug": "grumblotron",
+      "title": "Grumblotron!",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickengrumblotron.jpg",
+      "alt": "Grumblotron!",
+      "date": "2026-06-30",
+      "link": "https://www.savagechickens.com/2026/06/grumblotron.html"
+    },
     {
       "slug": "near-future",
       "title": "Near Future",
@@ -76,14 +84,6 @@
       "alt": "This Reality",
       "date": "2026-06-17",
       "link": "https://www.savagechickens.com/2026/06/this-reality.html"
-    },
-    {
-      "slug": "incident-on-canis-5",
-      "title": "Incident on Canis-5",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenincidentoncanis5.jpg",
-      "alt": "Incident on Canis-5",
-      "date": "2026-06-16",
-      "link": "https://www.savagechickens.com/2026/06/incident-on-canis-5.html"
     }
   ]
 }
