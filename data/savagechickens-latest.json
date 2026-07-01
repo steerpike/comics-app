@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-06-30T20:01:35.213Z",
+  "fetchedAt": "2026-07-01T09:52:29.076Z",
   "comics": [
+    {
+      "slug": "zut-alors",
+      "title": "Zut Alors!",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenzutalors.jpg",
+      "alt": "Zut Alors!",
+      "date": "2026-07-01",
+      "link": "https://www.savagechickens.com/2026/07/zut-alors.html"
+    },
     {
       "slug": "grumblotron",
       "title": "Grumblotron!",
@@ -76,14 +84,6 @@
       "alt": "Little Disappointments",
       "date": "2026-06-18",
       "link": "https://www.savagechickens.com/2026/06/little-disappointments.html"
-    },
-    {
-      "slug": "this-reality",
-      "title": "This Reality",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthisreality.jpg",
-      "alt": "This Reality",
-      "date": "2026-06-17",
-      "link": "https://www.savagechickens.com/2026/06/this-reality.html"
     }
   ]
 }
