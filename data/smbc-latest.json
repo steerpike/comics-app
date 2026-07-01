@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-01T09:52:27.509Z",
+  "fetchedAt": "2026-07-01T19:59:11.991Z",
   "comics": [
+    {
+      "slug": "app-6",
+      "title": "App",
+      "img": "https://www.smbc-comics.com/comics/1782855002-20260701 -edit.png",
+      "alt": "If a company would just once say 'make sure not to use the app' they would have my loyalty forever.",
+      "date": "2026-07-01",
+      "link": "https://www.smbc-comics.com/comic/app-6"
+    },
     {
       "slug": "uncanny-3",
       "title": "Uncanny",
@@ -156,14 +164,6 @@
       "alt": "Mark your calendars!",
       "date": "2026-06-13",
       "link": "https://www.smbc-comics.com/comic/upcoming-book-signings"
-    },
-    {
-      "slug": "summary-2",
-      "title": "Summary",
-      "img": "https://www.smbc-comics.com/comics/1781314254-20260613.png",
-      "alt": "I posted this as a joke about a script I shouldn't do, and bluesky economists pressured me into making it.",
-      "date": "2026-06-13",
-      "link": "https://www.smbc-comics.com/comic/summary-2"
     }
   ]
 }
