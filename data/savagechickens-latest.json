@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-01T19:59:13.633Z",
+  "fetchedAt": "2026-07-02T09:16:23.199Z",
   "comics": [
+    {
+      "slug": "the-bad-dream",
+      "title": "The Bad Dream",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthebaddream.jpg",
+      "alt": "The Bad Dream",
+      "date": "2026-07-02",
+      "link": "https://www.savagechickens.com/2026/07/the-bad-dream.html"
+    },
     {
       "slug": "zut-alors",
       "title": "Zut Alors!",
@@ -76,14 +84,6 @@
       "alt": "Apocalypse TV",
       "date": "2026-06-19",
       "link": "https://www.savagechickens.com/2026/06/apocalypse-tv.html"
-    },
-    {
-      "slug": "little-disappointments",
-      "title": "Little Disappointments",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickendisappointments-1.jpg",
-      "alt": "Little Disappointments",
-      "date": "2026-06-18",
-      "link": "https://www.savagechickens.com/2026/06/little-disappointments.html"
     }
   ]
 }
