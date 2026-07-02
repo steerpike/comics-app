@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 60,
-  "highestNum": 4490,
-  "fetchedAt": "2026-06-29T20:01:02.548Z",
+  "total": 61,
+  "highestNum": 4491,
+  "fetchedAt": "2026-07-02T19:27:20.087Z",
   "comics": [
     {
       "num": 4431,
@@ -483,6 +483,14 @@
       "alt": "how often are you getting pizza pie thrown into your eyes, dean?  dean.  dean i just wanna know why you assumed that was a universal experience",
       "date": "2026-06-29",
       "link": "http://www.qwantz.com/index.php?comic=4490"
+    },
+    {
+      "num": 4491,
+      "title": "batman cheat codes for real life",
+      "img": "http://www.qwantz.com/comics/comic2-5189.png",
+      "alt": "given the small size of our field we're also the worst there is at what we do, but we like to focus on the positive",
+      "date": "2026-07-02",
+      "link": "http://www.qwantz.com/index.php?comic=4491"
     }
   ]
 }

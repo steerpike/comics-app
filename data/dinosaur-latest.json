@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-07-02T09:16:19.319Z",
+  "fetchedAt": "2026-07-02T19:27:20.086Z",
   "comics": [
+    {
+      "num": 4491,
+      "title": "batman cheat codes for real life",
+      "img": "http://www.qwantz.com/comics/comic2-5189.png",
+      "alt": "given the small size of our field we're also the worst there is at what we do, but we like to focus on the positive",
+      "date": "2026-07-02",
+      "link": "http://www.qwantz.com/index.php?comic=4491"
+    },
     {
       "num": 4490,
       "title": "pop quiz is short for a) popular quiz, b) soda pop quiz, or c) discopop quiz",
@@ -76,14 +84,6 @@
       "alt": "i have some ",
       "date": "2026-06-10",
       "link": "http://www.qwantz.com/index.php?comic=4482"
-    },
-    {
-      "num": 4481,
-      "title": "if you have three (3) friends then let me just say WOW, BRAG MUCH??",
-      "img": "http://www.qwantz.com/comics/comic2-5179.png",
-      "alt": "getting hate mail from a dog is ruff, ruff, ruff",
-      "date": "2026-06-08",
-      "link": "http://www.qwantz.com/index.php?comic=4481"
     }
   ]
 }
