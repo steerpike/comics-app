@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-03T09:21:48.740Z",
+  "fetchedAt": "2026-07-03T19:26:10.145Z",
   "comics": [
+    {
+      "slug": "percent-2",
+      "title": "Percent",
+      "img": "https://www.smbc-comics.com/comics/1783019248-20260703.png",
+      "alt": "Later he starts adding quest items she doesn't want, but feels compelled to earn.",
+      "date": "2026-07-03",
+      "link": "https://www.smbc-comics.com/comic/percent-2"
+    },
     {
       "slug": "adult-3",
       "title": "Adult",
@@ -156,14 +164,6 @@
       "alt": "Idiot drawn to look like me because I am the idiot.",
       "date": "2026-06-15",
       "link": "https://www.smbc-comics.com/comic/duck-2"
-    },
-    {
-      "slug": "proof-6",
-      "title": "Proof",
-      "img": "https://www.smbc-comics.com/comics/1781226968-20260614.png",
-      "alt": "The notebook has feedback from a nurse, cowboy, and plumber.",
-      "date": "2026-06-14",
-      "link": "https://www.smbc-comics.com/comic/proof-6"
     }
   ]
 }
