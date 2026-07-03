@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-02T19:27:24.377Z",
+  "fetchedAt": "2026-07-03T09:21:50.785Z",
   "comics": [
+    {
+      "slug": "expensive-stuff",
+      "title": "Expensive Stuff",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenexpensivestuff.jpg",
+      "alt": "Expensive Stuff",
+      "date": "2026-07-03",
+      "link": "https://www.savagechickens.com/2026/07/expensive-stuff.html"
+    },
     {
       "slug": "the-bad-dream",
       "title": "The Bad Dream",
@@ -76,14 +84,6 @@
       "alt": "Shockotronic",
       "date": "2026-06-22",
       "link": "https://www.savagechickens.com/2026/06/shockotronic.html"
-    },
-    {
-      "slug": "apocalypse-tv",
-      "title": "Apocalypse TV",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenapocalypsetv.jpg",
-      "alt": "Apocalypse TV",
-      "date": "2026-06-19",
-      "link": "https://www.savagechickens.com/2026/06/apocalypse-tv.html"
     }
   ]
 }
