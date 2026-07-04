@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-04T08:40:28.336Z",
+  "fetchedAt": "2026-07-04T19:17:25.876Z",
   "comics": [
+    {
+      "slug": "typical",
+      "title": "Typical",
+      "img": "https://www.smbc-comics.com/comics/1783107265-20260704.png",
+      "alt": "I believe it follows that an average married man should be looking for about 5/6 of a wife.",
+      "date": "2026-07-04",
+      "link": "https://www.smbc-comics.com/comic/typical"
+    },
     {
       "slug": "percent-2",
       "title": "Percent",
@@ -156,14 +164,6 @@
       "alt": "We're going to build a recursively self-improving god-like machine intelligence that wants to destroy humanity, but it's OK because I have a hole.",
       "date": "2026-06-16",
       "link": "https://www.smbc-comics.com/comic/bunker"
-    },
-    {
-      "slug": "duck-2",
-      "title": "Duck",
-      "img": "https://www.smbc-comics.com/comics/1781314358-20260615.png",
-      "alt": "Idiot drawn to look like me because I am the idiot.",
-      "date": "2026-06-15",
-      "link": "https://www.smbc-comics.com/comic/duck-2"
     }
   ]
 }
