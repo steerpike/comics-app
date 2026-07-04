@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3266,
-  "fetchedAt": "2026-07-03T19:26:09.601Z",
+  "latestNum": 3267,
+  "fetchedAt": "2026-07-04T08:40:27.554Z",
   "comics": [
+    {
+      "num": 3267,
+      "title": "Types of Tornado Alert",
+      "img": "https://imgs.xkcd.com/comics/types_of_tornado_alert.png",
+      "alt": "I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.",
+      "date": "2026-07-03"
+    },
     {
       "num": 3266,
       "title": "Holes",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/182_8_meters.png",
       "alt": "They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.",
       "date": "2026-05-20"
-    },
-    {
-      "num": 3247,
-      "title": "Particle Census",
-      "img": "https://imgs.xkcd.com/comics/particle_census.png",
-      "alt": "Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.",
-      "date": "2026-05-18"
     }
   ]
 }

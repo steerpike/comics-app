@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3265,
-  "latestNum": 3266,
-  "fetchedAt": "2026-07-02T09:16:18.883Z",
+  "total": 3266,
+  "latestNum": 3267,
+  "fetchedAt": "2026-07-04T08:40:27.565Z",
   "comics": [
     {
       "num": 1,
@@ -22858,6 +22858,13 @@
       "img": "https://imgs.xkcd.com/comics/holes.png",
       "alt": "If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do.",
       "date": "2026-07-01"
+    },
+    {
+      "num": 3267,
+      "title": "Types of Tornado Alert",
+      "img": "https://imgs.xkcd.com/comics/types_of_tornado_alert.png",
+      "alt": "I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.",
+      "date": "2026-07-03"
     }
   ]
 }
