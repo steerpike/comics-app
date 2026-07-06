@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-07-06T10:27:40.621Z",
+  "fetchedAt": "2026-07-06T20:01:06.655Z",
   "comics": [
+    {
+      "num": 4492,
+      "title": "standing next to your own personal bespoke wario is cool because they honestly make you look GREAT",
+      "img": "http://www.qwantz.com/comics/comic2-5190.png",
+      "alt": "PRO-TIP: you don't need an app to remind you to take a break and drink some water when your computer's vacuum tubes burn out 15 times a day instead.  just drink then.  easy",
+      "date": "2026-07-06",
+      "link": "http://www.qwantz.com/index.php?comic=4492"
+    },
     {
       "num": 4491,
       "title": "batman cheat codes for real life",
@@ -76,14 +84,6 @@
       "alt": "meet a thousand babies and only four of them will be suckers!  this is good news for anyone whose life has - perhaps through no fault of their own - brought them to circumstances in which they must now absolutely meet one thousand babies",
       "date": "2026-06-12",
       "link": "http://www.qwantz.com/index.php?comic=4483"
-    },
-    {
-      "num": 4482,
-      "title": "finger-quotes disease can be treated with a short length of rope, sturdy and true, to tie your hands behind your back",
-      "img": "http://www.qwantz.com/comics/comic2-5180.png",
-      "alt": "i have some ",
-      "date": "2026-06-10",
-      "link": "http://www.qwantz.com/index.php?comic=4482"
     }
   ]
 }
