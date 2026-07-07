@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3267,
-  "fetchedAt": "2026-07-06T20:01:06.257Z",
+  "latestNum": 3268,
+  "fetchedAt": "2026-07-07T09:46:11.475Z",
   "comics": [
+    {
+      "num": 3268,
+      "title": "Offside",
+      "img": "https://imgs.xkcd.com/comics/offside.png",
+      "alt": "The arbiter gave my knight a red card for capturing with cleats up :(",
+      "date": "2026-07-06"
+    },
     {
       "num": 3267,
       "title": "Types of Tornado Alert",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/neutrino_project.png",
       "alt": "We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.",
       "date": "2026-05-22"
-    },
-    {
-      "num": 3248,
-      "title": "182.8 Meters",
-      "img": "https://imgs.xkcd.com/comics/182_8_meters.png",
-      "alt": "They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.",
-      "date": "2026-05-20"
     }
   ]
 }

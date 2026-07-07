@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-06T20:01:13.278Z",
+  "fetchedAt": "2026-07-07T09:46:13.995Z",
   "comics": [
+    {
+      "slug": "the-most-important",
+      "title": "The Most Important",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthemostimportant.jpg",
+      "alt": "The Most Important",
+      "date": "2026-07-07",
+      "link": "https://www.savagechickens.com/2026/07/the-most-important.html"
+    },
     {
       "slug": "absolutely-2",
       "title": "Absolutely",
@@ -76,14 +84,6 @@
       "alt": "Ouch!",
       "date": "2026-06-24",
       "link": "https://www.savagechickens.com/2026/06/ouch.html"
-    },
-    {
-      "slug": "making-a-difference",
-      "title": "Making A Difference",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmakingadifference.jpg",
-      "alt": "Making A Difference",
-      "date": "2026-06-23",
-      "link": "https://www.savagechickens.com/2026/06/making-a-difference.html"
     }
   ]
 }

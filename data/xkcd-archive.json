@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3266,
-  "latestNum": 3267,
-  "fetchedAt": "2026-07-04T08:40:27.565Z",
+  "total": 3267,
+  "latestNum": 3268,
+  "fetchedAt": "2026-07-07T09:46:11.485Z",
   "comics": [
     {
       "num": 1,
@@ -22865,6 +22865,13 @@
       "img": "https://imgs.xkcd.com/comics/types_of_tornado_alert.png",
       "alt": "I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.",
       "date": "2026-07-03"
+    },
+    {
+      "num": 3268,
+      "title": "Offside",
+      "img": "https://imgs.xkcd.com/comics/offside.png",
+      "alt": "The arbiter gave my knight a red card for capturing with cleats up :(",
+      "date": "2026-07-06"
     }
   ]
 }
