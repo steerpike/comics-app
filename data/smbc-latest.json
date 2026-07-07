@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-07T09:46:12.129Z",
+  "fetchedAt": "2026-07-07T19:58:19.251Z",
   "comics": [
+    {
+      "slug": "turing",
+      "title": "Turing",
+      "img": "https://www.smbc-comics.com/comics/1783368305-20260707.png",
+      "alt": "Later they make you pay for the premium version in order to betray humanity.",
+      "date": "2026-07-07",
+      "link": "https://www.smbc-comics.com/comic/turing"
+    },
     {
       "slug": "memory-4",
       "title": "Memory",
@@ -156,14 +164,6 @@
       "alt": "Later the drug dealer gets nostalgic about how in the 90s economy you could give out the first one free.",
       "date": "2026-06-17",
       "link": "https://www.smbc-comics.com/comic/deal"
-    },
-    {
-      "slug": "sawyer",
-      "title": "Sawyer",
-      "img": "https://www.smbc-comics.com/comics/1781614380-sawyerlaunchletter.png",
-      "alt": "<3<3<3",
-      "date": "2026-06-16",
-      "link": "https://www.smbc-comics.com/comic/sawyer"
     }
   ]
 }
