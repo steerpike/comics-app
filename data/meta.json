@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-08T08:32:23.042Z",
+  "fetchedAt": "2026-07-08T19:36:20.130Z",
   "sources": {
     "xkcd": "ok",
-    "dinosaur": "ok",
+    "dinosaur": "error: Request timed out after 15s for https://www.qwantz.com/rssfeed.php",
     "smbc": "ok",
-    "wondermark": "ok",
+    "wondermark": "error: Request timed out after 15s for https://wondermark.com/feed/",
     "nedroid": "ok",
     "poorlydrawnlines": "error: HTTP 202 for https://poorlydrawnlines.com/feed/",
     "savagechickens": "ok",

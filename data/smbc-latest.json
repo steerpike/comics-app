@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-08T08:32:20.604Z",
+  "fetchedAt": "2026-07-08T19:36:03.735Z",
   "comics": [
+    {
+      "slug": "four-3",
+      "title": "Four",
+      "img": "https://www.smbc-comics.com/comics/1783368346-20260708.png",
+      "alt": "Readers are encouraged to try to beat this, and fail.",
+      "date": "2026-07-08",
+      "link": "https://www.smbc-comics.com/comic/four-3"
+    },
     {
       "slug": "turing",
       "title": "Turing",
@@ -156,14 +164,6 @@
       "alt": "Kelly told me this one was too weird, so please make it popular so she has to roll her eyes.",
       "date": "2026-06-18",
       "link": "https://www.smbc-comics.com/comic/spooky-3"
-    },
-    {
-      "slug": "deal",
-      "title": "Deal",
-      "img": "https://www.smbc-comics.com/comics/1781661979-20260617.png",
-      "alt": "Later the drug dealer gets nostalgic about how in the 90s economy you could give out the first one free.",
-      "date": "2026-06-17",
-      "link": "https://www.smbc-comics.com/comic/deal"
     }
   ]
 }
