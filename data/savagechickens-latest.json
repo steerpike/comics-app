@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-07T19:58:20.802Z",
+  "fetchedAt": "2026-07-08T08:32:22.312Z",
   "comics": [
+    {
+      "slug": "dialing-in",
+      "title": "Dialing In",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickendialingin.jpg",
+      "alt": "Dailing In",
+      "date": "2026-07-08",
+      "link": "https://www.savagechickens.com/2026/07/dialing-in.html"
+    },
     {
       "slug": "the-most-important",
       "title": "The Most Important",
@@ -76,14 +84,6 @@
       "alt": "Out of the Darkness",
       "date": "2026-06-25",
       "link": "https://www.savagechickens.com/2026/06/out-of-the-darkness.html"
-    },
-    {
-      "slug": "ouch",
-      "title": "Ouch!",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenouchheadache.jpg",
-      "alt": "Ouch!",
-      "date": "2026-06-24",
-      "link": "https://www.savagechickens.com/2026/06/ouch.html"
     }
   ]
 }
