@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-09T09:48:04.938Z",
+  "fetchedAt": "2026-07-09T19:49:21.234Z",
   "comics": [
+    {
+      "slug": "zod",
+      "title": "Zod",
+      "img": "https://www.smbc-comics.com/comics/1783535367-20260709.png",
+      "alt": "I recently rewatched the 80s Superman movies, and it's really unclear to me why they will not Kneel Before Zod.",
+      "date": "2026-07-09",
+      "link": "https://www.smbc-comics.com/comic/zod"
+    },
     {
       "slug": "four-3",
       "title": "Four",
@@ -156,14 +164,6 @@
       "alt": "Unfortunately, so much mitochondrial energy flowed to the dong that all the cognitive stats selected for got blocked.",
       "date": "2026-06-19",
       "link": "https://www.smbc-comics.com/comic/gwas"
-    },
-    {
-      "slug": "spooky-3",
-      "title": "Spooky",
-      "img": "https://www.smbc-comics.com/comics/1781743636-20260618.png",
-      "alt": "Kelly told me this one was too weird, so please make it popular so she has to roll her eyes.",
-      "date": "2026-06-18",
-      "link": "https://www.smbc-comics.com/comic/spooky-3"
     }
   ]
 }
