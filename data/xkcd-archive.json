@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3267,
-  "latestNum": 3268,
-  "fetchedAt": "2026-07-07T09:46:11.485Z",
+  "total": 3268,
+  "latestNum": 3269,
+  "fetchedAt": "2026-07-09T09:48:04.539Z",
   "comics": [
     {
       "num": 1,
@@ -22872,6 +22872,13 @@
       "img": "https://imgs.xkcd.com/comics/offside.png",
       "alt": "The arbiter gave my knight a red card for capturing with cleats up :(",
       "date": "2026-07-06"
+    },
+    {
+      "num": 3269,
+      "title": "Airport Meeting",
+      "img": "https://imgs.xkcd.com/comics/airport_meeting.png",
+      "alt": "Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'",
+      "date": "2026-07-08"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 62,
-  "highestNum": 4492,
-  "fetchedAt": "2026-07-06T20:01:06.656Z",
+  "total": 63,
+  "highestNum": 4493,
+  "fetchedAt": "2026-07-09T09:48:04.691Z",
   "comics": [
     {
       "num": 4431,
@@ -499,6 +499,14 @@
       "alt": "PRO-TIP: you don't need an app to remind you to take a break and drink some water when your computer's vacuum tubes burn out 15 times a day instead.  just drink then.  easy",
       "date": "2026-07-06",
       "link": "http://www.qwantz.com/index.php?comic=4492"
+    },
+    {
+      "num": 4493,
+      "title": "the operation was a success, but the operation was ALSO a huge mistake!",
+      "img": "http://www.qwantz.com/comics/comic2-5191.png",
+      "alt": "and i don't have to tell you this, but when that happens in a matter/antimatter intermix chamber it's not great",
+      "date": "2026-07-08",
+      "link": "http://www.qwantz.com/index.php?comic=4493"
     }
   ]
 }

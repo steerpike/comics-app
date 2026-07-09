@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-07-08T08:32:20.087Z",
+  "fetchedAt": "2026-07-09T09:48:04.690Z",
   "comics": [
+    {
+      "num": 4493,
+      "title": "the operation was a success, but the operation was ALSO a huge mistake!",
+      "img": "http://www.qwantz.com/comics/comic2-5191.png",
+      "alt": "and i don't have to tell you this, but when that happens in a matter/antimatter intermix chamber it's not great",
+      "date": "2026-07-08",
+      "link": "http://www.qwantz.com/index.php?comic=4493"
+    },
     {
       "num": 4492,
       "title": "standing next to your own personal bespoke wario is cool because they honestly make you look GREAT",
@@ -76,14 +84,6 @@
       "alt": "whenever a character in a movie looks through binoculars they should see that old-timey silent film train racing towards them, and THEN, according to KULESHOV, when they lower their binoculars we'll all get to see a reaction to that train.  filmic art, baby",
       "date": "2026-06-15",
       "link": "http://www.qwantz.com/index.php?comic=4484"
-    },
-    {
-      "num": 4483,
-      "title": "doctors have tests they can do, so if you're the sucker that was born in that minute they'll know and then they have to tell your parents",
-      "img": "http://www.qwantz.com/comics/comic2-5181.png",
-      "alt": "meet a thousand babies and only four of them will be suckers!  this is good news for anyone whose life has - perhaps through no fault of their own - brought them to circumstances in which they must now absolutely meet one thousand babies",
-      "date": "2026-06-12",
-      "link": "http://www.qwantz.com/index.php?comic=4483"
     }
   ]
 }

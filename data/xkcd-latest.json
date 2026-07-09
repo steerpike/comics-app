@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3268,
-  "fetchedAt": "2026-07-08T19:35:48.432Z",
+  "latestNum": 3269,
+  "fetchedAt": "2026-07-09T09:48:04.528Z",
   "comics": [
+    {
+      "num": 3269,
+      "title": "Airport Meeting",
+      "img": "https://imgs.xkcd.com/comics/airport_meeting.png",
+      "alt": "Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'",
+      "date": "2026-07-08"
+    },
     {
       "num": 3268,
       "title": "Offside",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/flag_design.png",
       "alt": "Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.",
       "date": "2026-05-25"
-    },
-    {
-      "num": 3249,
-      "title": "Neutrino Project",
-      "img": "https://imgs.xkcd.com/comics/neutrino_project.png",
-      "alt": "We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.",
-      "date": "2026-05-22"
     }
   ]
 }

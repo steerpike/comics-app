@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-08T19:36:19.681Z",
+  "fetchedAt": "2026-07-09T09:48:06.385Z",
   "comics": [
+    {
+      "slug": "sing-2",
+      "title": "Sing!",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenilovetosing.jpg",
+      "alt": "Sing!",
+      "date": "2026-07-09",
+      "link": "https://www.savagechickens.com/2026/07/sing-2.html"
+    },
     {
       "slug": "dialing-in",
       "title": "Dialing In",
@@ -76,14 +84,6 @@
       "alt": "Happy Place",
       "date": "2026-06-26",
       "link": "https://www.savagechickens.com/2026/06/happy-place.html"
-    },
-    {
-      "slug": "out-of-the-darkness",
-      "title": "Out of the Darkness",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenoutofthedarkness.jpg",
-      "alt": "Out of the Darkness",
-      "date": "2026-06-25",
-      "link": "https://www.savagechickens.com/2026/06/out-of-the-darkness.html"
     }
   ]
 }
