@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 63,
-  "highestNum": 4493,
-  "fetchedAt": "2026-07-09T09:48:04.691Z",
+  "total": 64,
+  "highestNum": 4494,
+  "fetchedAt": "2026-07-10T09:39:14.912Z",
   "comics": [
     {
       "num": 4431,
@@ -507,6 +507,14 @@
       "alt": "and i don't have to tell you this, but when that happens in a matter/antimatter intermix chamber it's not great",
       "date": "2026-07-08",
       "link": "http://www.qwantz.com/index.php?comic=4493"
+    },
+    {
+      "num": 4494,
+      "title": "FINALLY a detective with significant AND game-breaking advantages",
+      "img": "http://www.qwantz.com/comics/comic2-5192.png",
+      "alt": "yes mr. and mrs. flies decided to name their baby ",
+      "date": "2026-07-10",
+      "link": "http://www.qwantz.com/index.php?comic=4494"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-07-09T19:49:20.895Z",
+  "fetchedAt": "2026-07-10T09:39:14.911Z",
   "comics": [
+    {
+      "num": 4494,
+      "title": "FINALLY a detective with significant AND game-breaking advantages",
+      "img": "http://www.qwantz.com/comics/comic2-5192.png",
+      "alt": "yes mr. and mrs. flies decided to name their baby ",
+      "date": "2026-07-10",
+      "link": "http://www.qwantz.com/index.php?comic=4494"
+    },
     {
       "num": 4493,
       "title": "the operation was a success, but the operation was ALSO a huge mistake!",
@@ -76,14 +84,6 @@
       "alt": "...wait, when the power goes out i DO search my cupboards for horses.  am i not supposed to",
       "date": "2026-06-17",
       "link": "http://www.qwantz.com/index.php?comic=4485"
-    },
-    {
-      "num": 4484,
-      "title": "t-rex's movie mashup minute",
-      "img": "http://www.qwantz.com/comics/comic2-5182.png",
-      "alt": "whenever a character in a movie looks through binoculars they should see that old-timey silent film train racing towards them, and THEN, according to KULESHOV, when they lower their binoculars we'll all get to see a reaction to that train.  filmic art, baby",
-      "date": "2026-06-15",
-      "link": "http://www.qwantz.com/index.php?comic=4484"
     }
   ]
 }
