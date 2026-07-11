@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3269,
-  "fetchedAt": "2026-07-10T19:36:05.785Z",
+  "latestNum": 3270,
+  "fetchedAt": "2026-07-11T07:59:18.573Z",
   "comics": [
+    {
+      "num": 3270,
+      "title": "Toasting Marshmallows",
+      "img": "https://imgs.xkcd.com/comics/toasting_marshmallows.png",
+      "alt": "We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.",
+      "date": "2026-07-10"
+    },
     {
       "num": 3269,
       "title": "Airport Meeting",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/time_machine_conversation.png",
       "alt": "It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.",
       "date": "2026-05-27"
-    },
-    {
-      "num": 3250,
-      "title": "Flag Design",
-      "img": "https://imgs.xkcd.com/comics/flag_design.png",
-      "alt": "Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.",
-      "date": "2026-05-25"
     }
   ]
 }
