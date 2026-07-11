@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-11T07:59:19.141Z",
+  "fetchedAt": "2026-07-11T19:07:11.382Z",
   "comics": [
+    {
+      "slug": "dadalus",
+      "title": "Dadalus",
+      "img": "https://www.smbc-comics.com/comics/1783714459-20260711.png",
+      "alt": "Disobey God and get drowned immediately is really more of an Abrahamic religion thing.",
+      "date": "2026-07-11",
+      "link": "https://www.smbc-comics.com/comic/dadalus"
+    },
     {
       "slug": "final",
       "title": "Final",
@@ -156,14 +164,6 @@
       "alt": "They later left because the flesh-trees made everyone uncomfortable.",
       "date": "2026-06-21",
       "link": "https://www.smbc-comics.com/comic/ginge"
-    },
-    {
-      "slug": "ubi",
-      "title": "UBI",
-      "img": "https://www.smbc-comics.com/comics/1781743829-20260620.png",
-      "alt": "The good news is everyone has job security in the post-scarcity world.",
-      "date": "2026-06-20",
-      "link": "https://www.smbc-comics.com/comic/ubi"
     }
   ]
 }
