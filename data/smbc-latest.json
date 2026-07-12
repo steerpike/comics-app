@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-12T08:21:09.371Z",
+  "fetchedAt": "2026-07-12T19:08:16.206Z",
   "comics": [
+    {
+      "slug": "old-2",
+      "title": "Old",
+      "img": "https://www.smbc-comics.com/comics/1783714502-20260712.png",
+      "alt": "Things will never again be so beautiful.",
+      "date": "2026-07-12",
+      "link": "https://www.smbc-comics.com/comic/old-2"
+    },
     {
       "slug": "dadalus",
       "title": "Dadalus",
@@ -156,14 +164,6 @@
       "alt": "There should be a movie that, at the end, says that the lesson is that it is good to have the type of friend and kinship network favored by recently evolved East African apes.",
       "date": "2026-06-22",
       "link": "https://www.smbc-comics.com/comic/she"
-    },
-    {
-      "slug": "ginge",
-      "title": "Ginge",
-      "img": "https://www.smbc-comics.com/comics/1781743897-20260621.png",
-      "alt": "They later left because the flesh-trees made everyone uncomfortable.",
-      "date": "2026-06-21",
-      "link": "https://www.smbc-comics.com/comic/ginge"
     }
   ]
 }
