@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-12T19:08:17.766Z",
+  "fetchedAt": "2026-07-13T09:31:24.762Z",
   "comics": [
+    {
+      "slug": "getting-nowhere",
+      "title": "Getting Nowhere",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickengettingnowhere.jpg",
+      "alt": "Getting Nowhere",
+      "date": "2026-07-13",
+      "link": "https://www.savagechickens.com/2026/07/getting-nowhere.html"
+    },
     {
       "slug": "sleeping-in",
       "title": "Sleeping In",
@@ -76,14 +84,6 @@
       "alt": "Grumblotron!",
       "date": "2026-06-30",
       "link": "https://www.savagechickens.com/2026/06/grumblotron.html"
-    },
-    {
-      "slug": "near-future",
-      "title": "Near Future",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickennearfuture.jpg",
-      "alt": "Near Future",
-      "date": "2026-06-29",
-      "link": "https://www.savagechickens.com/2026/06/near-future.html"
     }
   ]
 }
