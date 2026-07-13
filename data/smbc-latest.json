@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-13T09:31:23.162Z",
+  "fetchedAt": "2026-07-13T19:25:26.276Z",
   "comics": [
+    {
+      "slug": "evolution-10",
+      "title": "Evolution",
+      "img": "https://www.smbc-comics.com/comics/1783897667-20260713.png",
+      "alt": "This is why humans evolved our unique ability to self-deceive.",
+      "date": "2026-07-13",
+      "link": "https://www.smbc-comics.com/comic/evolution-10"
+    },
     {
       "slug": "old-2",
       "title": "Old",
@@ -156,14 +164,6 @@
       "alt": "We were both spiraling, kids, when we found each other.",
       "date": "2026-06-23",
       "link": "https://www.smbc-comics.com/comic/spiraling"
-    },
-    {
-      "slug": "she",
-      "title": "She",
-      "img": "https://www.smbc-comics.com/comics/1782076832-20260622-edit.png",
-      "alt": "There should be a movie that, at the end, says that the lesson is that it is good to have the type of friend and kinship network favored by recently evolved East African apes.",
-      "date": "2026-06-22",
-      "link": "https://www.smbc-comics.com/comic/she"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-07-13T09:31:22.850Z",
+  "fetchedAt": "2026-07-13T19:25:26.075Z",
   "comics": [
+    {
+      "num": 4495,
+      "title": "COMIX 4 KIDƧ!!  Wait, no, sorry kids, nevermind.  This is COMIX 4 ADULTS COMPLAINING ABOUT KIDƧ!",
+      "img": "http://www.qwantz.com/comics/comic2-5193.png",
+      "alt": "i'd tell you to walk it off, but you don't know how to walk, so - crawl it off!  oh, no crawling yet either?  uh... roll it off?",
+      "date": "2026-07-13",
+      "link": "http://www.qwantz.com/index.php?comic=4495"
+    },
     {
       "num": 4494,
       "title": "FINALLY a detective with significant AND game-breaking advantages",
@@ -76,14 +84,6 @@
       "alt": "i'll consider art when i'm dead, and since i'm gonna be dead for a LOT longer than i'm alive, living is for filling up that art-consideration tank. to answer your question: no i am NOT interested in discussing my unusual theology any further",
       "date": "2026-06-19",
       "link": "http://www.qwantz.com/index.php?comic=4486"
-    },
-    {
-      "num": 4485,
-      "title": "non-candle-based lights, today known as \"lights\"",
-      "img": "http://www.qwantz.com/comics/comic2-5183.png",
-      "alt": "...wait, when the power goes out i DO search my cupboards for horses.  am i not supposed to",
-      "date": "2026-06-17",
-      "link": "http://www.qwantz.com/index.php?comic=4485"
     }
   ]
 }

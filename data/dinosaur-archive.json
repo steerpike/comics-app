@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 64,
-  "highestNum": 4494,
-  "fetchedAt": "2026-07-10T09:39:14.912Z",
+  "total": 65,
+  "highestNum": 4495,
+  "fetchedAt": "2026-07-13T19:25:26.075Z",
   "comics": [
     {
       "num": 4431,
@@ -515,6 +515,14 @@
       "alt": "yes mr. and mrs. flies decided to name their baby ",
       "date": "2026-07-10",
       "link": "http://www.qwantz.com/index.php?comic=4494"
+    },
+    {
+      "num": 4495,
+      "title": "COMIX 4 KIDƧ!!  Wait, no, sorry kids, nevermind.  This is COMIX 4 ADULTS COMPLAINING ABOUT KIDƧ!",
+      "img": "http://www.qwantz.com/comics/comic2-5193.png",
+      "alt": "i'd tell you to walk it off, but you don't know how to walk, so - crawl it off!  oh, no crawling yet either?  uh... roll it off?",
+      "date": "2026-07-13",
+      "link": "http://www.qwantz.com/index.php?comic=4495"
     }
   ]
 }
