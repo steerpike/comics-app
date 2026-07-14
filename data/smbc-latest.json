@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-14T08:09:46.963Z",
+  "fetchedAt": "2026-07-14T19:22:48.487Z",
   "comics": [
+    {
+      "slug": "communication-2",
+      "title": "Communication",
+      "img": "https://www.smbc-comics.com/comics/1783978253-20260714.png",
+      "alt": "They can also communicate via quantum superposition, but it's way less interesting.",
+      "date": "2026-07-14",
+      "link": "https://www.smbc-comics.com/comic/communication-2"
+    },
     {
       "slug": "evolution-10",
       "title": "Evolution",
@@ -156,14 +164,6 @@
       "alt": "This is officially a dare, standup comics.",
       "date": "2026-06-24",
       "link": "https://www.smbc-comics.com/comic/comedy-2"
-    },
-    {
-      "slug": "spiraling",
-      "title": "Spiraling",
-      "img": "https://www.smbc-comics.com/comics/1782077132-20260623.png",
-      "alt": "We were both spiraling, kids, when we found each other.",
-      "date": "2026-06-23",
-      "link": "https://www.smbc-comics.com/comic/spiraling"
     }
   ]
 }
