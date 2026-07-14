@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3269,
-  "latestNum": 3270,
-  "fetchedAt": "2026-07-11T07:59:18.584Z",
+  "total": 3270,
+  "latestNum": 3271,
+  "fetchedAt": "2026-07-14T08:09:46.568Z",
   "comics": [
     {
       "num": 1,
@@ -22886,6 +22886,13 @@
       "img": "https://imgs.xkcd.com/comics/toasting_marshmallows.png",
       "alt": "We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.",
       "date": "2026-07-10"
+    },
+    {
+      "num": 3271,
+      "title": "The Princess and the Pea",
+      "img": "https://imgs.xkcd.com/comics/the_princess_and_the_pea.png",
+      "alt": "Once we've fully explored this space, we can start varying the number of princesses.",
+      "date": "2026-07-13"
     }
   ]
 }
