@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 65,
-  "highestNum": 4495,
-  "fetchedAt": "2026-07-13T19:25:26.075Z",
+  "total": 66,
+  "highestNum": 4496,
+  "fetchedAt": "2026-07-15T19:14:28.883Z",
   "comics": [
     {
       "num": 4431,
@@ -523,6 +523,14 @@
       "alt": "i'd tell you to walk it off, but you don't know how to walk, so - crawl it off!  oh, no crawling yet either?  uh... roll it off?",
       "date": "2026-07-13",
       "link": "http://www.qwantz.com/index.php?comic=4495"
+    },
+    {
+      "num": 4496,
+      "title": "i'd imagine it seems like MOST people hate growing hair, given how often we shave it, cut it, or destroy it with actual lasers???",
+      "img": "http://www.qwantz.com/comics/comic2-5194.png",
+      "alt": "it's only SOME of the way there and i could not have communicated that more clearly",
+      "date": "2026-07-15",
+      "link": "http://www.qwantz.com/index.php?comic=4496"
     }
   ]
 }

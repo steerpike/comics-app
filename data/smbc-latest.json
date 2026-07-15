@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-15T08:15:49.520Z",
+  "fetchedAt": "2026-07-15T19:14:29.097Z",
   "comics": [
+    {
+      "slug": "pac",
+      "title": "Pac",
+      "img": "https://www.smbc-comics.com/comics/1784066467-20260715.png",
+      "alt": "This is also why Daisy Duck has more linguistic capacity than Donald.",
+      "date": "2026-07-15",
+      "link": "https://www.smbc-comics.com/comic/pac"
+    },
     {
       "slug": "communication-2",
       "title": "Communication",
@@ -156,14 +164,6 @@
       "alt": "I've been doing jokes about robots being better than humans for 20 years, but just lately I got told I do too much AI propaganda.",
       "date": "2026-06-25",
       "link": "https://www.smbc-comics.com/comic/agency"
-    },
-    {
-      "slug": "comedy-2",
-      "title": "Comedy",
-      "img": "https://www.smbc-comics.com/comics/1782175517-20260624.png",
-      "alt": "This is officially a dare, standup comics.",
-      "date": "2026-06-24",
-      "link": "https://www.smbc-comics.com/comic/comedy-2"
     }
   ]
 }

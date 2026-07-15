@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-07-15T08:15:49.192Z",
+  "fetchedAt": "2026-07-15T19:14:28.882Z",
   "comics": [
+    {
+      "num": 4496,
+      "title": "i'd imagine it seems like MOST people hate growing hair, given how often we shave it, cut it, or destroy it with actual lasers???",
+      "img": "http://www.qwantz.com/comics/comic2-5194.png",
+      "alt": "it's only SOME of the way there and i could not have communicated that more clearly",
+      "date": "2026-07-15",
+      "link": "http://www.qwantz.com/index.php?comic=4496"
+    },
     {
       "num": 4495,
       "title": "COMIX 4 KIDƧ!!  Wait, no, sorry kids, nevermind.  This is COMIX 4 ADULTS COMPLAINING ABOUT KIDƧ!",
@@ -76,14 +84,6 @@
       "alt": "sherlock put on a hamburger costume and deduced it felt all wrong for him.  he was a polish sausage costume guy or he was NOTHING",
       "date": "2026-06-22",
       "link": "http://www.qwantz.com/index.php?comic=4487"
-    },
-    {
-      "num": 4486,
-      "title": "art is life",
-      "img": "http://www.qwantz.com/comics/comic2-5184.png",
-      "alt": "i'll consider art when i'm dead, and since i'm gonna be dead for a LOT longer than i'm alive, living is for filling up that art-consideration tank. to answer your question: no i am NOT interested in discussing my unusual theology any further",
-      "date": "2026-06-19",
-      "link": "http://www.qwantz.com/index.php?comic=4486"
     }
   ]
 }
