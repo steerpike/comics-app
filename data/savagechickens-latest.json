@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-14T19:22:50.156Z",
+  "fetchedAt": "2026-07-15T08:15:51.224Z",
   "comics": [
+    {
+      "slug": "lashing-out",
+      "title": "Lashing Out",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenlashingout.jpg",
+      "alt": "Lashing Out",
+      "date": "2026-07-15",
+      "link": "https://www.savagechickens.com/2026/07/lashing-out.html"
+    },
     {
       "slug": "the-attention",
       "title": "The Attention",
@@ -76,14 +84,6 @@
       "alt": "The Bad Dream",
       "date": "2026-07-02",
       "link": "https://www.savagechickens.com/2026/07/the-bad-dream.html"
-    },
-    {
-      "slug": "zut-alors",
-      "title": "Zut Alors!",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenzutalors.jpg",
-      "alt": "Zut Alors!",
-      "date": "2026-07-01",
-      "link": "https://www.savagechickens.com/2026/07/zut-alors.html"
     }
   ]
 }
