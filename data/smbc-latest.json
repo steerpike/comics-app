@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-16T08:17:13.632Z",
+  "fetchedAt": "2026-07-16T19:14:55.314Z",
   "comics": [
+    {
+      "slug": "misery",
+      "title": "Misery",
+      "img": "https://www.smbc-comics.com/comics/1784157176-20260716.png",
+      "alt": "Genuinely, putting artists in charge of depicting the good life has been a catastrophe.",
+      "date": "2026-07-16",
+      "link": "https://www.smbc-comics.com/comic/misery"
+    },
     {
       "slug": "pac",
       "title": "Pac",
@@ -156,14 +164,6 @@
       "alt": "Come across this while reading Melanie Mitchell's delightful book, Complexity - A Guided Tour.",
       "date": "2026-06-26",
       "link": "https://www.smbc-comics.com/comic/milgram"
-    },
-    {
-      "slug": "agency",
-      "title": "Agency",
-      "img": "https://www.smbc-comics.com/comics/1782175610-20260625.png",
-      "alt": "I've been doing jokes about robots being better than humans for 20 years, but just lately I got told I do too much AI propaganda.",
-      "date": "2026-06-25",
-      "link": "https://www.smbc-comics.com/comic/agency"
     }
   ]
 }

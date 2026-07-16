@@ -3,8 +3,24 @@
   "name": "Buttersafe",
   "url": "https://www.buttersafe.com",
   "attribution": "Buttersafe by Alex Culang and Raynato Castro",
-  "fetchedAt": "2026-07-16T08:17:16.444Z",
+  "fetchedAt": "2026-07-16T19:14:57.838Z",
   "comics": [
+    {
+      "slug": "2026-07-09-the-mermaids-wish",
+      "title": "The Mermaid’s Wish",
+      "img": "http://www.buttersafe.com/comics/rss/2026-07-09-TheMermaidsWishRSS.jpg",
+      "alt": "The Mermaid’s Wish",
+      "date": "2026-07-09",
+      "link": "http://www.buttersafe.com/2026/07/09/the-mermaids-wish/"
+    },
+    {
+      "slug": "2026-07-02-from-the-ashes",
+      "title": "From The Ashes",
+      "img": "http://www.buttersafe.com/comics/rss/2026-07-02-FromTheAshesRSS.jpg",
+      "alt": "From The Ashes",
+      "date": "2026-07-02",
+      "link": "http://www.buttersafe.com/2026/07/02/from-the-ashes/"
+    },
     {
       "slug": "2026-06-25-horse-mirage",
       "title": "Horse Mirage",
@@ -148,14 +164,6 @@
       "alt": "Too Hot, Too Cold",
       "date": "2026-02-26",
       "link": "http://www.buttersafe.com/2026/02/26/too-hot-too-cold/"
-    },
-    {
-      "slug": "2026-02-19-you-complete-me",
-      "title": "You Complete Me",
-      "img": "http://www.buttersafe.com/comics/rss/2026-02-19-YouCompleteMeRSS.jpg",
-      "alt": "You Complete Me",
-      "date": "2026-02-19",
-      "link": "http://www.buttersafe.com/2026/02/19/you-complete-me/"
     }
   ]
 }
