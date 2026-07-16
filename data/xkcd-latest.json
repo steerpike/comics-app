@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3271,
-  "fetchedAt": "2026-07-15T19:14:28.359Z",
+  "latestNum": 3272,
+  "fetchedAt": "2026-07-16T08:17:13.058Z",
   "comics": [
+    {
+      "num": 3272,
+      "title": "Time Change",
+      "img": "https://imgs.xkcd.com/comics/time_change.png",
+      "alt": "All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.",
+      "date": "2026-07-15"
+    },
     {
       "num": 3271,
       "title": "The Princess and the Pea",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/sunbeam.png",
       "alt": "While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.",
       "date": "2026-06-01"
-    },
-    {
-      "num": 3252,
-      "title": "Ancestral Genomes",
-      "img": "https://imgs.xkcd.com/comics/ancestral_genomes.png",
-      "alt": "SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.",
-      "date": "2026-05-29"
     }
   ]
 }

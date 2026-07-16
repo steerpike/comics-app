@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-15T19:14:30.812Z",
+  "fetchedAt": "2026-07-16T08:17:15.452Z",
   "comics": [
+    {
+      "slug": "xenomorph-therapy",
+      "title": "Xenomorph Therapy",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenxenomorphtherapy.jpg",
+      "alt": "Xenomorph Therapy",
+      "date": "2026-07-16",
+      "link": "https://www.savagechickens.com/2026/07/xenomorph-therapy.html"
+    },
     {
       "slug": "lashing-out",
       "title": "Lashing Out",
@@ -76,14 +84,6 @@
       "alt": "Expensive Stuff",
       "date": "2026-07-03",
       "link": "https://www.savagechickens.com/2026/07/expensive-stuff.html"
-    },
-    {
-      "slug": "the-bad-dream",
-      "title": "The Bad Dream",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthebaddream.jpg",
-      "alt": "The Bad Dream",
-      "date": "2026-07-02",
-      "link": "https://www.savagechickens.com/2026/07/the-bad-dream.html"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3270,
-  "latestNum": 3271,
-  "fetchedAt": "2026-07-14T08:09:46.568Z",
+  "total": 3271,
+  "latestNum": 3272,
+  "fetchedAt": "2026-07-16T08:17:13.068Z",
   "comics": [
     {
       "num": 1,
@@ -22893,6 +22893,13 @@
       "img": "https://imgs.xkcd.com/comics/the_princess_and_the_pea.png",
       "alt": "Once we've fully explored this space, we can start varying the number of princesses.",
       "date": "2026-07-13"
+    },
+    {
+      "num": 3272,
+      "title": "Time Change",
+      "img": "https://imgs.xkcd.com/comics/time_change.png",
+      "alt": "All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.",
+      "date": "2026-07-15"
     }
   ]
 }
