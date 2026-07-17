@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-16T19:14:57.178Z",
+  "fetchedAt": "2026-07-17T19:13:39.421Z",
   "comics": [
+    {
+      "slug": "analysis",
+      "title": "Analysis",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenanalysis.jpg",
+      "alt": "Analysis",
+      "date": "2026-07-17",
+      "link": "https://www.savagechickens.com/2026/07/analysis.html"
+    },
     {
       "slug": "xenomorph-therapy",
       "title": "Xenomorph Therapy",
@@ -76,14 +84,6 @@
       "alt": "Absolutely",
       "date": "2026-07-06",
       "link": "https://www.savagechickens.com/2026/07/absolutely-2.html"
-    },
-    {
-      "slug": "expensive-stuff",
-      "title": "Expensive Stuff",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenexpensivestuff.jpg",
-      "alt": "Expensive Stuff",
-      "date": "2026-07-03",
-      "link": "https://www.savagechickens.com/2026/07/expensive-stuff.html"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-17T08:12:38.737Z",
+  "fetchedAt": "2026-07-17T19:13:37.560Z",
   "comics": [
+    {
+      "slug": "subjective",
+      "title": "Subjective",
+      "img": "https://www.smbc-comics.com/comics/1784250964-20260718.png",
+      "alt": "You occasionally, by accident, get fleeting glimpses of the truth, and then you ascribe them to muses and fairies and shit.",
+      "date": "2026-07-17",
+      "link": "https://www.smbc-comics.com/comic/subjective"
+    },
     {
       "slug": "misery",
       "title": "Misery",
@@ -156,14 +164,6 @@
       "alt": "Created after watching my CTO brother struggle to make an iPhone transmit live video to a Windows desktop for over an hour.",
       "date": "2026-06-27",
       "link": "https://www.smbc-comics.com/comic/mission"
-    },
-    {
-      "slug": "milgram",
-      "title": "Milgram",
-      "img": "https://www.smbc-comics.com/comics/1782416796-20260626 - Copy.png",
-      "alt": "Come across this while reading Melanie Mitchell's delightful book, Complexity - A Guided Tour.",
-      "date": "2026-06-26",
-      "link": "https://www.smbc-comics.com/comic/milgram"
     }
   ]
 }
