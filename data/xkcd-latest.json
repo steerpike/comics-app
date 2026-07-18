@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3272,
-  "fetchedAt": "2026-07-17T19:13:36.815Z",
+  "latestNum": 3273,
+  "fetchedAt": "2026-07-18T07:54:51.464Z",
   "comics": [
+    {
+      "num": 3273,
+      "title": "Latitude and Longitude",
+      "img": "https://imgs.xkcd.com/comics/latitude_and_longitude.png",
+      "alt": "NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).",
+      "date": "2026-07-17"
+    },
     {
       "num": 3272,
       "title": "Time Change",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/detector.png",
       "alt": "No other experiment has a lower false negative rate.",
       "date": "2026-06-03"
-    },
-    {
-      "num": 3253,
-      "title": "Sunbeam",
-      "img": "https://imgs.xkcd.com/comics/sunbeam.png",
-      "alt": "While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.",
-      "date": "2026-06-01"
     }
   ]
 }

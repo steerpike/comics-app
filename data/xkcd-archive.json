@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3271,
-  "latestNum": 3272,
-  "fetchedAt": "2026-07-16T08:17:13.068Z",
+  "total": 3272,
+  "latestNum": 3273,
+  "fetchedAt": "2026-07-18T07:54:51.474Z",
   "comics": [
     {
       "num": 1,
@@ -22900,6 +22900,13 @@
       "img": "https://imgs.xkcd.com/comics/time_change.png",
       "alt": "All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.",
       "date": "2026-07-15"
+    },
+    {
+      "num": 3273,
+      "title": "Latitude and Longitude",
+      "img": "https://imgs.xkcd.com/comics/latitude_and_longitude.png",
+      "alt": "NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).",
+      "date": "2026-07-17"
     }
   ]
 }
