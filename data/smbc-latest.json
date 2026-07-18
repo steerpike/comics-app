@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-18T07:54:52.169Z",
+  "fetchedAt": "2026-07-18T19:08:13.700Z",
   "comics": [
+    {
+      "slug": "list-2",
+      "title": "List",
+      "img": "https://www.smbc-comics.com/comics/1784305213-20260718.png",
+      "alt": "What a strange coincidence the way this keeps happening every day.",
+      "date": "2026-07-18",
+      "link": "https://www.smbc-comics.com/comic/list-2"
+    },
     {
       "slug": "subjective",
       "title": "Subjective",
@@ -156,14 +164,6 @@
       "alt": "This is why there are tons of fantasy books about alchemists and NOTHING about chemists.",
       "date": "2026-06-28",
       "link": "https://www.smbc-comics.com/comic/protocol-2"
-    },
-    {
-      "slug": "mission",
-      "title": "Mission",
-      "img": "https://www.smbc-comics.com/comics/1782416846-20260627.png",
-      "alt": "Created after watching my CTO brother struggle to make an iPhone transmit live video to a Windows desktop for over an hour.",
-      "date": "2026-06-27",
-      "link": "https://www.smbc-comics.com/comic/mission"
     }
   ]
 }
