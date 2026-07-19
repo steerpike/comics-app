@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-19T08:22:31.152Z",
+  "fetchedAt": "2026-07-19T19:09:24.944Z",
   "comics": [
+    {
+      "slug": "poof",
+      "title": "Poof",
+      "img": "https://www.smbc-comics.com/comics/1784307717-20260719-edit.png",
+      "alt": "Actually, things were at their best during the last year of my life when I had no responsibilities.",
+      "date": "2026-07-19",
+      "link": "https://www.smbc-comics.com/comic/poof"
+    },
     {
       "slug": "list-2",
       "title": "List",
@@ -156,14 +164,6 @@
       "alt": "Pretty sure Midas would've gotten plenty of action too.",
       "date": "2026-06-29",
       "link": "https://www.smbc-comics.com/comic/minos"
-    },
-    {
-      "slug": "protocol-2",
-      "title": "Protocol",
-      "img": "https://www.smbc-comics.com/comics/1782416890-20260628.png",
-      "alt": "This is why there are tons of fantasy books about alchemists and NOTHING about chemists.",
-      "date": "2026-06-28",
-      "link": "https://www.smbc-comics.com/comic/protocol-2"
     }
   ]
 }
