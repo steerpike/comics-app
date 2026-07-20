@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-20T09:18:05.181Z",
+  "fetchedAt": "2026-07-20T19:45:42.501Z",
   "comics": [
+    {
+      "slug": "sword-3",
+      "title": "Sword",
+      "img": "https://www.smbc-comics.com/comics/1784518178-20260720.png",
+      "alt": "Suddenly terrified that Matthew Wills already did this joke at some point.",
+      "date": "2026-07-20",
+      "link": "https://www.smbc-comics.com/comic/sword-3"
+    },
     {
       "slug": "poof",
       "title": "Poof",
@@ -156,14 +164,6 @@
       "alt": "It's not an uncanny valley, it's an uncanny mountain that you're afraid to climb.",
       "date": "2026-06-30",
       "link": "https://www.smbc-comics.com/comic/uncanny-3"
-    },
-    {
-      "slug": "minos",
-      "title": "Minos",
-      "img": "https://www.smbc-comics.com/comics/1782692310-20260629.png",
-      "alt": "Pretty sure Midas would've gotten plenty of action too.",
-      "date": "2026-06-29",
-      "link": "https://www.smbc-comics.com/comic/minos"
     }
   ]
 }

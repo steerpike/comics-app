@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 66,
-  "highestNum": 4496,
-  "fetchedAt": "2026-07-15T19:14:28.883Z",
+  "total": 67,
+  "highestNum": 4497,
+  "fetchedAt": "2026-07-20T19:45:42.172Z",
   "comics": [
     {
       "num": 4431,
@@ -531,6 +531,14 @@
       "alt": "it's only SOME of the way there and i could not have communicated that more clearly",
       "date": "2026-07-15",
       "link": "http://www.qwantz.com/index.php?comic=4496"
+    },
+    {
+      "num": 4497,
+      "title": "i'm in my forties now so let's just say i've got a LOT of experience picking people up",
+      "img": "http://www.qwantz.com/comics/comic2-5195.png",
+      "alt": "follow me for more pick-up advice, i'm something of a pick-up artist myself (I have cross-stitched my pick-up advice into very appealing pieces, each is one-of-a-kind and available at the art shows i'm participating in this summer)",
+      "date": "2026-07-20",
+      "link": "http://www.qwantz.com/index.php?comic=4497"
     }
   ]
 }

@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3273,
-  "fetchedAt": "2026-07-20T09:18:03.075Z",
+  "latestNum": 3274,
+  "fetchedAt": "2026-07-20T19:45:41.741Z",
   "comics": [
+    {
+      "num": 3274,
+      "title": "Arthurian Connector",
+      "img": "https://imgs.xkcd.com/comics/arthurian_connector.png",
+      "alt": "Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.",
+      "date": "2026-07-20"
+    },
     {
       "num": 3273,
       "title": "Latitude and Longitude",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/planetary_science.png",
       "alt": "The research was overseen by the Institutional Review Board, which is what I named my surfboard.",
       "date": "2026-06-05"
-    },
-    {
-      "num": 3254,
-      "title": "Detector",
-      "img": "https://imgs.xkcd.com/comics/detector.png",
-      "alt": "No other experiment has a lower false negative rate.",
-      "date": "2026-06-03"
     }
   ]
 }

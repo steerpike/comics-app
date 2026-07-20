@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-07-20T09:18:03.511Z",
+  "fetchedAt": "2026-07-20T19:45:42.171Z",
   "comics": [
+    {
+      "num": 4497,
+      "title": "i'm in my forties now so let's just say i've got a LOT of experience picking people up",
+      "img": "http://www.qwantz.com/comics/comic2-5195.png",
+      "alt": "follow me for more pick-up advice, i'm something of a pick-up artist myself (I have cross-stitched my pick-up advice into very appealing pieces, each is one-of-a-kind and available at the art shows i'm participating in this summer)",
+      "date": "2026-07-20",
+      "link": "http://www.qwantz.com/index.php?comic=4497"
+    },
     {
       "num": 4496,
       "title": "i'd imagine it seems like MOST people hate growing hair, given how often we shave it, cut it, or destroy it with actual lasers???",
@@ -76,14 +84,6 @@
       "alt": "friends, romans, third type of guy: lend me your ears",
       "date": "2026-06-24",
       "link": "http://www.qwantz.com/index.php?comic=4488"
-    },
-    {
-      "num": 4487,
-      "title": "i wrote this comic a few days ago and then yesterday i saw a turtle!!  it's like i MANIFESTED it.  only she wasn't wearing a hamburger costume so it's like i manifested NOTHING",
-      "img": "http://www.qwantz.com/comics/comic2-5185.png",
-      "alt": "sherlock put on a hamburger costume and deduced it felt all wrong for him.  he was a polish sausage costume guy or he was NOTHING",
-      "date": "2026-06-22",
-      "link": "http://www.qwantz.com/index.php?comic=4487"
     }
   ]
 }
