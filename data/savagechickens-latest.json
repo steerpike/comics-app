@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-20T19:45:44.263Z",
+  "fetchedAt": "2026-07-21T08:32:22.916Z",
   "comics": [
+    {
+      "slug": "almost-exercise",
+      "title": "Almost Exercise",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenalmostexercise.jpg",
+      "alt": "Almost Exercise",
+      "date": "2026-07-21",
+      "link": "https://www.savagechickens.com/2026/07/almost-exercise.html"
+    },
     {
       "slug": "harbingers",
       "title": "Harbingers",
@@ -76,14 +84,6 @@
       "alt": "Dailing In",
       "date": "2026-07-08",
       "link": "https://www.savagechickens.com/2026/07/dialing-in.html"
-    },
-    {
-      "slug": "the-most-important",
-      "title": "The Most Important",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthemostimportant.jpg",
-      "alt": "The Most Important",
-      "date": "2026-07-07",
-      "link": "https://www.savagechickens.com/2026/07/the-most-important.html"
     }
   ]
 }
