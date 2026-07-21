@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-21T08:32:21.443Z",
+  "fetchedAt": "2026-07-21T19:26:18.959Z",
   "comics": [
+    {
+      "slug": "crawl",
+      "title": "Crawl",
+      "img": "https://www.smbc-comics.com/comics/1784595902-20260721.png",
+      "alt": "I once joked about this back when twitter existed and a Twitter Dominatrix told me that she'd done it plenty of times.",
+      "date": "2026-07-21",
+      "link": "https://www.smbc-comics.com/comic/crawl"
+    },
     {
       "slug": "sword-3",
       "title": "Sword",
@@ -156,14 +164,6 @@
       "alt": "If a company would just once say 'make sure not to use the app' they would have my loyalty forever.",
       "date": "2026-07-01",
       "link": "https://www.smbc-comics.com/comic/app-6"
-    },
-    {
-      "slug": "uncanny-3",
-      "title": "Uncanny",
-      "img": "https://www.smbc-comics.com/comics/1782692356-20260630.png",
-      "alt": "It's not an uncanny valley, it's an uncanny mountain that you're afraid to climb.",
-      "date": "2026-06-30",
-      "link": "https://www.smbc-comics.com/comic/uncanny-3"
     }
   ]
 }
