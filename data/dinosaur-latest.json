@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-07-22T08:31:53.617Z",
+  "fetchedAt": "2026-07-22T19:23:50.832Z",
   "comics": [
+    {
+      "num": 4498,
+      "title": "maybe we were all holding back on photos until we got our faces under control",
+      "img": "http://www.qwantz.com/comics/comic2-5196.png",
+      "alt": "the next night, a bunch of comets in the night sky spell out ",
+      "date": "2026-07-22",
+      "link": "http://www.qwantz.com/index.php?comic=4498"
+    },
     {
       "num": 4497,
       "title": "i'm in my forties now so let's just say i've got a LOT of experience picking people up",
@@ -76,14 +84,6 @@
       "alt": "AND it's the perfect socially-acceptable excuse to cram ice cream sandwiches into your mouth as quickly as possible.  ",
       "date": "2026-06-26",
       "link": "http://www.qwantz.com/index.php?comic=4489"
-    },
-    {
-      "num": 4488,
-      "title": "this comic is 10% better if you don't know Shakespeare wrote Julius Caesar, so in the last panel it's just T-Rex carrying a heck of a grudge against the guy",
-      "img": "http://www.qwantz.com/comics/comic2-5186.png",
-      "alt": "friends, romans, third type of guy: lend me your ears",
-      "date": "2026-06-24",
-      "link": "http://www.qwantz.com/index.php?comic=4488"
     }
   ]
 }

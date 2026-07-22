@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3274,
-  "fetchedAt": "2026-07-22T08:31:53.280Z",
+  "latestNum": 3275,
+  "fetchedAt": "2026-07-22T19:23:50.640Z",
   "comics": [
+    {
+      "num": 3275,
+      "title": "Calibration Nobel",
+      "img": "https://imgs.xkcd.com/comics/calibration_nobel.png",
+      "alt": "We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.",
+      "date": "2026-07-22"
+    },
     {
       "num": 3274,
       "title": "Arthurian Connector",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/nostalgia_content.png",
       "alt": "Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.",
       "date": "2026-06-08"
-    },
-    {
-      "num": 3255,
-      "title": "Planetary Science",
-      "img": "https://imgs.xkcd.com/comics/planetary_science.png",
-      "alt": "The research was overseen by the Institutional Review Board, which is what I named my surfboard.",
-      "date": "2026-06-05"
     }
   ]
 }

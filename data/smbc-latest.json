@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-22T08:31:53.918Z",
+  "fetchedAt": "2026-07-22T19:23:52.444Z",
   "comics": [
+    {
+      "slug": "bully-2",
+      "title": "Bully",
+      "img": "https://www.smbc-comics.com/comics/1784663157-20260722.png",
+      "alt": "And now I bully you with a wall of text.",
+      "date": "2026-07-22",
+      "link": "https://www.smbc-comics.com/comic/bully-2"
+    },
     {
       "slug": "crawl",
       "title": "Crawl",
@@ -156,14 +164,6 @@
       "alt": "They still scrape parmesan on it till you say when, though.",
       "date": "2026-07-02",
       "link": "https://www.smbc-comics.com/comic/adult-3"
-    },
-    {
-      "slug": "app-6",
-      "title": "App",
-      "img": "https://www.smbc-comics.com/comics/1782855002-20260701 -edit.png",
-      "alt": "If a company would just once say 'make sure not to use the app' they would have my loyalty forever.",
-      "date": "2026-07-01",
-      "link": "https://www.smbc-comics.com/comic/app-6"
     }
   ]
 }

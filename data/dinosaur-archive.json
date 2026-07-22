@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 67,
-  "highestNum": 4497,
-  "fetchedAt": "2026-07-20T19:45:42.172Z",
+  "total": 68,
+  "highestNum": 4498,
+  "fetchedAt": "2026-07-22T19:23:50.832Z",
   "comics": [
     {
       "num": 4431,
@@ -539,6 +539,14 @@
       "alt": "follow me for more pick-up advice, i'm something of a pick-up artist myself (I have cross-stitched my pick-up advice into very appealing pieces, each is one-of-a-kind and available at the art shows i'm participating in this summer)",
       "date": "2026-07-20",
       "link": "http://www.qwantz.com/index.php?comic=4497"
+    },
+    {
+      "num": 4498,
+      "title": "maybe we were all holding back on photos until we got our faces under control",
+      "img": "http://www.qwantz.com/comics/comic2-5196.png",
+      "alt": "the next night, a bunch of comets in the night sky spell out ",
+      "date": "2026-07-22",
+      "link": "http://www.qwantz.com/index.php?comic=4498"
     }
   ]
 }

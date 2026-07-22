@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3273,
-  "latestNum": 3274,
-  "fetchedAt": "2026-07-20T19:45:41.751Z",
+  "total": 3274,
+  "latestNum": 3275,
+  "fetchedAt": "2026-07-22T19:23:50.649Z",
   "comics": [
     {
       "num": 1,
@@ -22914,6 +22914,13 @@
       "img": "https://imgs.xkcd.com/comics/arthurian_connector.png",
       "alt": "Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.",
       "date": "2026-07-20"
+    },
+    {
+      "num": 3275,
+      "title": "Calibration Nobel",
+      "img": "https://imgs.xkcd.com/comics/calibration_nobel.png",
+      "alt": "We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.",
+      "date": "2026-07-22"
     }
   ]
 }

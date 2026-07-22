@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-07-21T08:32:22.339Z",
+  "fetchedAt": "2026-07-22T19:23:54.317Z",
   "comics": [
+    {
+      "slug": "258146",
+      "title": "",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/07/didnt-realize.png",
+      "alt": "",
+      "date": "2026-07-22",
+      "link": "https://poorlydrawnlines.com/comic/258146/"
+    },
     {
       "slug": "wild-card",
       "title": "Wild Card",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-05-21",
       "link": "https://poorlydrawnlines.com/comic/ancient-seagulls/"
-    },
-    {
-      "slug": "largest-cat-2",
-      "title": "Largest Cat 2",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/05/largest-cat-2-1-scaled.png",
-      "alt": "",
-      "date": "2026-05-19",
-      "link": "https://poorlydrawnlines.com/comic/largest-cat-2/"
     }
   ]
 }
