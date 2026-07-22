@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-21T19:26:21.990Z",
+  "fetchedAt": "2026-07-22T08:31:56.492Z",
   "comics": [
+    {
+      "slug": "so-boring",
+      "title": "So Boring",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickensoboring.jpg",
+      "alt": "So Boring",
+      "date": "2026-07-22",
+      "link": "https://www.savagechickens.com/2026/07/so-boring.html"
+    },
     {
       "slug": "almost-exercise",
       "title": "Almost Exercise",
@@ -76,14 +84,6 @@
       "alt": "Sing!",
       "date": "2026-07-09",
       "link": "https://www.savagechickens.com/2026/07/sing-2.html"
-    },
-    {
-      "slug": "dialing-in",
-      "title": "Dialing In",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickendialingin.jpg",
-      "alt": "Dailing In",
-      "date": "2026-07-08",
-      "link": "https://www.savagechickens.com/2026/07/dialing-in.html"
     }
   ]
 }
