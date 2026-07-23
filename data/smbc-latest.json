@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-23T08:33:35.722Z",
+  "fetchedAt": "2026-07-23T19:21:06.891Z",
   "comics": [
+    {
+      "slug": "alignment",
+      "title": "Alignment",
+      "img": "https://www.smbc-comics.com/comics/1784761756-20260723.png",
+      "alt": "The worst thing is how every time you yell at it, it acknowledges your suffering and tries to hug you.",
+      "date": "2026-07-23",
+      "link": "https://www.smbc-comics.com/comic/alignment"
+    },
     {
       "slug": "bully-2",
       "title": "Bully",
@@ -156,14 +164,6 @@
       "alt": "Later he starts adding quest items she doesn't want, but feels compelled to earn.",
       "date": "2026-07-03",
       "link": "https://www.smbc-comics.com/comic/percent-2"
-    },
-    {
-      "slug": "adult-3",
-      "title": "Adult",
-      "img": "https://www.smbc-comics.com/comics/1782855084-20260702.png",
-      "alt": "They still scrape parmesan on it till you say when, though.",
-      "date": "2026-07-02",
-      "link": "https://www.smbc-comics.com/comic/adult-3"
     }
   ]
 }
