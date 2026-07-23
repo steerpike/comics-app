@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-22T19:23:54.862Z",
+  "fetchedAt": "2026-07-23T08:33:51.578Z",
   "comics": [
+    {
+      "slug": "the-greatest-book-ever",
+      "title": "The Greatest Book Ever",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthegreatestbookever.jpg",
+      "alt": "The Greatest Book Ever",
+      "date": "2026-07-23",
+      "link": "https://www.savagechickens.com/2026/07/the-greatest-book-ever.html"
+    },
     {
       "slug": "so-boring",
       "title": "So Boring",
@@ -76,14 +84,6 @@
       "alt": "Sleeping In",
       "date": "2026-07-10",
       "link": "https://www.savagechickens.com/2026/07/sleeping-in.html"
-    },
-    {
-      "slug": "sing-2",
-      "title": "Sing!",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenilovetosing.jpg",
-      "alt": "Sing!",
-      "date": "2026-07-09",
-      "link": "https://www.savagechickens.com/2026/07/sing-2.html"
     }
   ]
 }
