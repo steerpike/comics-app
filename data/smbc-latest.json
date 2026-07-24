@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-24T08:30:05.966Z",
+  "fetchedAt": "2026-07-24T19:27:07.460Z",
   "comics": [
+    {
+      "slug": "legos",
+      "title": "Legos",
+      "img": "https://www.smbc-comics.com/comics/1784761809-20260724.png",
+      "alt": "In the final round, they pelt you with eggcorns.",
+      "date": "2026-07-24",
+      "link": "https://www.smbc-comics.com/comic/legos"
+    },
     {
       "slug": "alignment",
       "title": "Alignment",
@@ -156,14 +164,6 @@
       "alt": "I believe it follows that an average married man should be looking for about 5/6 of a wife.",
       "date": "2026-07-04",
       "link": "https://www.smbc-comics.com/comic/typical"
-    },
-    {
-      "slug": "percent-2",
-      "title": "Percent",
-      "img": "https://www.smbc-comics.com/comics/1783019248-20260703.png",
-      "alt": "Later he starts adding quest items she doesn't want, but feels compelled to earn.",
-      "date": "2026-07-03",
-      "link": "https://www.smbc-comics.com/comic/percent-2"
     }
   ]
 }

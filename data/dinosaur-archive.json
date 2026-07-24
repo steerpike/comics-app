@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 68,
-  "highestNum": 4498,
-  "fetchedAt": "2026-07-22T19:23:50.832Z",
+  "total": 69,
+  "highestNum": 4499,
+  "fetchedAt": "2026-07-24T19:27:07.167Z",
   "comics": [
     {
       "num": 4431,
@@ -547,6 +547,14 @@
       "alt": "the next night, a bunch of comets in the night sky spell out ",
       "date": "2026-07-22",
       "link": "http://www.qwantz.com/index.php?comic=4498"
+    },
+    {
+      "num": 4499,
+      "title": "i don't want to learn woodworking, i want to learn Remedial Basic Wood Cutting For Adults",
+      "img": "http://www.qwantz.com/comics/comic2-5197.png",
+      "alt": "and once i do learn it, i won't have to fix all my ME issues anymore!  plus i'll know how to work many a wood.  so clearly everyone wins",
+      "date": "2026-07-24",
+      "link": "http://www.qwantz.com/index.php?comic=4499"
     }
   ]
 }
