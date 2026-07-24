@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-23T19:21:08.994Z",
+  "fetchedAt": "2026-07-24T08:30:08.894Z",
   "comics": [
+    {
+      "slug": "the-flow",
+      "title": "The Flow",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentheflow.jpg",
+      "alt": "The Flow",
+      "date": "2026-07-24",
+      "link": "https://www.savagechickens.com/2026/07/the-flow.html"
+    },
     {
       "slug": "the-greatest-book-ever",
       "title": "The Greatest Book Ever",
@@ -76,14 +84,6 @@
       "alt": "Getting Nowhere",
       "date": "2026-07-13",
       "link": "https://www.savagechickens.com/2026/07/getting-nowhere.html"
-    },
-    {
-      "slug": "sleeping-in",
-      "title": "Sleeping In",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickensleepingin.jpg",
-      "alt": "Sleeping In",
-      "date": "2026-07-10",
-      "link": "https://www.savagechickens.com/2026/07/sleeping-in.html"
     }
   ]
 }
