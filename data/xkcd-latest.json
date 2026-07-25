@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3275,
-  "fetchedAt": "2026-07-24T19:27:06.753Z",
+  "latestNum": 3276,
+  "fetchedAt": "2026-07-25T08:08:50.809Z",
   "comics": [
+    {
+      "num": 3276,
+      "title": "Recursive Trucker's Hitch",
+      "img": "https://imgs.xkcd.com/comics/recursive_truckers_hitch.png",
+      "alt": "As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.",
+      "date": "2026-07-24"
+    },
     {
       "num": 3275,
       "title": "Calibration Nobel",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/beam_pipe.png",
       "alt": "'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom",
       "date": "2026-06-10"
-    },
-    {
-      "num": 3256,
-      "title": "Nostalgia Content",
-      "img": "https://imgs.xkcd.com/comics/nostalgia_content.png",
-      "alt": "Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.",
-      "date": "2026-06-08"
     }
   ]
 }

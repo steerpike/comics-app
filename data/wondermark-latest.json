@@ -3,8 +3,24 @@
   "name": "Wondermark",
   "url": "https://wondermark.com",
   "attribution": "Wondermark by David Malki!",
-  "fetchedAt": "2026-07-24T19:27:08.225Z",
+  "fetchedAt": "2026-07-25T08:08:53.010Z",
   "comics": [
+    {
+      "num": 0,
+      "title": "New ways to get Bolted!",
+      "img": "https://wondermark.com/wp-content/uploads/2026/07/bolted_mags3_1200px-1024x1024.jpg",
+      "alt": "",
+      "date": "2026-07-25",
+      "link": "https://wondermark.com/new-ways-to-get-bolted/"
+    },
+    {
+      "num": 1589,
+      "title": "#1589; The Ol’ Scorny Mourny",
+      "img": "https://wondermark.com/wp-content/uploads/2026/07/2026-07-24-1589dingo_1600px.png",
+      "alt": "",
+      "date": "2026-07-25",
+      "link": "https://wondermark.com/c/1589/"
+    },
     {
       "num": 1588,
       "title": "#1588; The Objective Oracle, Part 2",
@@ -68,14 +84,6 @@
       "alt": "",
       "date": "2026-04-08",
       "link": "https://wondermark.com/c/1584/"
-    },
-    {
-      "num": 1583,
-      "title": "#1583; Groan Up",
-      "img": "https://wondermark.com/wp-content/uploads/2026/04/2026-04-04-1583veggies_1600px.png",
-      "alt": "",
-      "date": "2026-04-04",
-      "link": "https://wondermark.com/c/1583/"
     }
   ]
 }

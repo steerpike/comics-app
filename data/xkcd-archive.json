@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3274,
-  "latestNum": 3275,
-  "fetchedAt": "2026-07-22T19:23:50.649Z",
+  "total": 3275,
+  "latestNum": 3276,
+  "fetchedAt": "2026-07-25T08:08:50.818Z",
   "comics": [
     {
       "num": 1,
@@ -22921,6 +22921,13 @@
       "img": "https://imgs.xkcd.com/comics/calibration_nobel.png",
       "alt": "We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.",
       "date": "2026-07-22"
+    },
+    {
+      "num": 3276,
+      "title": "Recursive Trucker's Hitch",
+      "img": "https://imgs.xkcd.com/comics/recursive_truckers_hitch.png",
+      "alt": "As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.",
+      "date": "2026-07-24"
     }
   ]
 }
