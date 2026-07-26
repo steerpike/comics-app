@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-26T08:28:54.741Z",
+  "fetchedAt": "2026-07-26T19:14:09.104Z",
   "comics": [
+    {
+      "slug": "dance-4",
+      "title": "Dance",
+      "img": "https://www.smbc-comics.com/comics/1784999731-20260726.png",
+      "alt": "And don't get me started on the transphobic twist.",
+      "date": "2026-07-26",
+      "link": "https://www.smbc-comics.com/comic/dance-4"
+    },
     {
       "slug": "data-2",
       "title": "Data",
@@ -156,14 +164,6 @@
       "alt": "Later they make you pay for the premium version in order to betray humanity.",
       "date": "2026-07-07",
       "link": "https://www.smbc-comics.com/comic/turing"
-    },
-    {
-      "slug": "memory-4",
-      "title": "Memory",
-      "img": "https://www.smbc-comics.com/comics/1783226823-20260705.png",
-      "alt": "The sad part is he just keeps pressing the button till be random luck the robot confesses.",
-      "date": "2026-07-05",
-      "link": "https://www.smbc-comics.com/comic/memory-4"
     }
   ]
 }
