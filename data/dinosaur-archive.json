@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 69,
-  "highestNum": 4499,
-  "fetchedAt": "2026-07-24T19:27:07.167Z",
+  "total": 70,
+  "highestNum": 4500,
+  "fetchedAt": "2026-07-27T19:36:45.053Z",
   "comics": [
     {
       "num": 4431,
@@ -555,6 +555,14 @@
       "alt": "and once i do learn it, i won't have to fix all my ME issues anymore!  plus i'll know how to work many a wood.  so clearly everyone wins",
       "date": "2026-07-24",
       "link": "http://www.qwantz.com/index.php?comic=4499"
+    },
+    {
+      "num": 4500,
+      "title": "sherlock holmes in: foal play",
+      "img": "http://www.qwantz.com/comics/comic2-5198.png",
+      "alt": "tell enough stories about a someone and you will inevitably hit the Turned Into A Horse episode",
+      "date": "2026-07-27",
+      "link": "http://www.qwantz.com/index.php?comic=4500"
     }
   ]
 }

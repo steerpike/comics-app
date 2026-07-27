@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-27T09:55:23.440Z",
+  "fetchedAt": "2026-07-27T19:36:45.318Z",
   "comics": [
+    {
+      "slug": "taxonomy-2",
+      "title": "Taxonomy",
+      "img": "https://www.smbc-comics.com/comics/1784999773-20260727.png",
+      "alt": "The key is to keep saying 'strictly speaking' over and over.",
+      "date": "2026-07-27",
+      "link": "https://www.smbc-comics.com/comic/taxonomy-2"
+    },
     {
       "slug": "dance-4",
       "title": "Dance",
@@ -156,14 +164,6 @@
       "alt": "Readers are encouraged to try to beat this, and fail.",
       "date": "2026-07-08",
       "link": "https://www.smbc-comics.com/comic/four-3"
-    },
-    {
-      "slug": "turing",
-      "title": "Turing",
-      "img": "https://www.smbc-comics.com/comics/1783368305-20260707.png",
-      "alt": "Later they make you pay for the premium version in order to betray humanity.",
-      "date": "2026-07-07",
-      "link": "https://www.smbc-comics.com/comic/turing"
     }
   ]
 }

@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3276,
-  "fetchedAt": "2026-07-27T09:55:23.004Z",
+  "latestNum": 3277,
+  "fetchedAt": "2026-07-27T19:36:44.681Z",
   "comics": [
+    {
+      "num": 3277,
+      "title": "Forth",
+      "img": "https://imgs.xkcd.com/comics/forth.png",
+      "alt": "I NOTATION POLISH REVERSE ❤️",
+      "date": "2026-07-27"
+    },
     {
       "num": 3276,
       "title": "Recursive Trucker's Hitch",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/plate_flip.png",
       "alt": "It's great for exfoliating your skin, bones, houses, cities, landscape, etc.",
       "date": "2026-06-12"
-    },
-    {
-      "num": 3257,
-      "title": "Beam Pipe",
-      "img": "https://imgs.xkcd.com/comics/beam_pipe.png",
-      "alt": "'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom",
-      "date": "2026-06-10"
     }
   ]
 }

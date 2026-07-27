@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3275,
-  "latestNum": 3276,
-  "fetchedAt": "2026-07-25T08:08:50.818Z",
+  "total": 3276,
+  "latestNum": 3277,
+  "fetchedAt": "2026-07-27T19:36:44.695Z",
   "comics": [
     {
       "num": 1,
@@ -22928,6 +22928,13 @@
       "img": "https://imgs.xkcd.com/comics/recursive_truckers_hitch.png",
       "alt": "As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.",
       "date": "2026-07-24"
+    },
+    {
+      "num": 3277,
+      "title": "Forth",
+      "img": "https://imgs.xkcd.com/comics/forth.png",
+      "alt": "I NOTATION POLISH REVERSE ❤️",
+      "date": "2026-07-27"
     }
   ]
 }
