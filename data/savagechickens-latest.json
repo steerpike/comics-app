@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-26T19:14:12.185Z",
+  "fetchedAt": "2026-07-27T09:55:29.934Z",
   "comics": [
+    {
+      "slug": "forever",
+      "title": "Forever",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenforever.jpg",
+      "alt": "Forever",
+      "date": "2026-07-27",
+      "link": "https://www.savagechickens.com/2026/07/forever.html"
+    },
     {
       "slug": "the-flow",
       "title": "The Flow",
@@ -76,14 +84,6 @@
       "alt": "The Attention",
       "date": "2026-07-14",
       "link": "https://www.savagechickens.com/2026/07/the-attention.html"
-    },
-    {
-      "slug": "getting-nowhere",
-      "title": "Getting Nowhere",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickengettingnowhere.jpg",
-      "alt": "Getting Nowhere",
-      "date": "2026-07-13",
-      "link": "https://www.savagechickens.com/2026/07/getting-nowhere.html"
     }
   ]
 }
