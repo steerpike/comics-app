@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-27T19:36:47.321Z",
+  "fetchedAt": "2026-07-28T08:37:14.835Z",
   "comics": [
+    {
+      "slug": "internet-redemption",
+      "title": "Internet Redemption",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickeninternetredemption.jpg",
+      "alt": "Internet Redemption",
+      "date": "2026-07-28",
+      "link": "https://www.savagechickens.com/2026/07/internet-redemption.html"
+    },
     {
       "slug": "forever",
       "title": "Forever",
@@ -76,14 +84,6 @@
       "alt": "Lashing Out",
       "date": "2026-07-15",
       "link": "https://www.savagechickens.com/2026/07/lashing-out.html"
-    },
-    {
-      "slug": "the-attention",
-      "title": "The Attention",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickentheattention.jpg",
-      "alt": "The Attention",
-      "date": "2026-07-14",
-      "link": "https://www.savagechickens.com/2026/07/the-attention.html"
     }
   ]
 }
