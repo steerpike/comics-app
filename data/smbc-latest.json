@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-28T08:37:12.133Z",
+  "fetchedAt": "2026-07-28T19:27:15.599Z",
   "comics": [
+    {
+      "slug": "codebase",
+      "title": "Codebase",
+      "img": "https://www.smbc-comics.com/comics/1785184164-20260728.png",
+      "alt": "And when Babbage arrived the whole thing was actually running on a series of Pascalines.",
+      "date": "2026-07-28",
+      "link": "https://www.smbc-comics.com/comic/codebase"
+    },
     {
       "slug": "taxonomy-2",
       "title": "Taxonomy",
@@ -156,14 +164,6 @@
       "alt": "I recently rewatched the 80s Superman movies, and it's really unclear to me why they will not Kneel Before Zod.",
       "date": "2026-07-09",
       "link": "https://www.smbc-comics.com/comic/zod"
-    },
-    {
-      "slug": "four-3",
-      "title": "Four",
-      "img": "https://www.smbc-comics.com/comics/1783368346-20260708.png",
-      "alt": "Readers are encouraged to try to beat this, and fail.",
-      "date": "2026-07-08",
-      "link": "https://www.smbc-comics.com/comic/four-3"
     }
   ]
 }
