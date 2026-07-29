@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-28T19:27:17.325Z",
+  "fetchedAt": "2026-07-29T08:43:38.561Z",
   "comics": [
+    {
+      "slug": "meaning-of-life-2",
+      "title": "Meaning of Life",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmeaningoflife.jpg",
+      "alt": "Meaning of Life",
+      "date": "2026-07-29",
+      "link": "https://www.savagechickens.com/2026/07/meaning-of-life-2.html"
+    },
     {
       "slug": "internet-redemption",
       "title": "Internet Redemption",
@@ -76,14 +84,6 @@
       "alt": "Xenomorph Therapy",
       "date": "2026-07-16",
       "link": "https://www.savagechickens.com/2026/07/xenomorph-therapy.html"
-    },
-    {
-      "slug": "lashing-out",
-      "title": "Lashing Out",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenlashingout.jpg",
-      "alt": "Lashing Out",
-      "date": "2026-07-15",
-      "link": "https://www.savagechickens.com/2026/07/lashing-out.html"
     }
   ]
 }
