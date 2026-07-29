@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-07-29T08:43:36.337Z",
+  "fetchedAt": "2026-07-29T19:19:35.372Z",
   "comics": [
+    {
+      "num": 4501,
+      "title": "he actually forgot about it shortly BEFORE getting abducted by aliens and thereafter dying of unrelated causes, but at that point it didn't matter THAT much",
+      "img": "http://www.qwantz.com/comics/comic2-5199.png",
+      "alt": "YES PROBABILITY DOES NOT WORK THIS WAY, BUT LOOK: IN THIS CASE, IT JUST DID",
+      "date": "2026-07-29",
+      "link": "http://www.qwantz.com/index.php?comic=4501"
+    },
     {
       "num": 4500,
       "title": "sherlock holmes in: foal play",
@@ -76,14 +84,6 @@
       "alt": "PRO-TIP: you don't need an app to remind you to take a break and drink some water when your computer's vacuum tubes burn out 15 times a day instead.  just drink then.  easy",
       "date": "2026-07-06",
       "link": "http://www.qwantz.com/index.php?comic=4492"
-    },
-    {
-      "num": 4491,
-      "title": "batman cheat codes for real life",
-      "img": "http://www.qwantz.com/comics/comic2-5189.png",
-      "alt": "given the small size of our field we're also the worst there is at what we do, but we like to focus on the positive",
-      "date": "2026-07-02",
-      "link": "http://www.qwantz.com/index.php?comic=4491"
     }
   ]
 }

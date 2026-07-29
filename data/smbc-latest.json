@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-29T08:43:36.649Z",
+  "fetchedAt": "2026-07-29T19:19:35.762Z",
   "comics": [
+    {
+      "slug": "hashtag",
+      "title": "Hashtag",
+      "img": "https://www.smbc-comics.com/comics/1785184202-20260729.png",
+      "alt": "I can barely enjoy Amleth anymore.",
+      "date": "2026-07-29",
+      "link": "https://www.smbc-comics.com/comic/hashtag"
+    },
     {
       "slug": "codebase",
       "title": "Codebase",
@@ -156,14 +164,6 @@
       "alt": "It ends up okay when she two-hands his butt right before the world is annihilated.",
       "date": "2026-07-10",
       "link": "https://www.smbc-comics.com/comic/final"
-    },
-    {
-      "slug": "zod",
-      "title": "Zod",
-      "img": "https://www.smbc-comics.com/comics/1783535367-20260709.png",
-      "alt": "I recently rewatched the 80s Superman movies, and it's really unclear to me why they will not Kneel Before Zod.",
-      "date": "2026-07-09",
-      "link": "https://www.smbc-comics.com/comic/zod"
     }
   ]
 }

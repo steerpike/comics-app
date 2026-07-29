@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3277,
-  "fetchedAt": "2026-07-29T08:43:36.044Z",
+  "latestNum": 3278,
+  "fetchedAt": "2026-07-29T19:19:35.095Z",
   "comics": [
+    {
+      "num": 3278,
+      "title": "Vera Rubin Observatory",
+      "img": "https://imgs.xkcd.com/comics/vera_rubin_observatory.png",
+      "alt": "'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.",
+      "date": "2026-07-29"
+    },
     {
       "num": 3277,
       "title": "Forth",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/tethys.png",
       "alt": "In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.",
       "date": "2026-06-15"
-    },
-    {
-      "num": 3258,
-      "title": "Plate Flip",
-      "img": "https://imgs.xkcd.com/comics/plate_flip.png",
-      "alt": "It's great for exfoliating your skin, bones, houses, cities, landscape, etc.",
-      "date": "2026-06-12"
     }
   ]
 }

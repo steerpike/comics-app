@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 70,
-  "highestNum": 4500,
-  "fetchedAt": "2026-07-27T19:36:45.053Z",
+  "total": 71,
+  "highestNum": 4501,
+  "fetchedAt": "2026-07-29T19:19:35.372Z",
   "comics": [
     {
       "num": 4431,
@@ -563,6 +563,14 @@
       "alt": "tell enough stories about a someone and you will inevitably hit the Turned Into A Horse episode",
       "date": "2026-07-27",
       "link": "http://www.qwantz.com/index.php?comic=4500"
+    },
+    {
+      "num": 4501,
+      "title": "he actually forgot about it shortly BEFORE getting abducted by aliens and thereafter dying of unrelated causes, but at that point it didn't matter THAT much",
+      "img": "http://www.qwantz.com/comics/comic2-5199.png",
+      "alt": "YES PROBABILITY DOES NOT WORK THIS WAY, BUT LOOK: IN THIS CASE, IT JUST DID",
+      "date": "2026-07-29",
+      "link": "http://www.qwantz.com/index.php?comic=4501"
     }
   ]
 }
