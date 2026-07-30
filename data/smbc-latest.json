@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-30T08:29:48.479Z",
+  "fetchedAt": "2026-07-30T19:29:58.656Z",
   "comics": [
+    {
+      "slug": "crank",
+      "title": "Crank",
+      "img": "https://www.smbc-comics.com/comics/1785374027-20260730.png",
+      "alt": "The crank doesn't actually do anything, but it makes the humans happy.",
+      "date": "2026-07-30",
+      "link": "https://www.smbc-comics.com/comic/crank"
+    },
     {
       "slug": "hashtag",
       "title": "Hashtag",
@@ -156,14 +164,6 @@
       "alt": "Disobey God and get drowned immediately is really more of an Abrahamic religion thing.",
       "date": "2026-07-11",
       "link": "https://www.smbc-comics.com/comic/dadalus"
-    },
-    {
-      "slug": "final",
-      "title": "Final",
-      "img": "https://www.smbc-comics.com/comics/1783647793-20260710.png",
-      "alt": "It ends up okay when she two-hands his butt right before the world is annihilated.",
-      "date": "2026-07-10",
-      "link": "https://www.smbc-comics.com/comic/final"
     }
   ]
 }
