@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-29T19:19:37.262Z",
+  "fetchedAt": "2026-07-30T08:29:50.290Z",
   "comics": [
+    {
+      "slug": "feeling-better",
+      "title": "Feeling Better",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenfeelbetter-1.jpg",
+      "alt": "Feeling Better",
+      "date": "2026-07-30",
+      "link": "https://www.savagechickens.com/2026/07/feeling-better.html"
+    },
     {
       "slug": "meaning-of-life-2",
       "title": "Meaning of Life",
@@ -76,14 +84,6 @@
       "alt": "Analysis",
       "date": "2026-07-17",
       "link": "https://www.savagechickens.com/2026/07/analysis.html"
-    },
-    {
-      "slug": "xenomorph-therapy",
-      "title": "Xenomorph Therapy",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenxenomorphtherapy.jpg",
-      "alt": "Xenomorph Therapy",
-      "date": "2026-07-16",
-      "link": "https://www.savagechickens.com/2026/07/xenomorph-therapy.html"
     }
   ]
 }
