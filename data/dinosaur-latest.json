@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-07-31T08:52:18.881Z",
+  "fetchedAt": "2026-07-31T19:36:11.506Z",
   "comics": [
+    {
+      "num": 4502,
+      "title": "food that makes you ask your waiter, sir, have i offended you in some way",
+      "img": "http://www.qwantz.com/comics/comic2-5200.png",
+      "alt": "i can always tell when i'm looking at a line segment that's ACTUALLY a degenerate case of triangle, so don't think you can slip these unreasonably-tall burgers past ME",
+      "date": "2026-07-31",
+      "link": "http://www.qwantz.com/index.php?comic=4502"
+    },
     {
       "num": 4501,
       "title": "he actually forgot about it shortly BEFORE getting abducted by aliens and thereafter dying of unrelated causes, but at that point it didn't matter THAT much",
@@ -76,14 +84,6 @@
       "alt": "and i don't have to tell you this, but when that happens in a matter/antimatter intermix chamber it's not great",
       "date": "2026-07-08",
       "link": "http://www.qwantz.com/index.php?comic=4493"
-    },
-    {
-      "num": 4492,
-      "title": "standing next to your own personal bespoke wario is cool because they honestly make you look GREAT",
-      "img": "http://www.qwantz.com/comics/comic2-5190.png",
-      "alt": "PRO-TIP: you don't need an app to remind you to take a break and drink some water when your computer's vacuum tubes burn out 15 times a day instead.  just drink then.  easy",
-      "date": "2026-07-06",
-      "link": "http://www.qwantz.com/index.php?comic=4492"
     }
   ]
 }

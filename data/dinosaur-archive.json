@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 71,
-  "highestNum": 4501,
-  "fetchedAt": "2026-07-29T19:19:35.372Z",
+  "total": 72,
+  "highestNum": 4502,
+  "fetchedAt": "2026-07-31T19:36:11.507Z",
   "comics": [
     {
       "num": 4431,
@@ -571,6 +571,14 @@
       "alt": "YES PROBABILITY DOES NOT WORK THIS WAY, BUT LOOK: IN THIS CASE, IT JUST DID",
       "date": "2026-07-29",
       "link": "http://www.qwantz.com/index.php?comic=4501"
+    },
+    {
+      "num": 4502,
+      "title": "food that makes you ask your waiter, sir, have i offended you in some way",
+      "img": "http://www.qwantz.com/comics/comic2-5200.png",
+      "alt": "i can always tell when i'm looking at a line segment that's ACTUALLY a degenerate case of triangle, so don't think you can slip these unreasonably-tall burgers past ME",
+      "date": "2026-07-31",
+      "link": "http://www.qwantz.com/index.php?comic=4502"
     }
   ]
 }

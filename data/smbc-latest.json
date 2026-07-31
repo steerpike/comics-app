@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-07-31T08:52:19.143Z",
+  "fetchedAt": "2026-07-31T19:36:11.744Z",
   "comics": [
+    {
+      "slug": "ev-2",
+      "title": "EV",
+      "img": "https://www.smbc-comics.com/comics/1785374139-20260731.png",
+      "alt": "Ironically less crazy than that thing SBF said to Tyler Cowen.",
+      "date": "2026-07-31",
+      "link": "https://www.smbc-comics.com/comic/ev-2"
+    },
     {
       "slug": "crank",
       "title": "Crank",
@@ -156,14 +164,6 @@
       "alt": "Things will never again be so beautiful.",
       "date": "2026-07-12",
       "link": "https://www.smbc-comics.com/comic/old-2"
-    },
-    {
-      "slug": "dadalus",
-      "title": "Dadalus",
-      "img": "https://www.smbc-comics.com/comics/1783714459-20260711.png",
-      "alt": "Disobey God and get drowned immediately is really more of an Abrahamic religion thing.",
-      "date": "2026-07-11",
-      "link": "https://www.smbc-comics.com/comic/dadalus"
     }
   ]
 }
