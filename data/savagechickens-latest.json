@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-07-30T19:30:00.378Z",
+  "fetchedAt": "2026-07-31T08:52:21.162Z",
   "comics": [
+    {
+      "slug": "get-to-work",
+      "title": "Get To Work",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickengettowork.jpg",
+      "alt": "Get To Work",
+      "date": "2026-07-31",
+      "link": "https://www.savagechickens.com/2026/07/get-to-work.html"
+    },
     {
       "slug": "feeling-better",
       "title": "Feeling Better",
@@ -76,14 +84,6 @@
       "alt": "Harbingers",
       "date": "2026-07-20",
       "link": "https://www.savagechickens.com/2026/07/harbingers.html"
-    },
-    {
-      "slug": "analysis",
-      "title": "Analysis",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenanalysis.jpg",
-      "alt": "Analysis",
-      "date": "2026-07-17",
-      "link": "https://www.savagechickens.com/2026/07/analysis.html"
     }
   ]
 }
