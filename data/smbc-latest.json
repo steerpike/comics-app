@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-01T08:23:37.864Z",
+  "fetchedAt": "2026-08-01T19:11:02.259Z",
   "comics": [
+    {
+      "slug": "doc",
+      "title": "Doc",
+      "img": "https://www.smbc-comics.com/comics/1785531427-20260801.png",
+      "alt": "The weird part is that they're in a Burger King.",
+      "date": "2026-08-01",
+      "link": "https://www.smbc-comics.com/comic/doc"
+    },
     {
       "slug": "ev-2",
       "title": "EV",
@@ -156,14 +164,6 @@
       "alt": "This is why humans evolved our unique ability to self-deceive.",
       "date": "2026-07-13",
       "link": "https://www.smbc-comics.com/comic/evolution-10"
-    },
-    {
-      "slug": "old-2",
-      "title": "Old",
-      "img": "https://www.smbc-comics.com/comics/1783714502-20260712.png",
-      "alt": "Things will never again be so beautiful.",
-      "date": "2026-07-12",
-      "link": "https://www.smbc-comics.com/comic/old-2"
     }
   ]
 }
