@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-03T09:49:44.519Z",
+  "fetchedAt": "2026-08-03T19:40:11.533Z",
   "comics": [
+    {
+      "slug": "proof-7",
+      "title": "Proof",
+      "img": "https://www.smbc-comics.com/comics/1785717195-20260803.png",
+      "alt": "Also you can solve the halting problem by just checking the state at infinity.",
+      "date": "2026-08-03",
+      "link": "https://www.smbc-comics.com/comic/proof-7"
+    },
     {
       "slug": "prompt-2",
       "title": "Prompt",
@@ -156,14 +164,6 @@
       "alt": "This is also why Daisy Duck has more linguistic capacity than Donald.",
       "date": "2026-07-15",
       "link": "https://www.smbc-comics.com/comic/pac"
-    },
-    {
-      "slug": "communication-2",
-      "title": "Communication",
-      "img": "https://www.smbc-comics.com/comics/1783978253-20260714.png",
-      "alt": "They can also communicate via quantum superposition, but it's way less interesting.",
-      "date": "2026-07-14",
-      "link": "https://www.smbc-comics.com/comic/communication-2"
     }
   ]
 }
