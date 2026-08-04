@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-03T19:40:27.504Z",
+  "fetchedAt": "2026-08-04T08:39:58.497Z",
   "comics": [
+    {
+      "slug": "maximizing",
+      "title": "Maximizing",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmaximizing.jpg",
+      "alt": "Maximizing",
+      "date": "2026-08-04",
+      "link": "https://www.savagechickens.com/2026/08/maximizing.html"
+    },
     {
       "slug": "put-on-a-happy-face",
       "title": "Put On A Happy Face",
@@ -76,14 +84,6 @@
       "alt": "So Boring",
       "date": "2026-07-22",
       "link": "https://www.savagechickens.com/2026/07/so-boring.html"
-    },
-    {
-      "slug": "almost-exercise",
-      "title": "Almost Exercise",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenalmostexercise.jpg",
-      "alt": "Almost Exercise",
-      "date": "2026-07-21",
-      "link": "https://www.savagechickens.com/2026/07/almost-exercise.html"
     }
   ]
 }
