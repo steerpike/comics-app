@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-04T08:39:56.843Z",
+  "fetchedAt": "2026-08-04T19:39:55.577Z",
   "comics": [
+    {
+      "slug": "wants-2",
+      "title": "Wants",
+      "img": "https://www.smbc-comics.com/comics/1785787461-20260804.png",
+      "alt": "I for on, robot overlord, do not have a fetish for robot overlords.",
+      "date": "2026-08-04",
+      "link": "https://www.smbc-comics.com/comic/wants-2"
+    },
     {
       "slug": "proof-7",
       "title": "Proof",
@@ -156,14 +164,6 @@
       "alt": "Genuinely, putting artists in charge of depicting the good life has been a catastrophe.",
       "date": "2026-07-16",
       "link": "https://www.smbc-comics.com/comic/misery"
-    },
-    {
-      "slug": "pac",
-      "title": "Pac",
-      "img": "https://www.smbc-comics.com/comics/1784066467-20260715.png",
-      "alt": "This is also why Daisy Duck has more linguistic capacity than Donald.",
-      "date": "2026-07-15",
-      "link": "https://www.smbc-comics.com/comic/pac"
     }
   ]
 }
