@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 72,
-  "highestNum": 4502,
-  "fetchedAt": "2026-07-31T19:36:11.507Z",
+  "total": 73,
+  "highestNum": 4503,
+  "fetchedAt": "2026-08-05T19:37:34.201Z",
   "comics": [
     {
       "num": 4431,
@@ -579,6 +579,14 @@
       "alt": "i can always tell when i'm looking at a line segment that's ACTUALLY a degenerate case of triangle, so don't think you can slip these unreasonably-tall burgers past ME",
       "date": "2026-07-31",
       "link": "http://www.qwantz.com/index.php?comic=4502"
+    },
+    {
+      "num": 4503,
+      "title": "IGNORE PARENTS; INDULGE CHILDREN; LEAVE WHEN THEY ARE OTHERWISE OCCUPIED WITH SLUDGE",
+      "img": "http://www.qwantz.com/comics/comic2-5201.png",
+      "alt": "if your nibling doesn't enjoy kool-aid sludge, simply offer it to another child, later adopting them as your own",
+      "date": "2026-08-05",
+      "link": "http://www.qwantz.com/index.php?comic=4503"
     }
   ]
 }

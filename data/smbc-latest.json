@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-05T08:38:40.005Z",
+  "fetchedAt": "2026-08-05T19:37:34.836Z",
   "comics": [
+    {
+      "slug": "drunken",
+      "title": "Drunken",
+      "img": "https://www.smbc-comics.com/comics/1785787498-20260805.png",
+      "alt": "How come nobody ever asks how the Drunken Master's family is doing?",
+      "date": "2026-08-05",
+      "link": "https://www.smbc-comics.com/comic/drunken"
+    },
     {
       "slug": "wants-2",
       "title": "Wants",
@@ -156,14 +164,6 @@
       "alt": "You occasionally, by accident, get fleeting glimpses of the truth, and then you ascribe them to muses and fairies and shit.",
       "date": "2026-07-17",
       "link": "https://www.smbc-comics.com/comic/subjective"
-    },
-    {
-      "slug": "misery",
-      "title": "Misery",
-      "img": "https://www.smbc-comics.com/comics/1784157176-20260716.png",
-      "alt": "Genuinely, putting artists in charge of depicting the good life has been a catastrophe.",
-      "date": "2026-07-16",
-      "link": "https://www.smbc-comics.com/comic/misery"
     }
   ]
 }
