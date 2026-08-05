@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-04T19:39:57.733Z",
+  "fetchedAt": "2026-08-05T08:38:41.794Z",
   "comics": [
+    {
+      "slug": "the-warning",
+      "title": "The Warning",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthewarning.jpg",
+      "alt": "The Warning",
+      "date": "2026-08-05",
+      "link": "https://www.savagechickens.com/2026/08/the-warning.html"
+    },
     {
       "slug": "maximizing",
       "title": "Maximizing",
@@ -76,14 +84,6 @@
       "alt": "The Greatest Book Ever",
       "date": "2026-07-23",
       "link": "https://www.savagechickens.com/2026/07/the-greatest-book-ever.html"
-    },
-    {
-      "slug": "so-boring",
-      "title": "So Boring",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickensoboring.jpg",
-      "alt": "So Boring",
-      "date": "2026-07-22",
-      "link": "https://www.savagechickens.com/2026/07/so-boring.html"
     }
   ]
 }
