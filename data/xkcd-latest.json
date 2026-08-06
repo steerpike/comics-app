@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3280,
-  "fetchedAt": "2026-08-05T19:37:33.618Z",
+  "latestNum": 3281,
+  "fetchedAt": "2026-08-06T08:39:05.646Z",
   "comics": [
+    {
+      "num": 3281,
+      "title": "Antiques Roadshow",
+      "img": "https://imgs.xkcd.com/comics/antiques_roadshow.png",
+      "alt": "The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.",
+      "date": "2026-08-05"
+    },
     {
       "num": 3280,
       "title": "Maze",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/sports_commentary.png",
       "alt": "The plural of anecdote may not be data, but the singular of data is anecdote.",
       "date": "2026-06-22"
-    },
-    {
-      "num": 3261,
-      "title": "Side Effect",
-      "img": "https://imgs.xkcd.com/comics/side_effect.png",
-      "alt": "Brace yourself--the chirp gets pretty weird.",
-      "date": "2026-06-19"
     }
   ]
 }

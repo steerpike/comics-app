@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3279,
-  "latestNum": 3280,
-  "fetchedAt": "2026-08-04T08:39:55.501Z",
+  "total": 3280,
+  "latestNum": 3281,
+  "fetchedAt": "2026-08-06T08:39:05.656Z",
   "comics": [
     {
       "num": 1,
@@ -22956,6 +22956,13 @@
       "img": "https://imgs.xkcd.com/comics/maze.png",
       "alt": "As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology.",
       "date": "2026-08-03"
+    },
+    {
+      "num": 3281,
+      "title": "Antiques Roadshow",
+      "img": "https://imgs.xkcd.com/comics/antiques_roadshow.png",
+      "alt": "The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.",
+      "date": "2026-08-05"
     }
   ]
 }

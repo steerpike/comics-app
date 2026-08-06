@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-05T19:37:37.363Z",
+  "fetchedAt": "2026-08-06T08:39:23.835Z",
   "comics": [
+    {
+      "slug": "sushi",
+      "title": "Sushi",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickensushi.jpg",
+      "alt": "Sushi",
+      "date": "2026-08-06",
+      "link": "https://www.savagechickens.com/2026/08/sushi.html"
+    },
     {
       "slug": "the-warning",
       "title": "The Warning",
@@ -76,14 +84,6 @@
       "alt": "The Flow",
       "date": "2026-07-24",
       "link": "https://www.savagechickens.com/2026/07/the-flow.html"
-    },
-    {
-      "slug": "the-greatest-book-ever",
-      "title": "The Greatest Book Ever",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthegreatestbookever.jpg",
-      "alt": "The Greatest Book Ever",
-      "date": "2026-07-23",
-      "link": "https://www.savagechickens.com/2026/07/the-greatest-book-ever.html"
     }
   ]
 }
