@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-07T00:03:47.711Z",
+  "fetchedAt": "2026-08-07T07:18:46.974Z",
   "comics": [
+    {
+      "slug": "return-of-the-dinosaurs",
+      "title": "Return of the Dinosaurs",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenreturnofthedinosaurs.jpg",
+      "alt": "Return of the Dinosaurs",
+      "date": "2026-08-07",
+      "link": "https://www.savagechickens.com/2026/08/return-of-the-dinosaurs.html"
+    },
     {
       "slug": "sushi",
       "title": "Sushi",
@@ -76,14 +84,6 @@
       "alt": "Forever",
       "date": "2026-07-27",
       "link": "https://www.savagechickens.com/2026/07/forever.html"
-    },
-    {
-      "slug": "the-flow",
-      "title": "The Flow",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickentheflow.jpg",
-      "alt": "The Flow",
-      "date": "2026-07-24",
-      "link": "https://www.savagechickens.com/2026/07/the-flow.html"
     }
   ]
 }
