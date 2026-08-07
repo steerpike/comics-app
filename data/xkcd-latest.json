@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3281,
-  "fetchedAt": "2026-08-07T07:18:44.760Z",
+  "latestNum": 3282,
+  "fetchedAt": "2026-08-07T18:59:45.764Z",
   "comics": [
+    {
+      "num": 3282,
+      "title": "Trick Play",
+      "img": "https://imgs.xkcd.com/comics/trick_play.png",
+      "alt": "I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.",
+      "date": "2026-08-07"
+    },
     {
       "num": 3281,
       "title": "Antiques Roadshow",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/baryon_asymmetry.png",
       "alt": "Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?",
       "date": "2026-06-24"
-    },
-    {
-      "num": 3262,
-      "title": "Sports Commentary",
-      "img": "https://imgs.xkcd.com/comics/sports_commentary.png",
-      "alt": "The plural of anecdote may not be data, but the singular of data is anecdote.",
-      "date": "2026-06-22"
     }
   ]
 }

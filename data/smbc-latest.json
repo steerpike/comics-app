@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-07T07:18:45.358Z",
+  "fetchedAt": "2026-08-07T18:59:46.232Z",
   "comics": [
+    {
+      "slug": "paracosm",
+      "title": "Paracosm",
+      "img": "https://www.smbc-comics.com/comics/1785959130-20260807.png",
+      "alt": "Don't care if you like it; this comic was an excuse to say Paracosm.",
+      "date": "2026-08-07",
+      "link": "https://www.smbc-comics.com/comic/paracosm"
+    },
     {
       "slug": "butling",
       "title": "Butling",
@@ -156,14 +164,6 @@
       "alt": "Actually, things were at their best during the last year of my life when I had no responsibilities.",
       "date": "2026-07-19",
       "link": "https://www.smbc-comics.com/comic/poof"
-    },
-    {
-      "slug": "list-2",
-      "title": "List",
-      "img": "https://www.smbc-comics.com/comics/1784305213-20260718.png",
-      "alt": "What a strange coincidence the way this keeps happening every day.",
-      "date": "2026-07-18",
-      "link": "https://www.smbc-comics.com/comic/list-2"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-08-07T07:18:44.866Z",
+  "fetchedAt": "2026-08-07T18:59:45.918Z",
   "comics": [
+    {
+      "num": 4504,
+      "title": "people love a jokester at the legally-mandated annual general meeting of their condominium corporation",
+      "img": "http://www.qwantz.com/comics/comic2-5202.png",
+      "alt": "minutes can happen with any sort of meeting, so the condo context t-rex insisted on supplying is entirely unnecessary.  these minutes truly DO feel like hours",
+      "date": "2026-08-07",
+      "link": "http://www.qwantz.com/index.php?comic=4504"
+    },
     {
       "num": 4503,
       "title": "IGNORE PARENTS; INDULGE CHILDREN; LEAVE WHEN THEY ARE OTHERWISE OCCUPIED WITH SLUDGE",
@@ -76,14 +84,6 @@
       "alt": "i'd tell you to walk it off, but you don't know how to walk, so - crawl it off!  oh, no crawling yet either?  uh... roll it off?",
       "date": "2026-07-13",
       "link": "http://www.qwantz.com/index.php?comic=4495"
-    },
-    {
-      "num": 4494,
-      "title": "FINALLY a detective with significant AND game-breaking advantages",
-      "img": "http://www.qwantz.com/comics/comic2-5192.png",
-      "alt": "yes mr. and mrs. flies decided to name their baby ",
-      "date": "2026-07-10",
-      "link": "http://www.qwantz.com/index.php?comic=4494"
     }
   ]
 }

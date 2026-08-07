@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3280,
-  "latestNum": 3281,
-  "fetchedAt": "2026-08-06T08:39:05.656Z",
+  "total": 3281,
+  "latestNum": 3282,
+  "fetchedAt": "2026-08-07T18:59:45.774Z",
   "comics": [
     {
       "num": 1,
@@ -22963,6 +22963,13 @@
       "img": "https://imgs.xkcd.com/comics/antiques_roadshow.png",
       "alt": "The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.",
       "date": "2026-08-05"
+    },
+    {
+      "num": 3282,
+      "title": "Trick Play",
+      "img": "https://imgs.xkcd.com/comics/trick_play.png",
+      "alt": "I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.",
+      "date": "2026-08-07"
     }
   ]
 }
