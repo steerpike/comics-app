@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-06T08:39:06.334Z",
+  "fetchedAt": "2026-08-07T00:03:46.078Z",
   "comics": [
+    {
+      "slug": "butling",
+      "title": "Butling",
+      "img": "https://www.smbc-comics.com/comics/1785959087-20260806.png",
+      "alt": "If there are ever time travelers from the Regency period they will be so confused by our robot butler discourse.",
+      "date": "2026-08-06",
+      "link": "https://www.smbc-comics.com/comic/butling"
+    },
     {
       "slug": "drunken",
       "title": "Drunken",
@@ -156,14 +164,6 @@
       "alt": "What a strange coincidence the way this keeps happening every day.",
       "date": "2026-07-18",
       "link": "https://www.smbc-comics.com/comic/list-2"
-    },
-    {
-      "slug": "subjective",
-      "title": "Subjective",
-      "img": "https://www.smbc-comics.com/comics/1784250964-20260718.png",
-      "alt": "You occasionally, by accident, get fleeting glimpses of the truth, and then you ascribe them to muses and fairies and shit.",
-      "date": "2026-07-17",
-      "link": "https://www.smbc-comics.com/comic/subjective"
     }
   ]
 }
