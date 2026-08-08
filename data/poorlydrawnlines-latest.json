@@ -3,15 +3,23 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-08-07T07:18:46.464Z",
+  "fetchedAt": "2026-08-08T18:40:02.212Z",
   "comics": [
     {
-      "slug": "258146",
-      "title": "",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/07/didnt-realize.png",
+      "slug": "the-dog",
+      "title": "The Dog",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/08/fun-anymore.png",
       "alt": "",
-      "date": "2026-07-22",
-      "link": "https://poorlydrawnlines.com/comic/258146/"
+      "date": "2026-08-07",
+      "link": "https://poorlydrawnlines.com/comic/the-dog/"
+    },
+    {
+      "slug": "didnt-realize",
+      "title": "Didn’t Realize",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/08/didnt-realize.png",
+      "alt": "",
+      "date": "2026-07-02",
+      "link": "https://poorlydrawnlines.com/comic/didnt-realize/"
     },
     {
       "slug": "wild-card",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-05-28",
       "link": "https://poorlydrawnlines.com/comic/a-team/"
-    },
-    {
-      "slug": "ancient-seagulls",
-      "title": "Ancient Seagulls",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/05/ancient-seagulls.png",
-      "alt": "",
-      "date": "2026-05-21",
-      "link": "https://poorlydrawnlines.com/comic/ancient-seagulls/"
     }
   ]
 }
