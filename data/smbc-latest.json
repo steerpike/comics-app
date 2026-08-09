@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-09T06:59:16.748Z",
+  "fetchedAt": "2026-08-09T18:43:06.726Z",
   "comics": [
+    {
+      "slug": "simulation-6",
+      "title": "Simulation",
+      "img": "https://www.smbc-comics.com/comics/1786238482-20260809.png",
+      "alt": "All I'm saying is that of all the ways reality could be, you think it just HAPPENED to be real?",
+      "date": "2026-08-09",
+      "link": "https://www.smbc-comics.com/comic/simulation-6"
+    },
     {
       "slug": "fur",
       "title": "Fur",
@@ -156,14 +164,6 @@
       "alt": "I once joked about this back when twitter existed and a Twitter Dominatrix told me that she'd done it plenty of times.",
       "date": "2026-07-21",
       "link": "https://www.smbc-comics.com/comic/crawl"
-    },
-    {
-      "slug": "sword-3",
-      "title": "Sword",
-      "img": "https://www.smbc-comics.com/comics/1784518178-20260720.png",
-      "alt": "Suddenly terrified that Matthew Wills already did this joke at some point.",
-      "date": "2026-07-20",
-      "link": "https://www.smbc-comics.com/comic/sword-3"
     }
   ]
 }
