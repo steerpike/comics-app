@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3282,
-  "fetchedAt": "2026-08-10T07:45:01.274Z",
+  "latestNum": 3283,
+  "fetchedAt": "2026-08-10T18:59:23.133Z",
   "comics": [
+    {
+      "num": 3283,
+      "title": "Size and Lifespan",
+      "img": "https://imgs.xkcd.com/comics/size_and_lifespan.png",
+      "alt": "With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.",
+      "date": "2026-08-10"
+    },
     {
       "num": 3282,
       "title": "Trick Play",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/720_ollie.png",
       "alt": "This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.",
       "date": "2026-06-26"
-    },
-    {
-      "num": 3263,
-      "title": "Baryon Asymmetry",
-      "img": "https://imgs.xkcd.com/comics/baryon_asymmetry.png",
-      "alt": "Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?",
-      "date": "2026-06-24"
     }
   ]
 }

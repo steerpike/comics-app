@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-08-10T07:45:01.680Z",
+  "fetchedAt": "2026-08-10T18:59:23.549Z",
   "comics": [
+    {
+      "num": 4505,
+      "title": "i call this genre \"normal world but the universe is coo-coo bananas\".  nobody else calls it this but i do",
+      "img": "http://www.qwantz.com/comics/comic2-5203.png",
+      "alt": "such is the nature of this mind-bendingly incredible reveal that one finds oneself beyond the reach of lower, or even mixed-case expression",
+      "date": "2026-08-10",
+      "link": "http://www.qwantz.com/index.php?comic=4505"
+    },
     {
       "num": 4504,
       "title": "people love a jokester at the legally-mandated annual general meeting of their condominium corporation",
@@ -76,14 +84,6 @@
       "alt": "it's only SOME of the way there and i could not have communicated that more clearly",
       "date": "2026-07-15",
       "link": "http://www.qwantz.com/index.php?comic=4496"
-    },
-    {
-      "num": 4495,
-      "title": "COMIX 4 KIDƧ!!  Wait, no, sorry kids, nevermind.  This is COMIX 4 ADULTS COMPLAINING ABOUT KIDƧ!",
-      "img": "http://www.qwantz.com/comics/comic2-5193.png",
-      "alt": "i'd tell you to walk it off, but you don't know how to walk, so - crawl it off!  oh, no crawling yet either?  uh... roll it off?",
-      "date": "2026-07-13",
-      "link": "http://www.qwantz.com/index.php?comic=4495"
     }
   ]
 }

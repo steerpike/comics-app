@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3281,
-  "latestNum": 3282,
-  "fetchedAt": "2026-08-07T18:59:45.774Z",
+  "total": 3282,
+  "latestNum": 3283,
+  "fetchedAt": "2026-08-10T18:59:23.143Z",
   "comics": [
     {
       "num": 1,
@@ -22970,6 +22970,13 @@
       "img": "https://imgs.xkcd.com/comics/trick_play.png",
       "alt": "I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.",
       "date": "2026-08-07"
+    },
+    {
+      "num": 3283,
+      "title": "Size and Lifespan",
+      "img": "https://imgs.xkcd.com/comics/size_and_lifespan.png",
+      "alt": "With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.",
+      "date": "2026-08-10"
     }
   ]
 }
