@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-09T18:43:08.248Z",
+  "fetchedAt": "2026-08-10T07:45:04.529Z",
   "comics": [
+    {
+      "slug": "important-work",
+      "title": "Important Work",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenimportantwork.jpg",
+      "alt": "Important Work",
+      "date": "2026-08-10",
+      "link": "https://www.savagechickens.com/2026/08/important-work.html"
+    },
     {
       "slug": "return-of-the-dinosaurs",
       "title": "Return of the Dinosaurs",
@@ -76,14 +84,6 @@
       "alt": "Internet Redemption",
       "date": "2026-07-28",
       "link": "https://www.savagechickens.com/2026/07/internet-redemption.html"
-    },
-    {
-      "slug": "forever",
-      "title": "Forever",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenforever.jpg",
-      "alt": "Forever",
-      "date": "2026-07-27",
-      "link": "https://www.savagechickens.com/2026/07/forever.html"
     }
   ]
 }
