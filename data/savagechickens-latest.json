@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-10T18:59:40.246Z",
+  "fetchedAt": "2026-08-11T07:10:38.298Z",
   "comics": [
+    {
+      "slug": "the-brink",
+      "title": "The Brink",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthebrink.jpg",
+      "alt": "The Brink",
+      "date": "2026-08-11",
+      "link": "https://www.savagechickens.com/2026/08/the-brink.html"
+    },
     {
       "slug": "important-work",
       "title": "Important Work",
@@ -76,14 +84,6 @@
       "alt": "Meaning of Life",
       "date": "2026-07-29",
       "link": "https://www.savagechickens.com/2026/07/meaning-of-life-2.html"
-    },
-    {
-      "slug": "internet-redemption",
-      "title": "Internet Redemption",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickeninternetredemption.jpg",
-      "alt": "Internet Redemption",
-      "date": "2026-07-28",
-      "link": "https://www.savagechickens.com/2026/07/internet-redemption.html"
     }
   ]
 }
