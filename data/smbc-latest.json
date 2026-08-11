@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-11T07:10:36.495Z",
+  "fetchedAt": "2026-08-11T19:03:56.267Z",
   "comics": [
+    {
+      "slug": "brave",
+      "title": "Brave",
+      "img": "https://www.smbc-comics.com/comics/1786402084-20260811.png",
+      "alt": "The only thing more overrated than truth is beauty.",
+      "date": "2026-08-11",
+      "link": "https://www.smbc-comics.com/comic/brave"
+    },
     {
       "slug": "quantum-7",
       "title": "Quantum",
@@ -156,14 +164,6 @@
       "alt": "The worst thing is how every time you yell at it, it acknowledges your suffering and tries to hug you.",
       "date": "2026-07-23",
       "link": "https://www.smbc-comics.com/comic/alignment"
-    },
-    {
-      "slug": "bully-2",
-      "title": "Bully",
-      "img": "https://www.smbc-comics.com/comics/1784663157-20260722.png",
-      "alt": "And now I bully you with a wall of text.",
-      "date": "2026-07-22",
-      "link": "https://www.smbc-comics.com/comic/bully-2"
     }
   ]
 }
