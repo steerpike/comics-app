@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-11T19:03:58.089Z",
+  "fetchedAt": "2026-08-12T07:27:08.791Z",
   "comics": [
+    {
+      "slug": "positive-attitude",
+      "title": "Positive Attitude",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpositiveattitude.jpg",
+      "alt": "Positive Attitude",
+      "date": "2026-08-12",
+      "link": "https://www.savagechickens.com/2026/08/positive-attitude.html"
+    },
     {
       "slug": "the-brink",
       "title": "The Brink",
@@ -76,14 +84,6 @@
       "alt": "Feeling Better",
       "date": "2026-07-30",
       "link": "https://www.savagechickens.com/2026/07/feeling-better.html"
-    },
-    {
-      "slug": "meaning-of-life-2",
-      "title": "Meaning of Life",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmeaningoflife.jpg",
-      "alt": "Meaning of Life",
-      "date": "2026-07-29",
-      "link": "https://www.savagechickens.com/2026/07/meaning-of-life-2.html"
     }
   ]
 }
