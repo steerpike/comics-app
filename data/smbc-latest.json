@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-12T07:27:07.110Z",
+  "fetchedAt": "2026-08-12T19:03:26.458Z",
   "comics": [
+    {
+      "slug": "priority-2",
+      "title": "Priority",
+      "img": "https://www.smbc-comics.com/comics/1786485004-20260812.png",
+      "alt": "Hoping this will cause someone to surface an off-brand SMBC author from the midcentury USSR.",
+      "date": "2026-08-12",
+      "link": "https://www.smbc-comics.com/comic/priority-2"
+    },
     {
       "slug": "brave",
       "title": "Brave",
@@ -156,14 +164,6 @@
       "alt": "In the final round, they pelt you with eggcorns.",
       "date": "2026-07-24",
       "link": "https://www.smbc-comics.com/comic/legos"
-    },
-    {
-      "slug": "alignment",
-      "title": "Alignment",
-      "img": "https://www.smbc-comics.com/comics/1784761756-20260723.png",
-      "alt": "The worst thing is how every time you yell at it, it acknowledges your suffering and tries to hug you.",
-      "date": "2026-07-23",
-      "link": "https://www.smbc-comics.com/comic/alignment"
     }
   ]
 }

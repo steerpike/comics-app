@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-08-12T07:27:06.684Z",
+  "fetchedAt": "2026-08-12T19:03:26.226Z",
   "comics": [
+    {
+      "num": 4506,
+      "title": "you still have problems?  wow.  problems are so last year but it's so brave of you to still have them.  you really must not care what ANYONE thinks",
+      "img": "http://www.qwantz.com/comics/comic2-5204.png",
+      "alt": "if you don't like isolation then that's a problem that can be solved by kissing.  if you don't like kissing then that's a problem that can be solved by isolation.  either way this is EASY",
+      "date": "2026-08-12",
+      "link": "http://www.qwantz.com/index.php?comic=4506"
+    },
     {
       "num": 4505,
       "title": "i call this genre \"normal world but the universe is coo-coo bananas\".  nobody else calls it this but i do",
@@ -76,14 +84,6 @@
       "alt": "follow me for more pick-up advice, i'm something of a pick-up artist myself (I have cross-stitched my pick-up advice into very appealing pieces, each is one-of-a-kind and available at the art shows i'm participating in this summer)",
       "date": "2026-07-20",
       "link": "http://www.qwantz.com/index.php?comic=4497"
-    },
-    {
-      "num": 4496,
-      "title": "i'd imagine it seems like MOST people hate growing hair, given how often we shave it, cut it, or destroy it with actual lasers???",
-      "img": "http://www.qwantz.com/comics/comic2-5194.png",
-      "alt": "it's only SOME of the way there and i could not have communicated that more clearly",
-      "date": "2026-07-15",
-      "link": "http://www.qwantz.com/index.php?comic=4496"
     }
   ]
 }

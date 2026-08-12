@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 75,
-  "highestNum": 4505,
-  "fetchedAt": "2026-08-10T18:59:23.549Z",
+  "total": 76,
+  "highestNum": 4506,
+  "fetchedAt": "2026-08-12T19:03:26.227Z",
   "comics": [
     {
       "num": 4431,
@@ -603,6 +603,14 @@
       "alt": "such is the nature of this mind-bendingly incredible reveal that one finds oneself beyond the reach of lower, or even mixed-case expression",
       "date": "2026-08-10",
       "link": "http://www.qwantz.com/index.php?comic=4505"
+    },
+    {
+      "num": 4506,
+      "title": "you still have problems?  wow.  problems are so last year but it's so brave of you to still have them.  you really must not care what ANYONE thinks",
+      "img": "http://www.qwantz.com/comics/comic2-5204.png",
+      "alt": "if you don't like isolation then that's a problem that can be solved by kissing.  if you don't like kissing then that's a problem that can be solved by isolation.  either way this is EASY",
+      "date": "2026-08-12",
+      "link": "http://www.qwantz.com/index.php?comic=4506"
     }
   ]
 }
