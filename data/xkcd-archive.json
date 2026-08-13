@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3282,
-  "latestNum": 3283,
-  "fetchedAt": "2026-08-10T18:59:23.143Z",
+  "total": 3283,
+  "latestNum": 3284,
+  "fetchedAt": "2026-08-13T07:37:08.883Z",
   "comics": [
     {
       "num": 1,
@@ -22977,6 +22977,13 @@
       "img": "https://imgs.xkcd.com/comics/size_and_lifespan.png",
       "alt": "With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.",
       "date": "2026-08-10"
+    },
+    {
+      "num": 3284,
+      "title": "Geology Building",
+      "img": "https://imgs.xkcd.com/comics/geology_building.png",
+      "alt": "The administration thinks it's weird, but the geologists say it looks normal.",
+      "date": "2026-08-12"
     }
   ]
 }

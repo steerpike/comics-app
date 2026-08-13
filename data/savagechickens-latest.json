@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-12T19:03:42.872Z",
+  "fetchedAt": "2026-08-13T07:37:12.505Z",
   "comics": [
+    {
+      "slug": "rebranding",
+      "title": "Rebranding",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenrebranding.jpg",
+      "alt": "Rebranding",
+      "date": "2026-08-13",
+      "link": "https://www.savagechickens.com/2026/08/rebranding.html"
+    },
     {
       "slug": "positive-attitude",
       "title": "Positive Attitude",
@@ -76,14 +84,6 @@
       "alt": "Get To Work",
       "date": "2026-07-31",
       "link": "https://www.savagechickens.com/2026/07/get-to-work.html"
-    },
-    {
-      "slug": "feeling-better",
-      "title": "Feeling Better",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenfeelbetter-1.jpg",
-      "alt": "Feeling Better",
-      "date": "2026-07-30",
-      "link": "https://www.savagechickens.com/2026/07/feeling-better.html"
     }
   ]
 }

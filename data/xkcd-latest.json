@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3283,
-  "fetchedAt": "2026-08-12T19:03:25.840Z",
+  "latestNum": 3284,
+  "fetchedAt": "2026-08-13T07:37:08.874Z",
   "comics": [
+    {
+      "num": 3284,
+      "title": "Geology Building",
+      "img": "https://imgs.xkcd.com/comics/geology_building.png",
+      "alt": "The administration thinks it's weird, but the geologists say it looks normal.",
+      "date": "2026-08-12"
+    },
     {
       "num": 3283,
       "title": "Size and Lifespan",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/asteroid_threat.png",
       "alt": "Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.",
       "date": "2026-06-29"
-    },
-    {
-      "num": 3264,
-      "title": "720 Ollie",
-      "img": "https://imgs.xkcd.com/comics/720_ollie.png",
-      "alt": "This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.",
-      "date": "2026-06-26"
     }
   ]
 }
