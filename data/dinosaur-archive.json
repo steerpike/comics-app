@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 76,
-  "highestNum": 4506,
-  "fetchedAt": "2026-08-12T19:03:26.227Z",
+  "total": 77,
+  "highestNum": 4507,
+  "fetchedAt": "2026-08-14T07:26:41.881Z",
   "comics": [
     {
       "num": 4431,
@@ -611,6 +611,14 @@
       "alt": "if you don't like isolation then that's a problem that can be solved by kissing.  if you don't like kissing then that's a problem that can be solved by isolation.  either way this is EASY",
       "date": "2026-08-12",
       "link": "http://www.qwantz.com/index.php?comic=4506"
+    },
+    {
+      "num": 4507,
+      "title": "if you need inspiration, boy have you come to the place!!  please note: i did not say \"right place\"",
+      "img": "http://www.qwantz.com/comics/comic2-5205.png",
+      "alt": "and finally not least of all an utterly exhaustive list of things that can't be done",
+      "date": "2026-08-14",
+      "link": "http://www.qwantz.com/index.php?comic=4507"
     }
   ]
 }

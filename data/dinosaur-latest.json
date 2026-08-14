@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-08-13T19:04:42.553Z",
+  "fetchedAt": "2026-08-14T07:26:41.880Z",
   "comics": [
+    {
+      "num": 4507,
+      "title": "if you need inspiration, boy have you come to the place!!  please note: i did not say \"right place\"",
+      "img": "http://www.qwantz.com/comics/comic2-5205.png",
+      "alt": "and finally not least of all an utterly exhaustive list of things that can't be done",
+      "date": "2026-08-14",
+      "link": "http://www.qwantz.com/index.php?comic=4507"
+    },
     {
       "num": 4506,
       "title": "you still have problems?  wow.  problems are so last year but it's so brave of you to still have them.  you really must not care what ANYONE thinks",
@@ -76,14 +84,6 @@
       "alt": "the next night, a bunch of comets in the night sky spell out ",
       "date": "2026-07-22",
       "link": "http://www.qwantz.com/index.php?comic=4498"
-    },
-    {
-      "num": 4497,
-      "title": "i'm in my forties now so let's just say i've got a LOT of experience picking people up",
-      "img": "http://www.qwantz.com/comics/comic2-5195.png",
-      "alt": "follow me for more pick-up advice, i'm something of a pick-up artist myself (I have cross-stitched my pick-up advice into very appealing pieces, each is one-of-a-kind and available at the art shows i'm participating in this summer)",
-      "date": "2026-07-20",
-      "link": "http://www.qwantz.com/index.php?comic=4497"
     }
   ]
 }

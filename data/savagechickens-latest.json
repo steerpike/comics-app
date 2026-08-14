@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-13T19:04:44.727Z",
+  "fetchedAt": "2026-08-14T07:26:58.815Z",
   "comics": [
+    {
+      "slug": "extrafancy",
+      "title": "Extra Fancy",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenfancy.jpg",
+      "alt": "Extra Fancy",
+      "date": "2026-08-14",
+      "link": "https://www.savagechickens.com/2026/08/extrafancy.html"
+    },
     {
       "slug": "rebranding",
       "title": "Rebranding",
@@ -76,14 +84,6 @@
       "alt": "Put On A Happy Face",
       "date": "2026-08-03",
       "link": "https://www.savagechickens.com/2026/08/put-on-a-happy-face.html"
-    },
-    {
-      "slug": "get-to-work",
-      "title": "Get To Work",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickengettowork.jpg",
-      "alt": "Get To Work",
-      "date": "2026-07-31",
-      "link": "https://www.savagechickens.com/2026/07/get-to-work.html"
     }
   ]
 }
