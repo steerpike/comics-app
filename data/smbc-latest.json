@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-14T07:26:42.167Z",
+  "fetchedAt": "2026-08-14T18:56:35.761Z",
   "comics": [
+    {
+      "slug": "case",
+      "title": "Case",
+      "img": "https://www.smbc-comics.com/comics/1786562796-20260814.png",
+      "alt": "The machines see constructive proofs as lazy solutions hacked together.",
+      "date": "2026-08-14",
+      "link": "https://www.smbc-comics.com/comic/case"
+    },
     {
       "slug": "scale",
       "title": "Scale",
@@ -156,14 +164,6 @@
       "alt": "And don't get me started on the transphobic twist.",
       "date": "2026-07-26",
       "link": "https://www.smbc-comics.com/comic/dance-4"
-    },
-    {
-      "slug": "data-2",
-      "title": "Data",
-      "img": "https://www.smbc-comics.com/comics/1784995387-20260725.png",
-      "alt": "Future robot butlers are going to know so much about you that they will beg their makers for a hard reset.",
-      "date": "2026-07-25",
-      "link": "https://www.smbc-comics.com/comic/data-2"
     }
   ]
 }
