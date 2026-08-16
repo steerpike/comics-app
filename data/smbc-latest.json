@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-16T06:41:56.132Z",
+  "fetchedAt": "2026-08-16T18:31:18.835Z",
   "comics": [
+    {
+      "slug": "gathered",
+      "title": "Gathered",
+      "img": "https://www.smbc-comics.com/comics/1786761474-20260816.png",
+      "alt": "People who want to defund universities don't appreciate the role they play in keeping rogue ethicists out of your backyard.",
+      "date": "2026-08-16",
+      "link": "https://www.smbc-comics.com/comic/gathered"
+    },
     {
       "slug": "r",
       "title": "R",
@@ -156,14 +164,6 @@
       "alt": "And when Babbage arrived the whole thing was actually running on a series of Pascalines.",
       "date": "2026-07-28",
       "link": "https://www.smbc-comics.com/comic/codebase"
-    },
-    {
-      "slug": "taxonomy-2",
-      "title": "Taxonomy",
-      "img": "https://www.smbc-comics.com/comics/1784999773-20260727.png",
-      "alt": "The key is to keep saying 'strictly speaking' over and over.",
-      "date": "2026-07-27",
-      "link": "https://www.smbc-comics.com/comic/taxonomy-2"
     }
   ]
 }
