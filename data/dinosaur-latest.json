@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-08-17T06:58:32.794Z",
+  "fetchedAt": "2026-08-17T18:41:33.661Z",
   "comics": [
+    {
+      "num": 4508,
+      "title": "jackie more like JERKIE amirite",
+      "img": "http://www.qwantz.com/comics/comic2-5206.png",
+      "alt": "yes, utahraptor is indeed Going Through It",
+      "date": "2026-08-17",
+      "link": "http://www.qwantz.com/index.php?comic=4508"
+    },
     {
       "num": 4507,
       "title": "if you need inspiration, boy have you come to the place!!  please note: i did not say \"right place\"",
@@ -76,14 +84,6 @@
       "alt": "and once i do learn it, i won't have to fix all my ME issues anymore!  plus i'll know how to work many a wood.  so clearly everyone wins",
       "date": "2026-07-24",
       "link": "http://www.qwantz.com/index.php?comic=4499"
-    },
-    {
-      "num": 4498,
-      "title": "maybe we were all holding back on photos until we got our faces under control",
-      "img": "http://www.qwantz.com/comics/comic2-5196.png",
-      "alt": "the next night, a bunch of comets in the night sky spell out ",
-      "date": "2026-07-22",
-      "link": "http://www.qwantz.com/index.php?comic=4498"
     }
   ]
 }

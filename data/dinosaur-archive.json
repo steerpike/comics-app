@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 77,
-  "highestNum": 4507,
-  "fetchedAt": "2026-08-14T07:26:41.881Z",
+  "total": 78,
+  "highestNum": 4508,
+  "fetchedAt": "2026-08-17T18:41:33.662Z",
   "comics": [
     {
       "num": 4431,
@@ -619,6 +619,14 @@
       "alt": "and finally not least of all an utterly exhaustive list of things that can't be done",
       "date": "2026-08-14",
       "link": "http://www.qwantz.com/index.php?comic=4507"
+    },
+    {
+      "num": 4508,
+      "title": "jackie more like JERKIE amirite",
+      "img": "http://www.qwantz.com/comics/comic2-5206.png",
+      "alt": "yes, utahraptor is indeed Going Through It",
+      "date": "2026-08-17",
+      "link": "http://www.qwantz.com/index.php?comic=4508"
     }
   ]
 }

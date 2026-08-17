@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-17T06:58:33.207Z",
+  "fetchedAt": "2026-08-17T18:41:35.242Z",
   "comics": [
+    {
+      "slug": "eulogy-2",
+      "title": "Eulogy",
+      "img": "https://www.smbc-comics.com/comics/1786936686-20260817.png",
+      "alt": "YOU HAVE OFFICIALLY BEEN DARED",
+      "date": "2026-08-17",
+      "link": "https://www.smbc-comics.com/comic/eulogy-2"
+    },
     {
       "slug": "gathered",
       "title": "Gathered",
@@ -156,14 +164,6 @@
       "alt": "I can barely enjoy Amleth anymore.",
       "date": "2026-07-29",
       "link": "https://www.smbc-comics.com/comic/hashtag"
-    },
-    {
-      "slug": "codebase",
-      "title": "Codebase",
-      "img": "https://www.smbc-comics.com/comics/1785184164-20260728.png",
-      "alt": "And when Babbage arrived the whole thing was actually running on a series of Pascalines.",
-      "date": "2026-07-28",
-      "link": "https://www.smbc-comics.com/comic/codebase"
     }
   ]
 }
