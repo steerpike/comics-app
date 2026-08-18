@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-18T06:45:56.415Z",
+  "fetchedAt": "2026-08-18T18:40:18.623Z",
   "comics": [
+    {
+      "slug": "genie-4",
+      "title": "Genie",
+      "img": "https://www.smbc-comics.com/comics/1787015498-20260818.png",
+      "alt": "If a creature gives you a wish, wish to not regret the wish. Trust me, you won't regret it.",
+      "date": "2026-08-18",
+      "link": "https://www.smbc-comics.com/comic/genie-4"
+    },
     {
       "slug": "eulogy-2",
       "title": "Eulogy",
@@ -156,14 +164,6 @@
       "alt": "The crank doesn't actually do anything, but it makes the humans happy.",
       "date": "2026-07-30",
       "link": "https://www.smbc-comics.com/comic/crank"
-    },
-    {
-      "slug": "hashtag",
-      "title": "Hashtag",
-      "img": "https://www.smbc-comics.com/comics/1785184202-20260729.png",
-      "alt": "I can barely enjoy Amleth anymore.",
-      "date": "2026-07-29",
-      "link": "https://www.smbc-comics.com/comic/hashtag"
     }
   ]
 }

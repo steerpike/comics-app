@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-08-17T06:58:34.511Z",
+  "fetchedAt": "2026-08-18T18:40:19.918Z",
   "comics": [
+    {
+      "slug": "check-this-out",
+      "title": "Check This Out",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/08/check-this-out.png",
+      "alt": "",
+      "date": "2026-08-18",
+      "link": "https://poorlydrawnlines.com/comic/check-this-out/"
+    },
     {
       "slug": "contemplating",
       "title": "Contemplating",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-06-11",
       "link": "https://poorlydrawnlines.com/comic/lived-here/"
-    },
-    {
-      "slug": "the-desert",
-      "title": "The Desert",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/06/the-desert.png",
-      "alt": "",
-      "date": "2026-06-09",
-      "link": "https://poorlydrawnlines.com/comic/the-desert/"
     }
   ]
 }
