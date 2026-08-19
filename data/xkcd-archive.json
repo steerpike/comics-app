@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3285,
-  "latestNum": 3286,
-  "fetchedAt": "2026-08-19T06:47:03.722Z",
+  "total": 3286,
+  "latestNum": 3287,
+  "fetchedAt": "2026-08-19T18:37:41.020Z",
   "comics": [
     {
       "num": 1,
@@ -22998,6 +22998,13 @@
       "img": "https://imgs.xkcd.com/comics/particle_physics_equipment.png",
       "alt": "The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory's now-dismantled COSMOTRON.",
       "date": "2026-08-17"
+    },
+    {
+      "num": 3287,
+      "title": "Perseids",
+      "img": "https://imgs.xkcd.com/comics/perseids.png",
+      "alt": "Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.",
+      "date": "2026-08-19"
     }
   ]
 }

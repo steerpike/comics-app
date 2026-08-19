@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3286,
-  "fetchedAt": "2026-08-19T06:47:03.713Z",
+  "latestNum": 3287,
+  "fetchedAt": "2026-08-19T18:37:41.010Z",
   "comics": [
+    {
+      "num": 3287,
+      "title": "Perseids",
+      "img": "https://imgs.xkcd.com/comics/perseids.png",
+      "alt": "Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.",
+      "date": "2026-08-19"
+    },
     {
       "num": 3286,
       "title": "Particle Physics Equipment",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/offside.png",
       "alt": "The arbiter gave my knight a red card for capturing with cleats up :(",
       "date": "2026-07-06"
-    },
-    {
-      "num": 3267,
-      "title": "Types of Tornado Alert",
-      "img": "https://imgs.xkcd.com/comics/types_of_tornado_alert.png",
-      "alt": "I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.",
-      "date": "2026-07-03"
     }
   ]
 }

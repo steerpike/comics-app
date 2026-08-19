@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-19T06:47:05.875Z",
+  "fetchedAt": "2026-08-19T18:37:43.662Z",
   "comics": [
+    {
+      "slug": "party-prep",
+      "title": "Party Prep",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpartyprep.jpg",
+      "alt": "Party Prep",
+      "date": "2026-08-19",
+      "link": "https://www.savagechickens.com/2026/08/party-prep.html"
+    },
     {
       "slug": "automotive-technology",
       "title": "Automotive Technology",
@@ -76,14 +84,6 @@
       "alt": "Sushi",
       "date": "2026-08-06",
       "link": "https://www.savagechickens.com/2026/08/sushi.html"
-    },
-    {
-      "slug": "the-warning",
-      "title": "The Warning",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthewarning.jpg",
-      "alt": "The Warning",
-      "date": "2026-08-05",
-      "link": "https://www.savagechickens.com/2026/08/the-warning.html"
     }
   ]
 }

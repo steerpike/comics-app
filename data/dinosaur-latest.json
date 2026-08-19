@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-08-19T06:47:03.976Z",
+  "fetchedAt": "2026-08-19T18:37:41.448Z",
   "comics": [
+    {
+      "num": 4509,
+      "title": "i have to believe that the overlap between dinosaur comics readers and cannon owners is non-zero",
+      "img": "http://www.qwantz.com/comics/comic2-5207.png",
+      "alt": "t-rex had to make his first mistake SOMETIME, might as well be now",
+      "date": "2026-08-19",
+      "link": "http://www.qwantz.com/index.php?comic=4509"
+    },
     {
       "num": 4508,
       "title": "jackie more like JERKIE amirite",
@@ -76,14 +84,6 @@
       "alt": "tell enough stories about a someone and you will inevitably hit the Turned Into A Horse episode",
       "date": "2026-07-27",
       "link": "http://www.qwantz.com/index.php?comic=4500"
-    },
-    {
-      "num": 4499,
-      "title": "i don't want to learn woodworking, i want to learn Remedial Basic Wood Cutting For Adults",
-      "img": "http://www.qwantz.com/comics/comic2-5197.png",
-      "alt": "and once i do learn it, i won't have to fix all my ME issues anymore!  plus i'll know how to work many a wood.  so clearly everyone wins",
-      "date": "2026-07-24",
-      "link": "http://www.qwantz.com/index.php?comic=4499"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 78,
-  "highestNum": 4508,
-  "fetchedAt": "2026-08-17T18:41:33.662Z",
+  "total": 79,
+  "highestNum": 4509,
+  "fetchedAt": "2026-08-19T18:37:41.449Z",
   "comics": [
     {
       "num": 4431,
@@ -627,6 +627,14 @@
       "alt": "yes, utahraptor is indeed Going Through It",
       "date": "2026-08-17",
       "link": "http://www.qwantz.com/index.php?comic=4508"
+    },
+    {
+      "num": 4509,
+      "title": "i have to believe that the overlap between dinosaur comics readers and cannon owners is non-zero",
+      "img": "http://www.qwantz.com/comics/comic2-5207.png",
+      "alt": "t-rex had to make his first mistake SOMETIME, might as well be now",
+      "date": "2026-08-19",
+      "link": "http://www.qwantz.com/index.php?comic=4509"
     }
   ]
 }
