@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3284,
-  "latestNum": 3285,
-  "fetchedAt": "2026-08-15T06:40:33.321Z",
+  "total": 3285,
+  "latestNum": 3286,
+  "fetchedAt": "2026-08-19T06:47:03.722Z",
   "comics": [
     {
       "num": 1,
@@ -22991,6 +22991,13 @@
       "img": "https://imgs.xkcd.com/comics/accretionary_arc.png",
       "alt": "The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.",
       "date": "2026-08-14"
+    },
+    {
+      "num": 3286,
+      "title": "Particle Physics Equipment",
+      "img": "https://imgs.xkcd.com/comics/particle_physics_equipment.png",
+      "alt": "The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory's now-dismantled COSMOTRON.",
+      "date": "2026-08-17"
     }
   ]
 }

@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3285,
-  "fetchedAt": "2026-08-18T18:40:18.071Z",
+  "latestNum": 3286,
+  "fetchedAt": "2026-08-19T06:47:03.713Z",
   "comics": [
+    {
+      "num": 3286,
+      "title": "Particle Physics Equipment",
+      "img": "https://imgs.xkcd.com/comics/particle_physics_equipment.png",
+      "alt": "The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory's now-dismantled COSMOTRON.",
+      "date": "2026-08-17"
+    },
     {
       "num": 3285,
       "title": "Accretionary Arc",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/types_of_tornado_alert.png",
       "alt": "I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.",
       "date": "2026-07-03"
-    },
-    {
-      "num": 3266,
-      "title": "Holes",
-      "img": "https://imgs.xkcd.com/comics/holes.png",
-      "alt": "If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do.",
-      "date": "2026-07-01"
     }
   ]
 }
