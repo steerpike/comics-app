@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-20T06:49:05.943Z",
+  "fetchedAt": "2026-08-20T18:41:16.351Z",
   "comics": [
+    {
+      "slug": "meet-the-ceo",
+      "title": "Meet the CEO",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmeettheceo.jpg",
+      "alt": "Meet the CEO",
+      "date": "2026-08-20",
+      "link": "https://www.savagechickens.com/2026/08/meet-the-ceo.html"
+    },
     {
       "slug": "party-prep",
       "title": "Party Prep",
@@ -76,14 +84,6 @@
       "alt": "Return of the Dinosaurs",
       "date": "2026-08-07",
       "link": "https://www.savagechickens.com/2026/08/return-of-the-dinosaurs.html"
-    },
-    {
-      "slug": "sushi",
-      "title": "Sushi",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickensushi.jpg",
-      "alt": "Sushi",
-      "date": "2026-08-06",
-      "link": "https://www.savagechickens.com/2026/08/sushi.html"
     }
   ]
 }

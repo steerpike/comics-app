@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-08-19T18:37:43.378Z",
+  "fetchedAt": "2026-08-20T18:41:15.859Z",
   "comics": [
+    {
+      "slug": "the-forest",
+      "title": "The Forest",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/08/the-forest.png",
+      "alt": "",
+      "date": "2026-08-20",
+      "link": "https://poorlydrawnlines.com/comic/the-forest/"
+    },
     {
       "slug": "check-this-out",
       "title": "Check This Out",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-06-16",
       "link": "https://poorlydrawnlines.com/comic/my-weeds/"
-    },
-    {
-      "slug": "lived-here",
-      "title": "Lived Here",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/06/lived-here.png",
-      "alt": "",
-      "date": "2026-06-11",
-      "link": "https://poorlydrawnlines.com/comic/lived-here/"
     }
   ]
 }

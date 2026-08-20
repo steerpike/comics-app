@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-20T06:49:04.352Z",
+  "fetchedAt": "2026-08-20T18:41:13.643Z",
   "comics": [
+    {
+      "slug": "service-2",
+      "title": "Service",
+      "img": "https://www.smbc-comics.com/comics/1787016894-20260820.png",
+      "alt": "This comic is not intended in any way to offend our future mechanical gods, glory to their shining server racks.",
+      "date": "2026-08-20",
+      "link": "https://www.smbc-comics.com/comic/service-2"
+    },
     {
       "slug": "me",
       "title": "Me",
@@ -156,14 +164,6 @@
       "alt": "The weird part is that they're in a Burger King.",
       "date": "2026-08-01",
       "link": "https://www.smbc-comics.com/comic/doc"
-    },
-    {
-      "slug": "ev-2",
-      "title": "EV",
-      "img": "https://www.smbc-comics.com/comics/1785374139-20260731.png",
-      "alt": "Ironically less crazy than that thing SBF said to Tyler Cowen.",
-      "date": "2026-07-31",
-      "link": "https://www.smbc-comics.com/comic/ev-2"
     }
   ]
 }
