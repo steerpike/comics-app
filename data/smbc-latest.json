@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-21T06:50:28.258Z",
+  "fetchedAt": "2026-08-21T18:38:33.148Z",
   "comics": [
+    {
+      "slug": "classic",
+      "title": "Classic",
+      "img": "https://www.smbc-comics.com/comics/1787267566-20260821.png",
+      "alt": "Just kidding, nobody talks about this stuff.",
+      "date": "2026-08-21",
+      "link": "https://www.smbc-comics.com/comic/classic"
+    },
     {
       "slug": "service-2",
       "title": "Service",
@@ -156,14 +164,6 @@
       "alt": "Hope you like malicious compliance!",
       "date": "2026-08-02",
       "link": "https://www.smbc-comics.com/comic/prompt-2"
-    },
-    {
-      "slug": "doc",
-      "title": "Doc",
-      "img": "https://www.smbc-comics.com/comics/1785531427-20260801.png",
-      "alt": "The weird part is that they're in a Burger King.",
-      "date": "2026-08-01",
-      "link": "https://www.smbc-comics.com/comic/doc"
     }
   ]
 }

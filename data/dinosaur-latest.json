@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-08-21T06:50:27.873Z",
+  "fetchedAt": "2026-08-21T18:38:32.878Z",
   "comics": [
+    {
+      "num": 4510,
+      "title": "this comic, like arguably all things, was inspired by the universe!!",
+      "img": "http://www.qwantz.com/comics/comic2-5208.png",
+      "alt": "let's settle this like MEN (quietly bettering ourselves with open hearts and minds, women do this too but for some reason we men have our gender identity tied up in this) (this is a thread that i do not have time to pull on at this juncture)",
+      "date": "2026-08-21",
+      "link": "http://www.qwantz.com/index.php?comic=4510"
+    },
     {
       "num": 4509,
       "title": "i have to believe that the overlap between dinosaur comics readers and cannon owners is non-zero",
@@ -76,14 +84,6 @@
       "alt": "YES PROBABILITY DOES NOT WORK THIS WAY, BUT LOOK: IN THIS CASE, IT JUST DID",
       "date": "2026-07-29",
       "link": "http://www.qwantz.com/index.php?comic=4501"
-    },
-    {
-      "num": 4500,
-      "title": "sherlock holmes in: foal play",
-      "img": "http://www.qwantz.com/comics/comic2-5198.png",
-      "alt": "tell enough stories about a someone and you will inevitably hit the Turned Into A Horse episode",
-      "date": "2026-07-27",
-      "link": "http://www.qwantz.com/index.php?comic=4500"
     }
   ]
 }
