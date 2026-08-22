@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3286,
-  "latestNum": 3287,
-  "fetchedAt": "2026-08-19T18:37:41.020Z",
+  "total": 3287,
+  "latestNum": 3288,
+  "fetchedAt": "2026-08-22T06:42:03.418Z",
   "comics": [
     {
       "num": 1,
@@ -23005,6 +23005,13 @@
       "img": "https://imgs.xkcd.com/comics/perseids.png",
       "alt": "Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.",
       "date": "2026-08-19"
+    },
+    {
+      "num": 3288,
+      "title": "Archery Feat",
+      "img": "https://imgs.xkcd.com/comics/archery_feat.png",
+      "alt": "Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.",
+      "date": "2026-08-21"
     }
   ]
 }
