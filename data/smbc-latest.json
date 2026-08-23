@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-23T06:43:03.027Z",
+  "fetchedAt": "2026-08-23T18:31:56.655Z",
   "comics": [
+    {
+      "slug": "beyond-2",
+      "title": "Beyond",
+      "img": "https://www.smbc-comics.com/comics/1787446901-20260823.png",
+      "alt": "How about a rhombus of moral concern? Let's not be too ambitious.",
+      "date": "2026-08-23",
+      "link": "https://www.smbc-comics.com/comic/beyond-2"
+    },
     {
       "slug": "chromo",
       "title": "Chromo",
@@ -156,14 +164,6 @@
       "alt": "I for on, robot overlord, do not have a fetish for robot overlords.",
       "date": "2026-08-04",
       "link": "https://www.smbc-comics.com/comic/wants-2"
-    },
-    {
-      "slug": "proof-7",
-      "title": "Proof",
-      "img": "https://www.smbc-comics.com/comics/1785717195-20260803.png",
-      "alt": "Also you can solve the halting problem by just checking the state at infinity.",
-      "date": "2026-08-03",
-      "link": "https://www.smbc-comics.com/comic/proof-7"
     }
   ]
 }
