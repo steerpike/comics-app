@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-24T07:01:36.862Z",
+  "fetchedAt": "2026-08-24T18:42:05.541Z",
   "comics": [
+    {
+      "slug": "demon",
+      "title": "Demon",
+      "img": "https://www.smbc-comics.com/comics/1787446945-20260824.png",
+      "alt": "Theory: Gettier's big discovery came while accidentally reading Descartes backwards.",
+      "date": "2026-08-24",
+      "link": "https://www.smbc-comics.com/comic/demon"
+    },
     {
       "slug": "beyond-2",
       "title": "Beyond",
@@ -156,14 +164,6 @@
       "alt": "How come nobody ever asks how the Drunken Master's family is doing?",
       "date": "2026-08-05",
       "link": "https://www.smbc-comics.com/comic/drunken"
-    },
-    {
-      "slug": "wants-2",
-      "title": "Wants",
-      "img": "https://www.smbc-comics.com/comics/1785787461-20260804.png",
-      "alt": "I for on, robot overlord, do not have a fetish for robot overlords.",
-      "date": "2026-08-04",
-      "link": "https://www.smbc-comics.com/comic/wants-2"
     }
   ]
 }
