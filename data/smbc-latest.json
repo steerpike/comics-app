@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-25T06:51:39.353Z",
+  "fetchedAt": "2026-08-25T18:41:18.994Z",
   "comics": [
+    {
+      "slug": "jedi",
+      "title": "Jedi",
+      "img": "https://www.smbc-comics.com/comics/1787609246-20260825.png",
+      "alt": "Later he returns as Darth Flation.",
+      "date": "2026-08-25",
+      "link": "https://www.smbc-comics.com/comic/jedi"
+    },
     {
       "slug": "demon",
       "title": "Demon",
@@ -156,14 +164,6 @@
       "alt": "If there are ever time travelers from the Regency period they will be so confused by our robot butler discourse.",
       "date": "2026-08-06",
       "link": "https://www.smbc-comics.com/comic/butling"
-    },
-    {
-      "slug": "drunken",
-      "title": "Drunken",
-      "img": "https://www.smbc-comics.com/comics/1785787498-20260805.png",
-      "alt": "How come nobody ever asks how the Drunken Master's family is doing?",
-      "date": "2026-08-05",
-      "link": "https://www.smbc-comics.com/comic/drunken"
     }
   ]
 }
