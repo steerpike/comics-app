@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-26T06:52:56.270Z",
+  "fetchedAt": "2026-08-26T19:49:10.217Z",
   "comics": [
+    {
+      "slug": "the-environment",
+      "title": "The Environment",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentheenvironment.jpg",
+      "alt": "The Environment",
+      "date": "2026-08-26",
+      "link": "https://www.savagechickens.com/2026/08/the-environment.html"
+    },
     {
       "slug": "for-everything",
       "title": "For Everything",
@@ -76,14 +84,6 @@
       "alt": "Rebranding",
       "date": "2026-08-13",
       "link": "https://www.savagechickens.com/2026/08/rebranding.html"
-    },
-    {
-      "slug": "positive-attitude",
-      "title": "Positive Attitude",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpositiveattitude.jpg",
-      "alt": "Positive Attitude",
-      "date": "2026-08-12",
-      "link": "https://www.savagechickens.com/2026/08/positive-attitude.html"
     }
   ]
 }

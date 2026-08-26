@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 80,
-  "highestNum": 4510,
-  "fetchedAt": "2026-08-21T18:38:32.879Z",
+  "total": 81,
+  "highestNum": 4511,
+  "fetchedAt": "2026-08-26T19:49:08.136Z",
   "comics": [
     {
       "num": 4431,
@@ -643,6 +643,14 @@
       "alt": "let's settle this like MEN (quietly bettering ourselves with open hearts and minds, women do this too but for some reason we men have our gender identity tied up in this) (this is a thread that i do not have time to pull on at this juncture)",
       "date": "2026-08-21",
       "link": "http://www.qwantz.com/index.php?comic=4510"
+    },
+    {
+      "num": 4511,
+      "title": "t-rex and the case of the zesty zeitgeist",
+      "img": "http://www.qwantz.com/comics/comic2-5209.png",
+      "alt": "it's a PERSONAL instant zesty zeitgeist accessor to underline the fact it's okay to eat a whole one all by yourself, in one sitting, without sharing. encouraged even",
+      "date": "2026-08-26",
+      "link": "http://www.qwantz.com/index.php?comic=4511"
     }
   ]
 }

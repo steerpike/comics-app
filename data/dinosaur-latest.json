@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-08-26T06:52:39.320Z",
+  "fetchedAt": "2026-08-26T19:49:08.135Z",
   "comics": [
+    {
+      "num": 4511,
+      "title": "t-rex and the case of the zesty zeitgeist",
+      "img": "http://www.qwantz.com/comics/comic2-5209.png",
+      "alt": "it's a PERSONAL instant zesty zeitgeist accessor to underline the fact it's okay to eat a whole one all by yourself, in one sitting, without sharing. encouraged even",
+      "date": "2026-08-26",
+      "link": "http://www.qwantz.com/index.php?comic=4511"
+    },
     {
       "num": 4510,
       "title": "this comic, like arguably all things, was inspired by the universe!!",
@@ -76,14 +84,6 @@
       "alt": "i can always tell when i'm looking at a line segment that's ACTUALLY a degenerate case of triangle, so don't think you can slip these unreasonably-tall burgers past ME",
       "date": "2026-07-31",
       "link": "http://www.qwantz.com/index.php?comic=4502"
-    },
-    {
-      "num": 4501,
-      "title": "he actually forgot about it shortly BEFORE getting abducted by aliens and thereafter dying of unrelated causes, but at that point it didn't matter THAT much",
-      "img": "http://www.qwantz.com/comics/comic2-5199.png",
-      "alt": "YES PROBABILITY DOES NOT WORK THIS WAY, BUT LOOK: IN THIS CASE, IT JUST DID",
-      "date": "2026-07-29",
-      "link": "http://www.qwantz.com/index.php?comic=4501"
     }
   ]
 }

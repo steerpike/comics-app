@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-26T06:52:39.517Z",
+  "fetchedAt": "2026-08-26T19:49:08.492Z",
   "comics": [
+    {
+      "slug": "psy",
+      "title": "Psy",
+      "img": "https://www.smbc-comics.com/comics/1787609283-20260826.png",
+      "alt": "This is of course an SMBC psyop.",
+      "date": "2026-08-26",
+      "link": "https://www.smbc-comics.com/comic/psy"
+    },
     {
       "slug": "jedi",
       "title": "Jedi",
@@ -156,14 +164,6 @@
       "alt": "Don't care if you like it; this comic was an excuse to say Paracosm.",
       "date": "2026-08-07",
       "link": "https://www.smbc-comics.com/comic/paracosm"
-    },
-    {
-      "slug": "butling",
-      "title": "Butling",
-      "img": "https://www.smbc-comics.com/comics/1785959087-20260806.png",
-      "alt": "If there are ever time travelers from the Regency period they will be so confused by our robot butler discourse.",
-      "date": "2026-08-06",
-      "link": "https://www.smbc-comics.com/comic/butling"
     }
   ]
 }
