@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-26T19:49:08.492Z",
+  "fetchedAt": "2026-08-27T17:26:16.685Z",
   "comics": [
+    {
+      "slug": "satan-2",
+      "title": "Satan",
+      "img": "https://www.smbc-comics.com/comics/1787776608-20260827.png",
+      "alt": "And look where he put the anus. I mean it's right in the middle of the action. This guy is brilliant!",
+      "date": "2026-08-27",
+      "link": "https://www.smbc-comics.com/comic/satan-2"
+    },
     {
       "slug": "psy",
       "title": "Psy",
@@ -156,14 +164,6 @@
       "alt": "My first introduction to this actually really phenomenon was Acerfur. Ever after, whenever an online discussion of Lean gets too technical, I realize every avatar is in a fursuit.",
       "date": "2026-08-08",
       "link": "https://www.smbc-comics.com/comic/fur"
-    },
-    {
-      "slug": "paracosm",
-      "title": "Paracosm",
-      "img": "https://www.smbc-comics.com/comics/1785959130-20260807.png",
-      "alt": "Don't care if you like it; this comic was an excuse to say Paracosm.",
-      "date": "2026-08-07",
-      "link": "https://www.smbc-comics.com/comic/paracosm"
     }
   ]
 }

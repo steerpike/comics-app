@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3289,
-  "fetchedAt": "2026-08-26T19:49:07.720Z",
+  "latestNum": 3290,
+  "fetchedAt": "2026-08-27T17:26:15.938Z",
   "comics": [
+    {
+      "num": 3290,
+      "title": "Trade",
+      "img": "https://imgs.xkcd.com/comics/trade.png",
+      "alt": "\"You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long.\"",
+      "date": "2026-08-26"
+    },
     {
       "num": 3289,
       "title": "Highway Signs",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/the_princess_and_the_pea.png",
       "alt": "Once we've fully explored this space, we can start varying the number of princesses.",
       "date": "2026-07-13"
-    },
-    {
-      "num": 3270,
-      "title": "Toasting Marshmallows",
-      "img": "https://imgs.xkcd.com/comics/toasting_marshmallows.png",
-      "alt": "We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.",
-      "date": "2026-07-10"
     }
   ]
 }

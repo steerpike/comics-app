@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3288,
-  "latestNum": 3289,
-  "fetchedAt": "2026-08-25T06:51:38.613Z",
+  "total": 3289,
+  "latestNum": 3290,
+  "fetchedAt": "2026-08-27T17:26:15.948Z",
   "comics": [
     {
       "num": 1,
@@ -23019,6 +23019,13 @@
       "img": "https://imgs.xkcd.com/comics/highway_signs.png",
       "alt": "Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.",
       "date": "2026-08-24"
+    },
+    {
+      "num": 3290,
+      "title": "Trade",
+      "img": "https://imgs.xkcd.com/comics/trade.png",
+      "alt": "\"You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long.\"",
+      "date": "2026-08-26"
     }
   ]
 }

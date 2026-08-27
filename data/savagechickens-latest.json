@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-26T19:49:10.217Z",
+  "fetchedAt": "2026-08-27T17:26:18.338Z",
   "comics": [
+    {
+      "slug": "battle-robot",
+      "title": "Battle-Robot",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenbattlerobot.jpg",
+      "alt": "Battle-Robot",
+      "date": "2026-08-27",
+      "link": "https://www.savagechickens.com/2026/08/battle-robot.html"
+    },
     {
       "slug": "the-environment",
       "title": "The Environment",
@@ -76,14 +84,6 @@
       "alt": "Extra Fancy",
       "date": "2026-08-14",
       "link": "https://www.savagechickens.com/2026/08/extrafancy.html"
-    },
-    {
-      "slug": "rebranding",
-      "title": "Rebranding",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenrebranding.jpg",
-      "alt": "Rebranding",
-      "date": "2026-08-13",
-      "link": "https://www.savagechickens.com/2026/08/rebranding.html"
     }
   ]
 }

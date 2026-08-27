@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-08-25T18:41:20.396Z",
+  "fetchedAt": "2026-08-27T17:26:17.771Z",
   "comics": [
+    {
+      "slug": "just-one-problem",
+      "title": "Just One Problem",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/08/bird-society-1-1.png",
+      "alt": "",
+      "date": "2026-08-26",
+      "link": "https://poorlydrawnlines.com/comic/just-one-problem/"
+    },
     {
       "slug": "the-forest",
       "title": "The Forest",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-06-19",
       "link": "https://poorlydrawnlines.com/comic/hurry/"
-    },
-    {
-      "slug": "my-weeds",
-      "title": "My Weeds",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/06/my-weeds.png",
-      "alt": "",
-      "date": "2026-06-16",
-      "link": "https://poorlydrawnlines.com/comic/my-weeds/"
     }
   ]
 }
