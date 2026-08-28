@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-28T02:04:41.700Z",
+  "fetchedAt": "2026-08-28T18:19:36.335Z",
   "comics": [
+    {
+      "slug": "experience-7",
+      "title": "Experience",
+      "img": "https://www.smbc-comics.com/comics/1787776651-20260828.png",
+      "alt": "Somehow it become Experience Machine month?",
+      "date": "2026-08-28",
+      "link": "https://www.smbc-comics.com/comic/experience-7"
+    },
     {
       "slug": "satan-2",
       "title": "Satan",
@@ -156,14 +164,6 @@
       "alt": "All I'm saying is that of all the ways reality could be, you think it just HAPPENED to be real?",
       "date": "2026-08-09",
       "link": "https://www.smbc-comics.com/comic/simulation-6"
-    },
-    {
-      "slug": "fur",
-      "title": "Fur",
-      "img": "https://www.smbc-comics.com/comics/1785959172-20260808.png",
-      "alt": "My first introduction to this actually really phenomenon was Acerfur. Ever after, whenever an online discussion of Lean gets too technical, I realize every avatar is in a fursuit.",
-      "date": "2026-08-08",
-      "link": "https://www.smbc-comics.com/comic/fur"
     }
   ]
 }

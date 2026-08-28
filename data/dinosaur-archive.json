@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 81,
-  "highestNum": 4511,
-  "fetchedAt": "2026-08-26T19:49:08.136Z",
+  "total": 82,
+  "highestNum": 4512,
+  "fetchedAt": "2026-08-28T18:19:35.971Z",
   "comics": [
     {
       "num": 4431,
@@ -651,6 +651,14 @@
       "alt": "it's a PERSONAL instant zesty zeitgeist accessor to underline the fact it's okay to eat a whole one all by yourself, in one sitting, without sharing. encouraged even",
       "date": "2026-08-26",
       "link": "http://www.qwantz.com/index.php?comic=4511"
+    },
+    {
+      "num": 4512,
+      "title": "this only continues to prove that all the best stories begin with the exact sentence \"the year: the future.\"",
+      "img": "http://www.qwantz.com/comics/comic2-5210.png",
+      "alt": "instead of saying ",
+      "date": "2026-08-28",
+      "link": "http://www.qwantz.com/index.php?comic=4512"
     }
   ]
 }
