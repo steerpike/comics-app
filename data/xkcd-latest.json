@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3290,
-  "fetchedAt": "2026-08-28T18:19:35.590Z",
+  "latestNum": 3291,
+  "fetchedAt": "2026-08-29T12:27:47.598Z",
   "comics": [
+    {
+      "num": 3291,
+      "title": "Launchpad",
+      "img": "https://imgs.xkcd.com/comics/launchpad.png",
+      "alt": "It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget.",
+      "date": "2026-08-28"
+    },
     {
       "num": 3290,
       "title": "Trade",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/time_change.png",
       "alt": "All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.",
       "date": "2026-07-15"
-    },
-    {
-      "num": 3271,
-      "title": "The Princess and the Pea",
-      "img": "https://imgs.xkcd.com/comics/the_princess_and_the_pea.png",
-      "alt": "Once we've fully explored this space, we can start varying the number of princesses.",
-      "date": "2026-07-13"
     }
   ]
 }
