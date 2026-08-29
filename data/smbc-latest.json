@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-29T12:27:48.256Z",
+  "fetchedAt": "2026-08-29T20:36:10.741Z",
   "comics": [
+    {
+      "slug": "echo",
+      "title": "Echo",
+      "img": "https://www.smbc-comics.com/comics/1787948076-20260829.png",
+      "alt": "This is but one entry in my future guide to sex.",
+      "date": "2026-08-29",
+      "link": "https://www.smbc-comics.com/comic/echo"
+    },
     {
       "slug": "experience-7",
       "title": "Experience",
@@ -156,14 +164,6 @@
       "alt": "I await your hatemail telling me I too am wrong.",
       "date": "2026-08-10",
       "link": "https://www.smbc-comics.com/comic/quantum-7"
-    },
-    {
-      "slug": "simulation-6",
-      "title": "Simulation",
-      "img": "https://www.smbc-comics.com/comics/1786238482-20260809.png",
-      "alt": "All I'm saying is that of all the ways reality could be, you think it just HAPPENED to be real?",
-      "date": "2026-08-09",
-      "link": "https://www.smbc-comics.com/comic/simulation-6"
     }
   ]
 }
