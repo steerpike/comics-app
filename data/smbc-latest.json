@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-30T11:29:24.526Z",
+  "fetchedAt": "2026-08-30T20:44:09.034Z",
   "comics": [
+    {
+      "slug": "secret",
+      "title": "Secret",
+      "img": "https://www.smbc-comics.com/comics/1788050865-20260830.png",
+      "alt": "The good news is you can put beer back there.",
+      "date": "2026-08-30",
+      "link": "https://www.smbc-comics.com/comic/secret"
+    },
     {
       "slug": "echo",
       "title": "Echo",
@@ -156,14 +164,6 @@
       "alt": "The only thing more overrated than truth is beauty.",
       "date": "2026-08-11",
       "link": "https://www.smbc-comics.com/comic/brave"
-    },
-    {
-      "slug": "quantum-7",
-      "title": "Quantum",
-      "img": "https://www.smbc-comics.com/comics/1786329312-20260810.png",
-      "alt": "I await your hatemail telling me I too am wrong.",
-      "date": "2026-08-10",
-      "link": "https://www.smbc-comics.com/comic/quantum-7"
     }
   ]
 }
