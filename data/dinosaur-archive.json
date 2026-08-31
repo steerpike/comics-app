@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 82,
-  "highestNum": 4512,
-  "fetchedAt": "2026-08-28T18:19:35.971Z",
+  "total": 83,
+  "highestNum": 4513,
+  "fetchedAt": "2026-08-31T13:01:03.183Z",
   "comics": [
     {
       "num": 4431,
@@ -659,6 +659,14 @@
       "alt": "instead of saying ",
       "date": "2026-08-28",
       "link": "http://www.qwantz.com/index.php?comic=4512"
+    },
+    {
+      "num": 4513,
+      "title": "i don't always include the periods when abbreviating \"also known as\", but the phrase \"Aka Woden\" sounded too much like the name of a really cool dance 90s hit without them.  it probably still does, to be honest",
+      "img": "http://www.qwantz.com/comics/comic2-5211.png",
+      "alt": "is ",
+      "date": "2026-08-31",
+      "link": "http://www.qwantz.com/index.php?comic=4513"
     }
   ]
 }

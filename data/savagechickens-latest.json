@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-30T20:44:11.081Z",
+  "fetchedAt": "2026-08-31T13:01:05.252Z",
   "comics": [
+    {
+      "slug": "effort",
+      "title": "Effort",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickeneffort.jpg",
+      "alt": "Effort",
+      "date": "2026-08-31",
+      "link": "https://www.savagechickens.com/2026/08/effort.html"
+    },
     {
       "slug": "surrounded-2",
       "title": "Surrounded",
@@ -76,14 +84,6 @@
       "alt": "Automotive Technology",
       "date": "2026-08-18",
       "link": "https://www.savagechickens.com/2026/08/automotive-technology.html"
-    },
-    {
-      "slug": "resting",
-      "title": "Resting",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenresting-1.jpg",
-      "alt": "Resting",
-      "date": "2026-08-17",
-      "link": "https://www.savagechickens.com/2026/08/resting.html"
     }
   ]
 }

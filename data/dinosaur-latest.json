@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-08-30T20:44:08.610Z",
+  "fetchedAt": "2026-08-31T13:01:03.182Z",
   "comics": [
+    {
+      "num": 4513,
+      "title": "i don't always include the periods when abbreviating \"also known as\", but the phrase \"Aka Woden\" sounded too much like the name of a really cool dance 90s hit without them.  it probably still does, to be honest",
+      "img": "http://www.qwantz.com/comics/comic2-5211.png",
+      "alt": "is ",
+      "date": "2026-08-31",
+      "link": "http://www.qwantz.com/index.php?comic=4513"
+    },
     {
       "num": 4512,
       "title": "this only continues to prove that all the best stories begin with the exact sentence \"the year: the future.\"",
@@ -76,14 +84,6 @@
       "alt": "minutes can happen with any sort of meeting, so the condo context t-rex insisted on supplying is entirely unnecessary.  these minutes truly DO feel like hours",
       "date": "2026-08-07",
       "link": "http://www.qwantz.com/index.php?comic=4504"
-    },
-    {
-      "num": 4503,
-      "title": "IGNORE PARENTS; INDULGE CHILDREN; LEAVE WHEN THEY ARE OTHERWISE OCCUPIED WITH SLUDGE",
-      "img": "http://www.qwantz.com/comics/comic2-5201.png",
-      "alt": "if your nibling doesn't enjoy kool-aid sludge, simply offer it to another child, later adopting them as your own",
-      "date": "2026-08-05",
-      "link": "http://www.qwantz.com/index.php?comic=4503"
     }
   ]
 }
