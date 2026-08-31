@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3291,
-  "fetchedAt": "2026-08-31T13:01:02.921Z",
+  "latestNum": 3292,
+  "fetchedAt": "2026-08-31T22:36:52.002Z",
   "comics": [
+    {
+      "num": 3292,
+      "title": "Geology Class",
+      "img": "https://imgs.xkcd.com/comics/geology_class.png",
+      "alt": "The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.",
+      "date": "2026-08-31"
+    },
     {
       "num": 3291,
       "title": "Launchpad",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/latitude_and_longitude.png",
       "alt": "NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).",
       "date": "2026-07-17"
-    },
-    {
-      "num": 3272,
-      "title": "Time Change",
-      "img": "https://imgs.xkcd.com/comics/time_change.png",
-      "alt": "All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.",
-      "date": "2026-07-15"
     }
   ]
 }

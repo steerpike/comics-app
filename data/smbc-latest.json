@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-08-31T13:01:03.448Z",
+  "fetchedAt": "2026-08-31T22:36:52.569Z",
   "comics": [
+    {
+      "slug": "royal",
+      "title": "Royal",
+      "img": "https://www.smbc-comics.com/comics/1788113889-20260831.png",
+      "alt": "Later he regrets strangling the jester.",
+      "date": "2026-08-31",
+      "link": "https://www.smbc-comics.com/comic/royal"
+    },
     {
       "slug": "secret",
       "title": "Secret",
@@ -156,14 +164,6 @@
       "alt": "Hoping this will cause someone to surface an off-brand SMBC author from the midcentury USSR.",
       "date": "2026-08-12",
       "link": "https://www.smbc-comics.com/comic/priority-2"
-    },
-    {
-      "slug": "brave",
-      "title": "Brave",
-      "img": "https://www.smbc-comics.com/comics/1786402084-20260811.png",
-      "alt": "The only thing more overrated than truth is beauty.",
-      "date": "2026-08-11",
-      "link": "https://www.smbc-comics.com/comic/brave"
     }
   ]
 }
