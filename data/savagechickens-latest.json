@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-08-31T22:36:54.707Z",
+  "fetchedAt": "2026-09-01T11:17:56.465Z",
   "comics": [
+    {
+      "slug": "jellyfish-dreams",
+      "title": "Jellyfish Dreams",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenjellyfishdreams.jpg",
+      "alt": "Jellyfish Dreams",
+      "date": "2026-09-01",
+      "link": "https://www.savagechickens.com/2026/09/jellyfish-dreams.html"
+    },
     {
       "slug": "effort",
       "title": "Effort",
@@ -76,14 +84,6 @@
       "alt": "Party Prep",
       "date": "2026-08-19",
       "link": "https://www.savagechickens.com/2026/08/party-prep.html"
-    },
-    {
-      "slug": "automotive-technology",
-      "title": "Automotive Technology",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickencartechnology.jpg",
-      "alt": "Automotive Technology",
-      "date": "2026-08-18",
-      "link": "https://www.savagechickens.com/2026/08/automotive-technology.html"
     }
   ]
 }
