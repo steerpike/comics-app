@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-01T11:17:53.966Z",
+  "fetchedAt": "2026-09-01T20:43:34.139Z",
   "comics": [
+    {
+      "slug": "philosophy-6",
+      "title": "Philosophy",
+      "img": "https://www.smbc-comics.com/comics/1788222026-20260901.png",
+      "alt": "Anyone who doesn't find this funny is in the lower right.",
+      "date": "2026-09-01",
+      "link": "https://www.smbc-comics.com/comic/philosophy-6"
+    },
     {
       "slug": "royal",
       "title": "Royal",
@@ -156,14 +164,6 @@
       "alt": "I started reading in population ethics recently and let me tell you there is undug philosophical gold.",
       "date": "2026-08-13",
       "link": "https://www.smbc-comics.com/comic/scale"
-    },
-    {
-      "slug": "priority-2",
-      "title": "Priority",
-      "img": "https://www.smbc-comics.com/comics/1786485004-20260812.png",
-      "alt": "Hoping this will cause someone to surface an off-brand SMBC author from the midcentury USSR.",
-      "date": "2026-08-12",
-      "link": "https://www.smbc-comics.com/comic/priority-2"
     }
   ]
 }
