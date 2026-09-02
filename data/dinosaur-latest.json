@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-09-02T10:51:59.914Z",
+  "fetchedAt": "2026-09-02T20:41:50.833Z",
   "comics": [
+    {
+      "num": 4514,
+      "title": "perhaps there are but a few foodstuffs improved by being transformed into a honey slurry and then baked.  sadly it's impossible to know",
+      "img": "http://www.qwantz.com/comics/comic2-5212.png",
+      "alt": "one time i made a dang ol' commitment to truth and bettering myself; that's how they get you",
+      "date": "2026-09-02",
+      "link": "http://www.qwantz.com/index.php?comic=4514"
+    },
     {
       "num": 4513,
       "title": "i don't always include the periods when abbreviating \"also known as\", but the phrase \"Aka Woden\" sounded too much like the name of a really cool dance 90s hit without them.  it probably still does, to be honest",
@@ -76,14 +84,6 @@
       "alt": "such is the nature of this mind-bendingly incredible reveal that one finds oneself beyond the reach of lower, or even mixed-case expression",
       "date": "2026-08-10",
       "link": "http://www.qwantz.com/index.php?comic=4505"
-    },
-    {
-      "num": 4504,
-      "title": "people love a jokester at the legally-mandated annual general meeting of their condominium corporation",
-      "img": "http://www.qwantz.com/comics/comic2-5202.png",
-      "alt": "minutes can happen with any sort of meeting, so the condo context t-rex insisted on supplying is entirely unnecessary.  these minutes truly DO feel like hours",
-      "date": "2026-08-07",
-      "link": "http://www.qwantz.com/index.php?comic=4504"
     }
   ]
 }

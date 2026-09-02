@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-02T10:52:01.420Z",
+  "fetchedAt": "2026-09-02T20:41:51.031Z",
   "comics": [
+    {
+      "slug": "dilemma-5",
+      "title": "Dilemma",
+      "img": "https://www.smbc-comics.com/comics/1788222449-20260902.png",
+      "alt": "Honestly, you can just assume eating ten as a given and move on.",
+      "date": "2026-09-02",
+      "link": "https://www.smbc-comics.com/comic/dilemma-5"
+    },
     {
       "slug": "philosophy-6",
       "title": "Philosophy",
@@ -156,14 +164,6 @@
       "alt": "The machines see constructive proofs as lazy solutions hacked together.",
       "date": "2026-08-14",
       "link": "https://www.smbc-comics.com/comic/case"
-    },
-    {
-      "slug": "scale",
-      "title": "Scale",
-      "img": "https://www.smbc-comics.com/comics/1786562758-20260813.png",
-      "alt": "I started reading in population ethics recently and let me tell you there is undug philosophical gold.",
-      "date": "2026-08-13",
-      "link": "https://www.smbc-comics.com/comic/scale"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 83,
-  "highestNum": 4513,
-  "fetchedAt": "2026-08-31T13:01:03.183Z",
+  "total": 84,
+  "highestNum": 4514,
+  "fetchedAt": "2026-09-02T20:41:50.834Z",
   "comics": [
     {
       "num": 4431,
@@ -667,6 +667,14 @@
       "alt": "is ",
       "date": "2026-08-31",
       "link": "http://www.qwantz.com/index.php?comic=4513"
+    },
+    {
+      "num": 4514,
+      "title": "perhaps there are but a few foodstuffs improved by being transformed into a honey slurry and then baked.  sadly it's impossible to know",
+      "img": "http://www.qwantz.com/comics/comic2-5212.png",
+      "alt": "one time i made a dang ol' commitment to truth and bettering myself; that's how they get you",
+      "date": "2026-09-02",
+      "link": "http://www.qwantz.com/index.php?comic=4514"
     }
   ]
 }
