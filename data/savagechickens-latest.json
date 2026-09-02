@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-01T20:43:36.412Z",
+  "fetchedAt": "2026-09-02T10:52:03.186Z",
   "comics": [
+    {
+      "slug": "streamlining",
+      "title": "Streamlining",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenstreamlining.jpg",
+      "alt": "Streamlining",
+      "date": "2026-09-02",
+      "link": "https://www.savagechickens.com/2026/09/streamlining.html"
+    },
     {
       "slug": "jellyfish-dreams",
       "title": "Jellyfish Dreams",
@@ -76,14 +84,6 @@
       "alt": "Meet the CEO",
       "date": "2026-08-20",
       "link": "https://www.savagechickens.com/2026/08/meet-the-ceo.html"
-    },
-    {
-      "slug": "party-prep",
-      "title": "Party Prep",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpartyprep.jpg",
-      "alt": "Party Prep",
-      "date": "2026-08-19",
-      "link": "https://www.savagechickens.com/2026/08/party-prep.html"
     }
   ]
 }
