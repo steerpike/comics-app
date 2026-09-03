@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-03T10:51:48.589Z",
+  "fetchedAt": "2026-09-03T20:40:30.525Z",
   "comics": [
+    {
+      "slug": "meaning-9",
+      "title": "Meaning",
+      "img": "https://www.smbc-comics.com/comics/1788389671-20260903.png",
+      "alt": "Is it the thong? Is the problem that I use a thong?",
+      "date": "2026-09-03",
+      "link": "https://www.smbc-comics.com/comic/meaning-9"
+    },
     {
       "slug": "dilemma-5",
       "title": "Dilemma",
@@ -156,14 +164,6 @@
       "alt": "As he walks away she begins frantically calling out symbols in the hope that one will reach him.",
       "date": "2026-08-15",
       "link": "https://www.smbc-comics.com/comic/r"
-    },
-    {
-      "slug": "case",
-      "title": "Case",
-      "img": "https://www.smbc-comics.com/comics/1786562796-20260814.png",
-      "alt": "The machines see constructive proofs as lazy solutions hacked together.",
-      "date": "2026-08-14",
-      "link": "https://www.smbc-comics.com/comic/case"
     }
   ]
 }
