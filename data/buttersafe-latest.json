@@ -3,8 +3,64 @@
   "name": "Buttersafe",
   "url": "https://www.buttersafe.com",
   "attribution": "Buttersafe by Alex Culang and Raynato Castro",
-  "fetchedAt": "2026-09-02T20:41:54.124Z",
+  "fetchedAt": "2026-09-03T10:51:51.090Z",
   "comics": [
+    {
+      "slug": "2026-08-27-the-fishermans-fib",
+      "title": "The Fisherman’s Fib",
+      "img": "http://www.buttersafe.com/comics/rss/2026-08-27-TheFishermansFibRSS.jpg",
+      "alt": "The Fisherman’s Fib",
+      "date": "2026-08-27",
+      "link": "http://www.buttersafe.com/2026/08/27/the-fishermans-fib/"
+    },
+    {
+      "slug": "2026-08-20-underground-combat",
+      "title": "Underground Combat",
+      "img": "http://www.buttersafe.com/comics/rss/2026-08-20-UndergroundCombatRSS.jpg",
+      "alt": "Underground Combat",
+      "date": "2026-08-20",
+      "link": "http://www.buttersafe.com/2026/08/20/underground-combat/"
+    },
+    {
+      "slug": "2026-08-13-mixed-laundry",
+      "title": "Mixed Laundry",
+      "img": "http://www.buttersafe.com/comics/rss/2026-08-13-MixedLaundryRSS.jpg",
+      "alt": "Mixed Laundry",
+      "date": "2026-08-13",
+      "link": "http://www.buttersafe.com/2026/08/13/mixed-laundry/"
+    },
+    {
+      "slug": "2026-08-06-guardian-angel",
+      "title": "Guardian Angel",
+      "img": "http://www.buttersafe.com/comics/rss/2026-08-06-GuardianAngelRSS.jpg",
+      "alt": "Guardian Angel",
+      "date": "2026-08-06",
+      "link": "http://www.buttersafe.com/2026/08/06/guardian-angel/"
+    },
+    {
+      "slug": "2026-07-30-innovation-in-the-world-of-trains",
+      "title": "Innovation in the World of Trains",
+      "img": "http://www.buttersafe.com/comics/rss/2026-07-30-InnovationInTheWorldOfTrainsRSS.jpg",
+      "alt": "Innovation in the World of Trains",
+      "date": "2026-07-30",
+      "link": "http://www.buttersafe.com/2026/07/30/innovation-in-the-world-of-trains/"
+    },
+    {
+      "slug": "2026-07-23-how-to-forget",
+      "title": "How To Forget",
+      "img": "http://www.buttersafe.com/comics/rss/2026-07-23-HowToForgetRSS.jpg",
+      "alt": "How To Forget",
+      "date": "2026-07-23",
+      "link": "http://www.buttersafe.com/2026/07/23/how-to-forget/"
+    },
+    {
+      "slug": "2026-07-16-the-suns-judgment",
+      "title": "The Suns Judgment",
+      "img": "http://www.buttersafe.com/comics/rss/2026-07-16-TheSunsJudgmentRSS.jpg",
+      "alt": "The Suns Judgment",
+      "date": "2026-07-16",
+      "link": "http://www.buttersafe.com/2026/07/16/the-suns-judgment/"
+    },
     {
       "slug": "2026-07-09-the-mermaids-wish",
       "title": "The Mermaid’s Wish",
@@ -108,62 +164,6 @@
       "alt": "Guilloteens",
       "date": "2026-04-16",
       "link": "http://www.buttersafe.com/2026/04/16/guilloteens/"
-    },
-    {
-      "slug": "2026-04-09-best-friends-forever",
-      "title": "Best Friends Forever",
-      "img": "http://www.buttersafe.com/comics/rss/2026-04-09-BestFriendsForeverRSS.jpg",
-      "alt": "Best Friends Forever",
-      "date": "2026-04-09",
-      "link": "http://www.buttersafe.com/2026/04/09/best-friends-forever/"
-    },
-    {
-      "slug": "2026-04-02-look-both-ways",
-      "title": "Look Both Ways",
-      "img": "http://www.buttersafe.com/comics/rss/2026-04-02-LookBothWaysRSS.jpg",
-      "alt": "Look Both Ways",
-      "date": "2026-04-02",
-      "link": "http://www.buttersafe.com/2026/04/02/look-both-ways/"
-    },
-    {
-      "slug": "2026-03-26-no-catch",
-      "title": "No Catch",
-      "img": "http://www.buttersafe.com/comics/rss/2026-03-26-NoCatchRSS.jpg",
-      "alt": "No Catch",
-      "date": "2026-03-26",
-      "link": "http://www.buttersafe.com/2026/03/26/no-catch/"
-    },
-    {
-      "slug": "2026-03-19-a-photo-of-us",
-      "title": "A Photo of Us",
-      "img": "http://www.buttersafe.com/comics/rss/2026-03-19-APhotoOfUsRSS.jpg",
-      "alt": "A Photo of Us",
-      "date": "2026-03-19",
-      "link": "http://www.buttersafe.com/2026/03/19/a-photo-of-us/"
-    },
-    {
-      "slug": "2026-03-12-martial-arts-master",
-      "title": "Martial Arts Master",
-      "img": "http://www.buttersafe.com/comics/rss/2026-03-12-MartialArtsMasterRSS.jpg",
-      "alt": "Martial Arts Master",
-      "date": "2026-03-12",
-      "link": "http://www.buttersafe.com/2026/03/12/martial-arts-master/"
-    },
-    {
-      "slug": "2026-03-05-nominative-determinism-comics",
-      "title": "Nominative Determinism Comics",
-      "img": "http://www.buttersafe.com/comics/rss/2026-03-05-NominativeDeterminismComicsRSS.jpg",
-      "alt": "Nominative Determinism Comics",
-      "date": "2026-03-05",
-      "link": "http://www.buttersafe.com/2026/03/05/nominative-determinism-comics/"
-    },
-    {
-      "slug": "2026-02-26-too-hot-too-cold",
-      "title": "Too Hot, Too Cold",
-      "img": "http://www.buttersafe.com/comics/rss/2026-02-26-TooHotTooColdRSS.jpg",
-      "alt": "Too Hot, Too Cold",
-      "date": "2026-02-26",
-      "link": "http://www.buttersafe.com/2026/02/26/too-hot-too-cold/"
     }
   ]
 }

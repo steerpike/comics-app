@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-02T20:41:53.679Z",
+  "fetchedAt": "2026-09-03T10:51:50.258Z",
   "comics": [
+    {
+      "slug": "living-with-chaos",
+      "title": "Living with Chaos",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenlivingwithchaos.jpg",
+      "alt": "Living with Chaos",
+      "date": "2026-09-03",
+      "link": "https://www.savagechickens.com/2026/09/living-with-chaos.html"
+    },
     {
       "slug": "streamlining",
       "title": "Streamlining",
@@ -76,14 +84,6 @@
       "alt": "Vacation",
       "date": "2026-08-21",
       "link": "https://www.savagechickens.com/2026/08/vacation-2.html"
-    },
-    {
-      "slug": "meet-the-ceo",
-      "title": "Meet the CEO",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmeettheceo.jpg",
-      "alt": "Meet the CEO",
-      "date": "2026-08-20",
-      "link": "https://www.savagechickens.com/2026/08/meet-the-ceo.html"
     }
   ]
 }

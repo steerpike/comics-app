@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3291,
-  "latestNum": 3292,
-  "fetchedAt": "2026-08-31T22:36:52.012Z",
+  "total": 3292,
+  "latestNum": 3293,
+  "fetchedAt": "2026-09-03T10:51:47.829Z",
   "comics": [
     {
       "num": 1,
@@ -23040,6 +23040,13 @@
       "img": "https://imgs.xkcd.com/comics/geology_class.png",
       "alt": "The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.",
       "date": "2026-08-31"
+    },
+    {
+      "num": 3293,
+      "title": "Handedness",
+      "img": "https://imgs.xkcd.com/comics/handedness.png",
+      "alt": "A 'left-handed specialist' is a physicist who studies the weak interaction.",
+      "date": "2026-09-02"
     }
   ]
 }
