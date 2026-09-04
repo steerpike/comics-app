@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-04T10:51:04.846Z",
+  "fetchedAt": "2026-09-04T20:27:00.961Z",
   "comics": [
+    {
+      "slug": "money",
+      "title": "Money",
+      "img": "https://www.smbc-comics.com/comics/1788389708-20260904.png",
+      "alt": "It's the ones who go on TV that you really need to look out for.",
+      "date": "2026-09-04",
+      "link": "https://www.smbc-comics.com/comic/money"
+    },
     {
       "slug": "meaning-9",
       "title": "Meaning",
@@ -156,14 +164,6 @@
       "alt": "People who want to defund universities don't appreciate the role they play in keeping rogue ethicists out of your backyard.",
       "date": "2026-08-16",
       "link": "https://www.smbc-comics.com/comic/gathered"
-    },
-    {
-      "slug": "r",
-      "title": "R",
-      "img": "https://www.smbc-comics.com/comics/1786761424-20260815.png",
-      "alt": "As he walks away she begins frantically calling out symbols in the hope that one will reach him.",
-      "date": "2026-08-15",
-      "link": "https://www.smbc-comics.com/comic/r"
     }
   ]
 }

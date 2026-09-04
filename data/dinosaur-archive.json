@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 84,
-  "highestNum": 4514,
-  "fetchedAt": "2026-09-02T20:41:50.834Z",
+  "total": 85,
+  "highestNum": 4515,
+  "fetchedAt": "2026-09-04T20:27:00.640Z",
   "comics": [
     {
       "num": 4431,
@@ -675,6 +675,14 @@
       "alt": "one time i made a dang ol' commitment to truth and bettering myself; that's how they get you",
       "date": "2026-09-02",
       "link": "http://www.qwantz.com/index.php?comic=4514"
+    },
+    {
+      "num": 4515,
+      "title": "my kind thighs deserve - and crave - thigh fives",
+      "img": "http://www.qwantz.com/comics/comic2-5213.png",
+      "alt": "",
+      "date": "2026-09-03",
+      "link": "http://www.qwantz.com/index.php?comic=4515"
     }
   ]
 }

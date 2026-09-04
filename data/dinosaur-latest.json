@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-09-04T10:51:04.479Z",
+  "fetchedAt": "2026-09-04T20:27:00.639Z",
   "comics": [
+    {
+      "num": 4515,
+      "title": "my kind thighs deserve - and crave - thigh fives",
+      "img": "http://www.qwantz.com/comics/comic2-5213.png",
+      "alt": "",
+      "date": "2026-09-03",
+      "link": "http://www.qwantz.com/index.php?comic=4515"
+    },
     {
       "num": 4514,
       "title": "perhaps there are but a few foodstuffs improved by being transformed into a honey slurry and then baked.  sadly it's impossible to know",
@@ -76,14 +84,6 @@
       "alt": "if you don't like isolation then that's a problem that can be solved by kissing.  if you don't like kissing then that's a problem that can be solved by isolation.  either way this is EASY",
       "date": "2026-08-12",
       "link": "http://www.qwantz.com/index.php?comic=4506"
-    },
-    {
-      "num": 4505,
-      "title": "i call this genre \"normal world but the universe is coo-coo bananas\".  nobody else calls it this but i do",
-      "img": "http://www.qwantz.com/comics/comic2-5203.png",
-      "alt": "such is the nature of this mind-bendingly incredible reveal that one finds oneself beyond the reach of lower, or even mixed-case expression",
-      "date": "2026-08-10",
-      "link": "http://www.qwantz.com/index.php?comic=4505"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3292,
-  "latestNum": 3293,
-  "fetchedAt": "2026-09-03T10:51:47.829Z",
+  "total": 3293,
+  "latestNum": 3294,
+  "fetchedAt": "2026-09-04T20:27:00.167Z",
   "comics": [
     {
       "num": 1,
@@ -23047,6 +23047,13 @@
       "img": "https://imgs.xkcd.com/comics/handedness.png",
       "alt": "A 'left-handed specialist' is a physicist who studies the weak interaction.",
       "date": "2026-09-02"
+    },
+    {
+      "num": 3294,
+      "title": "Asteroid Mission",
+      "img": "https://imgs.xkcd.com/comics/asteroid_mission.png",
+      "alt": "Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.",
+      "date": "2026-09-04"
     }
   ]
 }
