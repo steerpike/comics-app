@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-03T20:40:47.059Z",
+  "fetchedAt": "2026-09-04T10:51:06.740Z",
   "comics": [
+    {
+      "slug": "my-limit",
+      "title": "My Limit",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmylimit.jpg",
+      "alt": "My Limit",
+      "date": "2026-09-04",
+      "link": "https://www.savagechickens.com/2026/09/my-limit.html"
+    },
     {
       "slug": "living-with-chaos",
       "title": "Living with Chaos",
@@ -76,14 +84,6 @@
       "alt": "So Annoying",
       "date": "2026-08-24",
       "link": "https://www.savagechickens.com/2026/08/so-annoying.html"
-    },
-    {
-      "slug": "vacation-2",
-      "title": "Vacation",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenvacationtime-1.jpg",
-      "alt": "Vacation",
-      "date": "2026-08-21",
-      "link": "https://www.savagechickens.com/2026/08/vacation-2.html"
     }
   ]
 }
