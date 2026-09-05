@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-05T10:09:34.088Z",
+  "fetchedAt": "2026-09-05T20:03:39.886Z",
   "comics": [
+    {
+      "slug": "imagine-2",
+      "title": "Imagine",
+      "img": "https://www.smbc-comics.com/comics/1788486090-20260905.png",
+      "alt": "They actually say modulus, but journalists dumb it down.",
+      "date": "2026-09-05",
+      "link": "https://www.smbc-comics.com/comic/imagine-2"
+    },
     {
       "slug": "money",
       "title": "Money",
@@ -156,14 +164,6 @@
       "alt": "YOU HAVE OFFICIALLY BEEN DARED",
       "date": "2026-08-17",
       "link": "https://www.smbc-comics.com/comic/eulogy-2"
-    },
-    {
-      "slug": "gathered",
-      "title": "Gathered",
-      "img": "https://www.smbc-comics.com/comics/1786761474-20260816.png",
-      "alt": "People who want to defund universities don't appreciate the role they play in keeping rogue ethicists out of your backyard.",
-      "date": "2026-08-16",
-      "link": "https://www.smbc-comics.com/comic/gathered"
     }
   ]
 }
