@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-06T10:30:14.645Z",
+  "fetchedAt": "2026-09-06T20:08:01.381Z",
   "comics": [
+    {
+      "slug": "seized",
+      "title": "Seized",
+      "img": "https://www.smbc-comics.com/comics/1788659223-20260906.png",
+      "alt": "Please let Professor Sykes know there's a free bad caricature available for him.",
+      "date": "2026-09-06",
+      "link": "https://www.smbc-comics.com/comic/seized"
+    },
     {
       "slug": "imagine-2",
       "title": "Imagine",
@@ -156,14 +164,6 @@
       "alt": "If a creature gives you a wish, wish to not regret the wish. Trust me, you won't regret it.",
       "date": "2026-08-18",
       "link": "https://www.smbc-comics.com/comic/genie-4"
-    },
-    {
-      "slug": "eulogy-2",
-      "title": "Eulogy",
-      "img": "https://www.smbc-comics.com/comics/1786936686-20260817.png",
-      "alt": "YOU HAVE OFFICIALLY BEEN DARED",
-      "date": "2026-08-17",
-      "link": "https://www.smbc-comics.com/comic/eulogy-2"
     }
   ]
 }
