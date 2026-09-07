@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-07T11:53:40.357Z",
+  "fetchedAt": "2026-09-07T21:14:45.261Z",
   "comics": [
+    {
+      "slug": "conscious-9",
+      "title": "Conscious",
+      "img": "https://www.smbc-comics.com/comics/1788659266-20260907.png",
+      "alt": "There should be a version of the Chinese Room where the guy inside has to speak French and has to remember those classes he cheated on in high school.",
+      "date": "2026-09-07",
+      "link": "https://www.smbc-comics.com/comic/conscious-9"
+    },
     {
       "slug": "seized",
       "title": "Seized",
@@ -156,14 +164,6 @@
       "alt": "I was trying to figure out why cavemen sometimes do and sometimes don't drop prepositions. Anyone have a theory?",
       "date": "2026-08-19",
       "link": "https://www.smbc-comics.com/comic/me"
-    },
-    {
-      "slug": "genie-4",
-      "title": "Genie",
-      "img": "https://www.smbc-comics.com/comics/1787015498-20260818.png",
-      "alt": "If a creature gives you a wish, wish to not regret the wish. Trust me, you won't regret it.",
-      "date": "2026-08-18",
-      "link": "https://www.smbc-comics.com/comic/genie-4"
     }
   ]
 }

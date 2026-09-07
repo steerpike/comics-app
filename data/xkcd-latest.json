@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3294,
-  "fetchedAt": "2026-09-07T11:53:39.587Z",
+  "latestNum": 3295,
+  "fetchedAt": "2026-09-07T21:14:44.471Z",
   "comics": [
+    {
+      "num": 3295,
+      "title": "Semaphore",
+      "img": "https://imgs.xkcd.com/comics/semaphore.png",
+      "alt": "The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.",
+      "date": "2026-09-07"
+    },
     {
       "num": 3294,
       "title": "Asteroid Mission",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/recursive_truckers_hitch.png",
       "alt": "As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.",
       "date": "2026-07-24"
-    },
-    {
-      "num": 3275,
-      "title": "Calibration Nobel",
-      "img": "https://imgs.xkcd.com/comics/calibration_nobel.png",
-      "alt": "We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.",
-      "date": "2026-07-22"
     }
   ]
 }
