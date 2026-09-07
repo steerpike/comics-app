@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-06T20:08:03.189Z",
+  "fetchedAt": "2026-09-07T11:53:42.167Z",
   "comics": [
+    {
+      "slug": "time-to-buy",
+      "title": "Time to Buy",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentimetobuy.jpg",
+      "alt": "Time to Buy",
+      "date": "2026-09-07",
+      "link": "https://www.savagechickens.com/2026/09/time-to-buy.html"
+    },
     {
       "slug": "my-limit",
       "title": "My Limit",
@@ -76,14 +84,6 @@
       "alt": "For Everything",
       "date": "2026-08-25",
       "link": "https://www.savagechickens.com/2026/08/for-everything.html"
-    },
-    {
-      "slug": "so-annoying",
-      "title": "So Annoying",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickensoannoying.jpg",
-      "alt": "So Annoying",
-      "date": "2026-08-24",
-      "link": "https://www.savagechickens.com/2026/08/so-annoying.html"
     }
   ]
 }
