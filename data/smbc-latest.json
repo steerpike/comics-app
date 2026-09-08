@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-08T10:49:48.778Z",
+  "fetchedAt": "2026-09-08T20:51:33.263Z",
   "comics": [
+    {
+      "slug": "major",
+      "title": "Major",
+      "img": "https://www.smbc-comics.com/comics/1788829654-20260908.png",
+      "alt": "The MBAs are no good because when the lights are off they think it's nighttime and go to sleep.",
+      "date": "2026-09-08",
+      "link": "https://www.smbc-comics.com/comic/major"
+    },
     {
       "slug": "conscious-9",
       "title": "Conscious",
@@ -156,14 +164,6 @@
       "alt": "This comic is not intended in any way to offend our future mechanical gods, glory to their shining server racks.",
       "date": "2026-08-20",
       "link": "https://www.smbc-comics.com/comic/service-2"
-    },
-    {
-      "slug": "me",
-      "title": "Me",
-      "img": "https://www.smbc-comics.com/comics/1787015995-20260819.png",
-      "alt": "I was trying to figure out why cavemen sometimes do and sometimes don't drop prepositions. Anyone have a theory?",
-      "date": "2026-08-19",
-      "link": "https://www.smbc-comics.com/comic/me"
     }
   ]
 }
