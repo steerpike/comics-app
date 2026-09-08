@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-07T21:14:47.074Z",
+  "fetchedAt": "2026-09-08T10:49:50.559Z",
   "comics": [
+    {
+      "slug": "unimpressed",
+      "title": "Unimpressed",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenunimpressed.jpg",
+      "alt": "Unimpressed",
+      "date": "2026-09-08",
+      "link": "https://www.savagechickens.com/2026/09/unimpressed.html"
+    },
     {
       "slug": "time-to-buy",
       "title": "Time to Buy",
@@ -76,14 +84,6 @@
       "alt": "The Environment",
       "date": "2026-08-26",
       "link": "https://www.savagechickens.com/2026/08/the-environment.html"
-    },
-    {
-      "slug": "for-everything",
-      "title": "For Everything",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenforeverything.jpg",
-      "alt": "For Everything",
-      "date": "2026-08-25",
-      "link": "https://www.savagechickens.com/2026/08/for-everything.html"
     }
   ]
 }
