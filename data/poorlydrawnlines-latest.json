@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-09-08T20:51:34.505Z",
+  "fetchedAt": "2026-09-09T10:55:56.778Z",
   "comics": [
+    {
+      "slug": "the-ghost-of-this-lamp",
+      "title": "The Ghost of This Lamp",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/09/ghost-of-this-lamp-2.png",
+      "alt": "",
+      "date": "2026-09-03",
+      "link": "https://poorlydrawnlines.com/comic/the-ghost-of-this-lamp/"
+    },
     {
       "slug": "just-one-problem",
       "title": "Just One Problem",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-06-23",
       "link": "https://poorlydrawnlines.com/comic/our-friend/"
-    },
-    {
-      "slug": "hurry",
-      "title": "Hurry",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/06/hurry.png",
-      "alt": "",
-      "date": "2026-06-19",
-      "link": "https://poorlydrawnlines.com/comic/hurry/"
     }
   ]
 }
