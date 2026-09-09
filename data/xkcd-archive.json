@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3294,
-  "latestNum": 3295,
-  "fetchedAt": "2026-09-07T21:14:44.481Z",
+  "total": 3295,
+  "latestNum": 3296,
+  "fetchedAt": "2026-09-09T20:38:24.596Z",
   "comics": [
     {
       "num": 1,
@@ -23061,6 +23061,13 @@
       "img": "https://imgs.xkcd.com/comics/semaphore.png",
       "alt": "The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.",
       "date": "2026-09-07"
+    },
+    {
+      "num": 3296,
+      "title": "Fault Taunting",
+      "img": "https://imgs.xkcd.com/comics/fault_taunting.png",
+      "alt": "One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.",
+      "date": "2026-09-09"
     }
   ]
 }

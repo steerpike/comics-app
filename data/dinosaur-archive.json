@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 85,
-  "highestNum": 4515,
-  "fetchedAt": "2026-09-04T20:27:00.640Z",
+  "total": 86,
+  "highestNum": 4516,
+  "fetchedAt": "2026-09-09T20:38:25.025Z",
   "comics": [
     {
       "num": 4431,
@@ -683,6 +683,14 @@
       "alt": "",
       "date": "2026-09-03",
       "link": "http://www.qwantz.com/index.php?comic=4515"
+    },
+    {
+      "num": 4516,
+      "title": "the power of even a SINGLE horse is far beyond your conception",
+      "img": "http://www.qwantz.com/comics/comic2-5214.png",
+      "alt": "Units of measurement?  More like units of BETRAYAL",
+      "date": "2026-09-09",
+      "link": "http://www.qwantz.com/index.php?comic=4516"
     }
   ]
 }

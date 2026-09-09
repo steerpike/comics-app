@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-09-09T10:55:53.497Z",
+  "fetchedAt": "2026-09-09T20:38:25.024Z",
   "comics": [
+    {
+      "num": 4516,
+      "title": "the power of even a SINGLE horse is far beyond your conception",
+      "img": "http://www.qwantz.com/comics/comic2-5214.png",
+      "alt": "Units of measurement?  More like units of BETRAYAL",
+      "date": "2026-09-09",
+      "link": "http://www.qwantz.com/index.php?comic=4516"
+    },
     {
       "num": 4515,
       "title": "my kind thighs deserve - and crave - thigh fives",
@@ -76,14 +84,6 @@
       "alt": "and finally not least of all an utterly exhaustive list of things that can't be done",
       "date": "2026-08-14",
       "link": "http://www.qwantz.com/index.php?comic=4507"
-    },
-    {
-      "num": 4506,
-      "title": "you still have problems?  wow.  problems are so last year but it's so brave of you to still have them.  you really must not care what ANYONE thinks",
-      "img": "http://www.qwantz.com/comics/comic2-5204.png",
-      "alt": "if you don't like isolation then that's a problem that can be solved by kissing.  if you don't like kissing then that's a problem that can be solved by isolation.  either way this is EASY",
-      "date": "2026-08-12",
-      "link": "http://www.qwantz.com/index.php?comic=4506"
     }
   ]
 }

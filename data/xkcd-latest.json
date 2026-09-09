@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3295,
-  "fetchedAt": "2026-09-09T10:55:53.063Z",
+  "latestNum": 3296,
+  "fetchedAt": "2026-09-09T20:38:24.588Z",
   "comics": [
+    {
+      "num": 3296,
+      "title": "Fault Taunting",
+      "img": "https://imgs.xkcd.com/comics/fault_taunting.png",
+      "alt": "One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.",
+      "date": "2026-09-09"
+    },
     {
       "num": 3295,
       "title": "Semaphore",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/forth.png",
       "alt": "I NOTATION POLISH REVERSE ❤️",
       "date": "2026-07-27"
-    },
-    {
-      "num": 3276,
-      "title": "Recursive Trucker's Hitch",
-      "img": "https://imgs.xkcd.com/comics/recursive_truckers_hitch.png",
-      "alt": "As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.",
-      "date": "2026-07-24"
     }
   ]
 }

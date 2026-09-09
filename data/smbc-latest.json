@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-09T10:55:53.929Z",
+  "fetchedAt": "2026-09-09T20:38:25.275Z",
   "comics": [
+    {
+      "slug": "club-2",
+      "title": "Club",
+      "img": "https://www.smbc-comics.com/comics/1788823653-20260909.png",
+      "alt": "God also has a joke about how both oblivion and eternal recurrence are terrifying, and there is no middle ground.",
+      "date": "2026-09-09",
+      "link": "https://www.smbc-comics.com/comic/club-2"
+    },
     {
       "slug": "major",
       "title": "Major",
@@ -156,14 +164,6 @@
       "alt": "Just kidding, nobody talks about this stuff.",
       "date": "2026-08-21",
       "link": "https://www.smbc-comics.com/comic/classic"
-    },
-    {
-      "slug": "service-2",
-      "title": "Service",
-      "img": "https://www.smbc-comics.com/comics/1787016894-20260820.png",
-      "alt": "This comic is not intended in any way to offend our future mechanical gods, glory to their shining server racks.",
-      "date": "2026-08-20",
-      "link": "https://www.smbc-comics.com/comic/service-2"
     }
   ]
 }
