@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-09T20:38:27.861Z",
+  "fetchedAt": "2026-09-10T10:52:27.979Z",
   "comics": [
+    {
+      "slug": "the-actor",
+      "title": "The Actor",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentheactor.jpg",
+      "alt": "The Actor",
+      "date": "2026-09-10",
+      "link": "https://www.savagechickens.com/2026/09/the-actor.html"
+    },
     {
       "slug": "focus",
       "title": "Focus",
@@ -76,14 +84,6 @@
       "alt": "Surrounded",
       "date": "2026-08-28",
       "link": "https://www.savagechickens.com/2026/08/surrounded-2.html"
-    },
-    {
-      "slug": "battle-robot",
-      "title": "Battle-Robot",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenbattlerobot.jpg",
-      "alt": "Battle-Robot",
-      "date": "2026-08-27",
-      "link": "https://www.savagechickens.com/2026/08/battle-robot.html"
     }
   ]
 }
