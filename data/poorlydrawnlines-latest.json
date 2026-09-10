@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-09-09T10:55:56.778Z",
+  "fetchedAt": "2026-09-10T20:33:20.792Z",
   "comics": [
+    {
+      "slug": "new-guy",
+      "title": "New Guy",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/09/new-guy.png",
+      "alt": "",
+      "date": "2026-09-10",
+      "link": "https://poorlydrawnlines.com/comic/new-guy/"
+    },
     {
       "slug": "the-ghost-of-this-lamp",
       "title": "The Ghost of This Lamp",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-06-25",
       "link": "https://poorlydrawnlines.com/comic/my-parents/"
-    },
-    {
-      "slug": "our-friend",
-      "title": "Our Friend",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/06/our-friend.png",
-      "alt": "",
-      "date": "2026-06-23",
-      "link": "https://poorlydrawnlines.com/comic/our-friend/"
     }
   ]
 }

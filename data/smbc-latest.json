@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-10T10:52:26.220Z",
+  "fetchedAt": "2026-09-10T20:33:19.138Z",
   "comics": [
+    {
+      "slug": "shilling",
+      "title": "Shilling",
+      "img": "https://www.smbc-comics.com/comics/1788990389-20260910.png",
+      "alt": "I really do wonder if paid disinformation orgs have the same office politics as everywhere else.",
+      "date": "2026-09-10",
+      "link": "https://www.smbc-comics.com/comic/shilling"
+    },
     {
       "slug": "club-2",
       "title": "Club",
@@ -156,14 +164,6 @@
       "alt": "Physicists are always complaining about latinate terms in biology, and then they pull this shit.",
       "date": "2026-08-22",
       "link": "https://www.smbc-comics.com/comic/chromo"
-    },
-    {
-      "slug": "classic",
-      "title": "Classic",
-      "img": "https://www.smbc-comics.com/comics/1787267566-20260821.png",
-      "alt": "Just kidding, nobody talks about this stuff.",
-      "date": "2026-08-21",
-      "link": "https://www.smbc-comics.com/comic/classic"
     }
   ]
 }
