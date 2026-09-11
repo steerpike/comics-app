@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-10T20:33:21.246Z",
+  "fetchedAt": "2026-09-11T10:49:05.369Z",
   "comics": [
+    {
+      "slug": "first-stop",
+      "title": "First Stop",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenfirststop.jpg",
+      "alt": "First Stop",
+      "date": "2026-09-11",
+      "link": "https://www.savagechickens.com/2026/09/first-stop.html"
+    },
     {
       "slug": "the-actor",
       "title": "The Actor",
@@ -76,14 +84,6 @@
       "alt": "Effort",
       "date": "2026-08-31",
       "link": "https://www.savagechickens.com/2026/08/effort.html"
-    },
-    {
-      "slug": "surrounded-2",
-      "title": "Surrounded",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickensurrounded-1.jpg",
-      "alt": "Surrounded",
-      "date": "2026-08-28",
-      "link": "https://www.savagechickens.com/2026/08/surrounded-2.html"
     }
   ]
 }
