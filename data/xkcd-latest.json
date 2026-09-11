@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3296,
-  "fetchedAt": "2026-09-11T10:49:02.734Z",
+  "latestNum": 3297,
+  "fetchedAt": "2026-09-11T20:39:08.538Z",
   "comics": [
+    {
+      "num": 3297,
+      "title": "OH Scale",
+      "img": "https://imgs.xkcd.com/comics/oh_scale.png",
+      "alt": "To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.",
+      "date": "2026-09-11"
+    },
     {
       "num": 3296,
       "title": "Fault Taunting",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/vera_rubin_observatory.png",
       "alt": "'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.",
       "date": "2026-07-29"
-    },
-    {
-      "num": 3277,
-      "title": "Forth",
-      "img": "https://imgs.xkcd.com/comics/forth.png",
-      "alt": "I NOTATION POLISH REVERSE ❤️",
-      "date": "2026-07-27"
     }
   ]
 }

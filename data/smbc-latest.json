@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-11T10:49:03.336Z",
+  "fetchedAt": "2026-09-11T20:39:09.054Z",
   "comics": [
+    {
+      "slug": "transporter-3",
+      "title": "Transporter",
+      "img": "https://www.smbc-comics.com/comics/1788990439-20260911.png",
+      "alt": "We're about 6 weeks away from being able to do an Only Transporter Problem book.",
+      "date": "2026-09-11",
+      "link": "https://www.smbc-comics.com/comic/transporter-3"
+    },
     {
       "slug": "shilling",
       "title": "Shilling",
@@ -156,14 +164,6 @@
       "alt": "How about a rhombus of moral concern? Let's not be too ambitious.",
       "date": "2026-08-23",
       "link": "https://www.smbc-comics.com/comic/beyond-2"
-    },
-    {
-      "slug": "chromo",
-      "title": "Chromo",
-      "img": "https://www.smbc-comics.com/comics/1787378196-20260822.png",
-      "alt": "Physicists are always complaining about latinate terms in biology, and then they pull this shit.",
-      "date": "2026-08-22",
-      "link": "https://www.smbc-comics.com/comic/chromo"
     }
   ]
 }

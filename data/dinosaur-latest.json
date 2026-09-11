@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-09-11T10:49:03.162Z",
+  "fetchedAt": "2026-09-11T20:39:08.793Z",
   "comics": [
+    {
+      "num": 4517,
+      "title": "why can't we all just [write in any verb here]",
+      "img": "http://www.qwantz.com/comics/comic2-5215.png",
+      "alt": "(said through a mouthful of chips) the word ",
+      "date": "2026-09-11",
+      "link": "http://www.qwantz.com/index.php?comic=4517"
+    },
     {
       "num": 4516,
       "title": "the power of even a SINGLE horse is far beyond your conception",
@@ -76,14 +84,6 @@
       "alt": "yes, utahraptor is indeed Going Through It",
       "date": "2026-08-17",
       "link": "http://www.qwantz.com/index.php?comic=4508"
-    },
-    {
-      "num": 4507,
-      "title": "if you need inspiration, boy have you come to the place!!  please note: i did not say \"right place\"",
-      "img": "http://www.qwantz.com/comics/comic2-5205.png",
-      "alt": "and finally not least of all an utterly exhaustive list of things that can't be done",
-      "date": "2026-08-14",
-      "link": "http://www.qwantz.com/index.php?comic=4507"
     }
   ]
 }

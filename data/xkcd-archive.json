@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3295,
-  "latestNum": 3296,
-  "fetchedAt": "2026-09-09T20:38:24.596Z",
+  "total": 3296,
+  "latestNum": 3297,
+  "fetchedAt": "2026-09-11T20:39:08.546Z",
   "comics": [
     {
       "num": 1,
@@ -23068,6 +23068,13 @@
       "img": "https://imgs.xkcd.com/comics/fault_taunting.png",
       "alt": "One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.",
       "date": "2026-09-09"
+    },
+    {
+      "num": 3297,
+      "title": "OH Scale",
+      "img": "https://imgs.xkcd.com/comics/oh_scale.png",
+      "alt": "To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.",
+      "date": "2026-09-11"
     }
   ]
 }
