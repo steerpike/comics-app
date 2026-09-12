@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-12T10:17:48.002Z",
+  "fetchedAt": "2026-09-12T20:18:42.179Z",
   "comics": [
+    {
+      "slug": "time-8",
+      "title": "Time",
+      "img": "https://www.smbc-comics.com/comics/1789156114-20260912.png",
+      "alt": "Kelly thought this was stupid, so please make sure to share it.",
+      "date": "2026-09-12",
+      "link": "https://www.smbc-comics.com/comic/time-8"
+    },
     {
       "slug": "transporter-3",
       "title": "Transporter",
@@ -156,14 +164,6 @@
       "alt": "Theory: Gettier's big discovery came while accidentally reading Descartes backwards.",
       "date": "2026-08-24",
       "link": "https://www.smbc-comics.com/comic/demon"
-    },
-    {
-      "slug": "beyond-2",
-      "title": "Beyond",
-      "img": "https://www.smbc-comics.com/comics/1787446901-20260823.png",
-      "alt": "How about a rhombus of moral concern? Let's not be too ambitious.",
-      "date": "2026-08-23",
-      "link": "https://www.smbc-comics.com/comic/beyond-2"
     }
   ]
 }
