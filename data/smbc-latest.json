@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-13T11:18:05.545Z",
+  "fetchedAt": "2026-09-13T20:28:42.617Z",
   "comics": [
+    {
+      "slug": "scratchpad",
+      "title": "Scratchpad",
+      "img": "https://www.smbc-comics.com/comics/1789251111-20260913.png",
+      "alt": "Never thought software would ruin a philosophy problem, but here we are.",
+      "date": "2026-09-13",
+      "link": "https://www.smbc-comics.com/comic/scratchpad"
+    },
     {
       "slug": "time-8",
       "title": "Time",
@@ -156,14 +164,6 @@
       "alt": "Later he returns as Darth Flation.",
       "date": "2026-08-25",
       "link": "https://www.smbc-comics.com/comic/jedi"
-    },
-    {
-      "slug": "demon",
-      "title": "Demon",
-      "img": "https://www.smbc-comics.com/comics/1787446945-20260824.png",
-      "alt": "Theory: Gettier's big discovery came while accidentally reading Descartes backwards.",
-      "date": "2026-08-24",
-      "link": "https://www.smbc-comics.com/comic/demon"
     }
   ]
 }
