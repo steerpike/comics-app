@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-09-14T12:08:29.108Z",
+  "fetchedAt": "2026-09-14T21:37:10.734Z",
   "comics": [
+    {
+      "num": 4518,
+      "title": "though he's known today for the many new words he invented in the course of his writing, shakespeare's career as a sandwich innovator is sadly less well-documented",
+      "img": "http://www.qwantz.com/comics/comic2-5216.png",
+      "alt": "of course we all know how in the original draft of hamlet, instead of needing to kill a king, hamlet has to eat a big sandwich.  he worries it's TOO big but eventually he eats it, and doing so kills him and everyone he loves.  shakespeare was induced to change it because there was no room to include the recipe at the end",
+      "date": "2026-09-14",
+      "link": "http://www.qwantz.com/index.php?comic=4518"
+    },
     {
       "num": 4517,
       "title": "why can't we all just [write in any verb here]",
@@ -76,14 +84,6 @@
       "alt": "t-rex had to make his first mistake SOMETIME, might as well be now",
       "date": "2026-08-19",
       "link": "http://www.qwantz.com/index.php?comic=4509"
-    },
-    {
-      "num": 4508,
-      "title": "jackie more like JERKIE amirite",
-      "img": "http://www.qwantz.com/comics/comic2-5206.png",
-      "alt": "yes, utahraptor is indeed Going Through It",
-      "date": "2026-08-17",
-      "link": "http://www.qwantz.com/index.php?comic=4508"
     }
   ]
 }
