@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3297,
-  "fetchedAt": "2026-09-14T21:37:10.406Z",
+  "latestNum": 3298,
+  "fetchedAt": "2026-09-15T11:19:47.136Z",
   "comics": [
+    {
+      "num": 3298,
+      "title": "Aerospace Flowchart",
+      "img": "https://imgs.xkcd.com/comics/aerospace_flowchart.png",
+      "alt": "Someday, we will find the problem that goes with this solution.",
+      "date": "2026-09-14"
+    },
     {
       "num": 3297,
       "title": "OH Scale",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/main_span.png",
       "alt": "Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?",
       "date": "2026-07-31"
-    },
-    {
-      "num": 3278,
-      "title": "Vera Rubin Observatory",
-      "img": "https://imgs.xkcd.com/comics/vera_rubin_observatory.png",
-      "alt": "'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.",
-      "date": "2026-07-29"
     }
   ]
 }

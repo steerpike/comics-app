@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-14T21:37:13.858Z",
+  "fetchedAt": "2026-09-15T11:19:49.637Z",
   "comics": [
+    {
+      "slug": "the-leg",
+      "title": "The Leg",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentheleg.jpg",
+      "alt": "The Leg",
+      "date": "2026-09-15",
+      "link": "https://www.savagechickens.com/2026/09/the-leg.html"
+    },
     {
       "slug": "up-for-discussion",
       "title": "Up For Discussion",
@@ -76,14 +84,6 @@
       "alt": "Streamlining",
       "date": "2026-09-02",
       "link": "https://www.savagechickens.com/2026/09/streamlining.html"
-    },
-    {
-      "slug": "jellyfish-dreams",
-      "title": "Jellyfish Dreams",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenjellyfishdreams.jpg",
-      "alt": "Jellyfish Dreams",
-      "date": "2026-09-01",
-      "link": "https://www.savagechickens.com/2026/09/jellyfish-dreams.html"
     }
   ]
 }

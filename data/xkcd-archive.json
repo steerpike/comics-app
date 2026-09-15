@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3296,
-  "latestNum": 3297,
-  "fetchedAt": "2026-09-11T20:39:08.546Z",
+  "total": 3297,
+  "latestNum": 3298,
+  "fetchedAt": "2026-09-15T11:19:47.146Z",
   "comics": [
     {
       "num": 1,
@@ -23075,6 +23075,13 @@
       "img": "https://imgs.xkcd.com/comics/oh_scale.png",
       "alt": "To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.",
       "date": "2026-09-11"
+    },
+    {
+      "num": 3298,
+      "title": "Aerospace Flowchart",
+      "img": "https://imgs.xkcd.com/comics/aerospace_flowchart.png",
+      "alt": "Someday, we will find the problem that goes with this solution.",
+      "date": "2026-09-14"
     }
   ]
 }
