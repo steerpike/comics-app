@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-15T11:19:47.837Z",
+  "fetchedAt": "2026-09-15T20:58:40.595Z",
   "comics": [
+    {
+      "slug": "gates-3",
+      "title": "Gates",
+      "img": "https://www.smbc-comics.com/comics/1789334195-20260915.png",
+      "alt": "I wonder if the cost of chips has cut down on conspiracies.",
+      "date": "2026-09-15",
+      "link": "https://www.smbc-comics.com/comic/gates-3"
+    },
     {
       "slug": "balance",
       "title": "Balance",
@@ -156,14 +164,6 @@
       "alt": "And look where he put the anus. I mean it's right in the middle of the action. This guy is brilliant!",
       "date": "2026-08-27",
       "link": "https://www.smbc-comics.com/comic/satan-2"
-    },
-    {
-      "slug": "psy",
-      "title": "Psy",
-      "img": "https://www.smbc-comics.com/comics/1787609283-20260826.png",
-      "alt": "This is of course an SMBC psyop.",
-      "date": "2026-08-26",
-      "link": "https://www.smbc-comics.com/comic/psy"
     }
   ]
 }
