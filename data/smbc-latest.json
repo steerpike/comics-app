@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-16T11:02:43.833Z",
+  "fetchedAt": "2026-09-16T21:00:37.978Z",
   "comics": [
+    {
+      "slug": "lake",
+      "title": "Lake",
+      "img": "https://www.smbc-comics.com/comics/1789505301-20260916.png",
+      "alt": "You can't see it but he's typing an essay with his right hand.",
+      "date": "2026-09-16",
+      "link": "https://www.smbc-comics.com/comic/lake"
+    },
     {
       "slug": "gates-3",
       "title": "Gates",
@@ -156,14 +164,6 @@
       "alt": "Somehow it become Experience Machine month?",
       "date": "2026-08-28",
       "link": "https://www.smbc-comics.com/comic/experience-7"
-    },
-    {
-      "slug": "satan-2",
-      "title": "Satan",
-      "img": "https://www.smbc-comics.com/comics/1787776608-20260827.png",
-      "alt": "And look where he put the anus. I mean it's right in the middle of the action. This guy is brilliant!",
-      "date": "2026-08-27",
-      "link": "https://www.smbc-comics.com/comic/satan-2"
     }
   ]
 }

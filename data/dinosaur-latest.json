@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-09-16T11:02:43.458Z",
+  "fetchedAt": "2026-09-16T21:00:37.765Z",
   "comics": [
+    {
+      "num": 4519,
+      "title": "i will be DAMNED if i lose to a CONCEPT",
+      "img": "http://www.qwantz.com/comics/comic2-5217.png",
+      "alt": "when you're so far from inner peace that there's not any room to add any words to your final panel, you know it's bad",
+      "date": "2026-09-16",
+      "link": "http://www.qwantz.com/index.php?comic=4519"
+    },
     {
       "num": 4518,
       "title": "though he's known today for the many new words he invented in the course of his writing, shakespeare's career as a sandwich innovator is sadly less well-documented",
@@ -76,14 +84,6 @@
       "alt": "let's settle this like MEN (quietly bettering ourselves with open hearts and minds, women do this too but for some reason we men have our gender identity tied up in this) (this is a thread that i do not have time to pull on at this juncture)",
       "date": "2026-08-21",
       "link": "http://www.qwantz.com/index.php?comic=4510"
-    },
-    {
-      "num": 4509,
-      "title": "i have to believe that the overlap between dinosaur comics readers and cannon owners is non-zero",
-      "img": "http://www.qwantz.com/comics/comic2-5207.png",
-      "alt": "t-rex had to make his first mistake SOMETIME, might as well be now",
-      "date": "2026-08-19",
-      "link": "http://www.qwantz.com/index.php?comic=4509"
     }
   ]
 }

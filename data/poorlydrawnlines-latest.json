@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-09-15T11:19:49.339Z",
+  "fetchedAt": "2026-09-16T21:00:39.894Z",
   "comics": [
+    {
+      "slug": "a-lamp",
+      "title": "A Lamp",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/09/a-lamp.png",
+      "alt": "",
+      "date": "2026-09-15",
+      "link": "https://poorlydrawnlines.com/comic/a-lamp/"
+    },
     {
       "slug": "new-guy",
       "title": "New Guy",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-06-30",
       "link": "https://poorlydrawnlines.com/comic/wild-card/"
-    },
-    {
-      "slug": "my-parents",
-      "title": "My Parents",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/06/my-parents.png",
-      "alt": "",
-      "date": "2026-06-25",
-      "link": "https://poorlydrawnlines.com/comic/my-parents/"
     }
   ]
 }
