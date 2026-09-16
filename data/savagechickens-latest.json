@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-15T20:58:42.073Z",
+  "fetchedAt": "2026-09-16T11:02:46.395Z",
   "comics": [
+    {
+      "slug": "the-shark",
+      "title": "The Shark",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentheshark.jpg",
+      "alt": "The Shark",
+      "date": "2026-09-16",
+      "link": "https://www.savagechickens.com/2026/09/the-shark.html"
+    },
     {
       "slug": "the-leg",
       "title": "The Leg",
@@ -76,14 +84,6 @@
       "alt": "Living with Chaos",
       "date": "2026-09-03",
       "link": "https://www.savagechickens.com/2026/09/living-with-chaos.html"
-    },
-    {
-      "slug": "streamlining",
-      "title": "Streamlining",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenstreamlining.jpg",
-      "alt": "Streamlining",
-      "date": "2026-09-02",
-      "link": "https://www.savagechickens.com/2026/09/streamlining.html"
     }
   ]
 }
