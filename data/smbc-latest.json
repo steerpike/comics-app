@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-17T11:12:53.405Z",
+  "fetchedAt": "2026-09-17T21:03:27.862Z",
   "comics": [
+    {
+      "slug": "waste-2",
+      "title": "Waste",
+      "img": "https://www.smbc-comics.com/comics/1789607559-20260917.png",
+      "alt": "Seriously though, next time there's a problem like this just call me.",
+      "date": "2026-09-17",
+      "link": "https://www.smbc-comics.com/comic/waste-2"
+    },
     {
       "slug": "lake",
       "title": "Lake",
@@ -156,14 +164,6 @@
       "alt": "This is but one entry in my future guide to sex.",
       "date": "2026-08-29",
       "link": "https://www.smbc-comics.com/comic/echo"
-    },
-    {
-      "slug": "experience-7",
-      "title": "Experience",
-      "img": "https://www.smbc-comics.com/comics/1787776651-20260828.png",
-      "alt": "Somehow it become Experience Machine month?",
-      "date": "2026-08-28",
-      "link": "https://www.smbc-comics.com/comic/experience-7"
     }
   ]
 }
