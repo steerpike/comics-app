@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3297,
-  "latestNum": 3298,
-  "fetchedAt": "2026-09-15T11:19:47.146Z",
+  "total": 3298,
+  "latestNum": 3299,
+  "fetchedAt": "2026-09-17T11:12:52.397Z",
   "comics": [
     {
       "num": 1,
@@ -23082,6 +23082,13 @@
       "img": "https://imgs.xkcd.com/comics/aerospace_flowchart.png",
       "alt": "Someday, we will find the problem that goes with this solution.",
       "date": "2026-09-14"
+    },
+    {
+      "num": 3299,
+      "title": "Summer",
+      "img": "https://imgs.xkcd.com/comics/summer.png",
+      "alt": "You should probably get back to shore before spring hits.",
+      "date": "2026-09-16"
     }
   ]
 }

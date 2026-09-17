@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3298,
-  "fetchedAt": "2026-09-16T21:00:37.397Z",
+  "latestNum": 3299,
+  "fetchedAt": "2026-09-17T11:12:52.387Z",
   "comics": [
+    {
+      "num": 3299,
+      "title": "Summer",
+      "img": "https://imgs.xkcd.com/comics/summer.png",
+      "alt": "You should probably get back to shore before spring hits.",
+      "date": "2026-09-16"
+    },
     {
       "num": 3298,
       "title": "Aerospace Flowchart",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/maze.png",
       "alt": "As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology.",
       "date": "2026-08-03"
-    },
-    {
-      "num": 3279,
-      "title": "Main Span",
-      "img": "https://imgs.xkcd.com/comics/main_span.png",
-      "alt": "Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?",
-      "date": "2026-07-31"
     }
   ]
 }
