@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-09-18T10:46:01.890Z",
+  "fetchedAt": "2026-09-18T20:35:04.475Z",
   "comics": [
+    {
+      "num": 4520,
+      "title": "sherlock, be careful: these omniscient third party narrators will see you crying!  sherlock, they can READ your THOUGHTS!!",
+      "img": "http://www.qwantz.com/comics/comic2-5218.png",
+      "alt": "when you think about it, writers are really mean to people who, on top of everything else, don't even EXIST yet",
+      "date": "2026-09-18",
+      "link": "http://www.qwantz.com/index.php?comic=4520"
+    },
     {
       "num": 4519,
       "title": "i will be DAMNED if i lose to a CONCEPT",
@@ -76,14 +84,6 @@
       "alt": "it's a PERSONAL instant zesty zeitgeist accessor to underline the fact it's okay to eat a whole one all by yourself, in one sitting, without sharing. encouraged even",
       "date": "2026-08-26",
       "link": "http://www.qwantz.com/index.php?comic=4511"
-    },
-    {
-      "num": 4510,
-      "title": "this comic, like arguably all things, was inspired by the universe!!",
-      "img": "http://www.qwantz.com/comics/comic2-5208.png",
-      "alt": "let's settle this like MEN (quietly bettering ourselves with open hearts and minds, women do this too but for some reason we men have our gender identity tied up in this) (this is a thread that i do not have time to pull on at this juncture)",
-      "date": "2026-08-21",
-      "link": "http://www.qwantz.com/index.php?comic=4510"
     }
   ]
 }

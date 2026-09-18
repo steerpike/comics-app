@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 89,
-  "highestNum": 4519,
-  "fetchedAt": "2026-09-16T21:00:37.766Z",
+  "total": 90,
+  "highestNum": 4520,
+  "fetchedAt": "2026-09-18T20:35:04.476Z",
   "comics": [
     {
       "num": 4431,
@@ -715,6 +715,14 @@
       "alt": "when you're so far from inner peace that there's not any room to add any words to your final panel, you know it's bad",
       "date": "2026-09-16",
       "link": "http://www.qwantz.com/index.php?comic=4519"
+    },
+    {
+      "num": 4520,
+      "title": "sherlock, be careful: these omniscient third party narrators will see you crying!  sherlock, they can READ your THOUGHTS!!",
+      "img": "http://www.qwantz.com/comics/comic2-5218.png",
+      "alt": "when you think about it, writers are really mean to people who, on top of everything else, don't even EXIST yet",
+      "date": "2026-09-18",
+      "link": "http://www.qwantz.com/index.php?comic=4520"
     }
   ]
 }
