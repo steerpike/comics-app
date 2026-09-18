@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-17T21:03:29.569Z",
+  "fetchedAt": "2026-09-18T10:46:04.978Z",
   "comics": [
+    {
+      "slug": "understanding-pirate",
+      "title": "Understanding Pirate",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenunderstandingpirate.jpg",
+      "alt": "Understanding Pirate",
+      "date": "2026-09-18",
+      "link": "https://www.savagechickens.com/2026/09/understanding-pirate.html"
+    },
     {
       "slug": "drill",
       "title": "Drill",
@@ -76,14 +84,6 @@
       "alt": "Time to Buy",
       "date": "2026-09-07",
       "link": "https://www.savagechickens.com/2026/09/time-to-buy.html"
-    },
-    {
-      "slug": "my-limit",
-      "title": "My Limit",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmylimit.jpg",
-      "alt": "My Limit",
-      "date": "2026-09-04",
-      "link": "https://www.savagechickens.com/2026/09/my-limit.html"
     }
   ]
 }
