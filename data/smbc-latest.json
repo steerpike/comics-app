@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-19T10:29:58.906Z",
+  "fetchedAt": "2026-09-19T20:12:53.799Z",
   "comics": [
+    {
+      "slug": "roach-2",
+      "title": "Roach",
+      "img": "https://www.smbc-comics.com/comics/1789607640-20260919.png",
+      "alt": "This isn't a metaphor. Just a story about a roach.",
+      "date": "2026-09-19",
+      "link": "https://www.smbc-comics.com/comic/roach-2"
+    },
     {
       "slug": "citation-2",
       "title": "Citation",
@@ -156,14 +164,6 @@
       "alt": "Later he regrets strangling the jester.",
       "date": "2026-08-31",
       "link": "https://www.smbc-comics.com/comic/royal"
-    },
-    {
-      "slug": "secret",
-      "title": "Secret",
-      "img": "https://www.smbc-comics.com/comics/1788050865-20260830.png",
-      "alt": "The good news is you can put beer back there.",
-      "date": "2026-08-30",
-      "link": "https://www.smbc-comics.com/comic/secret"
     }
   ]
 }
