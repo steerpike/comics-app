@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3298,
-  "latestNum": 3299,
-  "fetchedAt": "2026-09-17T11:12:52.397Z",
+  "total": 3299,
+  "latestNum": 3300,
+  "fetchedAt": "2026-09-19T10:29:58.218Z",
   "comics": [
     {
       "num": 1,
@@ -23089,6 +23089,13 @@
       "img": "https://imgs.xkcd.com/comics/summer.png",
       "alt": "You should probably get back to shore before spring hits.",
       "date": "2026-09-16"
+    },
+    {
+      "num": 3300,
+      "title": "Tyrannosaurus",
+      "img": "https://imgs.xkcd.com/comics/tyrannosaurus.png",
+      "alt": "Many of the smaller dinosaurs seem to have largely preyed on housecats.",
+      "date": "2026-09-18"
     }
   ]
 }
