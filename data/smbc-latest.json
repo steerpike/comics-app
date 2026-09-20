@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-20T10:52:27.361Z",
+  "fetchedAt": "2026-09-20T20:29:19.525Z",
   "comics": [
+    {
+      "slug": "civilization-2",
+      "title": "Civilization",
+      "img": "https://www.smbc-comics.com/comics/1789792044-20260920.png",
+      "alt": "It's surprising how into murder 7 year olds are.",
+      "date": "2026-09-20",
+      "link": "https://www.smbc-comics.com/comic/civilization-2"
+    },
     {
       "slug": "roach-2",
       "title": "Roach",
@@ -156,14 +164,6 @@
       "alt": "Anyone who doesn't find this funny is in the lower right.",
       "date": "2026-09-01",
       "link": "https://www.smbc-comics.com/comic/philosophy-6"
-    },
-    {
-      "slug": "royal",
-      "title": "Royal",
-      "img": "https://www.smbc-comics.com/comics/1788113889-20260831.png",
-      "alt": "Later he regrets strangling the jester.",
-      "date": "2026-08-31",
-      "link": "https://www.smbc-comics.com/comic/royal"
     }
   ]
 }
