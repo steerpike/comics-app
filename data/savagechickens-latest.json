@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-20T20:29:21.221Z",
+  "fetchedAt": "2026-09-21T12:17:13.348Z",
   "comics": [
+    {
+      "slug": "cat-on-the-moon",
+      "title": "Cat on the Moon",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickencatonthemoon.jpg",
+      "alt": "Cat on the Moon",
+      "date": "2026-09-21",
+      "link": "https://www.savagechickens.com/2026/09/cat-on-the-moon.html"
+    },
     {
       "slug": "understanding-pirate",
       "title": "Understanding Pirate",
@@ -76,14 +84,6 @@
       "alt": "Unimpressed",
       "date": "2026-09-08",
       "link": "https://www.savagechickens.com/2026/09/unimpressed.html"
-    },
-    {
-      "slug": "time-to-buy",
-      "title": "Time to Buy",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickentimetobuy.jpg",
-      "alt": "Time to Buy",
-      "date": "2026-09-07",
-      "link": "https://www.savagechickens.com/2026/09/time-to-buy.html"
     }
   ]
 }
