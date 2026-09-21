@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-21T12:17:11.701Z",
+  "fetchedAt": "2026-09-21T21:47:52.685Z",
   "comics": [
+    {
+      "slug": "in",
+      "title": "In",
+      "img": "https://www.smbc-comics.com/comics/1789955292-20260921.png",
+      "alt": "With apologies if this has been a joke in the fandom for decades.",
+      "date": "2026-09-21",
+      "link": "https://www.smbc-comics.com/comic/in"
+    },
     {
       "slug": "civilization-2",
       "title": "Civilization",
@@ -156,14 +164,6 @@
       "alt": "Honestly, you can just assume eating ten as a given and move on.",
       "date": "2026-09-02",
       "link": "https://www.smbc-comics.com/comic/dilemma-5"
-    },
-    {
-      "slug": "philosophy-6",
-      "title": "Philosophy",
-      "img": "https://www.smbc-comics.com/comics/1788222026-20260901.png",
-      "alt": "Anyone who doesn't find this funny is in the lower right.",
-      "date": "2026-09-01",
-      "link": "https://www.smbc-comics.com/comic/philosophy-6"
     }
   ]
 }

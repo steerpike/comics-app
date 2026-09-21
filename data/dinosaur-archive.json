@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 90,
-  "highestNum": 4520,
-  "fetchedAt": "2026-09-18T20:35:04.476Z",
+  "total": 91,
+  "highestNum": 4521,
+  "fetchedAt": "2026-09-21T21:47:52.500Z",
   "comics": [
     {
       "num": 4431,
@@ -723,6 +723,14 @@
       "alt": "when you think about it, writers are really mean to people who, on top of everything else, don't even EXIST yet",
       "date": "2026-09-18",
       "link": "http://www.qwantz.com/index.php?comic=4520"
+    },
+    {
+      "num": 4521,
+      "title": "death comes to us all, so let's all stop investigating it",
+      "img": "http://www.qwantz.com/comics/comic2-5219.png",
+      "alt": "t-rex is less against secret groups of immortals than he is against sayings telling him what to do, and the sooner he realizes that the happier he'll be.  the happier we'll all be, really",
+      "date": "2026-09-21",
+      "link": "http://www.qwantz.com/index.php?comic=4521"
     }
   ]
 }

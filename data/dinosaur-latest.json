@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-09-21T12:17:11.423Z",
+  "fetchedAt": "2026-09-21T21:47:52.499Z",
   "comics": [
+    {
+      "num": 4521,
+      "title": "death comes to us all, so let's all stop investigating it",
+      "img": "http://www.qwantz.com/comics/comic2-5219.png",
+      "alt": "t-rex is less against secret groups of immortals than he is against sayings telling him what to do, and the sooner he realizes that the happier he'll be.  the happier we'll all be, really",
+      "date": "2026-09-21",
+      "link": "http://www.qwantz.com/index.php?comic=4521"
+    },
     {
       "num": 4520,
       "title": "sherlock, be careful: these omniscient third party narrators will see you crying!  sherlock, they can READ your THOUGHTS!!",
@@ -76,14 +84,6 @@
       "alt": "instead of saying ",
       "date": "2026-08-28",
       "link": "http://www.qwantz.com/index.php?comic=4512"
-    },
-    {
-      "num": 4511,
-      "title": "t-rex and the case of the zesty zeitgeist",
-      "img": "http://www.qwantz.com/comics/comic2-5209.png",
-      "alt": "it's a PERSONAL instant zesty zeitgeist accessor to underline the fact it's okay to eat a whole one all by yourself, in one sitting, without sharing. encouraged even",
-      "date": "2026-08-26",
-      "link": "http://www.qwantz.com/index.php?comic=4511"
     }
   ]
 }
