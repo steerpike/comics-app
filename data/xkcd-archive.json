@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3299,
-  "latestNum": 3300,
-  "fetchedAt": "2026-09-19T10:29:58.218Z",
+  "total": 3300,
+  "latestNum": 3301,
+  "fetchedAt": "2026-09-22T11:09:35.524Z",
   "comics": [
     {
       "num": 1,
@@ -23096,6 +23096,13 @@
       "img": "https://imgs.xkcd.com/comics/tyrannosaurus.png",
       "alt": "Many of the smaller dinosaurs seem to have largely preyed on housecats.",
       "date": "2026-09-18"
+    },
+    {
+      "num": 3301,
+      "title": "Stargazing 5",
+      "img": "https://imgs.xkcd.com/comics/stargazing_5.png",
+      "alt": "The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.",
+      "date": "2026-09-21"
     }
   ]
 }

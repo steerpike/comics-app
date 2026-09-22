@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3300,
-  "fetchedAt": "2026-09-21T21:47:52.109Z",
+  "latestNum": 3301,
+  "fetchedAt": "2026-09-22T11:09:35.514Z",
   "comics": [
+    {
+      "num": 3301,
+      "title": "Stargazing 5",
+      "img": "https://imgs.xkcd.com/comics/stargazing_5.png",
+      "alt": "The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.",
+      "date": "2026-09-21"
+    },
     {
       "num": 3300,
       "title": "Tyrannosaurus",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/trick_play.png",
       "alt": "I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.",
       "date": "2026-08-07"
-    },
-    {
-      "num": 3281,
-      "title": "Antiques Roadshow",
-      "img": "https://imgs.xkcd.com/comics/antiques_roadshow.png",
-      "alt": "The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.",
-      "date": "2026-08-05"
     }
   ]
 }

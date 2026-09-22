@@ -3,8 +3,16 @@
   "name": "Wondermark",
   "url": "https://wondermark.com",
   "attribution": "Wondermark by David Malki!",
-  "fetchedAt": "2026-09-21T21:47:53.738Z",
+  "fetchedAt": "2026-09-22T11:09:37.227Z",
   "comics": [
+    {
+      "num": 1591,
+      "title": "#1591; Feed Me, See More",
+      "img": "https://wondermark.com/wp-content/uploads/2026/09/2026-09-21-1591message_1600px.png",
+      "alt": "",
+      "date": "2026-09-22",
+      "link": "https://wondermark.com/c/1591/"
+    },
     {
       "num": 1590,
       "title": "#1590; Breaking the Third Wall",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-05-25",
       "link": "https://wondermark.com/bolted-fulfillment-update/"
-    },
-    {
-      "num": 0,
-      "title": "Applications open for Genius Northwest – an IRL gaming competition",
-      "img": "https://wondermark.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-10.13.53-AM.png",
-      "alt": "",
-      "date": "2026-05-08",
-      "link": "https://wondermark.com/applications-open-for-genius-northwest-an-irl-gaming-competition/"
     }
   ]
 }
