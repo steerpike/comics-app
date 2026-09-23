@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-22T21:00:18.108Z",
+  "fetchedAt": "2026-09-23T11:00:24.952Z",
   "comics": [
+    {
+      "slug": "silver",
+      "title": "Silver",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickeneverycloud-1.jpg",
+      "alt": "Silver",
+      "date": "2026-09-23",
+      "link": "https://www.savagechickens.com/2026/09/silver.html"
+    },
     {
       "slug": "click-ok",
       "title": "Click OK",
@@ -76,14 +84,6 @@
       "alt": "The Actor",
       "date": "2026-09-10",
       "link": "https://www.savagechickens.com/2026/09/the-actor.html"
-    },
-    {
-      "slug": "focus",
-      "title": "Focus",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenfocuscat.jpg",
-      "alt": "Focus",
-      "date": "2026-09-09",
-      "link": "https://www.savagechickens.com/2026/09/focus.html"
     }
   ]
 }
