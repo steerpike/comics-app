@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3301,
-  "fetchedAt": "2026-09-23T21:14:53.981Z",
+  "latestNum": 3302,
+  "fetchedAt": "2026-09-24T11:19:41.866Z",
   "comics": [
+    {
+      "num": 3302,
+      "title": "Voyager Instruments",
+      "img": "https://imgs.xkcd.com/comics/voyager_instruments.png",
+      "alt": "Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.",
+      "date": "2026-09-23"
+    },
     {
       "num": 3301,
       "title": "Stargazing 5",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/size_and_lifespan.png",
       "alt": "With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.",
       "date": "2026-08-10"
-    },
-    {
-      "num": 3282,
-      "title": "Trick Play",
-      "img": "https://imgs.xkcd.com/comics/trick_play.png",
-      "alt": "I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.",
-      "date": "2026-08-07"
     }
   ]
 }
