@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-09-24T11:19:44.312Z",
+  "fetchedAt": "2026-09-24T21:16:29.991Z",
   "comics": [
+    {
+      "slug": "must-be-new",
+      "title": "Must Be New",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/09/the-rule.png",
+      "alt": "",
+      "date": "2026-09-24",
+      "link": "https://poorlydrawnlines.com/comic/must-be-new/"
+    },
     {
       "slug": "travel-mug",
       "title": "Travel Mug",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-08-07",
       "link": "https://poorlydrawnlines.com/comic/the-dog/"
-    },
-    {
-      "slug": "didnt-realize",
-      "title": "Didn’t Realize",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/08/didnt-realize.png",
-      "alt": "",
-      "date": "2026-07-02",
-      "link": "https://poorlydrawnlines.com/comic/didnt-realize/"
     }
   ]
 }
