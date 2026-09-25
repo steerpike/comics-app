@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3301,
-  "latestNum": 3302,
-  "fetchedAt": "2026-09-24T11:19:41.876Z",
+  "total": 3302,
+  "latestNum": 3303,
+  "fetchedAt": "2026-09-25T21:14:02.931Z",
   "comics": [
     {
       "num": 1,
@@ -23110,6 +23110,13 @@
       "img": "https://imgs.xkcd.com/comics/voyager_instruments.png",
       "alt": "Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.",
       "date": "2026-09-23"
+    },
+    {
+      "num": 3303,
+      "title": "Slab Graveyard",
+      "img": "https://imgs.xkcd.com/comics/slab_graveyard.png",
+      "alt": "It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!",
+      "date": "2026-09-25"
     }
   ]
 }

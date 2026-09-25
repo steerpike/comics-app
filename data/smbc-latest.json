@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-25T11:24:24.242Z",
+  "fetchedAt": "2026-09-25T21:14:03.595Z",
   "comics": [
+    {
+      "slug": "suit-2",
+      "title": "Suit",
+      "img": "https://www.smbc-comics.com/comics/1790197889-20260925.png",
+      "alt": "This is actually what the Predator was doing the whole movie.",
+      "date": "2026-09-25",
+      "link": "https://www.smbc-comics.com/comic/suit-2"
+    },
     {
       "slug": "identity-3",
       "title": "Identity",
@@ -156,14 +164,6 @@
       "alt": "Please let Professor Sykes know there's a free bad caricature available for him.",
       "date": "2026-09-06",
       "link": "https://www.smbc-comics.com/comic/seized"
-    },
-    {
-      "slug": "imagine-2",
-      "title": "Imagine",
-      "img": "https://www.smbc-comics.com/comics/1788486090-20260905.png",
-      "alt": "They actually say modulus, but journalists dumb it down.",
-      "date": "2026-09-05",
-      "link": "https://www.smbc-comics.com/comic/imagine-2"
     }
   ]
 }
