@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-09-25T11:24:25.696Z",
+  "fetchedAt": "2026-09-27T11:38:34.434Z",
   "comics": [
+    {
+      "slug": "coming-to-life",
+      "title": "Coming to Life",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/09/coming-to-life.png",
+      "alt": "",
+      "date": "2026-09-25",
+      "link": "https://poorlydrawnlines.com/comic/coming-to-life/"
+    },
     {
       "slug": "must-be-new",
       "title": "Must Be New",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-08-11",
       "link": "https://poorlydrawnlines.com/comic/contemplating/"
-    },
-    {
-      "slug": "the-dog",
-      "title": "The Dog",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/08/fun-anymore.png",
-      "alt": "",
-      "date": "2026-08-07",
-      "link": "https://poorlydrawnlines.com/comic/the-dog/"
     }
   ]
 }
