@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-27T11:38:32.846Z",
+  "fetchedAt": "2026-09-27T21:03:05.700Z",
   "comics": [
+    {
+      "slug": "paradox-3",
+      "title": "Paradox",
+      "img": "https://www.smbc-comics.com/comics/1790204486-20260927.png",
+      "alt": "Just to be clear, I have been siding with machines since well before they were about to annihilate us.",
+      "date": "2026-09-27",
+      "link": "https://www.smbc-comics.com/comic/paradox-3"
+    },
     {
       "slug": "all-right",
       "title": "All Right",
@@ -156,14 +164,6 @@
       "alt": "The MBAs are no good because when the lights are off they think it's nighttime and go to sleep.",
       "date": "2026-09-08",
       "link": "https://www.smbc-comics.com/comic/major"
-    },
-    {
-      "slug": "conscious-9",
-      "title": "Conscious",
-      "img": "https://www.smbc-comics.com/comics/1788659266-20260907.png",
-      "alt": "There should be a version of the Chinese Room where the guy inside has to speak French and has to remember those classes he cheated on in high school.",
-      "date": "2026-09-07",
-      "link": "https://www.smbc-comics.com/comic/conscious-9"
     }
   ]
 }
