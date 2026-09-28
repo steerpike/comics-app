@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-09-27T21:03:05.360Z",
+  "fetchedAt": "2026-09-28T13:13:56.133Z",
   "comics": [
+    {
+      "num": 4524,
+      "title": "This is my friend, North Korea, and no, he does NOT want to discuss his name.  However my other friend Grand Duchy of Westarctica absolutely won't shut up about it",
+      "img": "http://www.qwantz.com/comics/comic2-5222.png",
+      "alt": "IN THE BIBLE HE'S MOSTLY JUST A PLACE AND NOT A GUY BUT REST ASSURED THERE IS IN FACT A DUDE NAMED ",
+      "date": "2026-09-28",
+      "link": "http://www.qwantz.com/index.php?comic=4524"
+    },
     {
       "num": 4523,
       "title": "t-rex and the case of the missed midlife crisis",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-09-03",
       "link": "http://www.qwantz.com/index.php?comic=4515"
-    },
-    {
-      "num": 4514,
-      "title": "perhaps there are but a few foodstuffs improved by being transformed into a honey slurry and then baked.  sadly it's impossible to know",
-      "img": "http://www.qwantz.com/comics/comic2-5212.png",
-      "alt": "one time i made a dang ol' commitment to truth and bettering myself; that's how they get you",
-      "date": "2026-09-02",
-      "link": "http://www.qwantz.com/index.php?comic=4514"
     }
   ]
 }

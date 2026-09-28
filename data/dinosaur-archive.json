@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 93,
-  "highestNum": 4523,
-  "fetchedAt": "2026-09-25T21:14:03.302Z",
+  "total": 94,
+  "highestNum": 4524,
+  "fetchedAt": "2026-09-28T13:13:56.134Z",
   "comics": [
     {
       "num": 4431,
@@ -747,6 +747,14 @@
       "alt": "now it's gonna have to be socially-UNacceptable crisis.  maaaaan.  now it's gonna be weird and awkward when i tell everyone how i'm getting into motorcycle marriage stuff",
       "date": "2026-09-25",
       "link": "http://www.qwantz.com/index.php?comic=4523"
+    },
+    {
+      "num": 4524,
+      "title": "This is my friend, North Korea, and no, he does NOT want to discuss his name.  However my other friend Grand Duchy of Westarctica absolutely won't shut up about it",
+      "img": "http://www.qwantz.com/comics/comic2-5222.png",
+      "alt": "IN THE BIBLE HE'S MOSTLY JUST A PLACE AND NOT A GUY BUT REST ASSURED THERE IS IN FACT A DUDE NAMED ",
+      "date": "2026-09-28",
+      "link": "http://www.qwantz.com/index.php?comic=4524"
     }
   ]
 }
