@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-28T13:13:56.450Z",
+  "fetchedAt": "2026-09-28T23:01:42.908Z",
   "comics": [
+    {
+      "slug": "gift",
+      "title": "Gift",
+      "img": "https://www.smbc-comics.com/comics/1790204549-20260928.png",
+      "alt": "It's the one time this sort of thing worked.",
+      "date": "2026-09-28",
+      "link": "https://www.smbc-comics.com/comic/gift"
+    },
     {
       "slug": "paradox-3",
       "title": "Paradox",
@@ -156,14 +164,6 @@
       "alt": "God also has a joke about how both oblivion and eternal recurrence are terrifying, and there is no middle ground.",
       "date": "2026-09-09",
       "link": "https://www.smbc-comics.com/comic/club-2"
-    },
-    {
-      "slug": "major",
-      "title": "Major",
-      "img": "https://www.smbc-comics.com/comics/1788829654-20260908.png",
-      "alt": "The MBAs are no good because when the lights are off they think it's nighttime and go to sleep.",
-      "date": "2026-09-08",
-      "link": "https://www.smbc-comics.com/comic/major"
     }
   ]
 }
