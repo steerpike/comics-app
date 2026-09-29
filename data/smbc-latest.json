@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-29T12:21:40.176Z",
+  "fetchedAt": "2026-09-29T21:59:47.318Z",
   "comics": [
+    {
+      "slug": "free-5",
+      "title": "Free",
+      "img": "https://www.smbc-comics.com/comics/1790357439-20260929.png",
+      "alt": "It's just a more full service lending program.",
+      "date": "2026-09-29",
+      "link": "https://www.smbc-comics.com/comic/free-5"
+    },
     {
       "slug": "gift",
       "title": "Gift",
@@ -156,14 +164,6 @@
       "alt": "I really do wonder if paid disinformation orgs have the same office politics as everywhere else.",
       "date": "2026-09-10",
       "link": "https://www.smbc-comics.com/comic/shilling"
-    },
-    {
-      "slug": "club-2",
-      "title": "Club",
-      "img": "https://www.smbc-comics.com/comics/1788823653-20260909.png",
-      "alt": "God also has a joke about how both oblivion and eternal recurrence are terrifying, and there is no middle ground.",
-      "date": "2026-09-09",
-      "link": "https://www.smbc-comics.com/comic/club-2"
     }
   ]
 }
