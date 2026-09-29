@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3303,
-  "fetchedAt": "2026-09-28T23:01:41.078Z",
+  "latestNum": 3304,
+  "fetchedAt": "2026-09-29T12:21:39.757Z",
   "comics": [
+    {
+      "num": 3304,
+      "title": "Jupiter Icy Moons Explorer",
+      "img": "https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png",
+      "alt": "\"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons.\"",
+      "date": "2026-09-28"
+    },
     {
       "num": 3303,
       "title": "Slab Graveyard",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/accretionary_arc.png",
       "alt": "The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.",
       "date": "2026-08-14"
-    },
-    {
-      "num": 3284,
-      "title": "Geology Building",
-      "img": "https://imgs.xkcd.com/comics/geology_building.png",
-      "alt": "The administration thinks it's weird, but the geologists say it looks normal.",
-      "date": "2026-08-12"
     }
   ]
 }

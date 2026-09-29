@@ -3,8 +3,40 @@
   "name": "Buttersafe",
   "url": "https://www.buttersafe.com",
   "attribution": "Buttersafe by Alex Culang and Raynato Castro",
-  "fetchedAt": "2026-09-28T23:01:45.534Z",
+  "fetchedAt": "2026-09-29T12:21:42.684Z",
   "comics": [
+    {
+      "slug": "2026-09-24-lake-construction",
+      "title": "Lake Construction",
+      "img": "http://www.buttersafe.com/comics/rss/2026-09-24-LakeConstructionRSS.jpg",
+      "alt": "Lake Construction",
+      "date": "2026-09-24",
+      "link": "http://www.buttersafe.com/2026/09/24/lake-construction/"
+    },
+    {
+      "slug": "2026-09-17-mr-jellylegs",
+      "title": "Mr. Jellylegs",
+      "img": "http://www.buttersafe.com/comics/rss/2026-09-17-MrJellylegsRSS.jpg",
+      "alt": "Mr. Jellylegs",
+      "date": "2026-09-17",
+      "link": "http://www.buttersafe.com/2026/09/17/mr-jellylegs/"
+    },
+    {
+      "slug": "2026-09-10-take-me-to-him",
+      "title": "Take Me To Him",
+      "img": "http://www.buttersafe.com/comics/rss/2026-09-10-TakeMeToHimRSS.jpg",
+      "alt": "Take Me To Him",
+      "date": "2026-09-10",
+      "link": "http://www.buttersafe.com/2026/09/10/take-me-to-him/"
+    },
+    {
+      "slug": "2026-09-03-growing-up-to-be-an-archaeologist",
+      "title": "Growing Up To Be An Archaeologist",
+      "img": "http://www.buttersafe.com/comics/rss/2026-09-03-GrowingUpToBeAnArchaeologistRSS.jpg",
+      "alt": "Growing Up To Be An Archaeologist",
+      "date": "2026-09-03",
+      "link": "http://www.buttersafe.com/2026/09/03/growing-up-to-be-an-archaeologist/"
+    },
     {
       "slug": "2026-08-27-the-fishermans-fib",
       "title": "The Fisherman’s Fib",
@@ -132,38 +164,6 @@
       "alt": "Your Destination",
       "date": "2026-05-14",
       "link": "http://www.buttersafe.com/2026/05/14/your-destination/"
-    },
-    {
-      "slug": "2026-05-07-a-figure-in-the-periphery",
-      "title": "A Figure in the Periphery",
-      "img": "http://www.buttersafe.com/comics/rss/2026-05-07-AFigureInThePeripheryRSS.jpg",
-      "alt": "A Figure in the Periphery",
-      "date": "2026-05-07",
-      "link": "http://www.buttersafe.com/2026/05/07/a-figure-in-the-periphery/"
-    },
-    {
-      "slug": "2026-04-30-its-alive-2",
-      "title": "It’s Alive",
-      "img": "http://www.buttersafe.com/comics/rss/2026-04-30-ItsAliveRSS.jpg",
-      "alt": "It’s Alive",
-      "date": "2026-04-30",
-      "link": "http://www.buttersafe.com/2026/04/30/its-alive-2/"
-    },
-    {
-      "slug": "2026-04-23-where-do-you-see-yourself",
-      "title": "Where Do You See Yourself?",
-      "img": "http://www.buttersafe.com/comics/rss/2026-04-23-WhereDoYouSeeYourselfRSS.jpg",
-      "alt": "Where Do You See Yourself?",
-      "date": "2026-04-23",
-      "link": "http://www.buttersafe.com/2026/04/23/where-do-you-see-yourself/"
-    },
-    {
-      "slug": "2026-04-16-guilloteens",
-      "title": "Guilloteens",
-      "img": "http://www.buttersafe.com/comics/rss/2026-04-16-GuilloteensRSS.jpg",
-      "alt": "Guilloteens",
-      "date": "2026-04-16",
-      "link": "http://www.buttersafe.com/2026/04/16/guilloteens/"
     }
   ]
 }

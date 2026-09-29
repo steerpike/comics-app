@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 94,
-  "highestNum": 4524,
-  "fetchedAt": "2026-09-28T13:13:56.134Z",
+  "total": 95,
+  "highestNum": 4525,
+  "fetchedAt": "2026-09-29T12:21:39.917Z",
   "comics": [
     {
       "num": 4431,
@@ -755,6 +755,14 @@
       "alt": "IN THE BIBLE HE'S MOSTLY JUST A PLACE AND NOT A GUY BUT REST ASSURED THERE IS IN FACT A DUDE NAMED ",
       "date": "2026-09-28",
       "link": "http://www.qwantz.com/index.php?comic=4524"
+    },
+    {
+      "num": 4525,
+      "title": "IT'S TIME FOR... MOTIVATIONAL COMIX!!!!!!",
+      "img": "http://www.qwantz.com/comics/comic2-5223.png",
+      "alt": "if you believe in yourself you can work within the existing constraints imposed upon you to, in some cases, accomplish a subset of your dreams",
+      "date": "2026-09-29",
+      "link": "http://www.qwantz.com/index.php?comic=4525"
     }
   ]
 }

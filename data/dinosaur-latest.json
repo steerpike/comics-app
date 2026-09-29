@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-09-28T23:01:42.536Z",
+  "fetchedAt": "2026-09-29T12:21:39.916Z",
   "comics": [
+    {
+      "num": 4525,
+      "title": "IT'S TIME FOR... MOTIVATIONAL COMIX!!!!!!",
+      "img": "http://www.qwantz.com/comics/comic2-5223.png",
+      "alt": "if you believe in yourself you can work within the existing constraints imposed upon you to, in some cases, accomplish a subset of your dreams",
+      "date": "2026-09-29",
+      "link": "http://www.qwantz.com/index.php?comic=4525"
+    },
     {
       "num": 4524,
       "title": "This is my friend, North Korea, and no, he does NOT want to discuss his name.  However my other friend Grand Duchy of Westarctica absolutely won't shut up about it",
@@ -76,14 +84,6 @@
       "alt": "Units of measurement?  More like units of BETRAYAL",
       "date": "2026-09-09",
       "link": "http://www.qwantz.com/index.php?comic=4516"
-    },
-    {
-      "num": 4515,
-      "title": "my kind thighs deserve - and crave - thigh fives",
-      "img": "http://www.qwantz.com/comics/comic2-5213.png",
-      "alt": "",
-      "date": "2026-09-03",
-      "link": "http://www.qwantz.com/index.php?comic=4515"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-28T23:01:44.961Z",
+  "fetchedAt": "2026-09-29T12:21:42.217Z",
   "comics": [
+    {
+      "slug": "everything-you-do",
+      "title": "Everything You Do",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickeneverythingyoudo.jpg",
+      "alt": "Everything You Do",
+      "date": "2026-09-29",
+      "link": "https://www.savagechickens.com/2026/09/everything-you-do.html"
+    },
     {
       "slug": "third-time-this-week",
       "title": "Third Time This Week",
@@ -76,14 +84,6 @@
       "alt": "The Shark",
       "date": "2026-09-16",
       "link": "https://www.savagechickens.com/2026/09/the-shark.html"
-    },
-    {
-      "slug": "the-leg",
-      "title": "The Leg",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickentheleg.jpg",
-      "alt": "The Leg",
-      "date": "2026-09-15",
-      "link": "https://www.savagechickens.com/2026/09/the-leg.html"
     }
   ]
 }
