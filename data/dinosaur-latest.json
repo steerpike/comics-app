@@ -3,14 +3,22 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-09-30T12:06:47.689Z",
+  "fetchedAt": "2026-09-30T21:58:44.627Z",
   "comics": [
+    {
+      "num": 4526,
+      "title": "are ghosts real: the spookiest possible comic for the spookiest possible month!!!  i refer, of course, to next month and not the month it's appearing in",
+      "img": "http://www.qwantz.com/comics/comic2-5224.png",
+      "alt": "it's usually gone by sunrise.  not always though",
+      "date": "2026-09-30",
+      "link": "http://www.qwantz.com/index.php?comic=4526"
+    },
     {
       "num": 4525,
       "title": "IT'S TIME FOR... MOTIVATIONAL COMIX!!!!!!",
       "img": "http://www.qwantz.com/comics/comic2-5223.png",
       "alt": "if you believe in yourself you can work within the existing constraints imposed upon you to, in some cases, accomplish a subset of your dreams",
-      "date": "2026-09-29",
+      "date": "2026-09-28",
       "link": "http://www.qwantz.com/index.php?comic=4525"
     },
     {
@@ -76,14 +84,6 @@
       "alt": "(said through a mouthful of chips) the word ",
       "date": "2026-09-11",
       "link": "http://www.qwantz.com/index.php?comic=4517"
-    },
-    {
-      "num": 4516,
-      "title": "the power of even a SINGLE horse is far beyond your conception",
-      "img": "http://www.qwantz.com/comics/comic2-5214.png",
-      "alt": "Units of measurement?  More like units of BETRAYAL",
-      "date": "2026-09-09",
-      "link": "http://www.qwantz.com/index.php?comic=4516"
     }
   ]
 }

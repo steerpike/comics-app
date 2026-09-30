@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-09-30T12:06:47.919Z",
+  "fetchedAt": "2026-09-30T21:58:45.152Z",
   "comics": [
+    {
+      "slug": "scripture-2",
+      "title": "Scripture",
+      "img": "https://www.smbc-comics.com/comics/1790357486-20260930.png",
+      "alt": "That whole section is unappreciated comedy gold.",
+      "date": "2026-09-30",
+      "link": "https://www.smbc-comics.com/comic/scripture-2"
+    },
     {
       "slug": "free-5",
       "title": "Free",
@@ -156,14 +164,6 @@
       "alt": "We're about 6 weeks away from being able to do an Only Transporter Problem book.",
       "date": "2026-09-11",
       "link": "https://www.smbc-comics.com/comic/transporter-3"
-    },
-    {
-      "slug": "shilling",
-      "title": "Shilling",
-      "img": "https://www.smbc-comics.com/comics/1788990389-20260910.png",
-      "alt": "I really do wonder if paid disinformation orgs have the same office politics as everywhere else.",
-      "date": "2026-09-10",
-      "link": "https://www.smbc-comics.com/comic/shilling"
     }
   ]
 }

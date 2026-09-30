@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 95,
-  "highestNum": 4525,
-  "fetchedAt": "2026-09-29T12:21:39.917Z",
+  "total": 96,
+  "highestNum": 4526,
+  "fetchedAt": "2026-09-30T21:58:44.720Z",
   "comics": [
     {
       "num": 4431,
@@ -763,6 +763,14 @@
       "alt": "if you believe in yourself you can work within the existing constraints imposed upon you to, in some cases, accomplish a subset of your dreams",
       "date": "2026-09-29",
       "link": "http://www.qwantz.com/index.php?comic=4525"
+    },
+    {
+      "num": 4526,
+      "title": "are ghosts real: the spookiest possible comic for the spookiest possible month!!!  i refer, of course, to next month and not the month it's appearing in",
+      "img": "http://www.qwantz.com/comics/comic2-5224.png",
+      "alt": "it's usually gone by sunrise.  not always though",
+      "date": "2026-09-30",
+      "link": "http://www.qwantz.com/index.php?comic=4526"
     }
   ]
 }

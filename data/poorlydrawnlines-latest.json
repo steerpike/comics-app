@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-09-30T12:06:49.255Z",
+  "fetchedAt": "2026-09-30T21:58:46.590Z",
   "comics": [
+    {
+      "slug": "things-that-can-fly",
+      "title": "Things That Can Fly",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/09/things-that-can-fly.png",
+      "alt": "",
+      "date": "2026-09-30",
+      "link": "https://poorlydrawnlines.com/comic/things-that-can-fly/"
+    },
     {
       "slug": "coming-to-life",
       "title": "Coming to Life",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-08-18",
       "link": "https://poorlydrawnlines.com/comic/check-this-out/"
-    },
-    {
-      "slug": "contemplating",
-      "title": "Contemplating",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/08/contemplating.png",
-      "alt": "",
-      "date": "2026-08-11",
-      "link": "https://poorlydrawnlines.com/comic/contemplating/"
     }
   ]
 }
