@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-29T21:59:49.218Z",
+  "fetchedAt": "2026-09-30T12:06:49.527Z",
   "comics": [
+    {
+      "slug": "stupid",
+      "title": "Stupid",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenstupid.jpg",
+      "alt": "Stupid",
+      "date": "2026-09-30",
+      "link": "https://www.savagechickens.com/2026/09/stupid.html"
+    },
     {
       "slug": "everything-you-do",
       "title": "Everything You Do",
@@ -76,14 +84,6 @@
       "alt": "Drill",
       "date": "2026-09-17",
       "link": "https://www.savagechickens.com/2026/09/drill.html"
-    },
-    {
-      "slug": "the-shark",
-      "title": "The Shark",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickentheshark.jpg",
-      "alt": "The Shark",
-      "date": "2026-09-16",
-      "link": "https://www.savagechickens.com/2026/09/the-shark.html"
     }
   ]
 }
