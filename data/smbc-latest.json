@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-01T12:40:23.598Z",
+  "fetchedAt": "2026-10-01T22:26:53.160Z",
   "comics": [
+    {
+      "slug": "equations",
+      "title": "Equations",
+      "img": "https://www.smbc-comics.com/comics/1790818238-20261001.png",
+      "alt": "That janitor just goes from building to building helping people.",
+      "date": "2026-10-01",
+      "link": "https://www.smbc-comics.com/comic/equations"
+    },
     {
       "slug": "scripture-2",
       "title": "Scripture",
@@ -156,14 +164,6 @@
       "alt": "Kelly thought this was stupid, so please make sure to share it.",
       "date": "2026-09-12",
       "link": "https://www.smbc-comics.com/comic/time-8"
-    },
-    {
-      "slug": "transporter-3",
-      "title": "Transporter",
-      "img": "https://www.smbc-comics.com/comics/1788990439-20260911.png",
-      "alt": "We're about 6 weeks away from being able to do an Only Transporter Problem book.",
-      "date": "2026-09-11",
-      "link": "https://www.smbc-comics.com/comic/transporter-3"
     }
   ]
 }
