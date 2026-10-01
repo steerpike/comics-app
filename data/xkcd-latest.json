@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3304,
-  "fetchedAt": "2026-09-30T21:58:44.348Z",
+  "latestNum": 3305,
+  "fetchedAt": "2026-10-01T12:40:22.982Z",
   "comics": [
+    {
+      "num": 3305,
+      "title": "Ground Effect",
+      "img": "https://imgs.xkcd.com/comics/ground_effect.png",
+      "alt": "Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.",
+      "date": "2026-09-30"
+    },
     {
       "num": 3304,
       "title": "Jupiter Icy Moons Explorer",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/particle_physics_equipment.png",
       "alt": "The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory's now-dismantled COSMOTRON.",
       "date": "2026-08-17"
-    },
-    {
-      "num": 3285,
-      "title": "Accretionary Arc",
-      "img": "https://imgs.xkcd.com/comics/accretionary_arc.png",
-      "alt": "The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.",
-      "date": "2026-08-14"
     }
   ]
 }

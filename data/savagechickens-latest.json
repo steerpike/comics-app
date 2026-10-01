@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-09-30T21:58:46.918Z",
+  "fetchedAt": "2026-10-01T12:40:25.389Z",
   "comics": [
+    {
+      "slug": "keybot",
+      "title": "Keybot",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenkeybot.jpg",
+      "alt": "Keybot",
+      "date": "2026-10-01",
+      "link": "https://www.savagechickens.com/2026/10/keybot.html"
+    },
     {
       "slug": "stupid",
       "title": "Stupid",
@@ -76,14 +84,6 @@
       "alt": "Understanding Pirate",
       "date": "2026-09-18",
       "link": "https://www.savagechickens.com/2026/09/understanding-pirate.html"
-    },
-    {
-      "slug": "drill",
-      "title": "Drill",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickendrill.jpg",
-      "alt": "Drill",
-      "date": "2026-09-17",
-      "link": "https://www.savagechickens.com/2026/09/drill.html"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3303,
-  "latestNum": 3304,
-  "fetchedAt": "2026-09-29T12:21:39.767Z",
+  "total": 3304,
+  "latestNum": 3305,
+  "fetchedAt": "2026-10-01T12:40:22.992Z",
   "comics": [
     {
       "num": 1,
@@ -23124,6 +23124,13 @@
       "img": "https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png",
       "alt": "\"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons.\"",
       "date": "2026-09-28"
+    },
+    {
+      "num": 3305,
+      "title": "Ground Effect",
+      "img": "https://imgs.xkcd.com/comics/ground_effect.png",
+      "alt": "Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.",
+      "date": "2026-09-30"
     }
   ]
 }
