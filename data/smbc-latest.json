@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-02T12:04:43.499Z",
+  "fetchedAt": "2026-10-02T21:56:37.459Z",
   "comics": [
+    {
+      "slug": "interesting-5",
+      "title": "Interesting",
+      "img": "https://www.smbc-comics.com/comics/1790818588-20261002.png",
+      "alt": "But you wouldn't BELIEVE how many probably-true fun facts I know from youtube.",
+      "date": "2026-10-02",
+      "link": "https://www.smbc-comics.com/comic/interesting-5"
+    },
     {
       "slug": "equations",
       "title": "Equations",
@@ -156,14 +164,6 @@
       "alt": "Never thought software would ruin a philosophy problem, but here we are.",
       "date": "2026-09-13",
       "link": "https://www.smbc-comics.com/comic/scratchpad"
-    },
-    {
-      "slug": "time-8",
-      "title": "Time",
-      "img": "https://www.smbc-comics.com/comics/1789156114-20260912.png",
-      "alt": "Kelly thought this was stupid, so please make sure to share it.",
-      "date": "2026-09-12",
-      "link": "https://www.smbc-comics.com/comic/time-8"
     }
   ]
 }

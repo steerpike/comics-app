@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 96,
-  "highestNum": 4526,
-  "fetchedAt": "2026-09-30T21:58:44.720Z",
+  "total": 97,
+  "highestNum": 4527,
+  "fetchedAt": "2026-10-02T21:56:37.183Z",
   "comics": [
     {
       "num": 4431,
@@ -771,6 +771,14 @@
       "alt": "it's usually gone by sunrise.  not always though",
       "date": "2026-09-30",
       "link": "http://www.qwantz.com/index.php?comic=4526"
+    },
+    {
+      "num": 4527,
+      "title": "the average human body also has slightly MORE than one complete skeleton inside it, thanks to pregnancies.  everyone say \"thank you pregnancies\"",
+      "img": "http://www.qwantz.com/comics/comic2-5225.png",
+      "alt": "ah yes, human a la mode",
+      "date": "2026-10-02",
+      "link": "http://www.qwantz.com/index.php?comic=4527"
     }
   ]
 }
