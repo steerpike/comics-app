@@ -3,8 +3,16 @@
   "name": "Buttersafe",
   "url": "https://www.buttersafe.com",
   "attribution": "Buttersafe by Alex Culang and Raynato Castro",
-  "fetchedAt": "2026-10-02T21:56:40.555Z",
+  "fetchedAt": "2026-10-03T11:16:30.773Z",
   "comics": [
+    {
+      "slug": "2026-10-01-token-of-gratitude",
+      "title": "Token of Gratitude",
+      "img": "http://www.buttersafe.com/comics/rss/2026-10-01-TokenOfGratitudeRSS.jpg",
+      "alt": "Token of Gratitude",
+      "date": "2026-10-01",
+      "link": "http://www.buttersafe.com/2026/10/01/token-of-gratitude/"
+    },
     {
       "slug": "2026-09-24-lake-construction",
       "title": "Lake Construction",
@@ -156,14 +164,6 @@
       "alt": "Letting Go",
       "date": "2026-05-21",
       "link": "http://www.buttersafe.com/2026/05/21/letting-go/"
-    },
-    {
-      "slug": "2026-05-14-your-destination",
-      "title": "Your Destination",
-      "img": "http://www.buttersafe.com/comics/rss/2026-05-14-YourDestinationRSS.jpg",
-      "alt": "Your Destination",
-      "date": "2026-05-14",
-      "link": "http://www.buttersafe.com/2026/05/14/your-destination/"
     }
   ]
 }

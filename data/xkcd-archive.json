@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3304,
-  "latestNum": 3305,
-  "fetchedAt": "2026-10-01T12:40:22.992Z",
+  "total": 3305,
+  "latestNum": 3306,
+  "fetchedAt": "2026-10-03T11:16:27.672Z",
   "comics": [
     {
       "num": 1,
@@ -23131,6 +23131,13 @@
       "img": "https://imgs.xkcd.com/comics/ground_effect.png",
       "alt": "Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.",
       "date": "2026-09-30"
+    },
+    {
+      "num": 3306,
+      "title": "Accelerator Energies",
+      "img": "https://imgs.xkcd.com/comics/accelerator_energies.png",
+      "alt": "Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.",
+      "date": "2026-10-02"
     }
   ]
 }

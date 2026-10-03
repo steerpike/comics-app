@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3305,
-  "fetchedAt": "2026-10-02T21:56:37.053Z",
+  "latestNum": 3306,
+  "fetchedAt": "2026-10-03T11:16:27.663Z",
   "comics": [
+    {
+      "num": 3306,
+      "title": "Accelerator Energies",
+      "img": "https://imgs.xkcd.com/comics/accelerator_energies.png",
+      "alt": "Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.",
+      "date": "2026-10-02"
+    },
     {
       "num": 3305,
       "title": "Ground Effect",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/perseids.png",
       "alt": "Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.",
       "date": "2026-08-19"
-    },
-    {
-      "num": 3286,
-      "title": "Particle Physics Equipment",
-      "img": "https://imgs.xkcd.com/comics/particle_physics_equipment.png",
-      "alt": "The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory's now-dismantled COSMOTRON.",
-      "date": "2026-08-17"
     }
   ]
 }
