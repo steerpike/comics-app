@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-03T11:16:28.292Z",
+  "fetchedAt": "2026-10-03T20:44:04.017Z",
   "comics": [
+    {
+      "slug": "specify",
+      "title": "Specify",
+      "img": "https://www.smbc-comics.com/comics/1790818643-20261003.png",
+      "alt": "All these jokes about how it's hard to operationalize good values are gonna be really funny when the T-1000s start rolling out.",
+      "date": "2026-10-03",
+      "link": "https://www.smbc-comics.com/comic/specify"
+    },
     {
       "slug": "interesting-5",
       "title": "Interesting",
@@ -156,14 +164,6 @@
       "alt": "Do all of history's obsessive truth seekers seem happy to you?",
       "date": "2026-09-14",
       "link": "https://www.smbc-comics.com/comic/balance"
-    },
-    {
-      "slug": "scratchpad",
-      "title": "Scratchpad",
-      "img": "https://www.smbc-comics.com/comics/1789251111-20260913.png",
-      "alt": "Never thought software would ruin a philosophy problem, but here we are.",
-      "date": "2026-09-13",
-      "link": "https://www.smbc-comics.com/comic/scratchpad"
     }
   ]
 }
