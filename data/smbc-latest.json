@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-04T11:56:18.972Z",
+  "fetchedAt": "2026-10-04T21:00:13.759Z",
   "comics": [
+    {
+      "slug": "a-2",
+      "title": "A",
+      "img": "https://www.smbc-comics.com/comics/1791080192-20261004.png",
+      "alt": "Bonus points if you can figure out what the canine is.",
+      "date": "2026-10-04",
+      "link": "https://www.smbc-comics.com/comic/a-2"
+    },
     {
       "slug": "specify",
       "title": "Specify",
@@ -156,14 +164,6 @@
       "alt": "I wonder if the cost of chips has cut down on conspiracies.",
       "date": "2026-09-15",
       "link": "https://www.smbc-comics.com/comic/gates-3"
-    },
-    {
-      "slug": "balance",
-      "title": "Balance",
-      "img": "https://www.smbc-comics.com/comics/1789334157-20260914.png",
-      "alt": "Do all of history's obsessive truth seekers seem happy to you?",
-      "date": "2026-09-14",
-      "link": "https://www.smbc-comics.com/comic/balance"
     }
   ]
 }
