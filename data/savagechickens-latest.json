@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-04T21:00:15.557Z",
+  "fetchedAt": "2026-10-05T13:56:18.950Z",
   "comics": [
+    {
+      "slug": "cake",
+      "title": "Cake",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickencake.jpg",
+      "alt": "Cake",
+      "date": "2026-10-05",
+      "link": "https://www.savagechickens.com/2026/10/cake.html"
+    },
     {
       "slug": "unexpected",
       "title": "Unexpected",
@@ -76,14 +84,6 @@
       "alt": "Click OK",
       "date": "2026-09-22",
       "link": "https://www.savagechickens.com/2026/09/click-ok.html"
-    },
-    {
-      "slug": "cat-on-the-moon",
-      "title": "Cat on the Moon",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickencatonthemoon.jpg",
-      "alt": "Cat on the Moon",
-      "date": "2026-09-21",
-      "link": "https://www.savagechickens.com/2026/09/cat-on-the-moon.html"
     }
   ]
 }

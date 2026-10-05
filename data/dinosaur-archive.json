@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 97,
-  "highestNum": 4527,
-  "fetchedAt": "2026-10-02T21:56:37.183Z",
+  "total": 98,
+  "highestNum": 4528,
+  "fetchedAt": "2026-10-05T13:56:17.000Z",
   "comics": [
     {
       "num": 4431,
@@ -779,6 +779,14 @@
       "alt": "ah yes, human a la mode",
       "date": "2026-10-02",
       "link": "http://www.qwantz.com/index.php?comic=4527"
+    },
+    {
+      "num": 4528,
+      "title": "t-rex in: getting in SHAPE",
+      "img": "http://www.qwantz.com/comics/comic2-5226.png",
+      "alt": "okay, but hear me out: what about GARLIC BREAD??",
+      "date": "2026-10-05",
+      "link": "http://www.qwantz.com/index.php?comic=4528"
     }
   ]
 }
