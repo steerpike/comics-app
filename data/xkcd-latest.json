@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3306,
-  "fetchedAt": "2026-10-05T13:56:16.766Z",
+  "latestNum": 3307,
+  "fetchedAt": "2026-10-05T23:51:16.561Z",
   "comics": [
+    {
+      "num": 3307,
+      "title": "Spectrum Allocation",
+      "img": "https://imgs.xkcd.com/comics/spectrum_allocation.png",
+      "alt": "Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.",
+      "date": "2026-10-05"
+    },
     {
       "num": 3306,
       "title": "Accelerator Energies",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/archery_feat.png",
       "alt": "Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.",
       "date": "2026-08-21"
-    },
-    {
-      "num": 3287,
-      "title": "Perseids",
-      "img": "https://imgs.xkcd.com/comics/perseids.png",
-      "alt": "Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.",
-      "date": "2026-08-19"
     }
   ]
 }
