@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-05T23:51:18.880Z",
+  "fetchedAt": "2026-10-06T12:57:57.084Z",
   "comics": [
+    {
+      "slug": "raisin-cookie",
+      "title": "Raisin Cookie",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickencake2.jpg",
+      "alt": "Raisin Cookie",
+      "date": "2026-10-06",
+      "link": "https://www.savagechickens.com/2026/10/raisin-cookie.html"
+    },
     {
       "slug": "cake",
       "title": "Cake",
@@ -76,14 +84,6 @@
       "alt": "Silver",
       "date": "2026-09-23",
       "link": "https://www.savagechickens.com/2026/09/silver.html"
-    },
-    {
-      "slug": "click-ok",
-      "title": "Click OK",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenclickok.jpg",
-      "alt": "Click OK",
-      "date": "2026-09-22",
-      "link": "https://www.savagechickens.com/2026/09/click-ok.html"
     }
   ]
 }
