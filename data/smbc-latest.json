@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-06T12:57:54.873Z",
+  "fetchedAt": "2026-10-06T22:27:55.419Z",
   "comics": [
+    {
+      "slug": "cardamom",
+      "title": "Cardamom",
+      "img": "https://www.smbc-comics.com/comics/1791080404-20261006.png",
+      "alt": "The secret ingredient is a half teaspoon of rosewater.",
+      "date": "2026-10-06",
+      "link": "https://www.smbc-comics.com/comic/cardamom"
+    },
     {
       "slug": "birds",
       "title": "Birds",
@@ -156,14 +164,6 @@
       "alt": "Seriously though, next time there's a problem like this just call me.",
       "date": "2026-09-17",
       "link": "https://www.smbc-comics.com/comic/waste-2"
-    },
-    {
-      "slug": "lake",
-      "title": "Lake",
-      "img": "https://www.smbc-comics.com/comics/1789505301-20260916.png",
-      "alt": "You can't see it but he's typing an essay with his right hand.",
-      "date": "2026-09-16",
-      "link": "https://www.smbc-comics.com/comic/lake"
     }
   ]
 }
