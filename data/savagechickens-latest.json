@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-06T22:27:57.224Z",
+  "fetchedAt": "2026-10-07T12:52:14.736Z",
   "comics": [
+    {
+      "slug": "on-good-authority",
+      "title": "On Good Authority",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenongoodauthority.jpg",
+      "alt": "On Good Authority",
+      "date": "2026-10-07",
+      "link": "https://www.savagechickens.com/2026/10/on-good-authority.html"
+    },
     {
       "slug": "raisin-cookie",
       "title": "Raisin Cookie",
@@ -76,14 +84,6 @@
       "alt": "Nicer",
       "date": "2026-09-24",
       "link": "https://www.savagechickens.com/2026/09/nicer.html"
-    },
-    {
-      "slug": "silver",
-      "title": "Silver",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickeneverycloud-1.jpg",
-      "alt": "Silver",
-      "date": "2026-09-23",
-      "link": "https://www.savagechickens.com/2026/09/silver.html"
     }
   ]
 }

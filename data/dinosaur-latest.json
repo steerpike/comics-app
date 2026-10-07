@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-10-06T22:27:55.100Z",
+  "fetchedAt": "2026-10-07T12:52:12.625Z",
   "comics": [
+    {
+      "num": 4529,
+      "title": "the best tattoo in the world (there are better tattoos on aliens in space)",
+      "img": "http://www.qwantz.com/comics/comic2-5227.png",
+      "alt": "to answer YOUR question, no, T-Rex won't tell me what the best tattoo in the world is either. BUT: if I had to guess, it's a tattoo of a ruler that also makes it so your body never changes so it's practical forever",
+      "date": "2026-10-07",
+      "link": "http://www.qwantz.com/index.php?comic=4529"
+    },
     {
       "num": 4528,
       "title": "t-rex in: getting in SHAPE",
@@ -76,14 +84,6 @@
       "alt": "when you think about it, writers are really mean to people who, on top of everything else, don't even EXIST yet",
       "date": "2026-09-18",
       "link": "http://www.qwantz.com/index.php?comic=4520"
-    },
-    {
-      "num": 4519,
-      "title": "i will be DAMNED if i lose to a CONCEPT",
-      "img": "http://www.qwantz.com/comics/comic2-5217.png",
-      "alt": "when you're so far from inner peace that there's not any room to add any words to your final panel, you know it's bad",
-      "date": "2026-09-16",
-      "link": "http://www.qwantz.com/index.php?comic=4519"
     }
   ]
 }

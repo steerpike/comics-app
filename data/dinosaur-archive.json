@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 98,
-  "highestNum": 4528,
-  "fetchedAt": "2026-10-05T13:56:17.000Z",
+  "total": 99,
+  "highestNum": 4529,
+  "fetchedAt": "2026-10-07T12:52:12.627Z",
   "comics": [
     {
       "num": 4431,
@@ -787,6 +787,14 @@
       "alt": "okay, but hear me out: what about GARLIC BREAD??",
       "date": "2026-10-05",
       "link": "http://www.qwantz.com/index.php?comic=4528"
+    },
+    {
+      "num": 4529,
+      "title": "the best tattoo in the world (there are better tattoos on aliens in space)",
+      "img": "http://www.qwantz.com/comics/comic2-5227.png",
+      "alt": "to answer YOUR question, no, T-Rex won't tell me what the best tattoo in the world is either. BUT: if I had to guess, it's a tattoo of a ruler that also makes it so your body never changes so it's practical forever",
+      "date": "2026-10-07",
+      "link": "http://www.qwantz.com/index.php?comic=4529"
     }
   ]
 }
