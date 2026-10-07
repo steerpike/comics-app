@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-07T12:52:12.940Z",
+  "fetchedAt": "2026-10-07T22:52:10.844Z",
   "comics": [
+    {
+      "slug": "woops",
+      "title": "Woops",
+      "img": "https://www.smbc-comics.com/comics/1791333455-20261007.png",
+      "alt": "It's not a topical comic in that I suspect I'll be posting it every few years for a long time.",
+      "date": "2026-10-07",
+      "link": "https://www.smbc-comics.com/comic/woops"
+    },
     {
       "slug": "cardamom",
       "title": "Cardamom",
@@ -156,14 +164,6 @@
       "alt": "There's a thing in the paper about the forthcoming End Times but it's still in press.",
       "date": "2026-09-18",
       "link": "https://www.smbc-comics.com/comic/citation-2"
-    },
-    {
-      "slug": "waste-2",
-      "title": "Waste",
-      "img": "https://www.smbc-comics.com/comics/1789607559-20260917.png",
-      "alt": "Seriously though, next time there's a problem like this just call me.",
-      "date": "2026-09-17",
-      "link": "https://www.smbc-comics.com/comic/waste-2"
     }
   ]
 }

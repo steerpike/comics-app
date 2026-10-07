@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3306,
-  "latestNum": 3307,
-  "fetchedAt": "2026-10-05T23:51:16.572Z",
+  "total": 3307,
+  "latestNum": 3308,
+  "fetchedAt": "2026-10-07T22:52:10.274Z",
   "comics": [
     {
       "num": 1,
@@ -23145,6 +23145,13 @@
       "img": "https://imgs.xkcd.com/comics/spectrum_allocation.png",
       "alt": "Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.",
       "date": "2026-10-05"
+    },
+    {
+      "num": 3308,
+      "title": "Juice",
+      "img": "https://imgs.xkcd.com/comics/juice.png",
+      "alt": "I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.",
+      "date": "2026-10-07"
     }
   ]
 }

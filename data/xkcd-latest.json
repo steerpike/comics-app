@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3307,
-  "fetchedAt": "2026-10-07T12:52:12.489Z",
+  "latestNum": 3308,
+  "fetchedAt": "2026-10-07T22:52:10.263Z",
   "comics": [
+    {
+      "num": 3308,
+      "title": "Juice",
+      "img": "https://imgs.xkcd.com/comics/juice.png",
+      "alt": "I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.",
+      "date": "2026-10-07"
+    },
     {
       "num": 3307,
       "title": "Spectrum Allocation",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/highway_signs.png",
       "alt": "Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.",
       "date": "2026-08-24"
-    },
-    {
-      "num": 3288,
-      "title": "Archery Feat",
-      "img": "https://imgs.xkcd.com/comics/archery_feat.png",
-      "alt": "Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.",
-      "date": "2026-08-21"
     }
   ]
 }
