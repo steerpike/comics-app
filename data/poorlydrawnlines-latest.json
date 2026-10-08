@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-10-08T13:00:34.324Z",
+  "fetchedAt": "2026-10-08T23:03:40.584Z",
   "comics": [
+    {
+      "slug": "see-you",
+      "title": "See You",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/10/see-you.png",
+      "alt": "",
+      "date": "2026-10-08",
+      "link": "https://poorlydrawnlines.com/comic/see-you/"
+    },
     {
       "slug": "things-that-can-fly",
       "title": "Things That Can Fly",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-08-20",
       "link": "https://poorlydrawnlines.com/comic/the-forest/"
-    },
-    {
-      "slug": "check-this-out",
-      "title": "Check This Out",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/08/check-this-out.png",
-      "alt": "",
-      "date": "2026-08-18",
-      "link": "https://poorlydrawnlines.com/comic/check-this-out/"
     }
   ]
 }

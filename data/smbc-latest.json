@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-08T13:00:32.996Z",
+  "fetchedAt": "2026-10-08T23:03:39.657Z",
   "comics": [
+    {
+      "slug": "prompt-3",
+      "title": "Prompt",
+      "img": "https://www.smbc-comics.com/comics/1791335436-20261008.png",
+      "alt": "Back when I was in art school, we believed in this with all our hearts.",
+      "date": "2026-10-08",
+      "link": "https://www.smbc-comics.com/comic/prompt-3"
+    },
     {
       "slug": "woops",
       "title": "Woops",
@@ -156,14 +164,6 @@
       "alt": "This isn't a metaphor. Just a story about a roach.",
       "date": "2026-09-19",
       "link": "https://www.smbc-comics.com/comic/roach-2"
-    },
-    {
-      "slug": "citation-2",
-      "title": "Citation",
-      "img": "https://www.smbc-comics.com/comics/1789607601-20260918.png",
-      "alt": "There's a thing in the paper about the forthcoming End Times but it's still in press.",
-      "date": "2026-09-18",
-      "link": "https://www.smbc-comics.com/comic/citation-2"
     }
   ]
 }
