@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-07T22:52:12.863Z",
+  "fetchedAt": "2026-10-08T13:00:34.551Z",
   "comics": [
+    {
+      "slug": "new-podcast",
+      "title": "New Podcast",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickennewpodcast.jpg",
+      "alt": "New Podcast",
+      "date": "2026-10-08",
+      "link": "https://www.savagechickens.com/2026/10/new-podcast.html"
+    },
     {
       "slug": "on-good-authority",
       "title": "On Good Authority",
@@ -76,14 +84,6 @@
       "alt": "Xenomorph Dentist",
       "date": "2026-09-25",
       "link": "https://www.savagechickens.com/2026/09/xenomorph-dentist.html"
-    },
-    {
-      "slug": "nicer",
-      "title": "Nicer",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickennicer-1.jpg",
-      "alt": "Nicer",
-      "date": "2026-09-24",
-      "link": "https://www.savagechickens.com/2026/09/nicer.html"
     }
   ]
 }
