@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-08T23:03:41.311Z",
+  "fetchedAt": "2026-10-09T12:47:11.321Z",
   "comics": [
+    {
+      "slug": "on-short-notice",
+      "title": "On Short Notice",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenonshortnotice.jpg",
+      "alt": "On Short Notice",
+      "date": "2026-10-09",
+      "link": "https://www.savagechickens.com/2026/10/on-short-notice.html"
+    },
     {
       "slug": "new-podcast",
       "title": "New Podcast",
@@ -76,14 +84,6 @@
       "alt": "Third Time This Week",
       "date": "2026-09-28",
       "link": "https://www.savagechickens.com/2026/09/third-time-this-week.html"
-    },
-    {
-      "slug": "xenomorph-dentist",
-      "title": "Xenomorph Dentist",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenxenomorphdentist.jpg",
-      "alt": "Xenomorph Dentist",
-      "date": "2026-09-25",
-      "link": "https://www.savagechickens.com/2026/09/xenomorph-dentist.html"
     }
   ]
 }

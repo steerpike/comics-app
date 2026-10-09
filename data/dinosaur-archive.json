@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 99,
-  "highestNum": 4529,
-  "fetchedAt": "2026-10-07T12:52:12.627Z",
+  "total": 100,
+  "highestNum": 4530,
+  "fetchedAt": "2026-10-09T12:47:08.841Z",
   "comics": [
     {
       "num": 4431,
@@ -795,6 +795,14 @@
       "alt": "to answer YOUR question, no, T-Rex won't tell me what the best tattoo in the world is either. BUT: if I had to guess, it's a tattoo of a ruler that also makes it so your body never changes so it's practical forever",
       "date": "2026-10-07",
       "link": "http://www.qwantz.com/index.php?comic=4529"
+    },
+    {
+      "num": 4530,
+      "title": "sherlock holmes and the case of the missing cookie",
+      "img": "http://www.qwantz.com/comics/comic2-5228.png",
+      "alt": "watson was like, ",
+      "date": "2026-10-09",
+      "link": "http://www.qwantz.com/index.php?comic=4530"
     }
   ]
 }
