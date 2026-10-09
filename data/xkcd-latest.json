@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3308,
-  "fetchedAt": "2026-10-09T12:47:08.472Z",
+  "latestNum": 3309,
+  "fetchedAt": "2026-10-09T22:24:03.592Z",
   "comics": [
+    {
+      "num": 3309,
+      "title": "Dogcatcher",
+      "img": "https://imgs.xkcd.com/comics/dogcatcher.png",
+      "alt": "People out here catching strays out here catching strays",
+      "date": "2026-10-09"
+    },
     {
       "num": 3308,
       "title": "Juice",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/trade.png",
       "alt": "\"You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long.\"",
       "date": "2026-08-26"
-    },
-    {
-      "num": 3289,
-      "title": "Highway Signs",
-      "img": "https://imgs.xkcd.com/comics/highway_signs.png",
-      "alt": "Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.",
-      "date": "2026-08-24"
     }
   ]
 }

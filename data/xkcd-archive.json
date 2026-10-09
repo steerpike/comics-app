@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3307,
-  "latestNum": 3308,
-  "fetchedAt": "2026-10-07T22:52:10.274Z",
+  "total": 3308,
+  "latestNum": 3309,
+  "fetchedAt": "2026-10-09T22:24:03.602Z",
   "comics": [
     {
       "num": 1,
@@ -23152,6 +23152,13 @@
       "img": "https://imgs.xkcd.com/comics/juice.png",
       "alt": "I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.",
       "date": "2026-10-07"
+    },
+    {
+      "num": 3309,
+      "title": "Dogcatcher",
+      "img": "https://imgs.xkcd.com/comics/dogcatcher.png",
+      "alt": "People out here catching strays out here catching strays",
+      "date": "2026-10-09"
     }
   ]
 }

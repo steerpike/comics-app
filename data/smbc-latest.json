@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-09T12:47:09.261Z",
+  "fetchedAt": "2026-10-09T22:24:04.502Z",
   "comics": [
+    {
+      "slug": "bet-2",
+      "title": "Bet",
+      "img": "https://www.smbc-comics.com/comics/1791409897-20261009.png",
+      "alt": "The president is actually doing the same thing in the third to last panel.",
+      "date": "2026-10-09",
+      "link": "https://www.smbc-comics.com/comic/bet-2"
+    },
     {
       "slug": "prompt-3",
       "title": "Prompt",
@@ -156,14 +164,6 @@
       "alt": "It's surprising how into murder 7 year olds are.",
       "date": "2026-09-20",
       "link": "https://www.smbc-comics.com/comic/civilization-2"
-    },
-    {
-      "slug": "roach-2",
-      "title": "Roach",
-      "img": "https://www.smbc-comics.com/comics/1789607640-20260919.png",
-      "alt": "This isn't a metaphor. Just a story about a roach.",
-      "date": "2026-09-19",
-      "link": "https://www.smbc-comics.com/comic/roach-2"
     }
   ]
 }
