@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-10T12:05:34.387Z",
+  "fetchedAt": "2026-10-10T21:18:16.945Z",
   "comics": [
+    {
+      "slug": "relative",
+      "title": "Relative",
+      "img": "https://www.smbc-comics.com/comics/1791563668-20261010.png",
+      "alt": "It is now only cheating in your reference frame.",
+      "date": "2026-10-10",
+      "link": "https://www.smbc-comics.com/comic/relative"
+    },
     {
       "slug": "bet-2",
       "title": "Bet",
@@ -156,14 +164,6 @@
       "alt": "With apologies if this has been a joke in the fandom for decades.",
       "date": "2026-09-21",
       "link": "https://www.smbc-comics.com/comic/in"
-    },
-    {
-      "slug": "civilization-2",
-      "title": "Civilization",
-      "img": "https://www.smbc-comics.com/comics/1789792044-20260920.png",
-      "alt": "It's surprising how into murder 7 year olds are.",
-      "date": "2026-09-20",
-      "link": "https://www.smbc-comics.com/comic/civilization-2"
     }
   ]
 }
