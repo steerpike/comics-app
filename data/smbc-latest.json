@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-11T12:18:56.152Z",
+  "fetchedAt": "2026-10-11T21:37:49.297Z",
   "comics": [
+    {
+      "slug": "blog",
+      "title": "Blog",
+      "img": "https://www.smbc-comics.com/comics/1791677050-20261011.png",
+      "alt": "I feel like if you said this on twitter someone wearing a shirt that reads INTERNET would come into your house and take an ax to your router.",
+      "date": "2026-10-11",
+      "link": "https://www.smbc-comics.com/comic/blog"
+    },
     {
       "slug": "relative",
       "title": "Relative",
@@ -156,14 +164,6 @@
       "alt": "The worst part is how she's wearing a suit instead of an event t-shirt with holes in it.",
       "date": "2026-09-22",
       "link": "https://www.smbc-comics.com/comic/taken"
-    },
-    {
-      "slug": "in",
-      "title": "In",
-      "img": "https://www.smbc-comics.com/comics/1789955292-20260921.png",
-      "alt": "With apologies if this has been a joke in the fandom for decades.",
-      "date": "2026-09-21",
-      "link": "https://www.smbc-comics.com/comic/in"
     }
   ]
 }
