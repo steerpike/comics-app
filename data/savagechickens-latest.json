@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-11T21:37:50.732Z",
+  "fetchedAt": "2026-10-12T14:44:42.808Z",
   "comics": [
+    {
+      "slug": "worrying",
+      "title": "Worrying",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenworrying.jpg",
+      "alt": "Worrying",
+      "date": "2026-10-12",
+      "link": "https://www.savagechickens.com/2026/10/worrying.html"
+    },
     {
       "slug": "on-short-notice",
       "title": "On Short Notice",
@@ -76,14 +84,6 @@
       "alt": "Everything You Do",
       "date": "2026-09-29",
       "link": "https://www.savagechickens.com/2026/09/everything-you-do.html"
-    },
-    {
-      "slug": "third-time-this-week",
-      "title": "Third Time This Week",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthirdtimethisweek.jpg",
-      "alt": "Third Time This Week",
-      "date": "2026-09-28",
-      "link": "https://www.savagechickens.com/2026/09/third-time-this-week.html"
     }
   ]
 }
