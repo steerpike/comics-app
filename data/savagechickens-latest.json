@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-13T00:17:13.609Z",
+  "fetchedAt": "2026-10-13T13:47:05.227Z",
   "comics": [
+    {
+      "slug": "imagining-the-future",
+      "title": "Imagining the Future",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenimaginingthefuture.jpg",
+      "alt": "Imagining the Future",
+      "date": "2026-10-13",
+      "link": "https://www.savagechickens.com/2026/10/imagining-the-future.html"
+    },
     {
       "slug": "worrying",
       "title": "Worrying",
@@ -76,14 +84,6 @@
       "alt": "Stupid",
       "date": "2026-09-30",
       "link": "https://www.savagechickens.com/2026/09/stupid.html"
-    },
-    {
-      "slug": "everything-you-do",
-      "title": "Everything You Do",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickeneverythingyoudo.jpg",
-      "alt": "Everything You Do",
-      "date": "2026-09-29",
-      "link": "https://www.savagechickens.com/2026/09/everything-you-do.html"
     }
   ]
 }
