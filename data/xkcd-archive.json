@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3308,
-  "latestNum": 3309,
-  "fetchedAt": "2026-10-09T22:24:03.602Z",
+  "total": 3309,
+  "latestNum": 3310,
+  "fetchedAt": "2026-10-13T00:17:10.070Z",
   "comics": [
     {
       "num": 1,
@@ -23159,6 +23159,13 @@
       "img": "https://imgs.xkcd.com/comics/dogcatcher.png",
       "alt": "People out here catching strays out here catching strays",
       "date": "2026-10-09"
+    },
+    {
+      "num": 3310,
+      "title": "Rejected Space Mission Profiles",
+      "img": "https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png",
+      "alt": "Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.",
+      "date": "2026-10-12"
     }
   ]
 }

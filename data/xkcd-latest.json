@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3309,
-  "fetchedAt": "2026-10-12T14:44:40.315Z",
+  "latestNum": 3310,
+  "fetchedAt": "2026-10-13T00:17:10.060Z",
   "comics": [
+    {
+      "num": 3310,
+      "title": "Rejected Space Mission Profiles",
+      "img": "https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png",
+      "alt": "Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.",
+      "date": "2026-10-12"
+    },
     {
       "num": 3309,
       "title": "Dogcatcher",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/launchpad.png",
       "alt": "It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget.",
       "date": "2026-08-28"
-    },
-    {
-      "num": 3290,
-      "title": "Trade",
-      "img": "https://imgs.xkcd.com/comics/trade.png",
-      "alt": "\"You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long.\"",
-      "date": "2026-08-26"
     }
   ]
 }
