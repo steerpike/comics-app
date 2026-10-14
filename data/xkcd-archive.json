@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3309,
-  "latestNum": 3310,
-  "fetchedAt": "2026-10-13T00:17:10.070Z",
+  "total": 3310,
+  "latestNum": 3311,
+  "fetchedAt": "2026-10-14T21:22:05.514Z",
   "comics": [
     {
       "num": 1,
@@ -23166,6 +23166,13 @@
       "img": "https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png",
       "alt": "Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.",
       "date": "2026-10-12"
+    },
+    {
+      "num": 3311,
+      "title": "Planet Database",
+      "img": "https://imgs.xkcd.com/comics/planet_database.png",
+      "alt": "Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.",
+      "date": "2026-10-14"
     }
   ]
 }
