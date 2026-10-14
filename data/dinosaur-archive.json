@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 100,
-  "highestNum": 4530,
-  "fetchedAt": "2026-10-09T12:47:08.841Z",
+  "total": 101,
+  "highestNum": 4531,
+  "fetchedAt": "2026-10-14T11:24:28.653Z",
   "comics": [
     {
       "num": 4431,
@@ -803,6 +803,14 @@
       "alt": "watson was like, ",
       "date": "2026-10-09",
       "link": "http://www.qwantz.com/index.php?comic=4530"
+    },
+    {
+      "num": 4531,
+      "title": "that said, it IS all the salt water you can drink.  it is in fact the most confirmed salt water it is possible to drink in the known universe",
+      "img": "http://www.qwantz.com/comics/comic2-5229.png",
+      "alt": "The oceanic pole of inaccessibility (Point Nemo, 48°52.6′S 123°23.6′W), is famous for two things. First, for being the single point on the planet where you are as far from land as it is possible to be. Second, for being a MEMORABLY bad hotel",
+      "date": "2026-10-14",
+      "link": "http://www.qwantz.com/index.php?comic=4531"
     }
   ]
 }

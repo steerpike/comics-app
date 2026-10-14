@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-13T22:23:39.935Z",
+  "fetchedAt": "2026-10-14T11:24:31.023Z",
   "comics": [
+    {
+      "slug": "politics",
+      "title": "Politics",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpolitics.jpg",
+      "alt": "Politics",
+      "date": "2026-10-14",
+      "link": "https://www.savagechickens.com/2026/10/politics.html"
+    },
     {
       "slug": "imagining-the-future",
       "title": "Imagining the Future",
@@ -76,14 +84,6 @@
       "alt": "Keybot",
       "date": "2026-10-01",
       "link": "https://www.savagechickens.com/2026/10/keybot.html"
-    },
-    {
-      "slug": "stupid",
-      "title": "Stupid",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenstupid.jpg",
-      "alt": "Stupid",
-      "date": "2026-09-30",
-      "link": "https://www.savagechickens.com/2026/09/stupid.html"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-10-13T22:23:37.460Z",
+  "fetchedAt": "2026-10-14T11:24:28.652Z",
   "comics": [
+    {
+      "num": 4531,
+      "title": "that said, it IS all the salt water you can drink.  it is in fact the most confirmed salt water it is possible to drink in the known universe",
+      "img": "http://www.qwantz.com/comics/comic2-5229.png",
+      "alt": "The oceanic pole of inaccessibility (Point Nemo, 48°52.6′S 123°23.6′W), is famous for two things. First, for being the single point on the planet where you are as far from land as it is possible to be. Second, for being a MEMORABLY bad hotel",
+      "date": "2026-10-14",
+      "link": "http://www.qwantz.com/index.php?comic=4531"
+    },
     {
       "num": 4530,
       "title": "sherlock holmes and the case of the missing cookie",
@@ -76,14 +84,6 @@
       "alt": "SECRETS OF DINOSAUR COMICS: there's time between the panels.  this is also a secret of all comics in general, but you heard it here first",
       "date": "2026-09-23",
       "link": "http://www.qwantz.com/index.php?comic=4522"
-    },
-    {
-      "num": 4521,
-      "title": "death comes to us all, so let's all stop investigating it",
-      "img": "http://www.qwantz.com/comics/comic2-5219.png",
-      "alt": "t-rex is less against secret groups of immortals than he is against sayings telling him what to do, and the sooner he realizes that the happier he'll be.  the happier we'll all be, really",
-      "date": "2026-09-21",
-      "link": "http://www.qwantz.com/index.php?comic=4521"
     }
   ]
 }
