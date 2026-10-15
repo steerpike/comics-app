@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-14T21:22:08.281Z",
+  "fetchedAt": "2026-10-15T11:01:28.612Z",
   "comics": [
+    {
+      "slug": "work-ethic",
+      "title": "Work Ethic",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenunicornworkethic.jpg",
+      "alt": "Work Ethic",
+      "date": "2026-10-15",
+      "link": "https://www.savagechickens.com/2026/10/work-ethic.html"
+    },
     {
       "slug": "politics",
       "title": "Politics",
@@ -76,14 +84,6 @@
       "alt": "Unexpected",
       "date": "2026-10-02",
       "link": "https://www.savagechickens.com/2026/10/unexpected.html"
-    },
-    {
-      "slug": "keybot",
-      "title": "Keybot",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenkeybot.jpg",
-      "alt": "Keybot",
-      "date": "2026-10-01",
-      "link": "https://www.savagechickens.com/2026/10/keybot.html"
     }
   ]
 }
