@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-15T11:01:26.799Z",
+  "fetchedAt": "2026-10-15T21:02:44.267Z",
   "comics": [
+    {
+      "slug": "toad",
+      "title": "Toad",
+      "img": "https://www.smbc-comics.com/comics/1791942607-20261015.png",
+      "alt": "Pretty pleased with panel 2.",
+      "date": "2026-10-15",
+      "link": "https://www.smbc-comics.com/comic/toad"
+    },
     {
       "slug": "break",
       "title": "Break",
@@ -156,14 +164,6 @@
       "alt": "He's only given one final week to live but having a salary is nice.",
       "date": "2026-09-26",
       "link": "https://www.smbc-comics.com/comic/all-right"
-    },
-    {
-      "slug": "suit-2",
-      "title": "Suit",
-      "img": "https://www.smbc-comics.com/comics/1790197889-20260925.png",
-      "alt": "This is actually what the Predator was doing the whole movie.",
-      "date": "2026-09-25",
-      "link": "https://www.smbc-comics.com/comic/suit-2"
     }
   ]
 }
