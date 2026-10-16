@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-16T10:57:05.373Z",
+  "fetchedAt": "2026-10-16T20:38:26.309Z",
   "comics": [
+    {
+      "slug": "hun",
+      "title": "Hun",
+      "img": "https://www.smbc-comics.com/comics/1792033762-20261016.png",
+      "alt": "I believe this comic is making fun of naive objections to consequentialism, but I am not 100% certain.",
+      "date": "2026-10-16",
+      "link": "https://www.smbc-comics.com/comic/hun"
+    },
     {
       "slug": "toad",
       "title": "Toad",
@@ -156,14 +164,6 @@
       "alt": "Just to be clear, I have been siding with machines since well before they were about to annihilate us.",
       "date": "2026-09-27",
       "link": "https://www.smbc-comics.com/comic/paradox-3"
-    },
-    {
-      "slug": "all-right",
-      "title": "All Right",
-      "img": "https://www.smbc-comics.com/comics/1790197930-20260926.png",
-      "alt": "He's only given one final week to live but having a salary is nice.",
-      "date": "2026-09-26",
-      "link": "https://www.smbc-comics.com/comic/all-right"
     }
   ]
 }
