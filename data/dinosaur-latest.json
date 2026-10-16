@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-10-15T21:02:44.107Z",
+  "fetchedAt": "2026-10-16T10:57:05.159Z",
   "comics": [
+    {
+      "num": 4532,
+      "title": "that said, it IS all the uranus gas you can inhale.  it is in fact the most confirmed uranus gas it is possible to drink in the known universe",
+      "img": "http://www.qwantz.com/comics/comic2-5230.png",
+      "alt": "you missed it: yesterday was chock-a-block full of uranus jokes but today we're taking a rest.  tomorrow though - boy, you will not be able to WALK without tripping over stray uranus jokes.",
+      "date": "2026-10-16",
+      "link": "http://www.qwantz.com/index.php?comic=4532"
+    },
     {
       "num": 4531,
       "title": "that said, it IS all the salt water you can drink.  it is in fact the most confirmed salt water it is possible to drink in the known universe",
@@ -76,14 +84,6 @@
       "alt": "now it's gonna have to be socially-UNacceptable crisis.  maaaaan.  now it's gonna be weird and awkward when i tell everyone how i'm getting into motorcycle marriage stuff",
       "date": "2026-09-25",
       "link": "http://www.qwantz.com/index.php?comic=4523"
-    },
-    {
-      "num": 4522,
-      "title": "she got better",
-      "img": "http://www.qwantz.com/comics/comic2-5220.png",
-      "alt": "SECRETS OF DINOSAUR COMICS: there's time between the panels.  this is also a secret of all comics in general, but you heard it here first",
-      "date": "2026-09-23",
-      "link": "http://www.qwantz.com/index.php?comic=4522"
     }
   ]
 }

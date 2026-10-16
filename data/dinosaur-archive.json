@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 101,
-  "highestNum": 4531,
-  "fetchedAt": "2026-10-14T11:24:28.653Z",
+  "total": 102,
+  "highestNum": 4532,
+  "fetchedAt": "2026-10-16T10:57:05.161Z",
   "comics": [
     {
       "num": 4431,
@@ -811,6 +811,14 @@
       "alt": "The oceanic pole of inaccessibility (Point Nemo, 48°52.6′S 123°23.6′W), is famous for two things. First, for being the single point on the planet where you are as far from land as it is possible to be. Second, for being a MEMORABLY bad hotel",
       "date": "2026-10-14",
       "link": "http://www.qwantz.com/index.php?comic=4531"
+    },
+    {
+      "num": 4532,
+      "title": "that said, it IS all the uranus gas you can inhale.  it is in fact the most confirmed uranus gas it is possible to drink in the known universe",
+      "img": "http://www.qwantz.com/comics/comic2-5230.png",
+      "alt": "you missed it: yesterday was chock-a-block full of uranus jokes but today we're taking a rest.  tomorrow though - boy, you will not be able to WALK without tripping over stray uranus jokes.",
+      "date": "2026-10-16",
+      "link": "http://www.qwantz.com/index.php?comic=4532"
     }
   ]
 }

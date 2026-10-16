@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-15T21:02:45.988Z",
+  "fetchedAt": "2026-10-16T10:57:07.024Z",
   "comics": [
+    {
+      "slug": "fragile",
+      "title": "Fragile",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenfragile.jpg",
+      "alt": "Fragile",
+      "date": "2026-10-16",
+      "link": "https://www.savagechickens.com/2026/10/fragile.html"
+    },
     {
       "slug": "work-ethic",
       "title": "Work Ethic",
@@ -76,14 +84,6 @@
       "alt": "Cake",
       "date": "2026-10-05",
       "link": "https://www.savagechickens.com/2026/10/cake.html"
-    },
-    {
-      "slug": "unexpected",
-      "title": "Unexpected",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenunexpected.jpg",
-      "alt": "Unexpected",
-      "date": "2026-10-02",
-      "link": "https://www.savagechickens.com/2026/10/unexpected.html"
     }
   ]
 }
