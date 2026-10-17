@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-17T10:18:37.255Z",
+  "fetchedAt": "2026-10-17T20:16:52.919Z",
   "comics": [
+    {
+      "slug": "chip",
+      "title": "Chip",
+      "img": "https://www.smbc-comics.com/comics/1792200079-20261018.png",
+      "alt": "Actually maybe this is the solution to the Fermi Paradox.",
+      "date": "2026-10-17",
+      "link": "https://www.smbc-comics.com/comic/chip"
+    },
     {
       "slug": "hun",
       "title": "Hun",
@@ -156,14 +164,6 @@
       "alt": "It's the one time this sort of thing worked.",
       "date": "2026-09-28",
       "link": "https://www.smbc-comics.com/comic/gift"
-    },
-    {
-      "slug": "paradox-3",
-      "title": "Paradox",
-      "img": "https://www.smbc-comics.com/comics/1790204486-20260927.png",
-      "alt": "Just to be clear, I have been siding with machines since well before they were about to annihilate us.",
-      "date": "2026-09-27",
-      "link": "https://www.smbc-comics.com/comic/paradox-3"
     }
   ]
 }
