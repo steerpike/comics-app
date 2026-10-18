@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-18T10:34:37.395Z",
+  "fetchedAt": "2026-10-18T20:15:53.056Z",
   "comics": [
+    {
+      "slug": "reactions",
+      "title": "Reactions",
+      "img": "https://www.smbc-comics.com/comics/1792283872-20261018.png",
+      "alt": "Meanwhile the Engineers are just lighting themselves on fire to see what happens.",
+      "date": "2026-10-18",
+      "link": "https://www.smbc-comics.com/comic/reactions"
+    },
     {
       "slug": "chip",
       "title": "Chip",
@@ -156,14 +164,6 @@
       "alt": "It's just a more full service lending program.",
       "date": "2026-09-29",
       "link": "https://www.smbc-comics.com/comic/free-5"
-    },
-    {
-      "slug": "gift",
-      "title": "Gift",
-      "img": "https://www.smbc-comics.com/comics/1790204549-20260928.png",
-      "alt": "It's the one time this sort of thing worked.",
-      "date": "2026-09-28",
-      "link": "https://www.smbc-comics.com/comic/gift"
     }
   ]
 }
