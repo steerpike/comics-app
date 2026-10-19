@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3311,
-  "latestNum": 3312,
-  "fetchedAt": "2026-10-16T20:38:24.697Z",
+  "total": 3312,
+  "latestNum": 3313,
+  "fetchedAt": "2026-10-19T12:29:33.389Z",
   "comics": [
     {
       "num": 1,
@@ -23180,6 +23180,13 @@
       "img": "https://imgs.xkcd.com/comics/momentum_demonstration.png",
       "alt": "\"I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other.\"",
       "date": "2026-10-16"
+    },
+    {
+      "num": 3313,
+      "title": "Fusion Device",
+      "img": "https://imgs.xkcd.com/comics/fusion_device.png",
+      "alt": "I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.",
+      "date": "2026-10-19"
     }
   ]
 }

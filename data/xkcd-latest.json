@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3312,
-  "fetchedAt": "2026-10-18T20:15:52.496Z",
+  "latestNum": 3313,
+  "fetchedAt": "2026-10-19T12:29:33.383Z",
   "comics": [
+    {
+      "num": 3313,
+      "title": "Fusion Device",
+      "img": "https://imgs.xkcd.com/comics/fusion_device.png",
+      "alt": "I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.",
+      "date": "2026-10-19"
+    },
     {
       "num": 3312,
       "title": "Momentum Demonstration",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/asteroid_mission.png",
       "alt": "Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.",
       "date": "2026-09-04"
-    },
-    {
-      "num": 3293,
-      "title": "Handedness",
-      "img": "https://imgs.xkcd.com/comics/handedness.png",
-      "alt": "A 'left-handed specialist' is a physicist who studies the weak interaction.",
-      "date": "2026-09-02"
     }
   ]
 }

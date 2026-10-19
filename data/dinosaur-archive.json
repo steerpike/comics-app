@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 102,
-  "highestNum": 4532,
-  "fetchedAt": "2026-10-16T10:57:05.161Z",
+  "total": 103,
+  "highestNum": 4533,
+  "fetchedAt": "2026-10-19T12:29:33.682Z",
   "comics": [
     {
       "num": 4431,
@@ -819,6 +819,14 @@
       "alt": "you missed it: yesterday was chock-a-block full of uranus jokes but today we're taking a rest.  tomorrow though - boy, you will not be able to WALK without tripping over stray uranus jokes.",
       "date": "2026-10-16",
       "link": "http://www.qwantz.com/index.php?comic=4532"
+    },
+    {
+      "num": 4533,
+      "title": "t-rex in: chosen FUN",
+      "img": "http://www.qwantz.com/comics/comic2-5231.png",
+      "alt": "sorry to all chosen ones in my audience but i stand by my words.  listen: just tell yourself this is just part of the challenges you're to face on your extra-special chosen journey",
+      "date": "2026-10-19",
+      "link": "http://www.qwantz.com/index.php?comic=4533"
     }
   ]
 }
