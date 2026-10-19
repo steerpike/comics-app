@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-19T12:29:34.036Z",
+  "fetchedAt": "2026-10-19T22:06:08.924Z",
   "comics": [
+    {
+      "slug": "cells",
+      "title": "Cells",
+      "img": "https://www.smbc-comics.com/comics/1792283936-20261019.png",
+      "alt": "Really should've gone for even more closeup on panel 2.",
+      "date": "2026-10-19",
+      "link": "https://www.smbc-comics.com/comic/cells"
+    },
     {
       "slug": "reactions",
       "title": "Reactions",
@@ -156,14 +164,6 @@
       "alt": "That whole section is unappreciated comedy gold.",
       "date": "2026-09-30",
       "link": "https://www.smbc-comics.com/comic/scripture-2"
-    },
-    {
-      "slug": "free-5",
-      "title": "Free",
-      "img": "https://www.smbc-comics.com/comics/1790357439-20260929.png",
-      "alt": "It's just a more full service lending program.",
-      "date": "2026-09-29",
-      "link": "https://www.smbc-comics.com/comic/free-5"
     }
   ]
 }
