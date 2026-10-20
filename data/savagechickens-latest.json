@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-19T22:06:10.599Z",
+  "fetchedAt": "2026-10-20T11:05:37.720Z",
   "comics": [
+    {
+      "slug": "dinner-time",
+      "title": "Dinner Time",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickendinnertime.jpg",
+      "alt": "Dinner Time",
+      "date": "2026-10-20",
+      "link": "https://www.savagechickens.com/2026/10/dinner-time.html"
+    },
     {
       "slug": "morning-people",
       "title": "Morning People",
@@ -76,14 +84,6 @@
       "alt": "On Good Authority",
       "date": "2026-10-07",
       "link": "https://www.savagechickens.com/2026/10/on-good-authority.html"
-    },
-    {
-      "slug": "raisin-cookie",
-      "title": "Raisin Cookie",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickencake2.jpg",
-      "alt": "Raisin Cookie",
-      "date": "2026-10-06",
-      "link": "https://www.savagechickens.com/2026/10/raisin-cookie.html"
     }
   ]
 }
