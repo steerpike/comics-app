@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-20T11:05:35.501Z",
+  "fetchedAt": "2026-10-20T21:21:56.425Z",
   "comics": [
+    {
+      "slug": "funeral",
+      "title": "Funeral",
+      "img": "https://www.smbc-comics.com/comics/1792283984-20261020.png",
+      "alt": "Actually for me you can get it down to an eyeroll and a tired sigh.",
+      "date": "2026-10-20",
+      "link": "https://www.smbc-comics.com/comic/funeral"
+    },
     {
       "slug": "cells",
       "title": "Cells",
@@ -156,14 +164,6 @@
       "alt": "That janitor just goes from building to building helping people.",
       "date": "2026-10-01",
       "link": "https://www.smbc-comics.com/comic/equations"
-    },
-    {
-      "slug": "scripture-2",
-      "title": "Scripture",
-      "img": "https://www.smbc-comics.com/comics/1790357486-20260930.png",
-      "alt": "That whole section is unappreciated comedy gold.",
-      "date": "2026-09-30",
-      "link": "https://www.smbc-comics.com/comic/scripture-2"
     }
   ]
 }
