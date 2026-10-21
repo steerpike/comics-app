@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 103,
-  "highestNum": 4533,
-  "fetchedAt": "2026-10-19T12:29:33.682Z",
+  "total": 104,
+  "highestNum": 4534,
+  "fetchedAt": "2026-10-21T11:21:54.669Z",
   "comics": [
     {
       "num": 4431,
@@ -827,6 +827,14 @@
       "alt": "sorry to all chosen ones in my audience but i stand by my words.  listen: just tell yourself this is just part of the challenges you're to face on your extra-special chosen journey",
       "date": "2026-10-19",
       "link": "http://www.qwantz.com/index.php?comic=4533"
+    },
+    {
+      "num": 4534,
+      "title": "if you're either mad, annoyed, or attracted at me, you have to tell me.  but like, figure yourself out first and then tell me.",
+      "img": "http://www.qwantz.com/comics/comic2-5232.png",
+      "alt": "i don't know if you want to see a doctor, but you may want to get that checked out.  hence the famous expression, ",
+      "date": "2026-10-21",
+      "link": "http://www.qwantz.com/index.php?comic=4534"
     }
   ]
 }

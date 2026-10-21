@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-20T21:21:58.166Z",
+  "fetchedAt": "2026-10-21T11:21:57.128Z",
   "comics": [
+    {
+      "slug": "sports-improvement-idea",
+      "title": "Sports Improvement Idea",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickensportsimprovementidea.jpg",
+      "alt": "Sports Improvement Idea",
+      "date": "2026-10-21",
+      "link": "https://www.savagechickens.com/2026/10/sports-improvement-idea.html"
+    },
     {
       "slug": "dinner-time",
       "title": "Dinner Time",
@@ -76,14 +84,6 @@
       "alt": "New Podcast",
       "date": "2026-10-08",
       "link": "https://www.savagechickens.com/2026/10/new-podcast.html"
-    },
-    {
-      "slug": "on-good-authority",
-      "title": "On Good Authority",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenongoodauthority.jpg",
-      "alt": "On Good Authority",
-      "date": "2026-10-07",
-      "link": "https://www.savagechickens.com/2026/10/on-good-authority.html"
     }
   ]
 }

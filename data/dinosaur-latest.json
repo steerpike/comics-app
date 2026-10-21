@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-10-20T21:21:55.609Z",
+  "fetchedAt": "2026-10-21T11:21:54.667Z",
   "comics": [
+    {
+      "num": 4534,
+      "title": "if you're either mad, annoyed, or attracted at me, you have to tell me.  but like, figure yourself out first and then tell me.",
+      "img": "http://www.qwantz.com/comics/comic2-5232.png",
+      "alt": "i don't know if you want to see a doctor, but you may want to get that checked out.  hence the famous expression, ",
+      "date": "2026-10-21",
+      "link": "http://www.qwantz.com/index.php?comic=4534"
+    },
     {
       "num": 4533,
       "title": "t-rex in: chosen FUN",
@@ -76,14 +84,6 @@
       "alt": "if you believe in yourself you can work within the existing constraints imposed upon you to, in some cases, accomplish a subset of your dreams",
       "date": "2026-09-28",
       "link": "http://www.qwantz.com/index.php?comic=4525"
-    },
-    {
-      "num": 4524,
-      "title": "This is my friend, North Korea, and no, he does NOT want to discuss his name.  However my other friend Grand Duchy of Westarctica absolutely won't shut up about it",
-      "img": "http://www.qwantz.com/comics/comic2-5222.png",
-      "alt": "IN THE BIBLE HE'S MOSTLY JUST A PLACE AND NOT A GUY BUT REST ASSURED THERE IS IN FACT A DUDE NAMED ",
-      "date": "2026-09-28",
-      "link": "http://www.qwantz.com/index.php?comic=4524"
     }
   ]
 }
