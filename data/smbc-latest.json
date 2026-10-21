@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-21T11:21:55.347Z",
+  "fetchedAt": "2026-10-21T21:23:04.644Z",
   "comics": [
+    {
+      "slug": "future-5",
+      "title": "Future",
+      "img": "https://www.smbc-comics.com/comics/1792546663-20261021.png",
+      "alt": "The real question is how long until each of these can be one-shotted.",
+      "date": "2026-10-21",
+      "link": "https://www.smbc-comics.com/comic/future-5"
+    },
     {
       "slug": "funeral",
       "title": "Funeral",
@@ -156,14 +164,6 @@
       "alt": "But you wouldn't BELIEVE how many probably-true fun facts I know from youtube.",
       "date": "2026-10-02",
       "link": "https://www.smbc-comics.com/comic/interesting-5"
-    },
-    {
-      "slug": "equations",
-      "title": "Equations",
-      "img": "https://www.smbc-comics.com/comics/1790818238-20261001.png",
-      "alt": "That janitor just goes from building to building helping people.",
-      "date": "2026-10-01",
-      "link": "https://www.smbc-comics.com/comic/equations"
     }
   ]
 }

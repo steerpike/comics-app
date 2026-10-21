@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3313,
-  "fetchedAt": "2026-10-21T11:21:54.238Z",
+  "latestNum": 3314,
+  "fetchedAt": "2026-10-21T21:23:03.735Z",
   "comics": [
+    {
+      "num": 3314,
+      "title": "Vulnerability",
+      "img": "https://imgs.xkcd.com/comics/vulnerability.png",
+      "alt": "Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.",
+      "date": "2026-10-21"
+    },
     {
       "num": 3313,
       "title": "Fusion Device",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/semaphore.png",
       "alt": "The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.",
       "date": "2026-09-07"
-    },
-    {
-      "num": 3294,
-      "title": "Asteroid Mission",
-      "img": "https://imgs.xkcd.com/comics/asteroid_mission.png",
-      "alt": "Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.",
-      "date": "2026-09-04"
     }
   ]
 }

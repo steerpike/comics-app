@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3312,
-  "latestNum": 3313,
-  "fetchedAt": "2026-10-19T12:29:33.389Z",
+  "total": 3313,
+  "latestNum": 3314,
+  "fetchedAt": "2026-10-21T21:23:03.745Z",
   "comics": [
     {
       "num": 1,
@@ -23187,6 +23187,13 @@
       "img": "https://imgs.xkcd.com/comics/fusion_device.png",
       "alt": "I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.",
       "date": "2026-10-19"
+    },
+    {
+      "num": 3314,
+      "title": "Vulnerability",
+      "img": "https://imgs.xkcd.com/comics/vulnerability.png",
+      "alt": "Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.",
+      "date": "2026-10-21"
     }
   ]
 }
