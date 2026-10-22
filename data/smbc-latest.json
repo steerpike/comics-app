@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-22T11:21:36.090Z",
+  "fetchedAt": "2026-10-22T21:18:19.582Z",
   "comics": [
+    {
+      "slug": "revenge",
+      "title": "Revenge",
+      "img": "https://www.smbc-comics.com/comics/1792532851-20261022.png",
+      "alt": "Linguists are cruel.",
+      "date": "2026-10-22",
+      "link": "https://www.smbc-comics.com/comic/revenge"
+    },
     {
       "slug": "future-5",
       "title": "Future",
@@ -156,14 +164,6 @@
       "alt": "All these jokes about how it's hard to operationalize good values are gonna be really funny when the T-1000s start rolling out.",
       "date": "2026-10-03",
       "link": "https://www.smbc-comics.com/comic/specify"
-    },
-    {
-      "slug": "interesting-5",
-      "title": "Interesting",
-      "img": "https://www.smbc-comics.com/comics/1790818588-20261002.png",
-      "alt": "But you wouldn't BELIEVE how many probably-true fun facts I know from youtube.",
-      "date": "2026-10-02",
-      "link": "https://www.smbc-comics.com/comic/interesting-5"
     }
   ]
 }
