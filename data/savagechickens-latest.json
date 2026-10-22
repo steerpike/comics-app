@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-21T21:23:06.546Z",
+  "fetchedAt": "2026-10-22T11:21:37.959Z",
   "comics": [
+    {
+      "slug": "the-bleakness",
+      "title": "The Bleakness",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthebleakness.jpg",
+      "alt": "The Bleakness",
+      "date": "2026-10-22",
+      "link": "https://www.savagechickens.com/2026/10/the-bleakness.html"
+    },
     {
       "slug": "sports-improvement-idea",
       "title": "Sports Improvement Idea",
@@ -76,14 +84,6 @@
       "alt": "On Short Notice",
       "date": "2026-10-09",
       "link": "https://www.savagechickens.com/2026/10/on-short-notice.html"
-    },
-    {
-      "slug": "new-podcast",
-      "title": "New Podcast",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickennewpodcast.jpg",
-      "alt": "New Podcast",
-      "date": "2026-10-08",
-      "link": "https://www.savagechickens.com/2026/10/new-podcast.html"
     }
   ]
 }
