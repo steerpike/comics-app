@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 104,
-  "highestNum": 4534,
-  "fetchedAt": "2026-10-21T11:21:54.669Z",
+  "total": 105,
+  "highestNum": 4535,
+  "fetchedAt": "2026-10-23T11:11:55.801Z",
   "comics": [
     {
       "num": 4431,
@@ -835,6 +835,14 @@
       "alt": "i don't know if you want to see a doctor, but you may want to get that checked out.  hence the famous expression, ",
       "date": "2026-10-21",
       "link": "http://www.qwantz.com/index.php?comic=4534"
+    },
+    {
+      "num": 4535,
+      "title": "t-rex and the work enemy",
+      "img": "http://www.qwantz.com/comics/comic2-5233.png",
+      "alt": "this is how moral universalism gets you: you get to be a hater but you have to admit that your haters have a point?  TRULY unfair",
+      "date": "2026-10-23",
+      "link": "http://www.qwantz.com/index.php?comic=4535"
     }
   ]
 }

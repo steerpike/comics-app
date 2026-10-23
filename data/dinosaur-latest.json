@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-10-22T21:18:19.139Z",
+  "fetchedAt": "2026-10-23T11:11:55.800Z",
   "comics": [
+    {
+      "num": 4535,
+      "title": "t-rex and the work enemy",
+      "img": "http://www.qwantz.com/comics/comic2-5233.png",
+      "alt": "this is how moral universalism gets you: you get to be a hater but you have to admit that your haters have a point?  TRULY unfair",
+      "date": "2026-10-23",
+      "link": "http://www.qwantz.com/index.php?comic=4535"
+    },
     {
       "num": 4534,
       "title": "if you're either mad, annoyed, or attracted at me, you have to tell me.  but like, figure yourself out first and then tell me.",
@@ -76,14 +84,6 @@
       "alt": "it's usually gone by sunrise.  not always though",
       "date": "2026-09-30",
       "link": "http://www.qwantz.com/index.php?comic=4526"
-    },
-    {
-      "num": 4525,
-      "title": "IT'S TIME FOR... MOTIVATIONAL COMIX!!!!!!",
-      "img": "http://www.qwantz.com/comics/comic2-5223.png",
-      "alt": "if you believe in yourself you can work within the existing constraints imposed upon you to, in some cases, accomplish a subset of your dreams",
-      "date": "2026-09-28",
-      "link": "http://www.qwantz.com/index.php?comic=4525"
     }
   ]
 }

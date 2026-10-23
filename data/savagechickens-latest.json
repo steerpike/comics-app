@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-22T21:18:21.785Z",
+  "fetchedAt": "2026-10-23T11:11:58.197Z",
   "comics": [
+    {
+      "slug": "the-villain",
+      "title": "The Villain",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthevillain.jpg",
+      "alt": "The Villain",
+      "date": "2026-10-23",
+      "link": "https://www.savagechickens.com/2026/10/the-villain.html"
+    },
     {
       "slug": "the-bleakness",
       "title": "The Bleakness",
@@ -76,14 +84,6 @@
       "alt": "Worrying",
       "date": "2026-10-12",
       "link": "https://www.savagechickens.com/2026/10/worrying.html"
-    },
-    {
-      "slug": "on-short-notice",
-      "title": "On Short Notice",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenonshortnotice.jpg",
-      "alt": "On Short Notice",
-      "date": "2026-10-09",
-      "link": "https://www.savagechickens.com/2026/10/on-short-notice.html"
     }
   ]
 }
