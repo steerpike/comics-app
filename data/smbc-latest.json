@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-23T11:11:56.069Z",
+  "fetchedAt": "2026-10-23T21:07:43.127Z",
   "comics": [
+    {
+      "slug": "alignment-2",
+      "title": "Alignment",
+      "img": "https://www.smbc-comics.com/comics/1792736918-20261023.png",
+      "alt": "If this profound insight leads to a future utopia, somebody owes me a dollar.",
+      "date": "2026-10-23",
+      "link": "https://www.smbc-comics.com/comic/alignment-2"
+    },
     {
       "slug": "revenge",
       "title": "Revenge",
@@ -156,14 +164,6 @@
       "alt": "Bonus points if you can figure out what the canine is.",
       "date": "2026-10-04",
       "link": "https://www.smbc-comics.com/comic/a-2"
-    },
-    {
-      "slug": "specify",
-      "title": "Specify",
-      "img": "https://www.smbc-comics.com/comics/1790818643-20261003.png",
-      "alt": "All these jokes about how it's hard to operationalize good values are gonna be really funny when the T-1000s start rolling out.",
-      "date": "2026-10-03",
-      "link": "https://www.smbc-comics.com/comic/specify"
     }
   ]
 }
