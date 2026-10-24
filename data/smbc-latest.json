@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-24T10:30:10.452Z",
+  "fetchedAt": "2026-10-24T20:24:59.072Z",
   "comics": [
+    {
+      "slug": "watch-2",
+      "title": "Watch",
+      "img": "https://www.smbc-comics.com/comics/1792794277-20261024.png",
+      "alt": "Hope this insight ruins you as much as it ruined me.",
+      "date": "2026-10-24",
+      "link": "https://www.smbc-comics.com/comic/watch-2"
+    },
     {
       "slug": "alignment-2",
       "title": "Alignment",
@@ -156,14 +164,6 @@
       "alt": "Aw, he's fucking off.",
       "date": "2026-10-05",
       "link": "https://www.smbc-comics.com/comic/birds"
-    },
-    {
-      "slug": "a-2",
-      "title": "A",
-      "img": "https://www.smbc-comics.com/comics/1791080192-20261004.png",
-      "alt": "Bonus points if you can figure out what the canine is.",
-      "date": "2026-10-04",
-      "link": "https://www.smbc-comics.com/comic/a-2"
     }
   ]
 }
