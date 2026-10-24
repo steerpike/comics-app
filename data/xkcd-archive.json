@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3313,
-  "latestNum": 3314,
-  "fetchedAt": "2026-10-21T21:23:03.745Z",
+  "total": 3314,
+  "latestNum": 3315,
+  "fetchedAt": "2026-10-24T10:30:09.776Z",
   "comics": [
     {
       "num": 1,
@@ -23194,6 +23194,13 @@
       "img": "https://imgs.xkcd.com/comics/vulnerability.png",
       "alt": "Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.",
       "date": "2026-10-21"
+    },
+    {
+      "num": 3315,
+      "title": "Forms of Water",
+      "img": "https://imgs.xkcd.com/comics/forms_of_water.png",
+      "alt": "The 'light' refers to bremsstrahlung.",
+      "date": "2026-10-23"
     }
   ]
 }

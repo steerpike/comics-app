@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3314,
-  "fetchedAt": "2026-10-23T21:07:42.632Z",
+  "latestNum": 3315,
+  "fetchedAt": "2026-10-24T10:30:09.769Z",
   "comics": [
+    {
+      "num": 3315,
+      "title": "Forms of Water",
+      "img": "https://imgs.xkcd.com/comics/forms_of_water.png",
+      "alt": "The 'light' refers to bremsstrahlung.",
+      "date": "2026-10-23"
+    },
     {
       "num": 3314,
       "title": "Vulnerability",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/fault_taunting.png",
       "alt": "One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.",
       "date": "2026-09-09"
-    },
-    {
-      "num": 3295,
-      "title": "Semaphore",
-      "img": "https://imgs.xkcd.com/comics/semaphore.png",
-      "alt": "The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.",
-      "date": "2026-09-07"
     }
   ]
 }
