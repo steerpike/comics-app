@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-10-25T20:31:47.976Z",
+  "fetchedAt": "2026-10-26T12:28:00.509Z",
   "comics": [
+    {
+      "num": 4536,
+      "title": "the relative merits of wooden vs concrete railway ties.  AT LAST!!",
+      "img": "http://www.qwantz.com/comics/comic2-5234.png",
+      "alt": "glad to have been of service.  okay bye",
+      "date": "2026-10-26",
+      "link": "http://www.qwantz.com/index.php?comic=4536"
+    },
     {
       "num": 4535,
       "title": "t-rex and the work enemy",
@@ -76,14 +84,6 @@
       "alt": "ah yes, human a la mode",
       "date": "2026-10-02",
       "link": "http://www.qwantz.com/index.php?comic=4527"
-    },
-    {
-      "num": 4526,
-      "title": "are ghosts real: the spookiest possible comic for the spookiest possible month!!!  i refer, of course, to next month and not the month it's appearing in",
-      "img": "http://www.qwantz.com/comics/comic2-5224.png",
-      "alt": "it's usually gone by sunrise.  not always though",
-      "date": "2026-09-30",
-      "link": "http://www.qwantz.com/index.php?comic=4526"
     }
   ]
 }

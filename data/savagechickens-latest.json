@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-25T20:31:50.801Z",
+  "fetchedAt": "2026-10-26T12:28:02.682Z",
   "comics": [
+    {
+      "slug": "remotely-scary",
+      "title": "Remotely Scary",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenremotelyscary2.jpg",
+      "alt": "Remotely Scary",
+      "date": "2026-10-26",
+      "link": "https://www.savagechickens.com/2026/10/remotely-scary.html"
+    },
     {
       "slug": "the-villain",
       "title": "The Villain",
@@ -76,14 +84,6 @@
       "alt": "Imagining the Future",
       "date": "2026-10-13",
       "link": "https://www.savagechickens.com/2026/10/imagining-the-future.html"
-    },
-    {
-      "slug": "worrying",
-      "title": "Worrying",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenworrying.jpg",
-      "alt": "Worrying",
-      "date": "2026-10-12",
-      "link": "https://www.savagechickens.com/2026/10/worrying.html"
     }
   ]
 }
