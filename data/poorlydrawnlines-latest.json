@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-10-27T11:46:33.384Z",
+  "fetchedAt": "2026-10-27T21:55:32.543Z",
   "comics": [
+    {
+      "slug": "fake-email",
+      "title": "Fake Email",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/10/fake-email.png",
+      "alt": "",
+      "date": "2026-10-27",
+      "link": "https://poorlydrawnlines.com/comic/fake-email/"
+    },
     {
       "slug": "see-you",
       "title": "See You",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-08-26",
       "link": "https://poorlydrawnlines.com/comic/just-one-problem/"
-    },
-    {
-      "slug": "the-forest",
-      "title": "The Forest",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/08/the-forest.png",
-      "alt": "",
-      "date": "2026-08-20",
-      "link": "https://poorlydrawnlines.com/comic/the-forest/"
     }
   ]
 }

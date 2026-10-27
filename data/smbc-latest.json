@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-27T11:46:32.116Z",
+  "fetchedAt": "2026-10-27T21:55:30.851Z",
   "comics": [
+    {
+      "slug": "clankor",
+      "title": "Clankor",
+      "img": "https://www.smbc-comics.com/comics/1792967696-20261027.png",
+      "alt": "Turns out the combination of sycophancy and lack of persistent experience of reality is irresistible.",
+      "date": "2026-10-27",
+      "link": "https://www.smbc-comics.com/comic/clankor"
+    },
     {
       "slug": "order-3",
       "title": "Order",
@@ -156,14 +164,6 @@
       "alt": "Back when I was in art school, we believed in this with all our hearts.",
       "date": "2026-10-08",
       "link": "https://www.smbc-comics.com/comic/prompt-3"
-    },
-    {
-      "slug": "woops",
-      "title": "Woops",
-      "img": "https://www.smbc-comics.com/comics/1791333455-20261007.png",
-      "alt": "It's not a topical comic in that I suspect I'll be posting it every few years for a long time.",
-      "date": "2026-10-07",
-      "link": "https://www.smbc-comics.com/comic/woops"
     }
   ]
 }
