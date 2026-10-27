@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3314,
-  "latestNum": 3315,
-  "fetchedAt": "2026-10-24T10:30:09.776Z",
+  "total": 3315,
+  "latestNum": 3316,
+  "fetchedAt": "2026-10-27T11:46:31.411Z",
   "comics": [
     {
       "num": 1,
@@ -23201,6 +23201,13 @@
       "img": "https://imgs.xkcd.com/comics/forms_of_water.png",
       "alt": "The 'light' refers to bremsstrahlung.",
       "date": "2026-10-23"
+    },
+    {
+      "num": 3316,
+      "title": "Siege Engine",
+      "img": "https://imgs.xkcd.com/comics/siege_engine.png",
+      "alt": "They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.",
+      "date": "2026-10-26"
     }
   ]
 }

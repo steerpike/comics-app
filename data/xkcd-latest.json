@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3315,
-  "fetchedAt": "2026-10-26T22:24:21.764Z",
+  "latestNum": 3316,
+  "fetchedAt": "2026-10-27T11:46:31.403Z",
   "comics": [
+    {
+      "num": 3316,
+      "title": "Siege Engine",
+      "img": "https://imgs.xkcd.com/comics/siege_engine.png",
+      "alt": "They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.",
+      "date": "2026-10-26"
+    },
     {
       "num": 3315,
       "title": "Forms of Water",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/oh_scale.png",
       "alt": "To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.",
       "date": "2026-09-11"
-    },
-    {
-      "num": 3296,
-      "title": "Fault Taunting",
-      "img": "https://imgs.xkcd.com/comics/fault_taunting.png",
-      "alt": "One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.",
-      "date": "2026-09-09"
     }
   ]
 }
