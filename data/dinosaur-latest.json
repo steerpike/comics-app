@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-10-28T12:19:53.623Z",
+  "fetchedAt": "2026-10-28T22:19:05.713Z",
   "comics": [
+    {
+      "num": 4537,
+      "title": "jerks ahoy",
+      "img": "http://www.qwantz.com/comics/comic2-5235.png",
+      "alt": "Jerks Georg, who hangs around exclusively with jerks without being one himself, is an outlier and should not have been included.  he should however be included in new friend groups because WOW that must SUCK",
+      "date": "2026-10-28",
+      "link": "http://www.qwantz.com/index.php?comic=4537"
+    },
     {
       "num": 4536,
       "title": "the relative merits of wooden vs concrete railway ties.  AT LAST!!",
@@ -76,14 +84,6 @@
       "alt": "okay, but hear me out: what about GARLIC BREAD??",
       "date": "2026-10-05",
       "link": "http://www.qwantz.com/index.php?comic=4528"
-    },
-    {
-      "num": 4527,
-      "title": "the average human body also has slightly MORE than one complete skeleton inside it, thanks to pregnancies.  everyone say \"thank you pregnancies\"",
-      "img": "http://www.qwantz.com/comics/comic2-5225.png",
-      "alt": "ah yes, human a la mode",
-      "date": "2026-10-02",
-      "link": "http://www.qwantz.com/index.php?comic=4527"
     }
   ]
 }

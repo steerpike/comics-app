@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 106,
-  "highestNum": 4536,
-  "fetchedAt": "2026-10-26T12:28:00.509Z",
+  "total": 107,
+  "highestNum": 4537,
+  "fetchedAt": "2026-10-28T22:19:05.714Z",
   "comics": [
     {
       "num": 4431,
@@ -851,6 +851,14 @@
       "alt": "glad to have been of service.  okay bye",
       "date": "2026-10-26",
       "link": "http://www.qwantz.com/index.php?comic=4536"
+    },
+    {
+      "num": 4537,
+      "title": "jerks ahoy",
+      "img": "http://www.qwantz.com/comics/comic2-5235.png",
+      "alt": "Jerks Georg, who hangs around exclusively with jerks without being one himself, is an outlier and should not have been included.  he should however be included in new friend groups because WOW that must SUCK",
+      "date": "2026-10-28",
+      "link": "http://www.qwantz.com/index.php?comic=4537"
     }
   ]
 }

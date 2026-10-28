@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-28T12:19:54.026Z",
+  "fetchedAt": "2026-10-28T22:19:05.909Z",
   "comics": [
+    {
+      "slug": "signal-5",
+      "title": "Signal",
+      "img": "https://www.smbc-comics.com/comics/1792967762-20261028.png",
+      "alt": "This way avoids violence.",
+      "date": "2026-10-28",
+      "link": "https://www.smbc-comics.com/comic/signal-5"
+    },
     {
       "slug": "clankor",
       "title": "Clankor",
@@ -156,14 +164,6 @@
       "alt": "The president is actually doing the same thing in the third to last panel.",
       "date": "2026-10-09",
       "link": "https://www.smbc-comics.com/comic/bet-2"
-    },
-    {
-      "slug": "prompt-3",
-      "title": "Prompt",
-      "img": "https://www.smbc-comics.com/comics/1791335436-20261008.png",
-      "alt": "Back when I was in art school, we believed in this with all our hearts.",
-      "date": "2026-10-08",
-      "link": "https://www.smbc-comics.com/comic/prompt-3"
     }
   ]
 }
