@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-27T21:55:32.813Z",
+  "fetchedAt": "2026-10-28T12:19:55.834Z",
   "comics": [
+    {
+      "slug": "cat-horror",
+      "title": "Cat Horror",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickencathorror.jpg",
+      "alt": "Cat Horror",
+      "date": "2026-10-28",
+      "link": "https://www.savagechickens.com/2026/10/cat-horror.html"
+    },
     {
       "slug": "halloween-contest-2026",
       "title": "Halloween Contest 2026",
@@ -76,14 +84,6 @@
       "alt": "Work Ethic",
       "date": "2026-10-15",
       "link": "https://www.savagechickens.com/2026/10/work-ethic.html"
-    },
-    {
-      "slug": "politics",
-      "title": "Politics",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenpolitics.jpg",
-      "alt": "Politics",
-      "date": "2026-10-14",
-      "link": "https://www.savagechickens.com/2026/10/politics.html"
     }
   ]
 }
