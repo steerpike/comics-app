@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3315,
-  "latestNum": 3316,
-  "fetchedAt": "2026-10-27T11:46:31.411Z",
+  "total": 3316,
+  "latestNum": 3317,
+  "fetchedAt": "2026-10-29T12:29:10.826Z",
   "comics": [
     {
       "num": 1,
@@ -23208,6 +23208,13 @@
       "img": "https://imgs.xkcd.com/comics/siege_engine.png",
       "alt": "They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.",
       "date": "2026-10-26"
+    },
+    {
+      "num": 3317,
+      "title": "Gravitational Square Wave",
+      "img": "https://imgs.xkcd.com/comics/gravitational_square_wave.png",
+      "alt": "Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.",
+      "date": "2026-10-28"
     }
   ]
 }

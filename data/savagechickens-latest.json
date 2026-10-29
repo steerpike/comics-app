@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-28T22:19:08.571Z",
+  "fetchedAt": "2026-10-29T12:29:13.198Z",
   "comics": [
+    {
+      "slug": "beyond-brains",
+      "title": "Beyond Brains",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenbeyondbrains.jpg",
+      "alt": "Beyond Brains",
+      "date": "2026-10-29",
+      "link": "https://www.savagechickens.com/2026/10/beyond-brains.html"
+    },
     {
       "slug": "cat-horror",
       "title": "Cat Horror",
@@ -76,14 +84,6 @@
       "alt": "Fragile",
       "date": "2026-10-16",
       "link": "https://www.savagechickens.com/2026/10/fragile.html"
-    },
-    {
-      "slug": "work-ethic",
-      "title": "Work Ethic",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenunicornworkethic.jpg",
-      "alt": "Work Ethic",
-      "date": "2026-10-15",
-      "link": "https://www.savagechickens.com/2026/10/work-ethic.html"
     }
   ]
 }

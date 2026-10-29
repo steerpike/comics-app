@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3316,
-  "fetchedAt": "2026-10-28T22:19:05.346Z",
+  "latestNum": 3317,
+  "fetchedAt": "2026-10-29T12:29:10.816Z",
   "comics": [
+    {
+      "num": 3317,
+      "title": "Gravitational Square Wave",
+      "img": "https://imgs.xkcd.com/comics/gravitational_square_wave.png",
+      "alt": "Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.",
+      "date": "2026-10-28"
+    },
     {
       "num": 3316,
       "title": "Siege Engine",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/aerospace_flowchart.png",
       "alt": "Someday, we will find the problem that goes with this solution.",
       "date": "2026-09-14"
-    },
-    {
-      "num": 3297,
-      "title": "OH Scale",
-      "img": "https://imgs.xkcd.com/comics/oh_scale.png",
-      "alt": "To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.",
-      "date": "2026-09-11"
     }
   ]
 }
