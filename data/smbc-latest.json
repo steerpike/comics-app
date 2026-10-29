@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-29T12:29:11.419Z",
+  "fetchedAt": "2026-10-29T22:32:41.730Z",
   "comics": [
+    {
+      "slug": "eyes",
+      "title": "Eyes",
+      "img": "https://www.smbc-comics.com/comics/1793146728-20261029.png",
+      "alt": "If you didn't want me to look, you shouldn't have evolved elaborate mimicry.",
+      "date": "2026-10-29",
+      "link": "https://www.smbc-comics.com/comic/eyes"
+    },
     {
       "slug": "signal-5",
       "title": "Signal",
@@ -156,14 +164,6 @@
       "alt": "It is now only cheating in your reference frame.",
       "date": "2026-10-10",
       "link": "https://www.smbc-comics.com/comic/relative"
-    },
-    {
-      "slug": "bet-2",
-      "title": "Bet",
-      "img": "https://www.smbc-comics.com/comics/1791409897-20261009.png",
-      "alt": "The president is actually doing the same thing in the third to last panel.",
-      "date": "2026-10-09",
-      "link": "https://www.smbc-comics.com/comic/bet-2"
     }
   ]
 }
