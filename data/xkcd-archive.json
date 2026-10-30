@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3316,
-  "latestNum": 3317,
-  "fetchedAt": "2026-10-29T12:29:10.826Z",
+  "total": 3317,
+  "latestNum": 3318,
+  "fetchedAt": "2026-10-30T22:00:57.728Z",
   "comics": [
     {
       "num": 1,
@@ -23215,6 +23215,13 @@
       "img": "https://imgs.xkcd.com/comics/gravitational_square_wave.png",
       "alt": "Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.",
       "date": "2026-10-28"
+    },
+    {
+      "num": 3318,
+      "title": "Earth Sized Planets",
+      "img": "https://imgs.xkcd.com/comics/earth_sized_planets.png",
+      "alt": "It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.",
+      "date": "2026-10-30"
     }
   ]
 }

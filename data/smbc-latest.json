@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-30T12:20:43.487Z",
+  "fetchedAt": "2026-10-30T22:00:58.345Z",
   "comics": [
+    {
+      "slug": "dead-3",
+      "title": "Dead",
+      "img": "https://www.smbc-comics.com/comics/1793146786-20261030.png",
+      "alt": "I heard you like relatable slice of life humor?",
+      "date": "2026-10-30",
+      "link": "https://www.smbc-comics.com/comic/dead-3"
+    },
     {
       "slug": "eyes",
       "title": "Eyes",
@@ -156,14 +164,6 @@
       "alt": "I feel like if you said this on twitter someone wearing a shirt that reads INTERNET would come into your house and take an ax to your router.",
       "date": "2026-10-11",
       "link": "https://www.smbc-comics.com/comic/blog"
-    },
-    {
-      "slug": "relative",
-      "title": "Relative",
-      "img": "https://www.smbc-comics.com/comics/1791563668-20261010.png",
-      "alt": "It is now only cheating in your reference frame.",
-      "date": "2026-10-10",
-      "link": "https://www.smbc-comics.com/comic/relative"
     }
   ]
 }

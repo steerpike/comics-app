@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3317,
-  "fetchedAt": "2026-10-30T12:20:42.856Z",
+  "latestNum": 3318,
+  "fetchedAt": "2026-10-30T22:00:57.720Z",
   "comics": [
+    {
+      "num": 3318,
+      "title": "Earth Sized Planets",
+      "img": "https://imgs.xkcd.com/comics/earth_sized_planets.png",
+      "alt": "It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.",
+      "date": "2026-10-30"
+    },
     {
       "num": 3317,
       "title": "Gravitational Square Wave",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/summer.png",
       "alt": "You should probably get back to shore before spring hits.",
       "date": "2026-09-16"
-    },
-    {
-      "num": 3298,
-      "title": "Aerospace Flowchart",
-      "img": "https://imgs.xkcd.com/comics/aerospace_flowchart.png",
-      "alt": "Someday, we will find the problem that goes with this solution.",
-      "date": "2026-09-14"
     }
   ]
 }
