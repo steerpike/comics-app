@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-29T22:32:43.610Z",
+  "fetchedAt": "2026-10-30T12:20:45.203Z",
   "comics": [
+    {
+      "slug": "the-angry-visitor",
+      "title": "The Angry Visitor",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenangryvisitor.jpg",
+      "alt": "The Angry Visitor",
+      "date": "2026-10-30",
+      "link": "https://www.savagechickens.com/2026/10/the-angry-visitor.html"
+    },
     {
       "slug": "beyond-brains",
       "title": "Beyond Brains",
@@ -76,14 +84,6 @@
       "alt": "Morning People",
       "date": "2026-10-19",
       "link": "https://www.savagechickens.com/2026/10/morning-people.html"
-    },
-    {
-      "slug": "fragile",
-      "title": "Fragile",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenfragile.jpg",
-      "alt": "Fragile",
-      "date": "2026-10-16",
-      "link": "https://www.savagechickens.com/2026/10/fragile.html"
     }
   ]
 }
