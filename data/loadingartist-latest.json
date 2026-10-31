@@ -3,7 +3,7 @@
   "name": "Loading Artist",
   "url": "https://loadingartist.com",
   "attribution": "Loading Artist by Gregor Czaykowski",
-  "fetchedAt": "2026-10-30T22:01:00.485Z",
+  "fetchedAt": "2026-10-31T11:51:38.745Z",
   "comics": [
     {
       "slug": "be-write-back",
@@ -84,14 +84,6 @@
       "alt": "6 panel Loading Artist comic. 1: Red guy and Pink girl lying on a grassy hill at night. Red points up at the sky ",
       "date": "2025-03-17",
       "link": "https://loadingartist.com/comic/star-crossed-lovers/"
-    },
-    {
-      "slug": "beach-bummed",
-      "title": "Beach Bummed",
-      "img": "https://loadingartist.com/comic/beach-bummed/beach-bummed_hu13189404519930143224.jpg",
-      "alt": "6 panel Loading Artist comic. 1: Two guys walking along shore (Green guy and Red guy), Green is holding bucket of shells and shows off 1 particular shell to Red ",
-      "date": "2025-02-28",
-      "link": "https://loadingartist.com/comic/beach-bummed/"
     }
   ]
 }
