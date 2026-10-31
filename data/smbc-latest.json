@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-10-31T11:51:36.184Z",
+  "fetchedAt": "2026-10-31T21:09:40.504Z",
   "comics": [
+    {
+      "slug": "help-4",
+      "title": "Help",
+      "img": "https://www.smbc-comics.com/comics/1793393828-20261031.png",
+      "alt": "Also how come you never just get a neutral mob?",
+      "date": "2026-10-31",
+      "link": "https://www.smbc-comics.com/comic/help-4"
+    },
     {
       "slug": "dead-3",
       "title": "Dead",
@@ -156,14 +164,6 @@
       "alt": "If I can get just one teen girl to use the word epistemic, this entire career will have been valuable.",
       "date": "2026-10-12",
       "link": "https://www.smbc-comics.com/comic/random"
-    },
-    {
-      "slug": "blog",
-      "title": "Blog",
-      "img": "https://www.smbc-comics.com/comics/1791677050-20261011.png",
-      "alt": "I feel like if you said this on twitter someone wearing a shirt that reads INTERNET would come into your house and take an ax to your router.",
-      "date": "2026-10-11",
-      "link": "https://www.smbc-comics.com/comic/blog"
     }
   ]
 }
