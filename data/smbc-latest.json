@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-01T12:50:57.465Z",
+  "fetchedAt": "2026-11-01T21:48:14.177Z",
   "comics": [
+    {
+      "slug": "burnout",
+      "title": "Burnout",
+      "img": "https://www.smbc-comics.com/comics/1793393877-20261101.png",
+      "alt": "You kids today don't suffer like I suffered in my day, which is good because suffering is bad.",
+      "date": "2026-11-01",
+      "link": "https://www.smbc-comics.com/comic/burnout"
+    },
     {
       "slug": "help-4",
       "title": "Help",
@@ -156,14 +164,6 @@
       "alt": "Also I have very revealing undergarments but not in an attractive way.",
       "date": "2026-10-13",
       "link": "https://www.smbc-comics.com/comic/long-2"
-    },
-    {
-      "slug": "random",
-      "title": "Random",
-      "img": "https://www.smbc-comics.com/comics/1791677099-20261012.png",
-      "alt": "If I can get just one teen girl to use the word epistemic, this entire career will have been valuable.",
-      "date": "2026-10-12",
-      "link": "https://www.smbc-comics.com/comic/random"
     }
   ]
 }
