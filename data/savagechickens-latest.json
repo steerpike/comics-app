@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-10-31T21:09:42.399Z",
+  "fetchedAt": "2026-11-01T12:50:59.133Z",
   "comics": [
+    {
+      "slug": "halloween-contest-2026-winners",
+      "title": "Halloween Contest 2026 winners!",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenhalloweencontest2026.jpg",
+      "alt": "Halloween Contest 2026",
+      "date": "2026-11-01",
+      "link": "https://www.savagechickens.com/2026/10/halloween-contest-2026-winners.html"
+    },
     {
       "slug": "the-angry-visitor",
       "title": "The Angry Visitor",
@@ -76,14 +84,6 @@
       "alt": "Dinner Time",
       "date": "2026-10-20",
       "link": "https://www.savagechickens.com/2026/10/dinner-time.html"
-    },
-    {
-      "slug": "morning-people",
-      "title": "Morning People",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmorningpeople.jpg",
-      "alt": "Morning People",
-      "date": "2026-10-19",
-      "link": "https://www.savagechickens.com/2026/10/morning-people.html"
     }
   ]
 }
