@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 107,
-  "highestNum": 4537,
-  "fetchedAt": "2026-10-28T22:19:05.714Z",
+  "total": 108,
+  "highestNum": 4538,
+  "fetchedAt": "2026-11-02T15:01:23.440Z",
   "comics": [
     {
       "num": 4431,
@@ -859,6 +859,14 @@
       "alt": "Jerks Georg, who hangs around exclusively with jerks without being one himself, is an outlier and should not have been included.  he should however be included in new friend groups because WOW that must SUCK",
       "date": "2026-10-28",
       "link": "http://www.qwantz.com/index.php?comic=4537"
+    },
+    {
+      "num": 4538,
+      "title": "NEXT: sherlock batman meets sherlock, batman",
+      "img": "http://www.qwantz.com/comics/comic2-5236.png",
+      "alt": "he gets around on a tricked-out horse he calls ",
+      "date": "2026-11-02",
+      "link": "http://www.qwantz.com/index.php?comic=4538"
     }
   ]
 }

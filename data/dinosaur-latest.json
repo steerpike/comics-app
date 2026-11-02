@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-11-01T21:48:13.879Z",
+  "fetchedAt": "2026-11-02T15:01:23.439Z",
   "comics": [
+    {
+      "num": 4538,
+      "title": "NEXT: sherlock batman meets sherlock, batman",
+      "img": "http://www.qwantz.com/comics/comic2-5236.png",
+      "alt": "he gets around on a tricked-out horse he calls ",
+      "date": "2026-11-02",
+      "link": "http://www.qwantz.com/index.php?comic=4538"
+    },
     {
       "num": 4537,
       "title": "jerks ahoy",
@@ -76,14 +84,6 @@
       "alt": "to answer YOUR question, no, T-Rex won't tell me what the best tattoo in the world is either. BUT: if I had to guess, it's a tattoo of a ruler that also makes it so your body never changes so it's practical forever",
       "date": "2026-10-07",
       "link": "http://www.qwantz.com/index.php?comic=4529"
-    },
-    {
-      "num": 4528,
-      "title": "t-rex in: getting in SHAPE",
-      "img": "http://www.qwantz.com/comics/comic2-5226.png",
-      "alt": "okay, but hear me out: what about GARLIC BREAD??",
-      "date": "2026-10-05",
-      "link": "http://www.qwantz.com/index.php?comic=4528"
     }
   ]
 }

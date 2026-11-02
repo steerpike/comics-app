@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-01T21:48:15.923Z",
+  "fetchedAt": "2026-11-02T15:01:25.536Z",
   "comics": [
+    {
+      "slug": "archaeology",
+      "title": "Archaeology",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenarchaeology.jpg",
+      "alt": "Archaeology",
+      "date": "2026-11-02",
+      "link": "https://www.savagechickens.com/2026/11/archaeology.html"
+    },
     {
       "slug": "halloween-contest-2026-winners",
       "title": "Halloween Contest 2026 winners!",
@@ -76,14 +84,6 @@
       "alt": "Sports Improvement Idea",
       "date": "2026-10-21",
       "link": "https://www.savagechickens.com/2026/10/sports-improvement-idea.html"
-    },
-    {
-      "slug": "dinner-time",
-      "title": "Dinner Time",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickendinnertime.jpg",
-      "alt": "Dinner Time",
-      "date": "2026-10-20",
-      "link": "https://www.savagechickens.com/2026/10/dinner-time.html"
     }
   ]
 }
