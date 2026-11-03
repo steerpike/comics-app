@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-03T00:41:58.853Z",
+  "fetchedAt": "2026-11-03T13:48:07.295Z",
   "comics": [
+    {
+      "slug": "time-for-action-2",
+      "title": "Time for Action",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentimeforaction.jpg",
+      "alt": "Time for Action",
+      "date": "2026-11-03",
+      "link": "https://www.savagechickens.com/2026/11/time-for-action-2.html"
+    },
     {
       "slug": "archaeology",
       "title": "Archaeology",
@@ -76,14 +84,6 @@
       "alt": "The Bleakness",
       "date": "2026-10-22",
       "link": "https://www.savagechickens.com/2026/10/the-bleakness.html"
-    },
-    {
-      "slug": "sports-improvement-idea",
-      "title": "Sports Improvement Idea",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickensportsimprovementidea.jpg",
-      "alt": "Sports Improvement Idea",
-      "date": "2026-10-21",
-      "link": "https://www.savagechickens.com/2026/10/sports-improvement-idea.html"
     }
   ]
 }
