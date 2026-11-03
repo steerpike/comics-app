@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-03T13:48:04.979Z",
+  "fetchedAt": "2026-11-03T22:59:24.085Z",
   "comics": [
+    {
+      "slug": "trial",
+      "title": "Trial",
+      "img": "https://www.smbc-comics.com/comics/1793577866-20261103.png",
+      "alt": "Later you're just trying to chill and they keep insisting you engage in free trade with The Orient.",
+      "date": "2026-11-03",
+      "link": "https://www.smbc-comics.com/comic/trial"
+    },
     {
       "slug": "borated",
       "title": "Borated",
@@ -156,14 +164,6 @@
       "alt": "Pretty pleased with panel 2.",
       "date": "2026-10-15",
       "link": "https://www.smbc-comics.com/comic/toad"
-    },
-    {
-      "slug": "break",
-      "title": "Break",
-      "img": "https://www.smbc-comics.com/comics/1791942559-20261014.png",
-      "alt": "I'm having the last panel inscribed on my tombstone.",
-      "date": "2026-10-14",
-      "link": "https://www.smbc-comics.com/comic/break"
     }
   ]
 }
