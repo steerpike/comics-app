@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3317,
-  "latestNum": 3318,
-  "fetchedAt": "2026-10-30T22:00:57.728Z",
+  "total": 3318,
+  "latestNum": 3319,
+  "fetchedAt": "2026-11-03T00:41:56.421Z",
   "comics": [
     {
       "num": 1,
@@ -23222,6 +23222,13 @@
       "img": "https://imgs.xkcd.com/comics/earth_sized_planets.png",
       "alt": "It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.",
       "date": "2026-10-30"
+    },
+    {
+      "num": 3319,
+      "title": "Elevators",
+      "img": "https://imgs.xkcd.com/comics/elevators.png",
+      "alt": "\"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.\"",
+      "date": "2026-11-02"
     }
   ]
 }

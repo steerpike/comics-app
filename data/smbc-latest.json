@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-02T15:01:23.776Z",
+  "fetchedAt": "2026-11-03T00:41:56.971Z",
   "comics": [
+    {
+      "slug": "borated",
+      "title": "Borated",
+      "img": "https://www.smbc-comics.com/comics/1793577832-20261102.png",
+      "alt": "The annoying thing is how that one cousin keeps removing your access to oxygen even though you asked him politely not to.",
+      "date": "2026-11-02",
+      "link": "https://www.smbc-comics.com/comic/borated"
+    },
     {
       "slug": "burnout",
       "title": "Burnout",
@@ -156,14 +164,6 @@
       "alt": "I'm having the last panel inscribed on my tombstone.",
       "date": "2026-10-14",
       "link": "https://www.smbc-comics.com/comic/break"
-    },
-    {
-      "slug": "long-2",
-      "title": "Long",
-      "img": "https://www.smbc-comics.com/comics/1791677157-20261013.png",
-      "alt": "Also I have very revealing undergarments but not in an attractive way.",
-      "date": "2026-10-13",
-      "link": "https://www.smbc-comics.com/comic/long-2"
     }
   ]
 }
