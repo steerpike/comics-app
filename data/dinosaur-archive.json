@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 108,
-  "highestNum": 4538,
-  "fetchedAt": "2026-11-02T15:01:23.440Z",
+  "total": 109,
+  "highestNum": 4539,
+  "fetchedAt": "2026-11-04T13:56:19.621Z",
   "comics": [
     {
       "num": 4431,
@@ -867,6 +867,14 @@
       "alt": "he gets around on a tricked-out horse he calls ",
       "date": "2026-11-02",
       "link": "http://www.qwantz.com/index.php?comic=4538"
+    },
+    {
+      "num": 4539,
+      "title": "i think to fit this nicely into canon, i must add a \"twenty-three years earlier:\" caption to the first panel and make it a prequel, a \"comic zero\" if you will",
+      "img": "http://www.qwantz.com/comics/comic2-5237.png",
+      "alt": "went back and forth on the capitalization of those Us in panel 2.  went back and forth a TON",
+      "date": "2026-11-04",
+      "link": "http://www.qwantz.com/index.php?comic=4539"
     }
   ]
 }

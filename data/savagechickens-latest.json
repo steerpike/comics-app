@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-03T22:59:25.966Z",
+  "fetchedAt": "2026-11-04T13:56:21.951Z",
   "comics": [
+    {
+      "slug": "shaking",
+      "title": "Shaking",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenshaking.jpg",
+      "alt": "Shaking",
+      "date": "2026-11-04",
+      "link": "https://www.savagechickens.com/2026/11/shaking.html"
+    },
     {
       "slug": "time-for-action-2",
       "title": "Time for Action",
@@ -76,14 +84,6 @@
       "alt": "The Villain",
       "date": "2026-10-23",
       "link": "https://www.savagechickens.com/2026/10/the-villain.html"
-    },
-    {
-      "slug": "the-bleakness",
-      "title": "The Bleakness",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthebleakness.jpg",
-      "alt": "The Bleakness",
-      "date": "2026-10-22",
-      "link": "https://www.savagechickens.com/2026/10/the-bleakness.html"
     }
   ]
 }
