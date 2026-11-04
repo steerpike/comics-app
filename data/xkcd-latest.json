@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3319,
-  "fetchedAt": "2026-11-04T13:56:19.243Z",
+  "latestNum": 3320,
+  "fetchedAt": "2026-11-04T23:21:02.378Z",
   "comics": [
+    {
+      "num": 3320,
+      "title": "House Majority",
+      "img": "https://imgs.xkcd.com/comics/house_majority.png",
+      "alt": "For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.",
+      "date": "2026-11-04"
+    },
     {
       "num": 3319,
       "title": "Elevators",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/stargazing_5.png",
       "alt": "The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.",
       "date": "2026-09-21"
-    },
-    {
-      "num": 3300,
-      "title": "Tyrannosaurus",
-      "img": "https://imgs.xkcd.com/comics/tyrannosaurus.png",
-      "alt": "Many of the smaller dinosaurs seem to have largely preyed on housecats.",
-      "date": "2026-09-18"
     }
   ]
 }

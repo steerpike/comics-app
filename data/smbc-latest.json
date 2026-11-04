@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-04T13:56:19.972Z",
+  "fetchedAt": "2026-11-04T23:21:03.049Z",
   "comics": [
+    {
+      "slug": "light",
+      "title": "Light",
+      "img": "https://www.smbc-comics.com/comics/1793577905-20261104.png",
+      "alt": "There's a reason we spent 100,000 years with the same stone tools.",
+      "date": "2026-11-04",
+      "link": "https://www.smbc-comics.com/comic/light"
+    },
     {
       "slug": "trial",
       "title": "Trial",
@@ -156,14 +164,6 @@
       "alt": "I believe this comic is making fun of naive objections to consequentialism, but I am not 100% certain.",
       "date": "2026-10-16",
       "link": "https://www.smbc-comics.com/comic/hun"
-    },
-    {
-      "slug": "toad",
-      "title": "Toad",
-      "img": "https://www.smbc-comics.com/comics/1791942607-20261015.png",
-      "alt": "Pretty pleased with panel 2.",
-      "date": "2026-10-15",
-      "link": "https://www.smbc-comics.com/comic/toad"
     }
   ]
 }

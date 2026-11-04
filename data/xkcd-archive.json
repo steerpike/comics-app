@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3318,
-  "latestNum": 3319,
-  "fetchedAt": "2026-11-03T00:41:56.421Z",
+  "total": 3319,
+  "latestNum": 3320,
+  "fetchedAt": "2026-11-04T23:21:02.386Z",
   "comics": [
     {
       "num": 1,
@@ -23229,6 +23229,13 @@
       "img": "https://imgs.xkcd.com/comics/elevators.png",
       "alt": "\"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.\"",
       "date": "2026-11-02"
+    },
+    {
+      "num": 3320,
+      "title": "House Majority",
+      "img": "https://imgs.xkcd.com/comics/house_majority.png",
+      "alt": "For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.",
+      "date": "2026-11-04"
     }
   ]
 }

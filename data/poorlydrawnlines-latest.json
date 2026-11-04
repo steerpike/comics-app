@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-11-04T13:56:21.277Z",
+  "fetchedAt": "2026-11-04T23:21:04.423Z",
   "comics": [
+    {
+      "slug": "wonder-who",
+      "title": "Wonder Who",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/11/wonder-who.png",
+      "alt": "",
+      "date": "2026-11-04",
+      "link": "https://poorlydrawnlines.com/comic/wonder-who/"
+    },
     {
       "slug": "fake-email",
       "title": "Fake Email",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-09-03",
       "link": "https://poorlydrawnlines.com/comic/the-ghost-of-this-lamp/"
-    },
-    {
-      "slug": "just-one-problem",
-      "title": "Just One Problem",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/08/bird-society-1-1.png",
-      "alt": "",
-      "date": "2026-08-26",
-      "link": "https://poorlydrawnlines.com/comic/just-one-problem/"
     }
   ]
 }
