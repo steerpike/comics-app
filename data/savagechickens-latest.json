@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-05T14:13:29.567Z",
+  "fetchedAt": "2026-11-06T13:53:59.227Z",
   "comics": [
+    {
+      "slug": "tree-feelings-2",
+      "title": "Tree Feelings",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickentreefeelings.jpg",
+      "alt": "Tree Feelings",
+      "date": "2026-11-06",
+      "link": "https://www.savagechickens.com/2026/11/tree-feelings-2.html"
+    },
     {
       "slug": "more-smiling",
       "title": "More Smiling",
@@ -76,14 +84,6 @@
       "alt": "Halloween Contest 2026",
       "date": "2026-10-27",
       "link": "https://www.savagechickens.com/2026/10/halloween-contest-2026.html"
-    },
-    {
-      "slug": "remotely-scary",
-      "title": "Remotely Scary",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenremotelyscary2.jpg",
-      "alt": "Remotely Scary",
-      "date": "2026-10-26",
-      "link": "https://www.savagechickens.com/2026/10/remotely-scary.html"
     }
   ]
 }

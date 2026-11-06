@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-05T14:13:27.623Z",
+  "fetchedAt": "2026-11-06T13:53:57.368Z",
   "comics": [
+    {
+      "slug": "index",
+      "title": "Index",
+      "img": "https://www.smbc-comics.com/comics/1793825706-20261105.png",
+      "alt": "Turns out it's all Zuckerberg, for both reasons.",
+      "date": "2026-11-05",
+      "link": "https://www.smbc-comics.com/comic/index"
+    },
     {
       "slug": "light",
       "title": "Light",
@@ -156,14 +164,6 @@
       "alt": "Actually maybe this is the solution to the Fermi Paradox.",
       "date": "2026-10-17",
       "link": "https://www.smbc-comics.com/comic/chip"
-    },
-    {
-      "slug": "hun",
-      "title": "Hun",
-      "img": "https://www.smbc-comics.com/comics/1792033762-20261016.png",
-      "alt": "I believe this comic is making fun of naive objections to consequentialism, but I am not 100% certain.",
-      "date": "2026-10-16",
-      "link": "https://www.smbc-comics.com/comic/hun"
     }
   ]
 }
