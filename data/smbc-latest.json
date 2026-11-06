@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-06T13:53:57.368Z",
+  "fetchedAt": "2026-11-06T22:49:33.036Z",
   "comics": [
+    {
+      "slug": "sat",
+      "title": "Sat",
+      "img": "https://www.smbc-comics.com/comics/1793825743-20261106.png",
+      "alt": "Sometimes, you just gotta do a silly jokes for everyone.",
+      "date": "2026-11-06",
+      "link": "https://www.smbc-comics.com/comic/sat"
+    },
     {
       "slug": "index",
       "title": "Index",
@@ -156,14 +164,6 @@
       "alt": "Meanwhile the Engineers are just lighting themselves on fire to see what happens.",
       "date": "2026-10-18",
       "link": "https://www.smbc-comics.com/comic/reactions"
-    },
-    {
-      "slug": "chip",
-      "title": "Chip",
-      "img": "https://www.smbc-comics.com/comics/1792200079-20261018.png",
-      "alt": "Actually maybe this is the solution to the Fermi Paradox.",
-      "date": "2026-10-17",
-      "link": "https://www.smbc-comics.com/comic/chip"
     }
   ]
 }

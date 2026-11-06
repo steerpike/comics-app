@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3320,
-  "fetchedAt": "2026-11-06T13:53:56.832Z",
+  "latestNum": 3321,
+  "fetchedAt": "2026-11-06T22:49:32.402Z",
   "comics": [
+    {
+      "num": 3321,
+      "title": "Simulation",
+      "img": "https://imgs.xkcd.com/comics/simulation.png",
+      "alt": "No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.",
+      "date": "2026-11-06"
+    },
     {
       "num": 3320,
       "title": "House Majority",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/voyager_instruments.png",
       "alt": "Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.",
       "date": "2026-09-23"
-    },
-    {
-      "num": 3301,
-      "title": "Stargazing 5",
-      "img": "https://imgs.xkcd.com/comics/stargazing_5.png",
-      "alt": "The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.",
-      "date": "2026-09-21"
     }
   ]
 }

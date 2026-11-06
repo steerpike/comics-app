@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3319,
-  "latestNum": 3320,
-  "fetchedAt": "2026-11-04T23:21:02.386Z",
+  "total": 3320,
+  "latestNum": 3321,
+  "fetchedAt": "2026-11-06T22:49:32.411Z",
   "comics": [
     {
       "num": 1,
@@ -23236,6 +23236,13 @@
       "img": "https://imgs.xkcd.com/comics/house_majority.png",
       "alt": "For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.",
       "date": "2026-11-04"
+    },
+    {
+      "num": 3321,
+      "title": "Simulation",
+      "img": "https://imgs.xkcd.com/comics/simulation.png",
+      "alt": "No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.",
+      "date": "2026-11-06"
     }
   ]
 }
