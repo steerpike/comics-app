@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-07T12:38:42.989Z",
+  "fetchedAt": "2026-11-07T21:34:18.081Z",
   "comics": [
+    {
+      "slug": "theodicy-6",
+      "title": "Theodicy",
+      "img": "https://www.smbc-comics.com/comics/1794016123-20261107.png",
+      "alt": "Once Simulation Theory logic is allowed, you can prove ANYTHING.",
+      "date": "2026-11-07",
+      "link": "https://www.smbc-comics.com/comic/theodicy-6"
+    },
     {
       "slug": "sat",
       "title": "Sat",
@@ -156,14 +164,6 @@
       "alt": "Really should've gone for even more closeup on panel 2.",
       "date": "2026-10-19",
       "link": "https://www.smbc-comics.com/comic/cells"
-    },
-    {
-      "slug": "reactions",
-      "title": "Reactions",
-      "img": "https://www.smbc-comics.com/comics/1792283872-20261018.png",
-      "alt": "Meanwhile the Engineers are just lighting themselves on fire to see what happens.",
-      "date": "2026-10-18",
-      "link": "https://www.smbc-comics.com/comic/reactions"
     }
   ]
 }
