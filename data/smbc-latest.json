@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-08T12:55:55.330Z",
+  "fetchedAt": "2026-11-08T21:48:56.776Z",
   "comics": [
+    {
+      "slug": "friendship-2",
+      "title": "Friendship",
+      "img": "https://www.smbc-comics.com/comics/1794016163-20261108.png",
+      "alt": "Later it turns out to be a gay bar, and things go better than expected.",
+      "date": "2026-11-08",
+      "link": "https://www.smbc-comics.com/comic/friendship-2"
+    },
     {
       "slug": "theodicy-6",
       "title": "Theodicy",
@@ -156,14 +164,6 @@
       "alt": "Actually for me you can get it down to an eyeroll and a tired sigh.",
       "date": "2026-10-20",
       "link": "https://www.smbc-comics.com/comic/funeral"
-    },
-    {
-      "slug": "cells",
-      "title": "Cells",
-      "img": "https://www.smbc-comics.com/comics/1792283936-20261019.png",
-      "alt": "Really should've gone for even more closeup on panel 2.",
-      "date": "2026-10-19",
-      "link": "https://www.smbc-comics.com/comic/cells"
     }
   ]
 }
