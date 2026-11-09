@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 109,
-  "highestNum": 4539,
-  "fetchedAt": "2026-11-04T13:56:19.621Z",
+  "total": 110,
+  "highestNum": 4540,
+  "fetchedAt": "2026-11-09T15:31:15.542Z",
   "comics": [
     {
       "num": 4431,
@@ -875,6 +875,14 @@
       "alt": "went back and forth on the capitalization of those Us in panel 2.  went back and forth a TON",
       "date": "2026-11-04",
       "link": "http://www.qwantz.com/index.php?comic=4539"
+    },
+    {
+      "num": 4540,
+      "title": "you can't argue that Watchmen 2 has something to say, you can only argue whether or not you are willing to hear it",
+      "img": "http://www.qwantz.com/comics/comic2-5238.png",
+      "alt": "my other comic idea is called KINGDOM COME-ON, and it's about a guy saying ",
+      "date": "2026-11-09",
+      "link": "http://www.qwantz.com/index.php?comic=4540"
     }
   ]
 }

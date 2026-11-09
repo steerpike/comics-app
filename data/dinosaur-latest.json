@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-11-08T21:48:55.874Z",
+  "fetchedAt": "2026-11-09T15:31:15.541Z",
   "comics": [
+    {
+      "num": 4540,
+      "title": "you can't argue that Watchmen 2 has something to say, you can only argue whether or not you are willing to hear it",
+      "img": "http://www.qwantz.com/comics/comic2-5238.png",
+      "alt": "my other comic idea is called KINGDOM COME-ON, and it's about a guy saying ",
+      "date": "2026-11-09",
+      "link": "http://www.qwantz.com/index.php?comic=4540"
+    },
     {
       "num": 4539,
       "title": "i think to fit this nicely into canon, i must add a \"twenty-three years earlier:\" caption to the first panel and make it a prequel, a \"comic zero\" if you will",
@@ -76,14 +84,6 @@
       "alt": "The oceanic pole of inaccessibility (Point Nemo, 48°52.6′S 123°23.6′W), is famous for two things. First, for being the single point on the planet where you are as far from land as it is possible to be. Second, for being a MEMORABLY bad hotel",
       "date": "2026-10-14",
       "link": "http://www.qwantz.com/index.php?comic=4531"
-    },
-    {
-      "num": 4530,
-      "title": "sherlock holmes and the case of the missing cookie",
-      "img": "http://www.qwantz.com/comics/comic2-5228.png",
-      "alt": "watson was like, ",
-      "date": "2026-10-09",
-      "link": "http://www.qwantz.com/index.php?comic=4530"
     }
   ]
 }
