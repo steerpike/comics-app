@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-10T14:30:40.310Z",
+  "fetchedAt": "2026-11-10T22:57:08.424Z",
   "comics": [
+    {
+      "slug": "mega",
+      "title": "Mega",
+      "img": "https://www.smbc-comics.com/comics/1794186829-20261110.png",
+      "alt": "There could've been 400 kinds of avocado you maniacs!",
+      "date": "2026-11-10",
+      "link": "https://www.smbc-comics.com/comic/mega"
+    },
     {
       "slug": "learn-3",
       "title": "Learn",
@@ -156,14 +164,6 @@
       "alt": "Linguists are cruel.",
       "date": "2026-10-22",
       "link": "https://www.smbc-comics.com/comic/revenge"
-    },
-    {
-      "slug": "future-5",
-      "title": "Future",
-      "img": "https://www.smbc-comics.com/comics/1792546663-20261021.png",
-      "alt": "The real question is how long until each of these can be one-shotted.",
-      "date": "2026-10-21",
-      "link": "https://www.smbc-comics.com/comic/future-5"
     }
   ]
 }
