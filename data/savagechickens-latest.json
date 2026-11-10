@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-10T01:16:44.184Z",
+  "fetchedAt": "2026-11-10T14:30:42.193Z",
   "comics": [
+    {
+      "slug": "contemplation",
+      "title": "Contemplation",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickencontemplation.jpg",
+      "alt": "Contemplation",
+      "date": "2026-11-10",
+      "link": "https://www.savagechickens.com/2026/11/contemplation.html"
+    },
     {
       "slug": "raining",
       "title": "Raining",
@@ -76,14 +84,6 @@
       "alt": "Beyond Brains",
       "date": "2026-10-29",
       "link": "https://www.savagechickens.com/2026/10/beyond-brains.html"
-    },
-    {
-      "slug": "cat-horror",
-      "title": "Cat Horror",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickencathorror.jpg",
-      "alt": "Cat Horror",
-      "date": "2026-10-28",
-      "link": "https://www.savagechickens.com/2026/10/cat-horror.html"
     }
   ]
 }
