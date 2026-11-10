@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3321,
-  "fetchedAt": "2026-11-09T15:31:15.188Z",
+  "latestNum": 3322,
+  "fetchedAt": "2026-11-10T01:16:41.137Z",
   "comics": [
+    {
+      "num": 3322,
+      "title": "Dragonfly",
+      "img": "https://imgs.xkcd.com/comics/dragonfly.png",
+      "alt": "I'm excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, 'Titan's surface' is right up there at the top with 'Jupiter's atmosphere.'",
+      "date": "2026-11-09"
+    },
     {
       "num": 3321,
       "title": "Simulation",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/slab_graveyard.png",
       "alt": "It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!",
       "date": "2026-09-25"
-    },
-    {
-      "num": 3302,
-      "title": "Voyager Instruments",
-      "img": "https://imgs.xkcd.com/comics/voyager_instruments.png",
-      "alt": "Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.",
-      "date": "2026-09-23"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-09T15:31:16.441Z",
+  "fetchedAt": "2026-11-10T01:16:41.651Z",
   "comics": [
+    {
+      "slug": "learn-3",
+      "title": "Learn",
+      "img": "https://www.smbc-comics.com/comics/1794186749-20261109.png",
+      "alt": "Okay, you didn't learn but you achieved the fifth derivative of learning!",
+      "date": "2026-11-09",
+      "link": "https://www.smbc-comics.com/comic/learn-3"
+    },
     {
       "slug": "friendship-2",
       "title": "Friendship",
@@ -156,14 +164,6 @@
       "alt": "The real question is how long until each of these can be one-shotted.",
       "date": "2026-10-21",
       "link": "https://www.smbc-comics.com/comic/future-5"
-    },
-    {
-      "slug": "funeral",
-      "title": "Funeral",
-      "img": "https://www.smbc-comics.com/comics/1792283984-20261020.png",
-      "alt": "Actually for me you can get it down to an eyeroll and a tired sigh.",
-      "date": "2026-10-20",
-      "link": "https://www.smbc-comics.com/comic/funeral"
     }
   ]
 }

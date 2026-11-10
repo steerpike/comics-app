@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3320,
-  "latestNum": 3321,
-  "fetchedAt": "2026-11-06T22:49:32.411Z",
+  "total": 3321,
+  "latestNum": 3322,
+  "fetchedAt": "2026-11-10T01:16:41.145Z",
   "comics": [
     {
       "num": 1,
@@ -23243,6 +23243,13 @@
       "img": "https://imgs.xkcd.com/comics/simulation.png",
       "alt": "No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.",
       "date": "2026-11-06"
+    },
+    {
+      "num": 3322,
+      "title": "Dragonfly",
+      "img": "https://imgs.xkcd.com/comics/dragonfly.png",
+      "alt": "I'm excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, 'Titan's surface' is right up there at the top with 'Jupiter's atmosphere.'",
+      "date": "2026-11-09"
     }
   ]
 }
