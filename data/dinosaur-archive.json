@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 110,
-  "highestNum": 4540,
-  "fetchedAt": "2026-11-09T15:31:15.542Z",
+  "total": 111,
+  "highestNum": 4541,
+  "fetchedAt": "2026-11-11T13:45:04.013Z",
   "comics": [
     {
       "num": 4431,
@@ -883,6 +883,14 @@
       "alt": "my other comic idea is called KINGDOM COME-ON, and it's about a guy saying ",
       "date": "2026-11-09",
       "link": "http://www.qwantz.com/index.php?comic=4540"
+    },
+    {
+      "num": 4541,
+      "title": "t-rex and the costumed party",
+      "img": "http://www.qwantz.com/comics/comic2-5239.png",
+      "alt": "why didn't you just SAY so",
+      "date": "2026-11-11",
+      "link": "http://www.qwantz.com/index.php?comic=4541"
     }
   ]
 }

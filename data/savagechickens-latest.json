@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-10T22:57:10.060Z",
+  "fetchedAt": "2026-11-11T13:45:06.324Z",
   "comics": [
+    {
+      "slug": "good-advice-2",
+      "title": "Good Advice",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickengoodadvice-1.jpg",
+      "alt": "Good Advice",
+      "date": "2026-11-11",
+      "link": "https://www.savagechickens.com/2026/11/good-advice-2.html"
+    },
     {
       "slug": "contemplation",
       "title": "Contemplation",
@@ -76,14 +84,6 @@
       "alt": "The Angry Visitor",
       "date": "2026-10-30",
       "link": "https://www.savagechickens.com/2026/10/the-angry-visitor.html"
-    },
-    {
-      "slug": "beyond-brains",
-      "title": "Beyond Brains",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenbeyondbrains.jpg",
-      "alt": "Beyond Brains",
-      "date": "2026-10-29",
-      "link": "https://www.savagechickens.com/2026/10/beyond-brains.html"
     }
   ]
 }
