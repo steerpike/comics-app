@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-11T13:45:04.495Z",
+  "fetchedAt": "2026-11-12T00:12:35.052Z",
   "comics": [
+    {
+      "slug": "please",
+      "title": "Please",
+      "img": "https://www.smbc-comics.com/comics/1794359640-20261111.png",
+      "alt": "She just sits at the computer pressing compile, and it keeps saying sorry.",
+      "date": "2026-11-11",
+      "link": "https://www.smbc-comics.com/comic/please"
+    },
     {
       "slug": "mega",
       "title": "Mega",
@@ -156,14 +164,6 @@
       "alt": "If this profound insight leads to a future utopia, somebody owes me a dollar.",
       "date": "2026-10-23",
       "link": "https://www.smbc-comics.com/comic/alignment-2"
-    },
-    {
-      "slug": "revenge",
-      "title": "Revenge",
-      "img": "https://www.smbc-comics.com/comics/1792532851-20261022.png",
-      "alt": "Linguists are cruel.",
-      "date": "2026-10-22",
-      "link": "https://www.smbc-comics.com/comic/revenge"
     }
   ]
 }

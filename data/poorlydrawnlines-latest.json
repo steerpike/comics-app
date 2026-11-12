@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-11-11T13:45:06.101Z",
+  "fetchedAt": "2026-11-12T00:12:36.170Z",
   "comics": [
+    {
+      "slug": "in-a-hole",
+      "title": "In a Hole",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/11/in-a-hole.png",
+      "alt": "",
+      "date": "2026-11-11",
+      "link": "https://poorlydrawnlines.com/comic/in-a-hole/"
+    },
     {
       "slug": "wonder-who",
       "title": "Wonder Who",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-09-10",
       "link": "https://poorlydrawnlines.com/comic/new-guy/"
-    },
-    {
-      "slug": "the-ghost-of-this-lamp",
-      "title": "The Ghost of This Lamp",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/09/ghost-of-this-lamp-2.png",
-      "alt": "",
-      "date": "2026-09-03",
-      "link": "https://poorlydrawnlines.com/comic/the-ghost-of-this-lamp/"
     }
   ]
 }

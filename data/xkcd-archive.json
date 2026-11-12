@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3321,
-  "latestNum": 3322,
-  "fetchedAt": "2026-11-10T01:16:41.145Z",
+  "total": 3322,
+  "latestNum": 3323,
+  "fetchedAt": "2026-11-12T00:12:34.559Z",
   "comics": [
     {
       "num": 1,
@@ -23250,6 +23250,13 @@
       "img": "https://imgs.xkcd.com/comics/dragonfly.png",
       "alt": "I'm excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, 'Titan's surface' is right up there at the top with 'Jupiter's atmosphere.'",
       "date": "2026-11-09"
+    },
+    {
+      "num": 3323,
+      "title": "Meteor Fear",
+      "img": "https://imgs.xkcd.com/comics/meteor_fear.png",
+      "alt": "Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!",
+      "date": "2026-11-11"
     }
   ]
 }
