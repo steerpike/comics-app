@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-12T00:12:36.780Z",
+  "fetchedAt": "2026-11-12T14:48:34.053Z",
   "comics": [
+    {
+      "slug": "probably-not",
+      "title": "Probably Not",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenprobablynot.jpg",
+      "alt": "Probably Not",
+      "date": "2026-11-12",
+      "link": "https://www.savagechickens.com/2026/11/probably-not.html"
+    },
     {
       "slug": "good-advice-2",
       "title": "Good Advice",
@@ -76,14 +84,6 @@
       "alt": "Halloween Contest 2026",
       "date": "2026-11-01",
       "link": "https://www.savagechickens.com/2026/10/halloween-contest-2026-winners.html"
-    },
-    {
-      "slug": "the-angry-visitor",
-      "title": "The Angry Visitor",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenangryvisitor.jpg",
-      "alt": "The Angry Visitor",
-      "date": "2026-10-30",
-      "link": "https://www.savagechickens.com/2026/10/the-angry-visitor.html"
     }
   ]
 }
