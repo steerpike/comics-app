@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-12T14:48:32.220Z",
+  "fetchedAt": "2026-11-12T23:18:15.739Z",
   "comics": [
+    {
+      "slug": "history-6",
+      "title": "History",
+      "img": "https://www.smbc-comics.com/comics/1794451776-20261112.png",
+      "alt": "This is what they mean, right? All those substacks where someone says History tells us?",
+      "date": "2026-11-12",
+      "link": "https://www.smbc-comics.com/comic/history-6"
+    },
     {
       "slug": "please",
       "title": "Please",
@@ -156,14 +164,6 @@
       "alt": "Hope this insight ruins you as much as it ruined me.",
       "date": "2026-10-24",
       "link": "https://www.smbc-comics.com/comic/watch-2"
-    },
-    {
-      "slug": "alignment-2",
-      "title": "Alignment",
-      "img": "https://www.smbc-comics.com/comics/1792736918-20261023.png",
-      "alt": "If this profound insight leads to a future utopia, somebody owes me a dollar.",
-      "date": "2026-10-23",
-      "link": "https://www.smbc-comics.com/comic/alignment-2"
     }
   ]
 }
