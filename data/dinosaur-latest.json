@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-11-12T23:18:15.354Z",
+  "fetchedAt": "2026-11-13T14:07:58.925Z",
   "comics": [
+    {
+      "num": 4542,
+      "title": "sorry for inventing sex and drugs; i don't know WHAT i was on",
+      "img": "http://www.qwantz.com/comics/comic2-5240.png",
+      "alt": "As a member of the first generation to ever invent synonymizing ",
+      "date": "2026-11-13",
+      "link": "http://www.qwantz.com/index.php?comic=4542"
+    },
     {
       "num": 4541,
       "title": "t-rex and the costumed party",
@@ -76,14 +84,6 @@
       "alt": "sorry to all chosen ones in my audience but i stand by my words.  listen: just tell yourself this is just part of the challenges you're to face on your extra-special chosen journey",
       "date": "2026-10-19",
       "link": "http://www.qwantz.com/index.php?comic=4533"
-    },
-    {
-      "num": 4532,
-      "title": "that said, it IS all the uranus gas you can inhale.  it is in fact the most confirmed uranus gas it is possible to drink in the known universe",
-      "img": "http://www.qwantz.com/comics/comic2-5230.png",
-      "alt": "you missed it: yesterday was chock-a-block full of uranus jokes but today we're taking a rest.  tomorrow though - boy, you will not be able to WALK without tripping over stray uranus jokes.",
-      "date": "2026-10-16",
-      "link": "http://www.qwantz.com/index.php?comic=4532"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 111,
-  "highestNum": 4541,
-  "fetchedAt": "2026-11-11T13:45:04.013Z",
+  "total": 112,
+  "highestNum": 4542,
+  "fetchedAt": "2026-11-13T14:07:58.926Z",
   "comics": [
     {
       "num": 4431,
@@ -891,6 +891,14 @@
       "alt": "why didn't you just SAY so",
       "date": "2026-11-11",
       "link": "http://www.qwantz.com/index.php?comic=4541"
+    },
+    {
+      "num": 4542,
+      "title": "sorry for inventing sex and drugs; i don't know WHAT i was on",
+      "img": "http://www.qwantz.com/comics/comic2-5240.png",
+      "alt": "As a member of the first generation to ever invent synonymizing ",
+      "date": "2026-11-13",
+      "link": "http://www.qwantz.com/index.php?comic=4542"
     }
   ]
 }
