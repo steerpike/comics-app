@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-11-13T14:08:00.771Z",
+  "fetchedAt": "2026-11-13T23:21:17.686Z",
   "comics": [
+    {
+      "slug": "a-bad-mood",
+      "title": "A Bad Mood",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/11/a-bad-mood.png",
+      "alt": "",
+      "date": "2026-11-13",
+      "link": "https://poorlydrawnlines.com/comic/a-bad-mood/"
+    },
     {
       "slug": "in-a-hole",
       "title": "In a Hole",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-09-15",
       "link": "https://poorlydrawnlines.com/comic/a-lamp/"
-    },
-    {
-      "slug": "new-guy",
-      "title": "New Guy",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/09/new-guy.png",
-      "alt": "",
-      "date": "2026-09-10",
-      "link": "https://poorlydrawnlines.com/comic/new-guy/"
     }
   ]
 }

@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3323,
-  "fetchedAt": "2026-11-13T14:07:58.572Z",
+  "latestNum": 3324,
+  "fetchedAt": "2026-11-13T23:21:15.719Z",
   "comics": [
+    {
+      "num": 3324,
+      "title": "Ultimate Movie Series",
+      "img": "https://imgs.xkcd.com/comics/ultimate_movie_series.png",
+      "alt": "Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.",
+      "date": "2026-11-13"
+    },
     {
       "num": 3323,
       "title": "Meteor Fear",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/ground_effect.png",
       "alt": "Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.",
       "date": "2026-09-30"
-    },
-    {
-      "num": 3304,
-      "title": "Jupiter Icy Moons Explorer",
-      "img": "https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png",
-      "alt": "\"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons.\"",
-      "date": "2026-09-28"
     }
   ]
 }

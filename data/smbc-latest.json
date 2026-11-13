@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-13T14:07:59.136Z",
+  "fetchedAt": "2026-11-13T23:21:16.402Z",
   "comics": [
+    {
+      "slug": "ai-18",
+      "title": "AI",
+      "img": "https://www.smbc-comics.com/comics/1794451841-20261113.png",
+      "alt": "It's okay because the ai is about to be decommissioned for a slightly better model.",
+      "date": "2026-11-13",
+      "link": "https://www.smbc-comics.com/comic/ai-18"
+    },
     {
       "slug": "history-6",
       "title": "History",
@@ -156,14 +164,6 @@
       "alt": "I haven't dated in a long time, so this may be unrealistic.",
       "date": "2026-10-25",
       "link": "https://www.smbc-comics.com/comic/xxl"
-    },
-    {
-      "slug": "watch-2",
-      "title": "Watch",
-      "img": "https://www.smbc-comics.com/comics/1792794277-20261024.png",
-      "alt": "Hope this insight ruins you as much as it ruined me.",
-      "date": "2026-10-24",
-      "link": "https://www.smbc-comics.com/comic/watch-2"
     }
   ]
 }

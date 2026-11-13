@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3322,
-  "latestNum": 3323,
-  "fetchedAt": "2026-11-12T00:12:34.559Z",
+  "total": 3323,
+  "latestNum": 3324,
+  "fetchedAt": "2026-11-13T23:21:15.729Z",
   "comics": [
     {
       "num": 1,
@@ -23257,6 +23257,13 @@
       "img": "https://imgs.xkcd.com/comics/meteor_fear.png",
       "alt": "Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!",
       "date": "2026-11-11"
+    },
+    {
+      "num": 3324,
+      "title": "Ultimate Movie Series",
+      "img": "https://imgs.xkcd.com/comics/ultimate_movie_series.png",
+      "alt": "Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.",
+      "date": "2026-11-13"
     }
   ]
 }
