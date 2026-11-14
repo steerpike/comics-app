@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-14T13:09:09.808Z",
+  "fetchedAt": "2026-11-14T22:05:06.857Z",
   "comics": [
+    {
+      "slug": "field",
+      "title": "Field",
+      "img": "https://www.smbc-comics.com/comics/1794620545-20261114.png",
+      "alt": "Literally, every time your parents encouraged you to play outside, this is what was happening.",
+      "date": "2026-11-14",
+      "link": "https://www.smbc-comics.com/comic/field"
+    },
     {
       "slug": "ai-18",
       "title": "AI",
@@ -156,14 +164,6 @@
       "alt": "I heard you like family slice-of-life comics, Internet!",
       "date": "2026-10-26",
       "link": "https://www.smbc-comics.com/comic/order-3"
-    },
-    {
-      "slug": "xxl",
-      "title": "XXL",
-      "img": "https://www.smbc-comics.com/comics/1792883115-20261025.png",
-      "alt": "I haven't dated in a long time, so this may be unrealistic.",
-      "date": "2026-10-25",
-      "link": "https://www.smbc-comics.com/comic/xxl"
     }
   ]
 }
