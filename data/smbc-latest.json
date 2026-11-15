@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-15T13:38:01.613Z",
+  "fetchedAt": "2026-11-15T22:35:10.335Z",
   "comics": [
+    {
+      "slug": "valhalla",
+      "title": "Valhalla",
+      "img": "https://www.smbc-comics.com/comics/1794620584-20261115.png",
+      "alt": "Later that guy gets ruined by a 13 year old whose mom works at Anthropic.",
+      "date": "2026-11-15",
+      "link": "https://www.smbc-comics.com/comic/valhalla"
+    },
     {
       "slug": "field",
       "title": "Field",
@@ -156,14 +164,6 @@
       "alt": "Turns out the combination of sycophancy and lack of persistent experience of reality is irresistible.",
       "date": "2026-10-27",
       "link": "https://www.smbc-comics.com/comic/clankor"
-    },
-    {
-      "slug": "order-3",
-      "title": "Order",
-      "img": "https://www.smbc-comics.com/comics/1792967615-20261026.png",
-      "alt": "I heard you like family slice-of-life comics, Internet!",
-      "date": "2026-10-26",
-      "link": "https://www.smbc-comics.com/comic/order-3"
     }
   ]
 }
