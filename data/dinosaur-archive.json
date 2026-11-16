@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 112,
-  "highestNum": 4542,
-  "fetchedAt": "2026-11-13T14:07:58.926Z",
+  "total": 113,
+  "highestNum": 4543,
+  "fetchedAt": "2026-11-16T15:08:47.337Z",
   "comics": [
     {
       "num": 4431,
@@ -899,6 +899,14 @@
       "alt": "As a member of the first generation to ever invent synonymizing ",
       "date": "2026-11-13",
       "link": "http://www.qwantz.com/index.php?comic=4542"
+    },
+    {
+      "num": 4543,
+      "title": "born too soon for arrays of blinky lights on spaceships; too late for arrays of blinky lights on early computers",
+      "img": "http://www.qwantz.com/comics/comic2-5241.png",
+      "alt": "I TRIED TO GET THEM INTERESTED IN ANYTHING ELSE BUT THEY JUST TALKED ABOUT THE COMFORTING HUM OF VACUUM TUBES",
+      "date": "2026-11-16",
+      "link": "http://www.qwantz.com/index.php?comic=4543"
     }
   ]
 }

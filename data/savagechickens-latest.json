@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-15T22:35:12.342Z",
+  "fetchedAt": "2026-11-16T15:08:52.201Z",
   "comics": [
+    {
+      "slug": "advice-from-mythical-creatures",
+      "title": "Advice from Mythical Creatures",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenadvicefrommythicalcreatures.jpg",
+      "alt": "Advice from Mythical Creatures",
+      "date": "2026-11-16",
+      "link": "https://www.savagechickens.com/2026/11/advice-from-mythical-creatures.html"
+    },
     {
       "slug": "friday-the-13th-part-xxxviii",
       "title": "Friday the 13th: Part XXXVIII",
@@ -76,14 +84,6 @@
       "alt": "Time for Action",
       "date": "2026-11-03",
       "link": "https://www.savagechickens.com/2026/11/time-for-action-2.html"
-    },
-    {
-      "slug": "archaeology",
-      "title": "Archaeology",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenarchaeology.jpg",
-      "alt": "Archaeology",
-      "date": "2026-11-02",
-      "link": "https://www.savagechickens.com/2026/11/archaeology.html"
     }
   ]
 }
