@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-16T15:08:47.649Z",
+  "fetchedAt": "2026-11-17T01:42:32.940Z",
   "comics": [
+    {
+      "slug": "cats-2",
+      "title": "Cats",
+      "img": "https://www.smbc-comics.com/comics/1794795615-20261116.png",
+      "alt": "I heard you like nice jokes about cats?",
+      "date": "2026-11-16",
+      "link": "https://www.smbc-comics.com/comic/cats-2"
+    },
     {
       "slug": "valhalla",
       "title": "Valhalla",
@@ -156,14 +164,6 @@
       "alt": "This way avoids violence.",
       "date": "2026-10-28",
       "link": "https://www.smbc-comics.com/comic/signal-5"
-    },
-    {
-      "slug": "clankor",
-      "title": "Clankor",
-      "img": "https://www.smbc-comics.com/comics/1792967696-20261027.png",
-      "alt": "Turns out the combination of sycophancy and lack of persistent experience of reality is irresistible.",
-      "date": "2026-10-27",
-      "link": "https://www.smbc-comics.com/comic/clankor"
     }
   ]
 }

@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3324,
-  "fetchedAt": "2026-11-16T15:08:47.035Z",
+  "latestNum": 3325,
+  "fetchedAt": "2026-11-17T01:42:31.378Z",
   "comics": [
+    {
+      "num": 3325,
+      "title": "Light-Day",
+      "img": "https://imgs.xkcd.com/comics/light_day.png",
+      "alt": "After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.",
+      "date": "2026-11-16"
+    },
     {
       "num": 3324,
       "title": "Ultimate Movie Series",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/accelerator_energies.png",
       "alt": "Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.",
       "date": "2026-10-02"
-    },
-    {
-      "num": 3305,
-      "title": "Ground Effect",
-      "img": "https://imgs.xkcd.com/comics/ground_effect.png",
-      "alt": "Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.",
-      "date": "2026-09-30"
     }
   ]
 }

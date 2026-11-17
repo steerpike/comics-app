@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3323,
-  "latestNum": 3324,
-  "fetchedAt": "2026-11-13T23:21:15.729Z",
+  "total": 3324,
+  "latestNum": 3325,
+  "fetchedAt": "2026-11-17T01:42:31.388Z",
   "comics": [
     {
       "num": 1,
@@ -23264,6 +23264,13 @@
       "img": "https://imgs.xkcd.com/comics/ultimate_movie_series.png",
       "alt": "Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.",
       "date": "2026-11-13"
+    },
+    {
+      "num": 3325,
+      "title": "Light-Day",
+      "img": "https://imgs.xkcd.com/comics/light_day.png",
+      "alt": "After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.",
+      "date": "2026-11-16"
     }
   ]
 }
