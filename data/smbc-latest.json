@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-17T15:39:32.547Z",
+  "fetchedAt": "2026-11-18T00:42:04.831Z",
   "comics": [
+    {
+      "slug": "butt",
+      "title": "Butt",
+      "img": "https://www.smbc-comics.com/comics/1794795693-20261117.png",
+      "alt": "Oh my gosh, now we're getting cast out! Adventure time!",
+      "date": "2026-11-17",
+      "link": "https://www.smbc-comics.com/comic/butt"
+    },
     {
       "slug": "cats-2",
       "title": "Cats",
@@ -156,14 +164,6 @@
       "alt": "If you didn't want me to look, you shouldn't have evolved elaborate mimicry.",
       "date": "2026-10-29",
       "link": "https://www.smbc-comics.com/comic/eyes"
-    },
-    {
-      "slug": "signal-5",
-      "title": "Signal",
-      "img": "https://www.smbc-comics.com/comics/1792967762-20261028.png",
-      "alt": "This way avoids violence.",
-      "date": "2026-10-28",
-      "link": "https://www.smbc-comics.com/comic/signal-5"
     }
   ]
 }

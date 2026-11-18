@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-11-17T15:39:34.574Z",
+  "fetchedAt": "2026-11-18T00:42:06.836Z",
   "comics": [
+    {
+      "slug": "through-it-all",
+      "title": "Through it All",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/11/through-it-all.png",
+      "alt": "",
+      "date": "2026-11-17",
+      "link": "https://poorlydrawnlines.com/comic/through-it-all/"
+    },
     {
       "slug": "a-bad-mood",
       "title": "A Bad Mood",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-09-18",
       "link": "https://poorlydrawnlines.com/comic/travel-mug/"
-    },
-    {
-      "slug": "a-lamp",
-      "title": "A Lamp",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/09/a-lamp.png",
-      "alt": "",
-      "date": "2026-09-15",
-      "link": "https://poorlydrawnlines.com/comic/a-lamp/"
     }
   ]
 }
