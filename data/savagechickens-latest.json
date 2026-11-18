@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-18T00:42:07.256Z",
+  "fetchedAt": "2026-11-18T15:17:50.236Z",
   "comics": [
+    {
+      "slug": "magical",
+      "title": "Magical",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmagical.jpg",
+      "alt": "Magical",
+      "date": "2026-11-18",
+      "link": "https://www.savagechickens.com/2026/11/magical.html"
+    },
     {
       "slug": "pathetic-fallacy",
       "title": "Pathetic Fallacy",
@@ -76,14 +84,6 @@
       "alt": "More Smiling",
       "date": "2026-11-05",
       "link": "https://www.savagechickens.com/2026/11/more-smiling.html"
-    },
-    {
-      "slug": "shaking",
-      "title": "Shaking",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenshaking.jpg",
-      "alt": "Shaking",
-      "date": "2026-11-04",
-      "link": "https://www.savagechickens.com/2026/11/shaking.html"
     }
   ]
 }
