@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-18T23:59:47.160Z",
+  "fetchedAt": "2026-11-19T15:24:34.418Z",
   "comics": [
+    {
+      "slug": "mysteries-of-the-unknown",
+      "title": "Mysteries of the Unknown",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmysteriesoftheunknown1.jpg",
+      "alt": "Mysteries of the Unknown",
+      "date": "2026-11-19",
+      "link": "https://www.savagechickens.com/2026/11/mysteries-of-the-unknown.html"
+    },
     {
       "slug": "magical",
       "title": "Magical",
@@ -76,14 +84,6 @@
       "alt": "Tree Feelings",
       "date": "2026-11-06",
       "link": "https://www.savagechickens.com/2026/11/tree-feelings-2.html"
-    },
-    {
-      "slug": "more-smiling",
-      "title": "More Smiling",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenmoresmiling.jpg",
-      "alt": "More Smiling",
-      "date": "2026-11-05",
-      "link": "https://www.savagechickens.com/2026/11/more-smiling.html"
     }
   ]
 }
