@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3325,
-  "fetchedAt": "2026-11-18T15:17:47.570Z",
+  "latestNum": 3326,
+  "fetchedAt": "2026-11-18T23:59:44.785Z",
   "comics": [
+    {
+      "num": 3326,
+      "title": "Voyager Crash",
+      "img": "https://imgs.xkcd.com/comics/voyager_crash.png",
+      "alt": "[Several months later] Actually, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere.",
+      "date": "2026-11-18"
+    },
     {
       "num": 3325,
       "title": "Light-Day",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/spectrum_allocation.png",
       "alt": "Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.",
       "date": "2026-10-05"
-    },
-    {
-      "num": 3306,
-      "title": "Accelerator Energies",
-      "img": "https://imgs.xkcd.com/comics/accelerator_energies.png",
-      "alt": "Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.",
-      "date": "2026-10-02"
     }
   ]
 }

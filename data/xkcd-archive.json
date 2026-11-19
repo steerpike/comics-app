@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3324,
-  "latestNum": 3325,
-  "fetchedAt": "2026-11-17T01:42:31.388Z",
+  "total": 3325,
+  "latestNum": 3326,
+  "fetchedAt": "2026-11-18T23:59:44.795Z",
   "comics": [
     {
       "num": 1,
@@ -23271,6 +23271,13 @@
       "img": "https://imgs.xkcd.com/comics/light_day.png",
       "alt": "After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.",
       "date": "2026-11-16"
+    },
+    {
+      "num": 3326,
+      "title": "Voyager Crash",
+      "img": "https://imgs.xkcd.com/comics/voyager_crash.png",
+      "alt": "[Several months later] Actually, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere.",
+      "date": "2026-11-18"
     }
   ]
 }

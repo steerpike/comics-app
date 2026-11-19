@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-18T15:17:48.320Z",
+  "fetchedAt": "2026-11-18T23:59:45.627Z",
   "comics": [
+    {
+      "slug": "formal",
+      "title": "Formal",
+      "img": "https://www.smbc-comics.com/comics/1794795738-20261118.webp",
+      "alt": "Humans never get over it and become miserable and resentful. Point is, nobody notices the difference.",
+      "date": "2026-11-18",
+      "link": "https://www.smbc-comics.com/comic/formal"
+    },
     {
       "slug": "butt",
       "title": "Butt",
@@ -156,14 +164,6 @@
       "alt": "I heard you like relatable slice of life humor?",
       "date": "2026-10-30",
       "link": "https://www.smbc-comics.com/comic/dead-3"
-    },
-    {
-      "slug": "eyes",
-      "title": "Eyes",
-      "img": "https://www.smbc-comics.com/comics/1793146728-20261029.png",
-      "alt": "If you didn't want me to look, you shouldn't have evolved elaborate mimicry.",
-      "date": "2026-10-29",
-      "link": "https://www.smbc-comics.com/comic/eyes"
     }
   ]
 }
