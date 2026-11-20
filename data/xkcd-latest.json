@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3326,
-  "fetchedAt": "2026-11-20T15:01:14.039Z",
+  "latestNum": 3327,
+  "fetchedAt": "2026-11-20T23:45:38.014Z",
   "comics": [
+    {
+      "num": 3327,
+      "title": "Plate Maintenance",
+      "img": "https://imgs.xkcd.com/comics/plate_maintenance.png",
+      "alt": "First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work.",
+      "date": "2026-11-20"
+    },
     {
       "num": 3326,
       "title": "Voyager Crash",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/juice.png",
       "alt": "I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.",
       "date": "2026-10-07"
-    },
-    {
-      "num": 3307,
-      "title": "Spectrum Allocation",
-      "img": "https://imgs.xkcd.com/comics/spectrum_allocation.png",
-      "alt": "Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.",
-      "date": "2026-10-05"
     }
   ]
 }

@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-20T15:01:29.330Z",
+  "fetchedAt": "2026-11-20T23:45:54.720Z",
   "comics": [
+    {
+      "slug": "ed",
+      "title": "Ed",
+      "img": "https://www.smbc-comics.com/comics/1795043869-20261120.webp",
+      "alt": "The key is to do this the day you retire.",
+      "date": "2026-11-20",
+      "link": "https://www.smbc-comics.com/comic/ed"
+    },
     {
       "slug": "juice-3",
       "title": "Juice",
@@ -156,14 +164,6 @@
       "alt": "You kids today don't suffer like I suffered in my day, which is good because suffering is bad.",
       "date": "2026-11-01",
       "link": "https://www.smbc-comics.com/comic/burnout"
-    },
-    {
-      "slug": "help-4",
-      "title": "Help",
-      "img": "https://www.smbc-comics.com/comics/1793393828-20261031.png",
-      "alt": "Also how come you never just get a neutral mob?",
-      "date": "2026-10-31",
-      "link": "https://www.smbc-comics.com/comic/help-4"
     }
   ]
 }
