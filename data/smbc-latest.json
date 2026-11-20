@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-19T15:24:31.657Z",
+  "fetchedAt": "2026-11-20T00:22:51.143Z",
   "comics": [
+    {
+      "slug": "juice-3",
+      "title": "Juice",
+      "img": "https://www.smbc-comics.com/comics/1795043823-20261119.webp",
+      "alt": "We are LEGION.",
+      "date": "2026-11-19",
+      "link": "https://www.smbc-comics.com/comic/juice-3"
+    },
     {
       "slug": "formal",
       "title": "Formal",
@@ -156,14 +164,6 @@
       "alt": "Also how come you never just get a neutral mob?",
       "date": "2026-10-31",
       "link": "https://www.smbc-comics.com/comic/help-4"
-    },
-    {
-      "slug": "dead-3",
-      "title": "Dead",
-      "img": "https://www.smbc-comics.com/comics/1793146786-20261030.png",
-      "alt": "I heard you like relatable slice of life humor?",
-      "date": "2026-10-30",
-      "link": "https://www.smbc-comics.com/comic/dead-3"
     }
   ]
 }
