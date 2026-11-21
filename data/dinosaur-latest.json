@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-11-20T00:22:50.783Z",
+  "fetchedAt": "2026-11-21T14:22:59.750Z",
   "comics": [
+    {
+      "num": 4545,
+      "title": "\"who among us hasn't tried our dog's food?\" i say, expecting applause, but getting only silence and confused looks.  i quickly try to pivot to my question being a joke; it is not a credible attempt",
+      "img": "http://www.qwantz.com/comics/comic2-5243.png",
+      "alt": "three: I can tell you're already judging??",
+      "date": "2026-11-20",
+      "link": "http://www.qwantz.com/index.php?comic=4545"
+    },
     {
       "num": 4544,
       "title": "i'm reliably informed that romulans use an artificial quantum singularity for their household chores",
@@ -76,14 +84,6 @@
       "alt": "glad to have been of service.  okay bye",
       "date": "2026-10-26",
       "link": "http://www.qwantz.com/index.php?comic=4536"
-    },
-    {
-      "num": 4535,
-      "title": "t-rex and the work enemy",
-      "img": "http://www.qwantz.com/comics/comic2-5233.png",
-      "alt": "this is how moral universalism gets you: you get to be a hater but you have to admit that your haters have a point?  TRULY unfair",
-      "date": "2026-10-23",
-      "link": "http://www.qwantz.com/index.php?comic=4535"
     }
   ]
 }

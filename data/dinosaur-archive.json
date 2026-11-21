@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 114,
-  "highestNum": 4544,
-  "fetchedAt": "2026-11-18T15:17:47.965Z",
+  "total": 115,
+  "highestNum": 4545,
+  "fetchedAt": "2026-11-21T14:22:59.751Z",
   "comics": [
     {
       "num": 4431,
@@ -915,6 +915,14 @@
       "alt": "a household black hole would be useful for waste disposal, though this could cause the black hole to grow over time.  the brutal consequences of this are an exercise left for the reader",
       "date": "2026-11-18",
       "link": "http://www.qwantz.com/index.php?comic=4544"
+    },
+    {
+      "num": 4545,
+      "title": "\"who among us hasn't tried our dog's food?\" i say, expecting applause, but getting only silence and confused looks.  i quickly try to pivot to my question being a joke; it is not a credible attempt",
+      "img": "http://www.qwantz.com/comics/comic2-5243.png",
+      "alt": "three: I can tell you're already judging??",
+      "date": "2026-11-20",
+      "link": "http://www.qwantz.com/index.php?comic=4545"
     }
   ]
 }
