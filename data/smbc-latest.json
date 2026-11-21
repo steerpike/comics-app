@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-21T14:22:59.925Z",
+  "fetchedAt": "2026-11-21T22:53:17.688Z",
   "comics": [
+    {
+      "slug": "fable-2",
+      "title": "Fable",
+      "img": "https://www.smbc-comics.com/comics/1795144989-20261121-edit.png",
+      "alt": "This is why adults are always well-behaved.",
+      "date": "2026-11-21",
+      "link": "https://www.smbc-comics.com/comic/fable-2"
+    },
     {
       "slug": "ed",
       "title": "Ed",
@@ -156,14 +164,6 @@
       "alt": "The annoying thing is how that one cousin keeps removing your access to oxygen even though you asked him politely not to.",
       "date": "2026-11-02",
       "link": "https://www.smbc-comics.com/comic/borated"
-    },
-    {
-      "slug": "burnout",
-      "title": "Burnout",
-      "img": "https://www.smbc-comics.com/comics/1793393877-20261101.png",
-      "alt": "You kids today don't suffer like I suffered in my day, which is good because suffering is bad.",
-      "date": "2026-11-01",
-      "link": "https://www.smbc-comics.com/comic/burnout"
     }
   ]
 }
