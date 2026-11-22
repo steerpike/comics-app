@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-22T14:15:37.359Z",
+  "fetchedAt": "2026-11-22T23:22:32.977Z",
   "comics": [
+    {
+      "slug": "order-4",
+      "title": "Order",
+      "img": "https://www.smbc-comics.com/comics/1795321174-20261122.webp",
+      "alt": "I hate when the bonus panel is better than the comic.",
+      "date": "2026-11-22",
+      "link": "https://www.smbc-comics.com/comic/order-4"
+    },
     {
       "slug": "fable-2",
       "title": "Fable",
@@ -156,14 +164,6 @@
       "alt": "Later you're just trying to chill and they keep insisting you engage in free trade with The Orient.",
       "date": "2026-11-03",
       "link": "https://www.smbc-comics.com/comic/trial"
-    },
-    {
-      "slug": "borated",
-      "title": "Borated",
-      "img": "https://www.smbc-comics.com/comics/1793577832-20261102.png",
-      "alt": "The annoying thing is how that one cousin keeps removing your access to oxygen even though you asked him politely not to.",
-      "date": "2026-11-02",
-      "link": "https://www.smbc-comics.com/comic/borated"
     }
   ]
 }
