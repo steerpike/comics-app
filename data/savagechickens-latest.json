@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-22T23:22:34.794Z",
+  "fetchedAt": "2026-11-23T17:37:56.413Z",
   "comics": [
+    {
+      "slug": "i-am-the-night",
+      "title": "I Am The Night",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickeniamthenight.jpg",
+      "alt": "I Am The Night",
+      "date": "2026-11-23",
+      "link": "https://www.savagechickens.com/2026/11/i-am-the-night.html"
+    },
     {
       "slug": "mysteries-of-the-unknown-2",
       "title": "Mysteries of the Unknown 2",
@@ -76,14 +84,6 @@
       "alt": "Contemplation",
       "date": "2026-11-10",
       "link": "https://www.savagechickens.com/2026/11/contemplation.html"
-    },
-    {
-      "slug": "raining",
-      "title": "Raining",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenraining.jpg",
-      "alt": "Raining",
-      "date": "2026-11-09",
-      "link": "https://www.savagechickens.com/2026/11/raining.html"
     }
   ]
 }

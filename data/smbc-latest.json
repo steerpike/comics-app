@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-22T23:22:32.977Z",
+  "fetchedAt": "2026-11-23T17:37:54.734Z",
   "comics": [
+    {
+      "slug": "see-2",
+      "title": "See",
+      "img": "https://www.smbc-comics.com/comics/1795401592-20261123.png",
+      "alt": "Sorry.",
+      "date": "2026-11-23",
+      "link": "https://www.smbc-comics.com/comic/see-2"
+    },
     {
       "slug": "order-4",
       "title": "Order",
@@ -156,14 +164,6 @@
       "alt": "There's a reason we spent 100,000 years with the same stone tools.",
       "date": "2026-11-04",
       "link": "https://www.smbc-comics.com/comic/light"
-    },
-    {
-      "slug": "trial",
-      "title": "Trial",
-      "img": "https://www.smbc-comics.com/comics/1793577866-20261103.png",
-      "alt": "Later you're just trying to chill and they keep insisting you engage in free trade with The Orient.",
-      "date": "2026-11-03",
-      "link": "https://www.smbc-comics.com/comic/trial"
     }
   ]
 }

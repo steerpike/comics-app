@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 115,
-  "highestNum": 4545,
-  "fetchedAt": "2026-11-21T14:22:59.751Z",
+  "total": 116,
+  "highestNum": 4546,
+  "fetchedAt": "2026-11-23T17:37:54.139Z",
   "comics": [
     {
       "num": 4431,
@@ -923,6 +923,14 @@
       "alt": "three: I can tell you're already judging??",
       "date": "2026-11-20",
       "link": "http://www.qwantz.com/index.php?comic=4545"
+    },
+    {
+      "num": 4546,
+      "title": "this one goes out to everyone on earth EXCEPT the half a million murderers and the quarter of a million who are good at it!  i don't even think \"good at it\" is the right way to describe it actually but my keyboard's backspace key is broken so i'm committed here!  i wish things were otherwise but they aren't!!",
+      "img": "http://www.qwantz.com/comics/comic2-5244.png",
+      "alt": "SO MUCH SO THAT I WILL BE RECALLING IT PRECISELY ONE YEAR FROM TODAY!!",
+      "date": "2026-11-23",
+      "link": "http://www.qwantz.com/index.php?comic=4546"
     }
   ]
 }
