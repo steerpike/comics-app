@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3326,
-  "latestNum": 3327,
-  "fetchedAt": "2026-11-20T23:45:38.022Z",
+  "total": 3327,
+  "latestNum": 3328,
+  "fetchedAt": "2026-11-24T03:52:53.354Z",
   "comics": [
     {
       "num": 1,
@@ -23285,6 +23285,13 @@
       "img": "https://imgs.xkcd.com/comics/plate_maintenance.png",
       "alt": "First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work.",
       "date": "2026-11-20"
+    },
+    {
+      "num": 3328,
+      "title": "Ivory Tower Elites",
+      "img": "https://imgs.xkcd.com/comics/ivory_tower_elites.png",
+      "alt": "These ivory tower elites are flouting both CITES and municipal building codes.",
+      "date": "2026-11-23"
     }
   ]
 }

@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3327,
-  "fetchedAt": "2026-11-23T17:37:53.776Z",
+  "latestNum": 3328,
+  "fetchedAt": "2026-11-24T03:52:53.344Z",
   "comics": [
+    {
+      "num": 3328,
+      "title": "Ivory Tower Elites",
+      "img": "https://imgs.xkcd.com/comics/ivory_tower_elites.png",
+      "alt": "These ivory tower elites are flouting both CITES and municipal building codes.",
+      "date": "2026-11-23"
+    },
     {
       "num": 3327,
       "title": "Plate Maintenance",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/dogcatcher.png",
       "alt": "People out here catching strays out here catching strays",
       "date": "2026-10-09"
-    },
-    {
-      "num": 3308,
-      "title": "Juice",
-      "img": "https://imgs.xkcd.com/comics/juice.png",
-      "alt": "I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.",
-      "date": "2026-10-07"
     }
   ]
 }
