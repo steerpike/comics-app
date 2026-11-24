@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-24T03:52:53.913Z",
+  "fetchedAt": "2026-11-24T17:08:36.442Z",
   "comics": [
+    {
+      "slug": "vintage-2",
+      "title": "Vintage",
+      "img": "https://www.smbc-comics.com/comics/1795488907-20261124.webp",
+      "alt": "Look at that loser, getting with a girlfriend who lacks guaranteed reproductive capacity.",
+      "date": "2026-11-24",
+      "link": "https://www.smbc-comics.com/comic/vintage-2"
+    },
     {
       "slug": "see-2",
       "title": "See",
@@ -156,14 +164,6 @@
       "alt": "Turns out it's all Zuckerberg, for both reasons.",
       "date": "2026-11-05",
       "link": "https://www.smbc-comics.com/comic/index"
-    },
-    {
-      "slug": "light",
-      "title": "Light",
-      "img": "https://www.smbc-comics.com/comics/1793577905-20261104.png",
-      "alt": "There's a reason we spent 100,000 years with the same stone tools.",
-      "date": "2026-11-04",
-      "link": "https://www.smbc-comics.com/comic/light"
     }
   ]
 }

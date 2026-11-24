@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-24T03:52:56.663Z",
+  "fetchedAt": "2026-11-24T17:08:38.258Z",
   "comics": [
+    {
+      "slug": "shop-shop-shop",
+      "title": "Shop Shop Shop",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenshopshopshop.jpg",
+      "alt": "Shop Shop Shop",
+      "date": "2026-11-24",
+      "link": "https://www.savagechickens.com/2026/11/shop-shop-shop.html"
+    },
     {
       "slug": "i-am-the-night",
       "title": "I Am The Night",
@@ -76,14 +84,6 @@
       "alt": "Good Advice",
       "date": "2026-11-11",
       "link": "https://www.savagechickens.com/2026/11/good-advice-2.html"
-    },
-    {
-      "slug": "contemplation",
-      "title": "Contemplation",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickencontemplation.jpg",
-      "alt": "Contemplation",
-      "date": "2026-11-10",
-      "link": "https://www.savagechickens.com/2026/11/contemplation.html"
     }
   ]
 }
