@@ -3,8 +3,16 @@
   "name": "Poorly Drawn Lines",
   "url": "https://poorlydrawnlines.com",
   "attribution": "Poorly Drawn Lines by Reza Farazmand",
-  "fetchedAt": "2026-11-24T03:52:56.405Z",
+  "fetchedAt": "2026-11-25T01:59:14.537Z",
   "comics": [
+    {
+      "slug": "on-the-road",
+      "title": "On the Road",
+      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/11/on-the-road.png",
+      "alt": "",
+      "date": "2026-11-24",
+      "link": "https://poorlydrawnlines.com/comic/on-the-road/"
+    },
     {
       "slug": "through-it-all",
       "title": "Through it All",
@@ -76,14 +84,6 @@
       "alt": "",
       "date": "2026-09-24",
       "link": "https://poorlydrawnlines.com/comic/must-be-new/"
-    },
-    {
-      "slug": "travel-mug",
-      "title": "Travel Mug",
-      "img": "https://poorlydrawnlines.com/wp-content/uploads/2026/09/travel-mug.png",
-      "alt": "",
-      "date": "2026-09-18",
-      "link": "https://poorlydrawnlines.com/comic/travel-mug/"
     }
   ]
 }
