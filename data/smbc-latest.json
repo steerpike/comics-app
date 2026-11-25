@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-25T01:59:13.154Z",
+  "fetchedAt": "2026-11-25T16:55:39.988Z",
   "comics": [
+    {
+      "slug": "wowww",
+      "title": "Wowww",
+      "img": "https://www.smbc-comics.com/comics/1795562858-20261125-edit.png",
+      "alt": "Is that a dairy human or a meat human?",
+      "date": "2026-11-25",
+      "link": "https://www.smbc-comics.com/comic/wowww"
+    },
     {
       "slug": "vintage-2",
       "title": "Vintage",
@@ -156,14 +164,6 @@
       "alt": "Sometimes, you just gotta do a silly jokes for everyone.",
       "date": "2026-11-06",
       "link": "https://www.smbc-comics.com/comic/sat"
-    },
-    {
-      "slug": "index",
-      "title": "Index",
-      "img": "https://www.smbc-comics.com/comics/1793825706-20261105.png",
-      "alt": "Turns out it's all Zuckerberg, for both reasons.",
-      "date": "2026-11-05",
-      "link": "https://www.smbc-comics.com/comic/index"
     }
   ]
 }

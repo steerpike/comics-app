@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-25T01:59:14.784Z",
+  "fetchedAt": "2026-11-25T16:55:41.735Z",
   "comics": [
+    {
+      "slug": "thinking",
+      "title": "Thinking",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenthinking.jpg",
+      "alt": "Thinking",
+      "date": "2026-11-25",
+      "link": "https://www.savagechickens.com/2026/11/thinking.html"
+    },
     {
       "slug": "shop-shop-shop",
       "title": "Shop Shop Shop",
@@ -76,14 +84,6 @@
       "alt": "Probably Not",
       "date": "2026-11-12",
       "link": "https://www.savagechickens.com/2026/11/probably-not.html"
-    },
-    {
-      "slug": "good-advice-2",
-      "title": "Good Advice",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickengoodadvice-1.jpg",
-      "alt": "Good Advice",
-      "date": "2026-11-11",
-      "link": "https://www.savagechickens.com/2026/11/good-advice-2.html"
     }
   ]
 }
