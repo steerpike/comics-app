@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-26T01:39:56.678Z",
+  "fetchedAt": "2026-11-26T16:33:46.961Z",
   "comics": [
+    {
+      "slug": "staring",
+      "title": "Staring",
+      "img": "https://www.smbc-comics.com/comics/1795660261-20261126.webp",
+      "alt": "The good news is many of us already have a lot of void-time already.",
+      "date": "2026-11-26",
+      "link": "https://www.smbc-comics.com/comic/staring"
+    },
     {
       "slug": "wowww",
       "title": "Wowww",
@@ -156,14 +164,6 @@
       "alt": "Once Simulation Theory logic is allowed, you can prove ANYTHING.",
       "date": "2026-11-07",
       "link": "https://www.smbc-comics.com/comic/theodicy-6"
-    },
-    {
-      "slug": "sat",
-      "title": "Sat",
-      "img": "https://www.smbc-comics.com/comics/1793825743-20261106.png",
-      "alt": "Sometimes, you just gotta do a silly jokes for everyone.",
-      "date": "2026-11-06",
-      "link": "https://www.smbc-comics.com/comic/sat"
     }
   ]
 }

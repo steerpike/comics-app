@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-26T01:39:58.601Z",
+  "fetchedAt": "2026-11-26T16:33:48.883Z",
   "comics": [
+    {
+      "slug": "research",
+      "title": "Research",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickenresearch.jpg",
+      "alt": "Research",
+      "date": "2026-11-26",
+      "link": "https://www.savagechickens.com/2026/11/research.html"
+    },
     {
       "slug": "thinking",
       "title": "Thinking",
@@ -76,14 +84,6 @@
       "alt": "Friday the 13th: Part XXXVIII",
       "date": "2026-11-13",
       "link": "https://www.savagechickens.com/2026/11/friday-the-13th-part-xxxviii.html"
-    },
-    {
-      "slug": "probably-not",
-      "title": "Probably Not",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenprobablynot.jpg",
-      "alt": "Probably Not",
-      "date": "2026-11-12",
-      "link": "https://www.savagechickens.com/2026/11/probably-not.html"
     }
   ]
 }
