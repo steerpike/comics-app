@@ -1,8 +1,8 @@
 {
   "source": "xkcd",
-  "total": 3327,
-  "latestNum": 3328,
-  "fetchedAt": "2026-11-24T03:52:53.354Z",
+  "total": 3328,
+  "latestNum": 3329,
+  "fetchedAt": "2026-11-26T01:39:56.033Z",
   "comics": [
     {
       "num": 1,
@@ -23292,6 +23292,13 @@
       "img": "https://imgs.xkcd.com/comics/ivory_tower_elites.png",
       "alt": "These ivory tower elites are flouting both CITES and municipal building codes.",
       "date": "2026-11-23"
+    },
+    {
+      "num": 3329,
+      "title": "Cesium Atom",
+      "img": "https://imgs.xkcd.com/comics/cesium_atom.png",
+      "alt": "We've all chipped in to buy the retiring committee chair a gold-plated cesium atom.",
+      "date": "2026-11-25"
     }
   ]
 }

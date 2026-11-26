@@ -2,9 +2,16 @@
   "source": "xkcd",
   "url": "https://xkcd.com",
   "attribution": "xkcd by Randall Munroe, CC BY-NC 2.5",
-  "latestNum": 3328,
-  "fetchedAt": "2026-11-25T16:55:39.516Z",
+  "latestNum": 3329,
+  "fetchedAt": "2026-11-26T01:39:56.025Z",
   "comics": [
+    {
+      "num": 3329,
+      "title": "Cesium Atom",
+      "img": "https://imgs.xkcd.com/comics/cesium_atom.png",
+      "alt": "We've all chipped in to buy the retiring committee chair a gold-plated cesium atom.",
+      "date": "2026-11-25"
+    },
     {
       "num": 3328,
       "title": "Ivory Tower Elites",
@@ -137,13 +144,6 @@
       "img": "https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png",
       "alt": "Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.",
       "date": "2026-10-12"
-    },
-    {
-      "num": 3309,
-      "title": "Dogcatcher",
-      "img": "https://imgs.xkcd.com/comics/dogcatcher.png",
-      "alt": "People out here catching strays out here catching strays",
-      "date": "2026-10-09"
     }
   ]
 }
