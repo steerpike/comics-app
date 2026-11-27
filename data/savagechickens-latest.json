@@ -3,8 +3,16 @@
   "name": "Savage Chickens",
   "url": "https://www.savagechickens.com",
   "attribution": "Savage Chickens by Doug Savage",
-  "fetchedAt": "2026-11-27T01:33:34.961Z",
+  "fetchedAt": "2026-11-27T16:19:17.119Z",
   "comics": [
+    {
+      "slug": "return-of-grumblotron",
+      "title": "Return of Grumblotron!",
+      "img": "https://www.savagechickens.com/wp-content/uploads/chickengrumblotron2.jpg",
+      "alt": "Return of Grumblotron!",
+      "date": "2026-11-27",
+      "link": "https://www.savagechickens.com/2026/11/return-of-grumblotron.html"
+    },
     {
       "slug": "research",
       "title": "Research",
@@ -76,14 +84,6 @@
       "alt": "Advice from Mythical Creatures",
       "date": "2026-11-16",
       "link": "https://www.savagechickens.com/2026/11/advice-from-mythical-creatures.html"
-    },
-    {
-      "slug": "friday-the-13th-part-xxxviii",
-      "title": "Friday the 13th: Part XXXVIII",
-      "img": "https://www.savagechickens.com/wp-content/uploads/chickenfriday13xxxviii.jpg",
-      "alt": "Friday the 13th: Part XXXVIII",
-      "date": "2026-11-13",
-      "link": "https://www.savagechickens.com/2026/11/friday-the-13th-part-xxxviii.html"
     }
   ]
 }

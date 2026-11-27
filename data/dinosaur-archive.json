@@ -1,8 +1,8 @@
 {
   "source": "dinosaur",
-  "total": 116,
-  "highestNum": 4546,
-  "fetchedAt": "2026-11-23T17:37:54.139Z",
+  "total": 117,
+  "highestNum": 4547,
+  "fetchedAt": "2026-11-27T16:19:14.714Z",
   "comics": [
     {
       "num": 4431,
@@ -931,6 +931,14 @@
       "alt": "SO MUCH SO THAT I WILL BE RECALLING IT PRECISELY ONE YEAR FROM TODAY!!",
       "date": "2026-11-23",
       "link": "http://www.qwantz.com/index.php?comic=4546"
+    },
+    {
+      "num": 4547,
+      "title": "Sherlock Holmes and the Case of the Mysterious Prints",
+      "img": "http://www.qwantz.com/comics/comic2-5245.png",
+      "alt": "...Sherlock has short temper and a long memory, Utahraptor.",
+      "date": "2026-11-27",
+      "link": "http://www.qwantz.com/index.php?comic=4547"
     }
   ]
 }

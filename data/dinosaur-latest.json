@@ -3,8 +3,16 @@
   "name": "Dinosaur Comics",
   "url": "https://www.qwantz.com",
   "attribution": "Dinosaur Comics by Ryan North",
-  "fetchedAt": "2026-11-27T01:33:29.959Z",
+  "fetchedAt": "2026-11-27T16:19:14.714Z",
   "comics": [
+    {
+      "num": 4547,
+      "title": "Sherlock Holmes and the Case of the Mysterious Prints",
+      "img": "http://www.qwantz.com/comics/comic2-5245.png",
+      "alt": "...Sherlock has short temper and a long memory, Utahraptor.",
+      "date": "2026-11-27",
+      "link": "http://www.qwantz.com/index.php?comic=4547"
+    },
     {
       "num": 4546,
       "title": "this one goes out to everyone on earth EXCEPT the half a million murderers and the quarter of a million who are good at it!  i don't even think \"good at it\" is the right way to describe it actually but my keyboard's backspace key is broken so i'm committed here!  i wish things were otherwise but they aren't!!",
@@ -76,14 +84,6 @@
       "alt": "he gets around on a tricked-out horse he calls ",
       "date": "2026-11-02",
       "link": "http://www.qwantz.com/index.php?comic=4538"
-    },
-    {
-      "num": 4537,
-      "title": "jerks ahoy",
-      "img": "http://www.qwantz.com/comics/comic2-5235.png",
-      "alt": "Jerks Georg, who hangs around exclusively with jerks without being one himself, is an outlier and should not have been included.  he should however be included in new friend groups because WOW that must SUCK",
-      "date": "2026-10-28",
-      "link": "http://www.qwantz.com/index.php?comic=4537"
     }
   ]
 }
