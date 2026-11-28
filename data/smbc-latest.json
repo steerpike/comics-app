@@ -3,8 +3,16 @@
   "name": "SMBC",
   "url": "https://www.smbc-comics.com",
   "attribution": "Saturday Morning Breakfast Cereal by Zach Weinersmith",
-  "fetchedAt": "2026-11-27T16:19:14.986Z",
+  "fetchedAt": "2026-11-28T01:13:37.477Z",
   "comics": [
+    {
+      "slug": "breed",
+      "title": "Breed",
+      "img": "https://www.smbc-comics.com/comics/1795732278-20261127.webp",
+      "alt": "The worst part is how they kept asking to be probed and looking at you with puppydog eyes.",
+      "date": "2026-11-27",
+      "link": "https://www.smbc-comics.com/comic/breed"
+    },
     {
       "slug": "staring",
       "title": "Staring",
@@ -156,14 +164,6 @@
       "alt": "Later it turns out to be a gay bar, and things go better than expected.",
       "date": "2026-11-08",
       "link": "https://www.smbc-comics.com/comic/friendship-2"
-    },
-    {
-      "slug": "theodicy-6",
-      "title": "Theodicy",
-      "img": "https://www.smbc-comics.com/comics/1794016123-20261107.png",
-      "alt": "Once Simulation Theory logic is allowed, you can prove ANYTHING.",
-      "date": "2026-11-07",
-      "link": "https://www.smbc-comics.com/comic/theodicy-6"
     }
   ]
 }
